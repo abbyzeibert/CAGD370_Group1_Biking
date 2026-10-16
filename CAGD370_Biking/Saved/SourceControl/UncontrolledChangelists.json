@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/TestMap.umap"
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/TestMap.umap",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/BP_GameMode.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/BP_GameInstance.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/Input/IA_Turn.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/Input/IA_Pedal.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/Input/IA_Brake.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/Input/IMC_BikeControls.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_Bike.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/BP_PlayerController.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Levels/MovementTestMap.umap"
 			]
 		}
 	]
