@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_BaseMenuScreen.uasset",
+				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_MainMenu.umap",
+				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_MainMenu.uasset",
+				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/BP_UIManager.uasset",
 				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/TestMap.umap",
 				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/BP_GameMode.uasset",
 				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/BP_GameInstance.uasset",
