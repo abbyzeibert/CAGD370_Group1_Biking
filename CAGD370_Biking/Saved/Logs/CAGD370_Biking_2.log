@@ -3794,3 +3794,436 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.22-04.43.35:567][820]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.22-04.43.35:567][820]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
 [2026.10.22-04.43.35:587][820]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.22-04.46.45:703][548]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Tophers_Work/_Blueprints/WBP_LevelSelect.WBP_LevelSelect
+[2026.10.22-04.46.48:857][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.46.48:899][698]LogFileHelpers: Saving Package: /Game/_Tophers_Work/_Blueprints/BP_UIManager
+[2026.10.22-04.46.48:899][698]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Tophers_Work/_Blueprints/BP_UIManager] ([2] browsable assets)...
+[2026.10.22-04.46.48:899][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Blueprints/BP_UIManager]
+[2026.10.22-04.46.48:910][698]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Blueprints/BP_UIManager
+[2026.10.22-04.46.48:911][698]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/BP_UIManager729851EE493E5AE27256B6A173E7CA5B.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/BP_UIManager.uasset'
+[2026.10.22-04.46.48:925][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.837 ms (total: 1.97 sec)
+[2026.10.22-04.46.48:968][698]LogContentValidation: Enabled validators:
+[2026.10.22-04.46.48:968][698]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.46.48:968][698]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.46.48:968][698]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.46.48:968][698]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.46.48:968][698]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.46.48:968][698]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.46.48:968][698]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.46.48:968][698]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.46.48:968][698]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.46.48:968][698]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.46.48:968][698]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.46.48:968][698]AssetCheck: /Game/_Tophers_Work/_Blueprints/BP_UIManager Validating asset
+[2026.10.22-04.46.48:969][698]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.46.48:969][698]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.46.48:969][698]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.46.48:969][698]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.46.48:969][698]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.46.48:969][698]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.46.48:969][698]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.46.48:969][698]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-04.46.48:969][698]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.46.48:969][698]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.46.50:167][767]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2026.10.22-04.46.50:167][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-04.46.50:268][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.10.22-04.47.17:321][257]LogBlueprint: Compiling Blueprint '/Game/_Tophers_Work/_Blueprints/WBP_LevelSelect.WBP_LevelSelect'
+[2026.10.22-04.47.17:406][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.10.22-04.47.18:379][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.47.18:422][309]LogFileHelpers: Saving Package: /Game/_Tophers_Work/_Blueprints/WBP_LevelSelect
+[2026.10.22-04.47.18:423][309]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Tophers_Work/_Blueprints/WBP_LevelSelect] ([2] browsable assets)...
+[2026.10.22-04.47.18:425][309]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Tophers_Work/_Blueprints/WBP_LevelSelect.WBP_LevelSelect]
+[2026.10.22-04.47.18:425][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Blueprints/WBP_LevelSelect]
+[2026.10.22-04.47.18:439][309]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Blueprints/WBP_LevelSelect
+[2026.10.22-04.47.18:440][309]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/WBP_LevelSelect33A8ADD644107D07610C0B9ED5F31455.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_LevelSelect.uasset'
+[2026.10.22-04.47.18:450][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.407 ms (total: 2.04 sec)
+[2026.10.22-04.47.18:496][309]LogContentValidation: Enabled validators:
+[2026.10.22-04.47.18:496][309]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.47.18:496][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.47.18:496][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.47.18:496][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.47.18:496][309]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.47.18:496][309]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.47.18:496][309]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.47.18:496][309]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.47.18:496][309]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.47.18:496][309]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.47.18:496][309]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.47.18:497][309]AssetCheck: /Game/_Tophers_Work/_Blueprints/WBP_LevelSelect Validating asset
+[2026.10.22-04.47.18:497][309]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.47.18:497][309]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.47.18:497][309]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.47.18:497][309]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.47.18:497][309]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.47.18:497][309]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.47.18:497][309]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.47.18:497][309]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.10.22-04.47.18:497][309]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.47.18:497][309]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.47.21:641][486]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Tophers_Work/_Blueprints/WBP_Options.WBP_Options
+[2026.10.22-04.47.48:818][ 44]LogBlueprint: Compiling Blueprint '/Game/_Tophers_Work/_Blueprints/WBP_Options.WBP_Options'
+[2026.10.22-04.47.48:926][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.10.22-04.47.52:063][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.47.52:104][225]LogFileHelpers: Saving Package: /Game/_Tophers_Work/_Blueprints/WBP_Options
+[2026.10.22-04.47.52:105][225]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Tophers_Work/_Blueprints/WBP_Options] ([2] browsable assets)...
+[2026.10.22-04.47.52:109][225]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Tophers_Work/_Blueprints/WBP_Options.WBP_Options]
+[2026.10.22-04.47.52:109][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Blueprints/WBP_Options]
+[2026.10.22-04.47.52:127][225]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Blueprints/WBP_Options
+[2026.10.22-04.47.52:127][225]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/WBP_Options14E8FD754CC011F1F4BFBB939E2D923F.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_Options.uasset'
+[2026.10.22-04.47.52:139][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.262 ms (total: 2.11 sec)
+[2026.10.22-04.47.52:183][225]LogContentValidation: Enabled validators:
+[2026.10.22-04.47.52:183][225]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.47.52:183][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.47.52:183][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.47.52:183][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.47.52:183][225]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.47.52:183][225]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.47.52:183][225]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.47.52:183][225]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.47.52:183][225]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.47.52:183][225]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.47.52:183][225]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.47.52:184][225]AssetCheck: /Game/_Tophers_Work/_Blueprints/WBP_Options Validating asset
+[2026.10.22-04.47.52:184][225]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.47.52:184][225]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.47.52:184][225]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.47.52:184][225]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.47.52:184][225]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.47.52:184][225]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.47.52:184][225]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.47.52:184][225]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.10.22-04.47.52:184][225]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.47.52:184][225]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.48.04:136][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.48.04:188][938]LogFileHelpers: Saving Package: /Game/_Tophers_Work/_Blueprints/WBP_Options
+[2026.10.22-04.48.04:188][938]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Tophers_Work/_Blueprints/WBP_Options] ([2] browsable assets)...
+[2026.10.22-04.48.04:188][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Blueprints/WBP_Options]
+[2026.10.22-04.48.04:204][938]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Blueprints/WBP_Options
+[2026.10.22-04.48.04:204][938]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/WBP_Options2C0E8D6642A527BD33CE86BF31E6C46D.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_Options.uasset'
+[2026.10.22-04.48.04:216][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.194 ms (total: 2.19 sec)
+[2026.10.22-04.48.04:252][938]LogContentValidation: Enabled validators:
+[2026.10.22-04.48.04:252][938]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.48.04:252][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.48.04:252][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.48.04:252][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.48.04:252][938]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.48.04:252][938]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.48.04:252][938]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.48.04:252][938]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.48.04:252][938]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.48.04:252][938]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.48.04:252][938]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.48.04:253][938]AssetCheck: /Game/_Tophers_Work/_Blueprints/WBP_Options Validating asset
+[2026.10.22-04.48.04:253][938]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.48.04:253][938]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.48.04:253][938]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.48.04:253][938]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.48.04:253][938]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.48.04:253][938]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.48.04:253][938]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.48.04:253][938]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.10.22-04.48.04:253][938]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.48.04:253][938]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.48.07:253][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.10.22-04.48.07:258][113]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Tophers_Work/_Levels/LV_Options.LV_Options
+[2026.10.22-04.48.07:258][113]Cmd: MAP LOAD FILE="../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_Options.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.22-04.48.07:281][113]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.10.22-04.48.07:281][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-04.48.07:313][113]LogAudio: Display: Audio Device unregistered from world 'LV_MainMenu'.
+[2026.10.22-04.48.07:316][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.10.22-04.48.07:318][113]LogWorld: UWorld::CleanupWorld for LV_Options, bSessionEnded=true, bCleanupResources=true
+[2026.10.22-04.48.07:318][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-04.48.07:356][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.10.22-04.48.07:433][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.10.22-04.48.07:434][113]LogStreaming: Display: FlushAsyncLoading(612): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.22-04.48.07:438][113]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_Options'.
+[2026.10.22-04.48.07:439][113]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Options
+[2026.10.22-04.48.07:465][113]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.22-04.48.07:498][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.10.22-04.48.07:511][113]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.22-04.48.07:511][113]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.063ms to complete.
+[2026.10.22-04.48.07:584][114]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.22-04.48.11:834][363]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.22-04.48.11:834][363]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.22-04.48.11:834][363]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.22-04.48.11:834][363]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.22-04.48.11:834][363]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.22-04.48.17:375][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.48.17:404][690]LogFileHelpers: Saving Map: /Game/_Tophers_Work/_Levels/LV_Options
+[2026.10.22-04.48.17:405][690]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Tophers_Work/_Levels/LV_Options] ([1] browsable assets)...
+[2026.10.22-04.48.17:405][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Levels/LV_Options]
+[2026.10.22-04.48.17:459][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.10.22-04.48.17:471][690]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Levels/LV_Options
+[2026.10.22-04.48.17:472][690]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/LV_Options82EB05A34C8F340BA8A1D2BB0399A23B.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_Options.umap'
+[2026.10.22-04.48.17:495][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.935 ms (total: 2.31 sec)
+[2026.10.22-04.48.17:541][690]LogContentValidation: Enabled validators:
+[2026.10.22-04.48.17:541][690]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.48.17:541][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.48.17:541][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.48.17:541][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.48.17:541][690]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.48.17:541][690]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.48.17:541][690]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.48.17:541][690]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.48.17:541][690]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.48.17:541][690]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.48.17:541][690]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.48.17:541][690]AssetCheck: /Game/_Tophers_Work/_Levels/LV_Options Validating asset
+[2026.10.22-04.48.17:541][690]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.48.17:541][690]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.48.17:541][690]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.48.17:541][690]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.48.17:541][690]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.48.17:541][690]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.48.17:541][690]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.48.17:541][690]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-04.48.17:541][690]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.48.17:541][690]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.48.18:996][776]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.22-04.48.19:005][776]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.22-04.48.19:005][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.22-04.48.19:005][776]LogPlayLevel: Creating play world package: /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_Options
+[2026.10.22-04.48.19:006][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000898s)
+[2026.10.22-04.48.19:006][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Tophers_Work/_Levels/LV_Options.LV_Options to /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_Options.LV_Options (0.000943s)
+[2026.10.22-04.48.19:042][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.10.22-04.48.19:044][776]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Options
+[2026.10.22-04.48.19:046][776]LogPlayLevel: PIE: World Init took: (0.002533s)
+[2026.10.22-04.48.19:046][776]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.10.22-04.48.19:046][776]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.22-04.48.19:046][776]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.22-04.48.19:046][776]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.22-04.48.19:046][776]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.22-04.48.19:047][776]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.22-04.48.19:047][776]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.22-04.48.19:047][776]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.22-04.48.19:047][776]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.22-04.48.19:047][776]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.22-04.48.19:047][776]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.22-04.48.19:047][776]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.22-04.48.19:047][776]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.22-04.48.19:047][776]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.22-04.48.19:059][776]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers (Realtek(R) Audio)'
+[2026.10.22-04.48.19:060][776]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.10.22-04.48.19:063][776]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers (Realtek(R) Audio)'
+[2026.10.22-04.48.19:064][776]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.10.22-04.48.19:067][776]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers (Realtek(R) Audio)'
+[2026.10.22-04.48.19:068][776]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.10.22-04.48.19:075][776]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.22-04.48.19:075][776]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.22-04.48.19:075][776]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.22-04.48.19:076][776]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.22-04.48.19:092][776]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.22-04.48.19:092][776]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.22-04.48.19:095][776]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.22-04.48.19:095][776]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.10.22-04.48.19:095][776]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.22-04.48.19:095][776]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.22-04.48.19:095][776]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.22-04.48.19:096][776]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.10.22-04.48.19:098][776]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.10.22-04.48.19:100][776]LogInit: FAudioDevice initialized with ID 8.
+[2026.10.22-04.48.19:101][776]LogAudio: Display: Audio Device (ID: 8) registered with world 'LV_Options'.
+[2026.10.22-04.48.19:101][776]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.10.22-04.48.19:101][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.22-04.48.19:106][776]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.22-04.48.19:106][776]LogWorld: Bringing World /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_Options.LV_Options up for play (max tick rate 60) at 2026.10.21-21.48.19
+[2026.10.22-04.48.19:107][776]LogWorld: Bringing up level for play took: 0.000420
+[2026.10.22-04.48.19:109][776]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.10.22-04.48.19:110][776]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.22-04.48.19:111][776]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(976)]!
+[2026.10.22-04.48.19:111][776]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.22-04.48.19:111][776]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.22-04.48.19:111][776]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.22-04.48.19:111][776]PIE: Server logged in
+[2026.10.22-04.48.19:114][776]PIE: Play in editor total start time 0.11 seconds.
+[2026.10.22-04.48.19:126][776]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.22-04.48.24:928][ 11]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5541.267090
+[2026.10.22-04.48.25:931][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.22-04.48.25:931][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5541.933594, Update Interval: 307.740112
+[2026.10.22-04.49.22:886][497]LogStreaming: Display: FlushAsyncLoading(613): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.22-04.49.22:887][497]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2026.10.22-04.49.22:891][497]LogContentBrowser: Deferred new asset file creation: LV_MainMenu1
+[2026.10.22-04.49.22:903][497]LogContentBrowser: Creating deferred item: LV_MainMenu1
+[2026.10.22-04.49.22:916][498]LogContentBrowser: Renaming the item being created (Deferred Item: LV_MainMenu1).
+[2026.10.22-04.49.29:239][878]LogContentBrowser: Attempting asset rename: LV_MainMenu1 -> LV_LevelSelect
+[2026.10.22-04.49.29:243][878]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_LevelSelect
+[2026.10.22-04.49.29:245][878]LogContentBrowser: End creating deferred item LV_MainMenu1
+[2026.10.22-04.49.30:566][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.49.30:566][956]LogFileHelpers: Saving Map: /Game/_Tophers_Work/_Levels/LV_LevelSelect
+[2026.10.22-04.49.30:567][956]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Tophers_Work/_Levels/LV_LevelSelect] ([1] browsable assets)...
+[2026.10.22-04.49.30:567][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Levels/LV_LevelSelect]
+[2026.10.22-04.49.30:607][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.10.22-04.49.30:620][956]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Levels/LV_LevelSelect
+[2026.10.22-04.49.30:620][956]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/LV_LevelSelect20F1C4E7467A714DE1147899282E212D.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_LevelSelect.umap'
+[2026.10.22-04.49.30:631][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.601 ms (total: 2.38 sec)
+[2026.10.22-04.49.30:632][956]LogContentValidation: Enabled validators:
+[2026.10.22-04.49.30:632][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.49.30:632][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.49.30:632][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.49.30:632][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.49.30:632][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.49.30:632][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.49.30:632][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.49.30:632][956]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.49.30:632][956]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.49.30:632][956]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.49.30:632][956]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.49.30:632][956]AssetCheck: /Game/_Tophers_Work/_Levels/LV_LevelSelect Validating asset
+[2026.10.22-04.49.30:632][956]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.49.30:632][956]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.49.30:632][956]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.49.30:632][956]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.49.30:632][956]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.49.30:632][956]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.49.30:632][956]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.49.30:632][956]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-04.49.30:632][956]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.49.30:632][956]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.49.30:645][956]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.22-04.49.31:719][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.10.22-04.49.31:723][  7]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Tophers_Work/_Levels/LV_LevelSelect.LV_LevelSelect
+[2026.10.22-04.49.33:355][  7]LogSlate: Window 'Message' being destroyed
+[2026.10.22-04.49.33:369][  7]Message dialog closed, result: Yes, title: Message, text: This action will terminate your Play In Editor session.  Continue?
+[2026.10.22-04.49.33:370][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.22-04.49.33:370][  7]LogWorld: BeginTearingDown for /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_Options
+[2026.10.22-04.49.33:370][  7]LogWorld: UWorld::CleanupWorld for LV_Options, bSessionEnded=true, bCleanupResources=true
+[2026.10.22-04.49.33:370][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-04.49.33:372][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.22-04.49.33:378][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-04.49.33:498][  7]LogAudio: Display: Audio Device unregistered from world 'LV_Options'.
+[2026.10.22-04.49.33:501][  7]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.10.22-04.49.33:501][  7]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=8, StreamState=4
+[2026.10.22-04.49.33:510][  7]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.22-04.49.33:522][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.22-04.49.33:525][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.10.22-04.49.33:539][  7]Cmd: MAP LOAD FILE="../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_LevelSelect.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.22-04.49.33:612][  7]LogWorld: UWorld::CleanupWorld for LV_Options, bSessionEnded=true, bCleanupResources=true
+[2026.10.22-04.49.33:612][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-04.49.33:646][  7]LogAudio: Display: Audio Device unregistered from world 'LV_Options'.
+[2026.10.22-04.49.33:649][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.10.22-04.49.33:652][  7]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.10.22-04.49.33:652][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-04.49.33:653][  7]LogWorld: UWorld::CleanupWorld for LV_LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2026.10.22-04.49.33:653][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-04.49.33:713][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.10.22-04.49.33:749][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.10.22-04.49.33:750][  7]LogStreaming: Display: FlushAsyncLoading(614): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.22-04.49.33:752][  7]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_LevelSelect'.
+[2026.10.22-04.49.33:752][  7]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_LevelSelect
+[2026.10.22-04.49.33:775][  7]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.22-04.49.33:815][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2026.10.22-04.49.33:826][  7]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.22-04.49.33:826][  7]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2026.10.22-04.49.33:898][  8]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.10.22-04.49.33:905][  8]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.22-04.49.42:281][498]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.22-04.49.42:290][498]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.22-04.49.42:290][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.22-04.49.42:290][498]LogPlayLevel: Creating play world package: /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_LevelSelect
+[2026.10.22-04.49.42:292][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000900s)
+[2026.10.22-04.49.42:292][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Tophers_Work/_Levels/LV_LevelSelect.LV_LevelSelect to /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_LevelSelect.LV_LevelSelect (0.000945s)
+[2026.10.22-04.49.42:368][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.10.22-04.49.42:370][498]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_LevelSelect
+[2026.10.22-04.49.42:372][498]LogPlayLevel: PIE: World Init took: (0.002328s)
+[2026.10.22-04.49.42:372][498]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.10.22-04.49.42:372][498]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.22-04.49.42:372][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.22-04.49.42:372][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.22-04.49.42:372][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.22-04.49.42:373][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.22-04.49.42:373][498]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.22-04.49.42:373][498]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.22-04.49.42:373][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.22-04.49.42:373][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.22-04.49.42:373][498]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.22-04.49.42:373][498]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.22-04.49.42:373][498]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.22-04.49.42:373][498]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.22-04.49.42:386][498]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers (Realtek(R) Audio)'
+[2026.10.22-04.49.42:388][498]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.10.22-04.49.42:391][498]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers (Realtek(R) Audio)'
+[2026.10.22-04.49.42:393][498]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.10.22-04.49.42:397][498]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers (Realtek(R) Audio)'
+[2026.10.22-04.49.42:399][498]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.10.22-04.49.42:405][498]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.22-04.49.42:405][498]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.22-04.49.42:405][498]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.22-04.49.42:406][498]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.22-04.49.42:419][498]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.22-04.49.42:419][498]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.22-04.49.42:419][498]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.22-04.49.42:419][498]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.10.22-04.49.42:419][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.22-04.49.42:421][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.22-04.49.42:421][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.22-04.49.42:421][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.10.22-04.49.42:425][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.10.22-04.49.42:427][498]LogInit: FAudioDevice initialized with ID 9.
+[2026.10.22-04.49.42:428][498]LogAudio: Display: Audio Device (ID: 9) registered with world 'LV_LevelSelect'.
+[2026.10.22-04.49.42:428][498]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.10.22-04.49.42:429][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.22-04.49.42:433][498]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.22-04.49.42:433][498]LogWorld: Bringing World /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_LevelSelect.LV_LevelSelect up for play (max tick rate 60) at 2026.10.21-21.49.42
+[2026.10.22-04.49.42:433][498]LogWorld: Bringing up level for play took: 0.000364
+[2026.10.22-04.49.42:436][498]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.10.22-04.49.42:437][498]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.22-04.49.42:438][498]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(976)]!
+[2026.10.22-04.49.42:438][498]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.22-04.49.42:438][498]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.22-04.49.42:438][498]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.22-04.49.42:438][498]PIE: Server logged in
+[2026.10.22-04.49.42:442][498]PIE: Play in editor total start time 0.152 seconds.
+[2026.10.22-04.49.42:460][498]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.22-04.51.07:272][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.51.07:273][744]LogFileHelpers: Saving Map: /Game/_Tophers_Work/_Levels/LV_LevelSelect
+[2026.10.22-04.51.07:273][744]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Tophers_Work/_Levels/LV_LevelSelect] ([1] browsable assets)...
+[2026.10.22-04.51.07:273][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Levels/LV_LevelSelect]
+[2026.10.22-04.51.07:359][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.10.22-04.51.07:369][744]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Levels/LV_LevelSelect
+[2026.10.22-04.51.07:371][744]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/LV_LevelSelect1EFF19CF46C55E85A82354956A32DF89.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_LevelSelect.umap'
+[2026.10.22-04.51.07:383][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.651 ms (total: 2.49 sec)
+[2026.10.22-04.51.07:385][744]LogContentValidation: Enabled validators:
+[2026.10.22-04.51.07:385][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.51.07:385][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.51.07:385][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.51.07:385][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.51.07:386][744]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.51.07:386][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.51.07:386][744]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.51.07:386][744]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.51.07:386][744]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.51.07:386][744]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.51.07:386][744]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.51.07:386][744]AssetCheck: /Game/_Tophers_Work/_Levels/LV_LevelSelect Validating asset
+[2026.10.22-04.51.07:386][744]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.51.07:386][744]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.51.07:386][744]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.51.07:386][744]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.51.07:386][744]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.51.07:386][744]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.51.07:386][744]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.51.07:386][744]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-04.51.07:386][744]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.51.07:386][744]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.51.10:423][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.22-04.51.10:423][924]LogWorld: BeginTearingDown for /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_LevelSelect
+[2026.10.22-04.51.10:424][924]LogWorld: UWorld::CleanupWorld for LV_LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2026.10.22-04.51.10:424][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-04.51.10:426][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.22-04.51.10:429][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-04.51.10:486][924]LogAudio: Display: Audio Device unregistered from world 'LV_LevelSelect'.
+[2026.10.22-04.51.10:486][924]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.10.22-04.51.10:486][924]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=9, StreamState=4
+[2026.10.22-04.51.10:494][924]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.22-04.51.10:500][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.22-04.51.10:503][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.10.22-04.51.10:544][925]LogPlayLevel: Display: Destroying online subsystem :Context_17
