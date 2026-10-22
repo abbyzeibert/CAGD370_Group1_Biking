@@ -3624,3 +3624,173 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.22-04.38.31:547][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.10.22-04.38.31:550][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
 [2026.10.22-04.38.31:587][589]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.10.22-04.41.55:114][787]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5151.465332
+[2026.10.22-04.41.56:118][790]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.22-04.41.56:118][790]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5152.127930, Update Interval: 338.385559
+[2026.10.22-04.42.30:865][149]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.10.22-04.42.30:873][149]LogContentBrowser: Creating deferred item: NewWorld
+[2026.10.22-04.42.30:887][150]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.10.22-04.42.36:210][470]LogContentBrowser: Attempting asset rename: NewWorld -> LV_Options
+[2026.10.22-04.42.36:211][470]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Options
+[2026.10.22-04.42.36:216][470]LogContentBrowser: End creating deferred item NewWorld
+[2026.10.22-04.42.38:353][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.42.38:399][598]LogFileHelpers: Saving Map: /Game/_Tophers_Work/_Levels/LV_Options
+[2026.10.22-04.42.38:399][598]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Tophers_Work/_Levels/LV_Options] ([1] browsable assets)...
+[2026.10.22-04.42.38:399][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Levels/LV_Options]
+[2026.10.22-04.42.38:441][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.10.22-04.42.38:455][598]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Levels/LV_Options
+[2026.10.22-04.42.38:455][598]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/LV_Options00DED07040CED2C54387429EA8B358FA.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_Options.umap'
+[2026.10.22-04.42.38:481][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.066 ms (total: 1.64 sec)
+[2026.10.22-04.42.38:530][598]LogContentValidation: Enabled validators:
+[2026.10.22-04.42.38:530][598]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.42.38:530][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.42.38:530][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.42.38:530][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.42.38:530][598]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.42.38:530][598]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.42.38:530][598]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.42.38:530][598]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.42.38:530][598]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.42.38:530][598]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.42.38:530][598]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.42.38:531][598]AssetCheck: /Game/_Tophers_Work/_Levels/LV_Options Validating asset
+[2026.10.22-04.42.38:531][598]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.42.38:531][598]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.42.38:531][598]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.42.38:531][598]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.42.38:531][598]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.42.38:531][598]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.42.38:531][598]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.42.38:531][598]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-04.42.38:531][598]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.42.38:531][598]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.42.38:553][598]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.22-04.42.44:344][916]LogObjectTools: Deleting 1 worlds: /Game/_Tophers_Work/_Levels/LV_Options.LV_Options
+[2026.10.22-04.42.44:344][916]LogObjectTools: Currently 6 active worlds: /Game/_Tophers_Work/_Levels/LV_MainMenu.LV_MainMenu, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_33, /Engine/Transient.World_34, /Engine/Transient.World_37
+[2026.10.22-04.42.44:387][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.10.22-04.42.44:513][916]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.10.22-04.42.44:525][916]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' with subface index 0 in Game thread.
+[2026.10.22-04.42.44:526][916]LogSlate: Display: Took 0.010646 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K) on Game thread.
+[2026.10.22-04.42.44:526][916]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' subface 0 in Game thread.
+[2026.10.22-04.42.44:526][916]LogSlate: Display: Font face '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.10.22-04.42.45:759][916]LogSlate: Window 'Delete Assets' being destroyed
+[2026.10.22-04.42.45:771][916]LogWorld: UWorld::CleanupWorld for LV_Options, bSessionEnded=true, bCleanupResources=true
+[2026.10.22-04.42.45:771][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-04.42.45:834][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.10.22-04.42.45:866][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.10.22-04.42.45:899][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.10.22-04.42.48:805][ 82]LogContentBrowser: Deferred new asset file creation: LV_MainMenu1
+[2026.10.22-04.42.48:857][ 82]LogContentBrowser: Creating deferred item: LV_MainMenu1
+[2026.10.22-04.42.48:872][ 83]LogContentBrowser: Renaming the item being created (Deferred Item: LV_MainMenu1).
+[2026.10.22-04.42.51:994][271]LogContentBrowser: Attempting asset rename: LV_MainMenu1 -> LV_Options
+[2026.10.22-04.42.51:999][271]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Options
+[2026.10.22-04.42.52:001][271]LogContentBrowser: End creating deferred item LV_MainMenu1
+[2026.10.22-04.42.53:454][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.42.53:491][358]LogFileHelpers: Saving Map: /Game/_Tophers_Work/_Levels/LV_Options
+[2026.10.22-04.42.53:492][358]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Tophers_Work/_Levels/LV_Options] ([1] browsable assets)...
+[2026.10.22-04.42.53:492][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Levels/LV_Options]
+[2026.10.22-04.42.53:538][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.10.22-04.42.53:550][358]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Levels/LV_Options
+[2026.10.22-04.42.53:550][358]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/LV_Options2B58144F4B16C976B21C6F84E809FE5E.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_Options.umap'
+[2026.10.22-04.42.53:569][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.967 ms (total: 1.75 sec)
+[2026.10.22-04.42.53:601][358]LogContentValidation: Enabled validators:
+[2026.10.22-04.42.53:601][358]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.42.53:601][358]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.42.53:601][358]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.42.53:601][358]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.42.53:601][358]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.42.53:601][358]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.42.53:601][358]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.42.53:601][358]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.42.53:603][358]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.42.53:603][358]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.42.53:603][358]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.42.53:603][358]AssetCheck: /Game/_Tophers_Work/_Levels/LV_Options Validating asset
+[2026.10.22-04.42.53:603][358]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.42.53:603][358]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.42.53:603][358]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.42.53:603][358]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.42.53:603][358]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.42.53:603][358]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.42.53:603][358]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.42.53:603][358]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-04.42.53:603][358]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.42.53:603][358]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.43.11:766][441]LogContentBrowser: Deferred new asset file creation: WBP_BaseMenuScreen1
+[2026.10.22-04.43.11:772][441]LogContentBrowser: Creating deferred item: WBP_BaseMenuScreen1
+[2026.10.22-04.43.11:793][442]LogContentBrowser: Renaming the item being created (Deferred Item: WBP_BaseMenuScreen1).
+[2026.10.22-04.43.18:534][847]LogContentBrowser: Attempting asset rename: WBP_BaseMenuScreen1 -> WBP_Options
+[2026.10.22-04.43.18:587][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.10.22-04.43.18:590][847]LogBlueprint: Compiling Blueprint '/Game/_Tophers_Work/_Blueprints/WBP_Options.WBP_Options'
+[2026.10.22-04.43.18:602][847]LogContentBrowser: End creating deferred item WBP_BaseMenuScreen1
+[2026.10.22-04.43.20:185][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.43.20:231][934]LogFileHelpers: Saving Package: /Game/_Tophers_Work/_Blueprints/WBP_Options
+[2026.10.22-04.43.20:232][934]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Tophers_Work/_Blueprints/WBP_Options] ([2] browsable assets)...
+[2026.10.22-04.43.20:234][934]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Tophers_Work/_Blueprints/WBP_Options.WBP_Options]
+[2026.10.22-04.43.20:234][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Blueprints/WBP_Options]
+[2026.10.22-04.43.20:249][934]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Blueprints/WBP_Options
+[2026.10.22-04.43.20:249][934]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/WBP_OptionsC041B0A6445CF2ABC6AA4A88A03E57A4.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_Options.uasset'
+[2026.10.22-04.43.20:264][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.124 ms (total: 1.83 sec)
+[2026.10.22-04.43.20:311][934]LogContentValidation: Enabled validators:
+[2026.10.22-04.43.20:311][934]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.43.20:311][934]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.43.20:311][934]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.43.20:311][934]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.43.20:311][934]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.43.20:311][934]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.43.20:311][934]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.43.20:311][934]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.43.20:311][934]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.43.20:311][934]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.43.20:311][934]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.43.20:312][934]AssetCheck: /Game/_Tophers_Work/_Blueprints/WBP_Options Validating asset
+[2026.10.22-04.43.20:312][934]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.43.20:312][934]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.43.20:312][934]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.43.20:312][934]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.43.20:312][934]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.43.20:312][934]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.43.20:312][934]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.43.20:312][934]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.10.22-04.43.20:312][934]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.43.20:312][934]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.43.20:345][934]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.22-04.43.23:057][ 87]LogContentBrowser: Deferred new asset file creation: WBP_BaseMenuScreen1
+[2026.10.22-04.43.23:109][ 87]LogContentBrowser: Creating deferred item: WBP_BaseMenuScreen1
+[2026.10.22-04.43.23:125][ 88]LogContentBrowser: Renaming the item being created (Deferred Item: WBP_BaseMenuScreen1).
+[2026.10.22-04.43.34:092][745]LogContentBrowser: Attempting asset rename: WBP_BaseMenuScreen1 -> WBP_LevelSelect
+[2026.10.22-04.43.34:158][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.10.22-04.43.34:161][745]LogBlueprint: Compiling Blueprint '/Game/_Tophers_Work/_Blueprints/WBP_LevelSelect.WBP_LevelSelect'
+[2026.10.22-04.43.34:173][745]LogContentBrowser: End creating deferred item WBP_BaseMenuScreen1
+[2026.10.22-04.43.35:458][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.43.35:494][820]LogFileHelpers: Saving Package: /Game/_Tophers_Work/_Blueprints/WBP_LevelSelect
+[2026.10.22-04.43.35:494][820]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Tophers_Work/_Blueprints/WBP_LevelSelect] ([2] browsable assets)...
+[2026.10.22-04.43.35:498][820]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Tophers_Work/_Blueprints/WBP_LevelSelect.WBP_LevelSelect]
+[2026.10.22-04.43.35:498][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Blueprints/WBP_LevelSelect]
+[2026.10.22-04.43.35:512][820]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Blueprints/WBP_LevelSelect
+[2026.10.22-04.43.35:512][820]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/WBP_LevelSelectD8FDB8C4477ABDAA965288B44459E85B.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_LevelSelect.uasset'
+[2026.10.22-04.43.35:526][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.156 ms (total: 1.90 sec)
+[2026.10.22-04.43.35:566][820]LogContentValidation: Enabled validators:
+[2026.10.22-04.43.35:566][820]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.43.35:566][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.43.35:566][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.43.35:566][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.43.35:566][820]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.43.35:566][820]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.43.35:566][820]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.43.35:566][820]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.43.35:566][820]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.43.35:566][820]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.43.35:566][820]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.43.35:567][820]AssetCheck: /Game/_Tophers_Work/_Blueprints/WBP_LevelSelect Validating asset
+[2026.10.22-04.43.35:567][820]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.43.35:567][820]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.43.35:567][820]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.43.35:567][820]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.43.35:567][820]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.43.35:567][820]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.43.35:567][820]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.43.35:567][820]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.10.22-04.43.35:567][820]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.43.35:567][820]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.43.35:587][820]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
