@@ -5,14 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_BaseMenuScreen.uasset",
-				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_MainMenu.umap",
-				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_MainMenu.uasset",
-				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/BP_UIManager.uasset",
-				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_Options.umap",
-				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_Options.uasset",
-				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_LevelSelect.uasset",
-				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_LevelSelect.umap",
 				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/TestMap.umap",
 				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/BP_GameMode.uasset",
 				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/BP_GameInstance.uasset",
@@ -23,7 +15,26 @@
 				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_Bike.uasset",
 				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/BP_PlayerController.uasset",
 				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Levels/MovementTestMap.umap",
-				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/Input/IA_Jump.uasset"
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/Input/IA_Jump.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_lvl1/Map.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_lvl1/Obstacles.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_lvl1/Outskirts.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_lvl1/Walls.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_lvl1/end.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_lvl1/m_Obstacles.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_lvl1/m_ground.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_lvl1/m_outskrits.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_lvl1/m_post.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_lvl1/m_walls.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_lvl1/start.uasset",
+				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_BaseMenuScreen.uasset",
+				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_MainMenu.umap",
+				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_MainMenu.uasset",
+				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/BP_UIManager.uasset",
+				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_Options.umap",
+				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_Options.uasset",
+				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/WBP_LevelSelect.uasset",
+				"C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_LevelSelect.umap"
 			]
 		}
 	]
