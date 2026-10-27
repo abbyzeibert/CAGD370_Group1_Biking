@@ -1,0 +1,20 @@
+{
+	"zenserver":
+	{
+		"islocalhost": true,
+		"hostname": "[::1]",
+		"remotehostnames": [
+			"100.64.5.90",
+			"hostname://MSI"
+		],
+		"hostport": 8558,
+		"hostauth":
+		{
+			"type": "password",
+			"username": "ue",
+			"password": "C8EDF1D54E88804BEBB50E9A174F34ED"
+		},
+		"projectid": "CAGD370_Biking.95dd3ebe",
+		"oplogid": "Windows"
+	}
+}

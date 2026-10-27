@@ -1,0 +1,261 @@
+﻿Log file open, 10/27/26 09:18:16
+LogWindows: Enabling Tpause support
+LogInit: Running DelayedAutoRegister Phase StartOfEnginePreInit
+LogTrace: Initializing trace...
+LogTrace: Display: Control listening on port 33675
+LogTrace: Finished trace initialization.
+LogModuleManager: InternalLoadLibrary: 'PakFile' ('C:/Unreal/Unreal Programs/Engine/Binaries/Win64/UnrealPak-PakFile.dll')
+LogModuleManager: InternalLoadLibrary: 'RSA' ('C:/Unreal/Unreal Programs/Engine/Binaries/Win64/UnrealPak-RSA.dll')
+LogModuleManager: InternalLoadLibrary: 'SandboxFile' ('C:/Unreal/Unreal Programs/Engine/Binaries/Win64/UnrealPak-SandboxFile.dll')
+LogInit: Running DelayedAutoRegister Phase FileSystemReady
+LogInit: Running DelayedAutoRegister Phase TaskGraphSystemReady
+LogInit: Running DelayedAutoRegister Phase StatSystemReady
+LogModuleManager: InternalLoadLibrary: 'CoreUObject' ('C:/Unreal/Unreal Programs/Engine/Binaries/Win64/UnrealPak-CoreUObject.dll')
+OodleDataCompression: Display: Oodle v2.9.16 format for pak/iostore with method=Kraken, level=4=Normal
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-DD4341FB447787DB71529186751C29B0
+         Session CrashGUID >====================================================
+LogConfig: No local boot hotfix file found at: [../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+LogInit: Running DelayedAutoRegister Phase IniSystemReady
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogModuleManager: InternalLoadLibrary: 'PlatformCrypto' ('C:/Unreal/Unreal Programs/Engine/Plugins/Experimental/PlatformCrypto/Binaries/Win64/UnrealPak-PlatformCrypto.dll')
+LogModuleManager: InternalLoadLibrary: 'PlatformCryptoTypes' ('C:/Unreal/Unreal Programs/Engine/Plugins/Experimental/PlatformCrypto/Binaries/Win64/UnrealPak-PlatformCryptoTypes.dll')
+LogModuleManager: InternalLoadLibrary: 'PlatformCryptoContext' ('C:/Unreal/Unreal Programs/Engine/Plugins/Experimental/PlatformCrypto/Binaries/Win64/UnrealPak-PlatformCryptoContext.dll')
+LogInit: Running DelayedAutoRegister Phase EarliestPossiblePluginsLoaded
+LogInit: ExecutableName: UnrealPak.exe
+LogInit: Build: ++UE5+Release-5.8-CL-55116800
+LogInit: Platform=WindowsEditor
+LogInit: MachineId=6b193a30465a4469adc1de85988a248c
+LogInit: DeviceId=
+LogInit: Engine Version: 5.8.0-55116800+++UE5+Release-5.8
+LogInit: Compatible Engine Version: 5.8.0-55116800+++UE5+Release-5.8
+LogInit: Net CL: 55116800
+LogInit: OS: Windows 11 (26H2) [10.0.26300.9711] (), CPU: 13th Gen Intel(R) Core(TM) i7-13620H, GPU: Intel(R) UHD Graphics
+LogInit: CPU Model ID: 6ba2, microcode revision: 410e
+LogInit: Compiled (64-bit): Jun 13 2026 03:32:24
+LogInit: Architecture: x64
+LogInit: Compiled with Visual C++: 19.50.35733.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.8
+LogInit: Command Line: C:\Documents(Not Onedrive)\GitHub\CAGD370_Group4_Biking\CAGD370_Biking\CAGD370_Biking.uproject -CreateGlobalContainer="C:\Documents(Not Onedrive)\GitHub\CAGD370_Group4_Biking\CAGD370_Biking\Saved\StagedBuilds\Windows\CAGD370_Biking\Content\Paks\global.utoc" -ProjectStore="C:\Documents(Not Onedrive)\GitHub\CAGD370_Group4_Biking\CAGD370_Biking\Saved\Cooked\Windows\ue.projectstore" -CookedDirectory="C:\Documents(Not Onedrive)\GitHub\CAGD370_Group4_Biking\CAGD370_Biking\Saved\Cooked\Windows" -Commands="C:\Users\tophe\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Unreal+Unreal+Programs\IoStoreCommands.txt" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=4 -compressmethod=Kraken -cryptokeys="C:\Documents(Not Onedrive)\GitHub\CAGD370_Group4_Biking\CAGD370_Biking\Saved\Cooked\Windows\CAGD370_Biking\Metadata\Crypto.json" -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled -platform=Windows -nopak
+LogInit: Base Directory: C:/Unreal/Unreal Programs/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogInit: This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+LogDevObjectVersion: Number of dev versions registered: 35
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 49
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 268
+LogDevObjectVersion:   FortniteValkyrie (8DBC2C5B-54A7-43E0-A768-FCBB7DA29060): 8
+LogDevObjectVersion:   FortniteSeason (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 15
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 20
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 11
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 123
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 68
+LogDevObjectVersion:   UE5-SpecialProject (59DA5D52-1232-4948-B878-597870B8E98B): 9
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC.
+LogStreaming: Display: AsyncLoading2 - Created: Async Loading Thread: false, Async Post Load: false, Multithreaded: false
+LogInit: Object subsystem initialized
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: CVar [[p.chaos.AllowCreatePhysxBodies:1]] deferred - dummy variable created
+LogConfig: CVar [[fx.SkipVectorVMBackendOptimizations:1]] deferred - dummy variable created
+LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+LogConfig: Set CVar [[WindowsApplication.UseWorkerThreadForRawInput:0]]
+LogConfig: CVar [[r.PSOPrecache.KeepInMemoryForActiveMaterials:1]] deferred - dummy variable created
+[2026.10.27-16.18.16:102][  0]LogInit: Computer: MSI
+[2026.10.27-16.18.16:102][  0]LogInit: User: tophe
+[2026.10.27-16.18.16:102][  0]LogInit: CPU Page size=4096, Cores=10
+[2026.10.27-16.18.16:102][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2026.10.27-16.18.16:102][  0]LogInit: Gaming Handheld Device: 0
+[2026.10.27-16.18.16:173][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
+[2026.10.27-16.18.16:173][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx) Virtual=47.7GB
+[2026.10.27-16.18.16:173][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2026.10.27-16.18.16:173][  0]LogMemory: Process Physical Memory: 84.83 MB used, 84.83 MB peak
+[2026.10.27-16.18.16:173][  0]LogMemory: Process Virtual Memory: 132.86 MB used, 132.86 MB peak
+[2026.10.27-16.18.16:173][  0]LogMemory: Physical Memory: 22767.91 MB used,  9701.59 MB free, 32469.51 MB total
+[2026.10.27-16.18.16:173][  0]LogMemory: Virtual Memory: 37090.32 MB used,  11763.19 MB free, 48853.51 MB total
+[2026.10.27-16.18.16:180][  0]LogAssetRegistry: ActiveMountsLoading is disabled.
+[2026.10.27-16.18.16:180][  0]LogAssetRegistry: FAssetRegistry took 0.0002 seconds to start up
+[2026.10.27-16.18.16:180][  0]LogModuleManager: InternalLoadLibrary: 'TelemetryUtils' ('C:/Unreal/Unreal Programs/Engine/Binaries/Win64/UnrealPak-TelemetryUtils.dll')
+[2026.10.27-16.18.16:181][  0]LogUObjectArray: 877 objects as part of root set at end of initial load.
+[2026.10.27-16.18.16:181][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.10.27-16.18.16:181][  0]LogInit: Using OS detected language ().
+[2026.10.27-16.18.16:181][  0]LogInit: Using OS detected locale ().
+[2026.10.27-16.18.16:182][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2026.10.27-16.18.16:182][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2026.10.27-16.18.16:182][  0]LogInit: Using OS detected language ().
+[2026.10.27-16.18.16:182][  0]LogInit: Using OS detected locale ().
+[2026.10.27-16.18.16:182][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2026.10.27-16.18.16:183][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2026.10.27-16.18.16:183][  0]LogPakFile: Display: ProjectDir: ../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/
+[2026.10.27-16.18.16:183][  0]LogIoStore: Display: ==================== IoStore Utils ====================
+[2026.10.27-16.18.16:183][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'C:\Documents(Not Onedrive)\GitHub\CAGD370_Group4_Biking\CAGD370_Biking\Saved\Cooked\Windows\CAGD370_Biking\Metadata\Crypto.json'
+[2026.10.27-16.18.16:183][  0]LogIoStore: Display: Container signing - DISABLED
+[2026.10.27-16.18.16:183][  0]LogIoStore: Display: Directory index - ENABLED
+[2026.10.27-16.18.16:183][  0]LogIoStore: Display: Using compression format 'Oodle'
+[2026.10.27-16.18.16:214][  0]LogConfig: Display: Read in platform Windows ini files took 0.03 seconds
+[2026.10.27-16.18.16:214][  0]LogIoStore: Display: Using memory mapping alignment '16384'
+[2026.10.27-16.18.16:214][  0]LogIoStore: Display: Using compression block size '65536'
+[2026.10.27-16.18.16:214][  0]LogIoStore: Display: Using compression block alignment '2048'
+[2026.10.27-16.18.16:214][  0]LogIoStore: Display: Using compression min bytes saved '1024'
+[2026.10.27-16.18.16:214][  0]LogIoStore: Display: Using compression min percent saved '5'
+[2026.10.27-16.18.16:214][  0]LogIoStore: Display: Using max partition size '0'
+[2026.10.27-16.18.16:214][  0]LogIoStore: Display: Not using DDC for compression
+[2026.10.27-16.18.16:214][  0]LogIoStore: Display: Container metadata disabled
+[2026.10.27-16.18.16:214][  0]LogIoStore: Display: Using command list file: 'C:\Users\tophe\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Unreal+Unreal+Programs\IoStoreCommands.txt'
+[2026.10.27-16.18.16:216][  0]LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
+[2026.10.27-16.18.16:217][  0]LogZenServiceInstance: Found subprocess environment variable UE-ZenSubprocessDataPath=C:/Users/tophe/AppData/Local/UnrealEngine/Common/Zen/Data
+[2026.10.27-16.18.16:220][  0]LogZenServiceInstance: Display: Launching zen utility 'C:/Unreal/Unreal Programs/Engine/Binaries/Win64/zen.exe service status'.
+[2026.10.27-16.18.16:533][  0]LogZenServiceInstance: Display: Writing plugin version info to 'C:/Users/tophe/AppData/Local/UnrealEngine/Common/Zen/Install/zen_plugin_versions.json'
+[2026.10.27-16.18.16:533][  0]LogZenServiceInstance: Display: Read zen version cache file from 'C:/Users/tophe/AppData/Local/UnrealEngine/5.8/Saved/Zen/zen.version', version: '5.8.13-202605190912-windows-x64-release-094f62c2'
+[2026.10.27-16.18.16:533][  0]LogZenServiceInstance: InTree version at 'C:/Unreal/Unreal Programs/Engine/Binaries/Win64/zenserver.exe' is '5.8.13-202605190912-windows-x64-release-094f62c2'
+[2026.10.27-16.18.16:533][  0]LogZenServiceInstance: Display: Read zen version cache file from 'C:/Users/tophe/AppData/Local/UnrealEngine/Common/Zen/Install/zen.version', version: '5.8.13-202605190912-windows-x64-release-094f62c2'
+[2026.10.27-16.18.16:533][  0]LogZenServiceInstance: Installed version at 'C:/Users/tophe/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' is '5.8.13-202605190912-windows-x64-release-094f62c2'
+[2026.10.27-16.18.16:533][  0]LogZenServiceInstance: Display: Installed service at 'C:/Users/tophe/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' is up to date
+[2026.10.27-16.18.16:534][  0]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.10.27-16.18.17:544][  0]LogZenServiceInstance: Display: Unreal Zen Storage Server HTTP service at http://[::1]:8558 status: OK!.
+[2026.10.27-16.18.17:544][  0]LogZenServiceInstance: Local ZenServer AutoLaunch initialization completed in 1.012 seconds
+[2026.10.27-16.18.17:544][  0]LogModuleManager: InternalLoadLibrary: 'SSL' ('C:/Unreal/Unreal Programs/Engine/Binaries/Win64/UnrealPak-SSL.dll')
+[2026.10.27-16.18.17:559][  0]LogZenStore: Display: Opening oplog CAGD370_Biking.95dd3ebe / Windows
+[2026.10.27-16.18.17:575][  0]LogIoStore: Display: Fetched 502 oplog items from Zen in 1.36 seconds
+[2026.10.27-16.18.17:587][  0]LogIoStore: Display: Parsed 502 oplog items 0.01 seconds, 3483 chunks
+[2026.10.27-16.18.17:592][  0]LogIoStore: Display: Loaded 617 chunk hashes from Zen in 0.00 seconds, 617 hashes updated in 0.00 seconds
+[2026.10.27-16.18.17:596][  0]LogIoStore: Display: Searching for cooked assets in folder 'C:\Documents(Not Onedrive)\GitHub\CAGD370_Group4_Biking\CAGD370_Biking\Saved\Cooked\Windows'
+[2026.10.27-16.18.17:597][  0]LogIoStore: Display: Found '8' files
+[2026.10.27-16.18.17:608][  0]LogIoStore: Display: Creating container targets...
+[2026.10.27-16.18.17:659][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
+[2026.10.27-16.18.17:662][  0]LogIoStore: Display: Shader library chunk override is disabled
+[2026.10.27-16.18.17:677][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 198 groups (52 of them didn't need new indices), average uncompressed size 125040 bytes, min 2378 bytes, max 1021246 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2026.10.27-16.18.17:805][  0]LogIoStore: Display: CAGD370_Biking-PCD3D_SM6(PCD3D_SM6): Recompressed 1939 shaders as 198 groups. Library size changed from 18579 KB (1.30 : 1 ratio) to 12761 KB (1.89 : 1 ratio), 68.69% of previous.
+[2026.10.27-16.18.17:805][  0]LogIoStore: Display: Save IoStoreShaderCodeArchive 'CAGD370_Biking-PCD3D_SM6-PCD3D_SM6' with ChunkId '8945ea0a3e22748800000008' for target file 'C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderArchive-CAGD370_Biking-PCD3D_SM6-PCD3D_SM6.ushaderbytecode'
+[2026.10.27-16.18.17:812][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 163 groups (99 of them didn't need new indices), average uncompressed size 40238 bytes, min 502 bytes, max 983025 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2026.10.27-16.18.17:839][  0]LogIoStore: Display: CAGD370_Biking-PCD3D_SM5(PCD3D_SM5): Recompressed 881 shaders as 163 groups. Library size changed from 1943 KB (3.30 : 1 ratio) to 1017 KB (6.30 : 1 ratio), 52.35% of previous.
+[2026.10.27-16.18.17:839][  0]LogIoStore: Display: Save IoStoreShaderCodeArchive 'CAGD370_Biking-PCD3D_SM5-PCD3D_SM5' with ChunkId '051ad2a908c8976100000008' for target file 'C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderArchive-CAGD370_Biking-PCD3D_SM5-PCD3D_SM5.ushaderbytecode'
+[2026.10.27-16.18.17:919][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 690 groups (213 of them didn't need new indices), average uncompressed size 295615 bytes, min 1249 bytes, max 1042314 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2026.10.27-16.18.19:034][  0]LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 11565 shaders as 690 groups. Library size changed from 151977 KB (1.31 : 1 ratio) to 90695 KB (2.20 : 1 ratio), 59.68% of previous.
+[2026.10.27-16.18.19:035][  0]LogIoStore: Display: Save IoStoreShaderCodeArchive 'Global-PCD3D_SM6-PCD3D_SM6' with ChunkId '1680bae1ae38d5b900000008' for target file 'C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode'
+[2026.10.27-16.18.19:059][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 401 groups (163 of them didn't need new indices), average uncompressed size 142869 bytes, min 249 bytes, max 1042761 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2026.10.27-16.18.19:180][  0]LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 4356 shaders as 401 groups. Library size changed from 13009 KB (4.30 : 1 ratio) to 5465 KB (10.24 : 1 ratio), 42.01% of previous.
+[2026.10.27-16.18.19:180][  0]LogIoStore: Display: Save IoStoreShaderCodeArchive 'Global-PCD3D_SM5-PCD3D_SM5' with ChunkId 'c3fad98e7ca0cc3100000008' for target file 'C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderArchive-Global-PCD3D_SM5-PCD3D_SM5.ushaderbytecode'
+[2026.10.27-16.18.19:191][  0]LogIoStore: Display: Shaders processed in 1.53 seconds
+[2026.10.27-16.18.19:191][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=8 (16 cores), MaxSourceBufferMemory=3072MiB
+[2026.10.27-16.18.19:195][  0]LogIoStore: Display: Processing redirects...
+[2026.10.27-16.18.19:195][  0]LogIoStore: Display: Creating disk layout...
+[2026.10.27-16.18.19:196][  0]LogIoStore: Display: Ordered 499 packages using fallback bundle order
+[2026.10.27-16.18.19:215][  0]LogIoStore: Display: Disabled WriteRequestManager memory throttling, MaxConcurrentSourceReads=8 (16 cores)
+[2026.10.27-16.18.19:215][  0]LogIoStore: Display: Writing container(s)...
+[2026.10.27-16.18.19:907][  0]LogIoStore: Display: Writing and compressing took 0.69 seconds, writes to disk took 0.36 seconds for 234,270,592 bytes @ 651,227,402 bytes per second.
+[2026.10.27-16.18.19:908][  0]LogIoStore: Display: CAGD370_Biking-Windows: Found perfect hashmap for 2074 items.
+[2026.10.27-16.18.19:911][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
+[2026.10.27-16.18.19:914][  0]LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 202,610 bytes, 28,263,544 bytes per second
+[2026.10.27-16.18.19:914][  0]LogIoStore: Display: Writing tocs... [Physical: 722 MiB, Virtual: 3419 MiB]
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 617 / 2,075 hashes were loaded from the hash database, by type:
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:     ExportBundleData           499
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:     BulkData                   118
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 617 / 2,075 chunks attempted to compress, by type:
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:     ExportBundleData           499 / 499
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:     BulkData                   118 / 118
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:     ScriptObjects              0 / 1
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:     ContainerHeader            0 / 1
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:     ShaderCode                 0 / 1,452
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Source bytes read:
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:     Zen:                        166,235,674
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:         ExportBundleData        157,038,166 bytes over 499 reads
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:         BulkData                  9,197,508 bytes over 118 reads
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:     Loose File:                           0
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:     Memory:                     226,179,186
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:         ShaderCodeLibrary         1,022,224 bytes over 8 reads
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:         ShaderCode              225,156,962 bytes over 2,904 reads
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Calculating stats...
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Container Summary
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: ==================
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:                      Container      Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: -------------------------------------------------------------------------------------------------------------------
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:                         global  -/-/-/-/-               1            0.78                 3.07                 3.07 -
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:         CAGD370_Biking-Windows  C/-/-/I/-            2074          197.09               267.91               220.35 (17.75% Oodle)
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: -------------------------------------------------------------------------------------------------------------------
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:                          Total                       2075          197.86               270.98               223.42
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Compression block padding:     1.51 MiB
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Container Directory Index
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: ==========================
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:                      Container      Size (KiB)
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: ----------------------------------------------
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:                         global            0.00
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:         CAGD370_Biking-Windows           30.67
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Container Patch Report
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: ========================
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:                      Container          Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: -------------------------------------------------------------------------------------------------------------------
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:                         global                1                0                0             0.00             0.00
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:         CAGD370_Biking-Windows             2074                0             2074             0.00           218.84
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: -------------------------------------------------------------------------------------------------------------------
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: PackageStore
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: =============
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:                      Container      Size (KiB)      Packages #     Localized #
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: ------------------------------------------------------------------------------
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:         CAGD370_Biking-Windows              13             499               0
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: ------------------------------------------------------------------------------
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display:                          Total              13             499               0
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Input:       499 Packages
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Input:         0   B UExp
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Input:    149.76 MiB UAsset
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Input:      8.77 MiB UBulk
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Input:     93.91 MiB for 1091 Global shaders
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Input:      1.39 MiB for 162 Shared shaders
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Input:         0   B for 0 Unique shaders
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Input:     12.07 MiB for 199 Inline shaders
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: 
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Output:      505 Imported package entries
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Output:      314 Packages without imports
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Output:        0 Public runtime script objects
+[2026.10.27-16.18.19:915][  0]LogIoStore: Display: Output:     3.07 MiB InitialLoadData
+[2026.10.27-16.18.19:916][  0]LogIoStore: Display: 
+[2026.10.27-16.18.19:917][  0]LogIoStore: Display: Success
+[2026.10.27-16.18.19:921][  0]LogPakFile: Display: UnrealPak executed in 3.737953 seconds
+[2026.10.27-16.18.19:927][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2026.10.27-16.18.19:927][  0]LogExit: Preparing to exit.
+[2026.10.27-16.18.19:928][  0]LogExit: Object subsystem successfully closed.
+[2026.10.27-16.18.19:930][  0]LogPakFile: Destroying PakPlatformFile
+[2026.10.27-16.18.19:931][  0]LogExit: Exiting.
+[2026.10.27-16.18.19:939][  0]Log file closed, 10/27/26 09:18:19
