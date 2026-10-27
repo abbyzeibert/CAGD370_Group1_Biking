@@ -2319,3 +2319,531 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2026.10.27-14.47.57:051][361]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
 [2026.10.27-14.47.57:102][361]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
 [2026.10.27-14.47.59:276][547]LogEditorModes: Warning: ITF Gizmos and Controls have been disabled. The "Landscape" Editor Mode requires the legacy systems.
+[2026.10.27-14.48.46:534][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-14.48.46:581][721]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.48.46:582][721]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-14.48.46:582][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-14.48.46:664][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.10.27-14.48.46:668][721]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 64x512 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.27-14.48.46:692][721]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.48.46:693][721]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_DiegoLevelTest6B5D1FCA49823E52E7E365BADD6A945A.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-14.48.46:735][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.631 ms (total: 910.804 ms)
+[2026.10.27-14.48.46:815][721]LogContentValidation: Enabled validators:
+[2026.10.27-14.48.46:815][721]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-14.48.46:815][721]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-14.48.46:815][721]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-14.48.46:815][721]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-14.48.46:815][721]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-14.48.46:815][721]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-14.48.46:815][721]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-14.48.46:815][721]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-14.48.46:815][721]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-14.48.46:816][721]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-14.48.46:816][721]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-14.48.46:816][721]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-14.48.46:816][721]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-14.48.46:816][721]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-14.48.46:816][721]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-14.48.46:816][721]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-14.48.46:816][721]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-14.48.46:816][721]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-14.48.46:816][721]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-14.48.46:816][721]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-14.48.46:816][721]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-14.48.46:816][721]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-14.49.29:175][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-14.49.29:232][725]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.49.29:232][725]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-14.49.29:232][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-14.49.29:312][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.10.27-14.49.29:315][725]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 64x512 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.27-14.49.29:338][725]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.49.29:339][725]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_DiegoLevelTest346A97BC41044CAAB868A4B2E5887123.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-14.49.29:378][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 203.448 ms (total: 1.11 sec)
+[2026.10.27-14.49.29:432][725]LogContentValidation: Enabled validators:
+[2026.10.27-14.49.29:432][725]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-14.49.29:432][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-14.49.29:432][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-14.49.29:432][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-14.49.29:432][725]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-14.49.29:432][725]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-14.49.29:432][725]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-14.49.29:432][725]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-14.49.29:432][725]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-14.49.29:432][725]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-14.49.29:432][725]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-14.49.29:433][725]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-14.49.29:433][725]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-14.49.29:433][725]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-14.49.29:433][725]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-14.49.29:433][725]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-14.49.29:433][725]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-14.49.29:433][725]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-14.49.29:433][725]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-14.49.29:433][725]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-14.49.29:433][725]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-14.49.29:433][725]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-14.49.38:256][376]Cmd: TRANSACTION UNDO
+[2026.10.27-14.49.38:274][376]LogEditorTransaction: Undo Landscape Editing: Noise
+[2026.10.27-14.49.44:982][866]Cmd: TRANSACTION UNDO
+[2026.10.27-14.49.44:982][866]LogEditorTransaction: Undo Landscape Editing: Noise
+[2026.10.27-14.50.57:326][700]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 685.146362
+[2026.10.27-14.50.57:486][712]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.27-14.50.57:486][712]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 685.294556, Update Interval: 313.063141
+[2026.10.27-14.51.42:340][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-14.51.42:388][646]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.51.42:389][646]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-14.51.42:389][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-14.51.42:450][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.10.27-14.51.42:464][646]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 64x512 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.27-14.51.42:485][646]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.51.42:485][646]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_DiegoLevelTest9999518447A494EEE3AD39A3E9C0298A.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-14.51.42:523][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.439 ms (total: 1.29 sec)
+[2026.10.27-14.51.42:672][646]LogContentValidation: Enabled validators:
+[2026.10.27-14.51.42:672][646]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-14.51.42:672][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-14.51.42:672][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-14.51.42:672][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-14.51.42:672][646]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-14.51.42:672][646]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-14.51.42:672][646]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-14.51.42:672][646]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-14.51.42:673][646]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-14.51.42:673][646]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-14.51.42:673][646]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-14.51.42:673][646]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-14.51.42:673][646]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-14.51.42:673][646]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-14.51.42:673][646]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-14.51.42:673][646]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-14.51.42:673][646]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-14.51.42:673][646]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-14.51.42:673][646]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-14.51.42:673][646]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-14.51.42:673][646]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-14.51.42:673][646]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-14.51.46:725][942]Cmd: TRANSACTION UNDO
+[2026.10.27-14.51.46:725][942]LogEditorTransaction: Undo Landscape Editing: Erase
+[2026.10.27-14.51.50:026][161]Cmd: TRANSACTION UNDO
+[2026.10.27-14.51.50:026][161]LogEditorTransaction: Undo Landscape Editing: Erase
+[2026.10.27-14.53.03:406][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-14.53.03:460][177]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.53.03:460][177]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-14.53.03:460][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-14.53.03:521][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.10.27-14.53.03:525][177]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 64x512 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.27-14.53.03:546][177]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.53.03:547][177]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_DiegoLevelTestB3656E434BCADB325409409AB40B41A8.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-14.53.03:607][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 201.318 ms (total: 1.49 sec)
+[2026.10.27-14.53.03:659][177]LogContentValidation: Enabled validators:
+[2026.10.27-14.53.03:659][177]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-14.53.03:659][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-14.53.03:659][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-14.53.03:659][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-14.53.03:659][177]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-14.53.03:659][177]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-14.53.03:659][177]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-14.53.03:659][177]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-14.53.03:659][177]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-14.53.03:659][177]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-14.53.03:659][177]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-14.53.03:659][177]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-14.53.03:659][177]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-14.53.03:659][177]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-14.53.03:659][177]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-14.53.03:659][177]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-14.53.03:659][177]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-14.53.03:659][177]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-14.53.03:659][177]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-14.53.03:659][177]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-14.53.03:659][177]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-14.53.03:660][177]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-14.53.10:216][620]Cmd: DUPLICATE
+[2026.10.27-14.53.10:216][620]Cmd: ACTOR DUPLICATE
+[2026.10.27-14.53.20:629][338]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.10.27-14.53.24:555][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-14.53.24:626][617]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.53.24:627][617]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-14.53.24:627][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-14.53.24:699][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.10.27-14.53.24:723][617]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.53.24:723][617]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_DiegoLevelTest5702DCAC4BFA44201128A390A379C7FC.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-14.53.24:778][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 222.489 ms (total: 1.72 sec)
+[2026.10.27-14.53.24:827][617]LogContentValidation: Enabled validators:
+[2026.10.27-14.53.24:827][617]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-14.53.24:827][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-14.53.24:827][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-14.53.24:827][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-14.53.24:827][617]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-14.53.24:827][617]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-14.53.24:827][617]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-14.53.24:827][617]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-14.53.24:827][617]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-14.53.24:827][617]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-14.53.24:827][617]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-14.53.24:828][617]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-14.53.24:828][617]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-14.53.24:828][617]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-14.53.24:828][617]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-14.53.24:828][617]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-14.53.24:828][617]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-14.53.24:828][617]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-14.53.24:828][617]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-14.53.24:828][617]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-14.53.24:828][617]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-14.53.24:828][617]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-14.53.35:121][382]LogEditorModes: Warning: ITF Gizmos and Controls have been disabled. The "Landscape" Editor Mode requires the legacy systems.
+[2026.10.27-14.53.52:619][921]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.10.27-14.54.13:058][652]Cmd: TRANSACTION UNDO
+[2026.10.27-14.54.13:058][652]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2026.10.27-14.54.38:653][503]Cmd: TRANSACTION UNDO
+[2026.10.27-14.54.38:653][503]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.27-14.54.38:665][503]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 64x512 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.27-14.54.54:674][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-14.54.54:731][574]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.54.54:731][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-14.54.54:731][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-14.54.54:803][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.10.27-14.54.54:809][574]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 64x512 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.27-14.54.54:831][574]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.54.54:832][574]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_DiegoLevelTestCF7D45F5422C5CE7A3FE76A887EAD0F6.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-14.54.54:859][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.839 ms (total: 1.90 sec)
+[2026.10.27-14.54.54:931][574]LogContentValidation: Enabled validators:
+[2026.10.27-14.54.54:931][574]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-14.54.54:931][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-14.54.54:931][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-14.54.54:931][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-14.54.54:931][574]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-14.54.54:931][574]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-14.54.54:931][574]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-14.54.54:931][574]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-14.54.54:931][574]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-14.54.54:931][574]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-14.54.54:931][574]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-14.54.54:931][574]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-14.54.54:931][574]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-14.54.54:931][574]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-14.54.54:931][574]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-14.54.54:931][574]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-14.54.54:931][574]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-14.54.54:931][574]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-14.54.54:931][574]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-14.54.54:931][574]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-14.54.54:931][574]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-14.54.54:931][574]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-14.55.15:488][833]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.10.27-14.55.30:700][893]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.10.27-14.55.30:873][893]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.10.27-14.55.32:106][967]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.10.27-14.55.32:727][999]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.10.27-14.55.47:128][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-14.55.47:200][973]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.55.47:200][973]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-14.55.47:200][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-14.55.47:262][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.10.27-14.55.47:285][973]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.55.47:286][973]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_DiegoLevelTestCE81BEE54CA0B1208A14DD8916DEEFE2.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-14.55.47:317][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.905 ms (total: 2.09 sec)
+[2026.10.27-14.55.47:382][973]LogContentValidation: Enabled validators:
+[2026.10.27-14.55.47:383][973]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-14.55.47:383][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-14.55.47:383][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-14.55.47:383][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-14.55.47:383][973]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-14.55.47:383][973]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-14.55.47:383][973]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-14.55.47:383][973]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-14.55.47:383][973]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-14.55.47:383][973]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-14.55.47:383][973]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-14.55.47:383][973]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-14.55.47:383][973]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-14.55.47:383][973]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-14.55.47:383][973]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-14.55.47:383][973]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-14.55.47:383][973]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-14.55.47:383][973]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-14.55.47:383][973]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-14.55.47:383][973]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-14.55.47:383][973]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-14.55.47:383][973]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-14.56.11:786][792]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.10.27-14.56.15:154][ 21]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1002.976929
+[2026.10.27-14.56.15:315][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.27-14.56.15:316][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1003.125977, Update Interval: 348.192993
+[2026.10.27-14.57.14:457][442]Cmd: DUPLICATE
+[2026.10.27-14.57.14:457][442]Cmd: ACTOR DUPLICATE
+[2026.10.27-14.57.30:985][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-14.57.31:056][501]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.57.31:056][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-14.57.31:056][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-14.57.31:124][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.10.27-14.57.31:151][501]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.57.31:152][501]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_DiegoLevelTestDF0CF06844264CD94F3F38A9F954E3A6.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-14.57.31:179][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.286 ms (total: 2.28 sec)
+[2026.10.27-14.57.31:236][501]LogContentValidation: Enabled validators:
+[2026.10.27-14.57.31:236][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-14.57.31:236][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-14.57.31:236][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-14.57.31:236][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-14.57.31:236][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-14.57.31:236][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-14.57.31:236][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-14.57.31:236][501]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-14.57.31:236][501]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-14.57.31:237][501]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-14.57.31:237][501]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-14.57.31:237][501]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-14.57.31:237][501]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-14.57.31:237][501]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-14.57.31:237][501]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-14.57.31:237][501]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-14.57.31:237][501]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-14.57.31:237][501]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-14.57.31:237][501]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-14.57.31:237][501]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-14.57.31:237][501]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-14.57.31:237][501]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-14.57.37:974][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-14.57.38:038][964]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.57.38:038][964]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-14.57.38:038][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-14.57.38:095][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.10.27-14.57.38:121][964]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.57.38:122][964]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_DiegoLevelTest7A4EFA2B43B45AE9805052A6948D242E.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-14.57.38:148][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.282 ms (total: 2.46 sec)
+[2026.10.27-14.57.38:219][964]LogContentValidation: Enabled validators:
+[2026.10.27-14.57.38:219][964]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-14.57.38:220][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-14.57.38:220][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-14.57.38:220][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-14.57.38:220][964]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-14.57.38:220][964]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-14.57.38:220][964]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-14.57.38:220][964]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-14.57.38:220][964]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-14.57.38:220][964]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-14.57.38:220][964]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-14.57.38:220][964]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-14.57.38:220][964]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-14.57.38:220][964]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-14.57.38:220][964]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-14.57.38:220][964]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-14.57.38:220][964]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-14.57.38:220][964]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-14.57.38:220][964]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-14.57.38:220][964]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-14.57.38:220][964]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-14.57.38:220][964]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-14.57.45:455][553]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.10.27-14.57.59:587][574]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.10.27-14.58.05:457][942]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-14.58.05:522][942]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.58.05:522][942]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-14.58.05:522][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-14.58.05:579][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.10.27-14.58.05:610][942]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.58.05:610][942]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_DiegoLevelTest49757ED0467D192B0A175696B56C8B06.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-14.58.05:641][942]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.029 ms (total: 2.64 sec)
+[2026.10.27-14.58.05:705][942]LogContentValidation: Enabled validators:
+[2026.10.27-14.58.05:705][942]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-14.58.05:705][942]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-14.58.05:705][942]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-14.58.05:705][942]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-14.58.05:705][942]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-14.58.05:705][942]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-14.58.05:705][942]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-14.58.05:705][942]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-14.58.05:705][942]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-14.58.05:705][942]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-14.58.05:705][942]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-14.58.05:706][942]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-14.58.05:706][942]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-14.58.05:706][942]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-14.58.05:706][942]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-14.58.05:706][942]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-14.58.05:706][942]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-14.58.05:706][942]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-14.58.05:706][942]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-14.58.05:706][942]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-14.58.05:706][942]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-14.58.05:706][942]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-14.58.34:597][215]Cmd: TRANSACTION UNDO
+[2026.10.27-14.58.34:597][215]LogEditorTransaction: Undo Transform
+[2026.10.27-14.58.34:744][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_305' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.34:744][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_306' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.34:744][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_307' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.34:744][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_308' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.34:745][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_309' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.34:745][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_310' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.34:745][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_311' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.34:745][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_312' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.34:745][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_313' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.34:745][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_314' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.34:746][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_315' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.34:746][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_316' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.34:746][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_317' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.34:746][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_318' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.34:746][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.ModelComponent_319' invalid (220 verts, 0 indices).
+[2026.10.27-14.58.46:028][123]Cmd: TRANSACTION UNDO
+[2026.10.27-14.58.46:028][123]LogEditorTransaction: Undo Transform
+[2026.10.27-14.59.03:611][513]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.10.27-14.59.27:137][244]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-14.59.27:209][244]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.59.27:210][244]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-14.59.27:210][244]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-14.59.27:270][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.10.27-14.59.27:300][244]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-14.59.27:301][244]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_DiegoLevelTest4231CCBD42781BB74FDF18A1D05F9805.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-14.59.27:416][244]LogFileHelpers: InternalPromptForCheckoutAndSave took 278.498 ms (total: 2.92 sec)
+[2026.10.27-14.59.27:477][244]LogContentValidation: Enabled validators:
+[2026.10.27-14.59.27:477][244]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-14.59.27:477][244]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-14.59.27:477][244]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-14.59.27:477][244]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-14.59.27:477][244]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-14.59.27:477][244]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-14.59.27:477][244]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-14.59.27:477][244]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-14.59.27:477][244]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-14.59.27:477][244]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-14.59.27:477][244]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-14.59.27:478][244]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-14.59.27:478][244]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-14.59.27:478][244]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-14.59.27:478][244]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-14.59.27:478][244]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-14.59.27:478][244]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-14.59.27:478][244]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-14.59.27:478][244]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-14.59.27:478][244]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-14.59.27:478][244]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-14.59.27:478][244]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-14.59.30:311][421]Cmd: DELETE
+[2026.10.27-14.59.30:312][421]Cmd: ACTOR DELETE
+[2026.10.27-14.59.30:458][421]LogEditorActor: Deleted Actor: Brush
+[2026.10.27-14.59.30:559][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.10.27-14.59.30:599][421]LogEditorActor: Deleted 1 Actors (0.274 secs)
+[2026.10.27-14.59.31:871][492]Cmd: DUPLICATE
+[2026.10.27-14.59.31:871][492]Cmd: ACTOR DUPLICATE
+[2026.10.27-14.59.33:602][586]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.10.27-14.59.35:454][704]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.10.27-14.59.50:923][734]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.10.27-15.00.11:341][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-15.00.11:412][194]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-15.00.11:413][194]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-15.00.11:413][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-15.00.11:468][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.10.27-15.00.11:500][194]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-15.00.11:500][194]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_DiegoLevelTest349A232D49A6074EB97FF6B343B9812E.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-15.00.11:579][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 238.357 ms (total: 3.16 sec)
+[2026.10.27-15.00.11:630][194]LogContentValidation: Enabled validators:
+[2026.10.27-15.00.11:630][194]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-15.00.11:630][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-15.00.11:630][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-15.00.11:630][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-15.00.11:630][194]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-15.00.11:630][194]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-15.00.11:630][194]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-15.00.11:630][194]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-15.00.11:630][194]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-15.00.11:630][194]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-15.00.11:630][194]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-15.00.11:630][194]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-15.00.11:630][194]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-15.00.11:630][194]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-15.00.11:630][194]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-15.00.11:630][194]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-15.00.11:630][194]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-15.00.11:630][194]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-15.00.11:630][194]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-15.00.11:631][194]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-15.00.11:631][194]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-15.00.11:631][194]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-15.00.20:205][889]LogStreaming: Display: FlushAsyncLoading(373): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.27-15.00.21:463][889]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike_C
+[2026.10.27-15.00.21:463][889]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike_C
+[2026.10.27-15.00.21:513][889]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike as actor: BP_Bike_C /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.BP_Bike_C_0
+[2026.10.27-15.00.21:663][889]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike as actor: BP_Bike_C /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.BP_Bike_C_0
+[2026.10.27-15.00.21:800][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.10.27-15.00.21:859][890]LogEditorActor: Deleted 0 Actors (0.113 secs)
+[2026.10.27-15.00.21:866][890]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike_C
+[2026.10.27-15.00.21:866][890]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike_C
+[2026.10.27-15.00.21:872][890]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike as actor: BP_Bike_C /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.BP_Bike_C_1
+[2026.10.27-15.00.21:877][890]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike as actor: BP_Bike_C /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.BP_Bike_C_1
+[2026.10.27-15.00.28:790][186]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.10.27-15.00.45:346][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-15.00.45:397][946]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-15.00.45:398][946]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-15.00.45:398][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-15.00.45:469][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.27-15.00.45:518][946]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-15.00.45:518][946]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_DiegoLevelTest061D37BD472A945FBF248794451FCADC.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-15.00.45:546][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.906 ms (total: 3.36 sec)
+[2026.10.27-15.00.45:699][946]LogContentValidation: Enabled validators:
+[2026.10.27-15.00.45:699][946]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-15.00.45:699][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-15.00.45:699][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-15.00.45:699][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-15.00.45:699][946]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-15.00.45:699][946]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-15.00.45:699][946]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-15.00.45:699][946]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-15.00.45:699][946]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-15.00.45:699][946]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-15.00.45:699][946]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-15.00.45:699][946]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-15.00.45:699][946]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-15.00.45:699][946]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-15.00.45:699][946]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-15.00.45:699][946]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-15.00.45:699][946]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-15.00.45:699][946]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-15.00.45:699][946]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-15.00.45:699][946]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-15.00.45:699][946]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-15.00.45:699][946]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-15.00.51:570][200]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager_C
+[2026.10.27-15.00.51:570][200]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager_C
+[2026.10.27-15.00.51:595][200]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager as actor: BP_RaceManager_C /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.BP_RaceManager_C_0
+[2026.10.27-15.00.51:597][200]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager as actor: BP_RaceManager_C /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.BP_RaceManager_C_0
+[2026.10.27-15.00.52:855][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.10.27-15.00.52:856][296]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2026.10.27-15.00.52:862][296]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager_C
+[2026.10.27-15.00.52:862][296]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager_C
+[2026.10.27-15.00.52:865][296]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager as actor: BP_RaceManager_C /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.BP_RaceManager_C_1
+[2026.10.27-15.00.52:866][296]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager as actor: BP_RaceManager_C /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.BP_RaceManager_C_1
+[2026.10.27-15.00.54:508][400]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.10.27-15.00.55:064][433]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.10.27-15.00.55:611][475]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.10.27-15.01.28:930][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-15.01.28:997][958]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-15.01.28:998][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-15.01.28:998][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-15.01.29:058][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.10.27-15.01.29:091][958]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-15.01.29:092][958]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_DiegoLevelTest1DE519E0413FE4CAA13F319AA6C289A6.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-15.01.29:130][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.545 ms (total: 3.56 sec)
+[2026.10.27-15.01.29:198][958]LogContentValidation: Enabled validators:
+[2026.10.27-15.01.29:198][958]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-15.01.29:198][958]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-15.01.29:198][958]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-15.01.29:198][958]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-15.01.29:198][958]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-15.01.29:198][958]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-15.01.29:198][958]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-15.01.29:198][958]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-15.01.29:198][958]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-15.01.29:198][958]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-15.01.29:199][958]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-15.01.29:199][958]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-15.01.29:199][958]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-15.01.29:199][958]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-15.01.29:199][958]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-15.01.29:199][958]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-15.01.29:199][958]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-15.01.29:199][958]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-15.01.29:199][958]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-15.01.29:199][958]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-15.01.29:199][958]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-15.01.29:199][958]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
