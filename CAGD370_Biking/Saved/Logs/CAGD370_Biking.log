@@ -5353,3 +5353,866 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2026.10.27-15.08.18:002][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
 [2026.10.27-15.08.18:034][870]LogPlayLevel: Display: Destroying online subsystem :Context_11
 [2026.10.27-15.08.18:079][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.10.27-15.09.14:809][243]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-15.09.14:896][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2026.10.27-15.09.15:272][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-15.09.15:334][261]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-15.09.15:334][261]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-15.09.15:334][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-15.09.15:355][261]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-15.09.15:356][261]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/BP_RaceManager8F35880A41B2F6B4BC6882BD4DDA98DC.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-15.09.15:366][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.586 ms (total: 4.61 sec)
+[2026.10.27-15.09.15:434][261]LogContentValidation: Enabled validators:
+[2026.10.27-15.09.15:434][261]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-15.09.15:434][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-15.09.15:434][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-15.09.15:434][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-15.09.15:434][261]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-15.09.15:434][261]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-15.09.15:434][261]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-15.09.15:434][261]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-15.09.15:434][261]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-15.09.15:434][261]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-15.09.15:434][261]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-15.09.15:434][261]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-15.09.15:434][261]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-15.09.15:434][261]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-15.09.15:434][261]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-15.09.15:434][261]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-15.09.15:434][261]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-15.09.15:434][261]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-15.09.15:434][261]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-15.09.15:434][261]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-15.09.15:434][261]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-15.09.15:435][261]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-15.09.17:355][444]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.27-15.09.17:364][444]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.27-15.09.17:364][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.27-15.09.17:364][444]LogPlayLevel: Creating play world package: /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_MainMenu
+[2026.10.27-15.09.17:365][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001120s)
+[2026.10.27-15.09.17:365][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Tophers_Work/_Levels/LV_MainMenu.LV_MainMenu to /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001168s)
+[2026.10.27-15.09.17:409][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.10.27-15.09.17:412][444]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2026.10.27-15.09.17:414][444]LogPlayLevel: PIE: World Init took: (0.002322s)
+[2026.10.27-15.09.17:414][444]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.10.27-15.09.17:414][444]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.27-15.09.17:414][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.27-15.09.17:414][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.27-15.09.17:414][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.27-15.09.17:414][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.27-15.09.17:414][444]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.27-15.09.17:414][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.27-15.09.17:414][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.27-15.09.17:414][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.27-15.09.17:414][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.27-15.09.17:414][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.27-15.09.17:414][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.27-15.09.17:414][444]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.27-15.09.17:421][444]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.10.27-15.09.17:422][444]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (JOUNIVO JV610)'
+[2026.10.27-15.09.17:424][444]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.10.27-15.09.17:425][444]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (JOUNIVO JV610)'
+[2026.10.27-15.09.17:426][444]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Oculus Virtual Audio Device)'
+[2026.10.27-15.09.17:427][444]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (JOUNIVO JV610)'
+[2026.10.27-15.09.17:432][444]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.27-15.09.17:432][444]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.27-15.09.17:432][444]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.27-15.09.17:433][444]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.27-15.09.17:436][444]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.27-15.09.17:436][444]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.27-15.09.17:436][444]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.27-15.09.17:436][444]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.10.27-15.09.17:436][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.27-15.09.17:436][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.27-15.09.17:436][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.27-15.09.17:437][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.10.27-15.09.17:439][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.10.27-15.09.17:442][444]LogInit: FAudioDevice initialized with ID 8.
+[2026.10.27-15.09.17:442][444]LogAudio: Display: Audio Device (ID: 8) registered with world 'LV_MainMenu'.
+[2026.10.27-15.09.17:442][444]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.10.27-15.09.17:443][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-15.09.17:446][444]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.27-15.09.17:447][444]LogWorld: Bringing World /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 0) at 2026.10.27-08.09.17
+[2026.10.27-15.09.17:447][444]LogWorld: Bringing up level for play took: 0.000423
+[2026.10.27-15.09.17:450][444]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.10.27-15.09.17:451][444]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.27-15.09.17:453][444]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(976)]!
+[2026.10.27-15.09.17:453][444]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.27-15.09.17:453][444]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.27-15.09.17:453][444]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.27-15.09.17:453][444]PIE: Server logged in
+[2026.10.27-15.09.17:456][444]PIE: Play in editor total start time 0.092 seconds.
+[2026.10.27-15.09.18:201][529]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/_Tophers_Work/_Levels/LV_LevelSelect"
+[2026.10.27-15.09.18:201][529]LogNet: Browse: /Game/_Tophers_Work/_Levels/LV_LevelSelect
+[2026.10.27-15.09.18:201][529]LogLoad: LoadMap: /Game/_Tophers_Work/_Levels/LV_LevelSelect
+[2026.10.27-15.09.18:201][529]LogWorld: BeginTearingDown for /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_MainMenu
+[2026.10.27-15.09.18:202][529]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-15.09.18:202][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-15.09.18:285][529]LogAudio: Display: Audio Device unregistered from world 'LV_MainMenu'.
+[2026.10.27-15.09.18:288][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.10.27-15.09.18:290][529]LogStreaming: Display: FlushAsyncLoading(624): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.27-15.09.18:291][529]LogAudio: Display: Audio Device (ID: 8) registered with world 'LV_LevelSelect'.
+[2026.10.27-15.09.18:291][529]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_LevelSelect
+[2026.10.27-15.09.18:294][529]LogPlayLevel: PIE: World Init took: (0.002488s)
+[2026.10.27-15.09.18:294][529]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.27-15.09.18:294][529]LogWorld: Bringing World /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_LevelSelect.LV_LevelSelect up for play (max tick rate 0) at 2026.10.27-08.09.18
+[2026.10.27-15.09.18:295][529]LogWorld: Bringing up level for play took: 0.000700
+[2026.10.27-15.09.18:295][529]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.10.27-15.09.18:296][529]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(976)]!
+[2026.10.27-15.09.18:296][529]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.27-15.09.18:297][529]LogLoad: Took 0.095799 seconds to LoadMap(/Game/_Tophers_Work/_Levels/LV_LevelSelect)
+[2026.10.27-15.09.18:297][529]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/_Tophers_Work/_Levels/LV_LevelSelect
+[2026.10.27-15.09.19:760][699]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/_DiegoLevelTest"
+[2026.10.27-15.09.19:760][699]LogNet: Browse: /Game/Levels/_DiegoLevelTest
+[2026.10.27-15.09.19:760][699]LogLoad: LoadMap: /Game/Levels/_DiegoLevelTest
+[2026.10.27-15.09.19:760][699]LogWorld: BeginTearingDown for /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_LevelSelect
+[2026.10.27-15.09.19:761][699]LogWorld: UWorld::CleanupWorld for LV_LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-15.09.19:761][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-15.09.19:837][699]LogAudio: Display: Audio Device unregistered from world 'LV_LevelSelect'.
+[2026.10.27-15.09.19:840][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.10.27-15.09.19:842][699]LogStreaming: Display: FlushAsyncLoading(625): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.27-15.09.19:961][699]LogAudio: Display: Audio Device (ID: 8) registered with world '_DiegoLevelTest'.
+[2026.10.27-15.09.19:961][699]LogChaosDD: Creating Chaos Debug Draw Scene for world _DiegoLevelTest
+[2026.10.27-15.09.19:964][699]LogPlayLevel: PIE: World Init took: (0.003034s)
+[2026.10.27-15.09.19:964][699]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.27-15.09.19:970][699]LogWorld: Bringing World /Game/Levels/UEDPIE_0__DiegoLevelTest._DiegoLevelTest up for play (max tick rate 0) at 2026.10.27-08.09.19
+[2026.10.27-15.09.19:970][699]LogWorld: Bringing up level for play took: 0.005572
+[2026.10.27-15.09.19:971][699]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.27-15.09.19:971][699]LogLoad: Took 0.211188 seconds to LoadMap(/Game/Levels/_DiegoLevelTest)
+[2026.10.27-15.09.19:971][699]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/_DiegoLevelTest
+[2026.10.27-15.09.19:988][700]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.10.27-15.09.19:988][700]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.10.27-15.09.20:762][750]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.27-15.09.21:771][823]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.27-15.09.22:777][896]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.27-15.09.22:777][896]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.27-15.09.22:777][896]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:00
+[2026.10.27-15.09.22:880][903]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:10
+[2026.10.27-15.09.22:981][910]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:20
+[2026.10.27-15.09.23:085][917]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:30
+[2026.10.27-15.09.23:186][924]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:40
+[2026.10.27-15.09.23:289][931]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:50
+[2026.10.27-15.09.23:394][938]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:60
+[2026.10.27-15.09.23:497][945]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:70
+[2026.10.27-15.09.23:600][952]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:80
+[2026.10.27-15.09.23:702][959]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:90
+[2026.10.27-15.09.23:808][966]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:00
+[2026.10.27-15.09.23:908][973]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:10
+[2026.10.27-15.09.24:015][980]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:20
+[2026.10.27-15.09.24:117][987]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:30
+[2026.10.27-15.09.24:220][994]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:40
+[2026.10.27-15.09.24:326][  1]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:50
+[2026.10.27-15.09.24:432][  8]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:60
+[2026.10.27-15.09.24:540][ 15]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:70
+[2026.10.27-15.09.24:643][ 22]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:80
+[2026.10.27-15.09.24:751][ 29]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:90
+[2026.10.27-15.09.24:855][ 36]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:00
+[2026.10.27-15.09.24:969][ 43]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:10
+[2026.10.27-15.09.25:078][ 50]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:20
+[2026.10.27-15.09.25:179][ 57]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:30
+[2026.10.27-15.09.25:284][ 64]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:40
+[2026.10.27-15.09.25:386][ 71]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:50
+[2026.10.27-15.09.25:491][ 77]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:60
+[2026.10.27-15.09.25:594][ 84]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:70
+[2026.10.27-15.09.25:702][ 91]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:80
+[2026.10.27-15.09.25:818][ 98]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:90
+[2026.10.27-15.09.25:926][105]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:00
+[2026.10.27-15.09.26:039][112]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:10
+[2026.10.27-15.09.26:146][119]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:20
+[2026.10.27-15.09.26:261][126]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:30
+[2026.10.27-15.09.26:371][133]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:40
+[2026.10.27-15.09.26:492][139]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:50
+[2026.10.27-15.09.26:592][145]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:60
+[2026.10.27-15.09.26:706][152]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:70
+[2026.10.27-15.09.26:823][159]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:80
+[2026.10.27-15.09.26:938][166]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:90
+[2026.10.27-15.09.27:047][172]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:00
+[2026.10.27-15.09.27:156][178]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:10
+[2026.10.27-15.09.27:265][184]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:20
+[2026.10.27-15.09.27:377][190]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:30
+[2026.10.27-15.09.27:494][195]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:40
+[2026.10.27-15.09.27:619][200]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:50
+[2026.10.27-15.09.27:721][205]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:60
+[2026.10.27-15.09.27:838][211]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:70
+[2026.10.27-15.09.27:955][217]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:80
+[2026.10.27-15.09.28:068][223]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:90
+[2026.10.27-15.09.28:180][229]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:00
+[2026.10.27-15.09.28:298][235]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:10
+[2026.10.27-15.09.28:400][240]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:20
+[2026.10.27-15.09.28:522][245]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:30
+[2026.10.27-15.09.28:639][250]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:40
+[2026.10.27-15.09.28:756][256]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:50
+[2026.10.27-15.09.28:871][262]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:60
+[2026.10.27-15.09.28:981][268]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:70
+[2026.10.27-15.09.29:085][273]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:80
+[2026.10.27-15.09.29:195][279]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:90
+[2026.10.27-15.09.29:305][285]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:00
+[2026.10.27-15.09.29:418][291]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:10
+[2026.10.27-15.09.29:539][295]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:20
+[2026.10.27-15.09.29:654][299]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:30
+[2026.10.27-15.09.29:757][304]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:40
+[2026.10.27-15.09.29:872][310]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:50
+[2026.10.27-15.09.29:982][316]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:60
+[2026.10.27-15.09.30:090][322]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:70
+[2026.10.27-15.09.30:191][328]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:80
+[2026.10.27-15.09.30:306][335]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:90
+[2026.10.27-15.09.30:424][342]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:00
+[2026.10.27-15.09.30:531][347]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:10
+[2026.10.27-15.09.30:638][352]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:20
+[2026.10.27-15.09.30:753][359]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:30
+[2026.10.27-15.09.30:855][365]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:40
+[2026.10.27-15.09.30:966][371]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:50
+[2026.10.27-15.09.31:082][378]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:60
+[2026.10.27-15.09.31:182][384]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:70
+[2026.10.27-15.09.31:294][391]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:80
+[2026.10.27-15.09.31:397][397]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:90
+[2026.10.27-15.09.31:506][402]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:00
+[2026.10.27-15.09.31:608][407]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:10
+[2026.10.27-15.09.31:710][413]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:20
+[2026.10.27-15.09.31:824][420]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:30
+[2026.10.27-15.09.31:942][427]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:40
+[2026.10.27-15.09.32:056][434]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:50
+[2026.10.27-15.09.32:169][441]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:60
+[2026.10.27-15.09.32:283][448]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:70
+[2026.10.27-15.09.32:397][455]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:80
+[2026.10.27-15.09.32:502][460]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:90
+[2026.10.27-15.09.32:608][465]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:00
+[2026.10.27-15.09.32:714][471]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:10
+[2026.10.27-15.09.32:814][477]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:20
+[2026.10.27-15.09.32:930][484]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:30
+[2026.10.27-15.09.33:031][490]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:40
+[2026.10.27-15.09.33:144][497]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:50
+[2026.10.27-15.09.33:260][504]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:60
+[2026.10.27-15.09.33:360][510]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:70
+[2026.10.27-15.09.33:484][516]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:80
+[2026.10.27-15.09.33:595][521]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:90
+[2026.10.27-15.09.33:709][527]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:00
+[2026.10.27-15.09.33:820][533]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:10
+[2026.10.27-15.09.33:932][539]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:20
+[2026.10.27-15.09.34:047][544]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:30
+[2026.10.27-15.09.34:146][549]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:40
+[2026.10.27-15.09.34:258][555]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:50
+[2026.10.27-15.09.34:374][561]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:60
+[2026.10.27-15.09.34:487][566]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:70
+[2026.10.27-15.09.34:603][571]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:80
+[2026.10.27-15.09.34:706][576]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:90
+[2026.10.27-15.09.34:813][582]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:00
+[2026.10.27-15.09.34:926][588]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:10
+[2026.10.27-15.09.35:038][594]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:20
+[2026.10.27-15.09.35:149][600]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:30
+[2026.10.27-15.09.35:259][606]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:40
+[2026.10.27-15.09.35:368][612]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:50
+[2026.10.27-15.09.35:486][617]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:60
+[2026.10.27-15.09.35:595][622]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:70
+[2026.10.27-15.09.35:708][628]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:80
+[2026.10.27-15.09.35:824][635]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:90
+[2026.10.27-15.09.35:924][641]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:00
+[2026.10.27-15.09.36:035][647]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:10
+[2026.10.27-15.09.36:135][653]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:20
+[2026.10.27-15.09.36:248][660]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:30
+[2026.10.27-15.09.36:364][667]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:40
+[2026.10.27-15.09.36:490][673]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:50
+[2026.10.27-15.09.36:596][677]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:60
+[2026.10.27-15.09.36:697][682]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:70
+[2026.10.27-15.09.36:810][689]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:80
+[2026.10.27-15.09.36:911][695]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:90
+[2026.10.27-15.09.37:015][701]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:00
+[2026.10.27-15.09.37:130][708]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:10
+[2026.10.27-15.09.37:246][715]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:20
+[2026.10.27-15.09.37:362][722]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:30
+[2026.10.27-15.09.37:485][728]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:40
+[2026.10.27-15.09.37:586][733]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:50
+[2026.10.27-15.09.37:687][739]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:60
+[2026.10.27-15.09.37:791][745]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:70
+[2026.10.27-15.09.37:907][752]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:80
+[2026.10.27-15.09.38:023][759]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:90
+[2026.10.27-15.09.38:141][766]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:00
+[2026.10.27-15.09.38:255][773]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:10
+[2026.10.27-15.09.38:372][780]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:20
+[2026.10.27-15.09.38:475][785]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:30
+[2026.10.27-15.09.38:579][789]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:40
+[2026.10.27-15.09.38:694][794]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:50
+[2026.10.27-15.09.38:795][800]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:60
+[2026.10.27-15.09.38:910][807]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:70
+[2026.10.27-15.09.39:011][813]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:80
+[2026.10.27-15.09.39:124][820]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:90
+[2026.10.27-15.09.39:236][826]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:00
+[2026.10.27-15.09.39:346][832]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:10
+[2026.10.27-15.09.39:449][837]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:20
+[2026.10.27-15.09.39:569][842]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:30
+[2026.10.27-15.09.39:670][847]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:40
+[2026.10.27-15.09.39:779][853]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:50
+[2026.10.27-15.09.39:889][859]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:60
+[2026.10.27-15.09.40:004][865]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:70
+[2026.10.27-15.09.40:116][871]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:80
+[2026.10.27-15.09.40:227][877]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:90
+[2026.10.27-15.09.40:337][883]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:00
+[2026.10.27-15.09.40:461][889]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:10
+[2026.10.27-15.09.40:581][894]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:20
+[2026.10.27-15.09.40:691][899]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:30
+[2026.10.27-15.09.40:795][905]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:40
+[2026.10.27-15.09.40:896][911]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:50
+[2026.10.27-15.09.41:014][918]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:60
+[2026.10.27-15.09.41:122][924]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:70
+[2026.10.27-15.09.41:224][930]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:80
+[2026.10.27-15.09.41:338][937]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:90
+[2026.10.27-15.09.41:461][943]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:00
+[2026.10.27-15.09.41:578][948]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:10
+[2026.10.27-15.09.41:688][954]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:20
+[2026.10.27-15.09.41:795][960]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:30
+[2026.10.27-15.09.41:910][967]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:40
+[2026.10.27-15.09.42:018][973]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:50
+[2026.10.27-15.09.42:118][979]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:60
+[2026.10.27-15.09.42:235][986]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:70
+[2026.10.27-15.09.42:336][992]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:80
+[2026.10.27-15.09.42:438][998]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:90
+[2026.10.27-15.09.42:547][  3]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:00
+[2026.10.27-15.09.42:651][  8]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:10
+[2026.10.27-15.09.42:769][ 15]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:20
+[2026.10.27-15.09.42:876][ 21]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:30
+[2026.10.27-15.09.42:981][ 27]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:40
+[2026.10.27-15.09.43:084][ 32]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:50
+[2026.10.27-15.09.43:193][ 38]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:60
+[2026.10.27-15.09.43:309][ 45]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:70
+[2026.10.27-15.09.43:417][ 51]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:80
+[2026.10.27-15.09.43:527][ 56]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:90
+[2026.10.27-15.09.43:628][ 61]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:00
+[2026.10.27-15.09.43:733][ 67]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:10
+[2026.10.27-15.09.43:835][ 73]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:20
+[2026.10.27-15.09.43:951][ 80]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:30
+[2026.10.27-15.09.44:069][ 87]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:40
+[2026.10.27-15.09.44:169][ 93]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:50
+[2026.10.27-15.09.44:286][100]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:60
+[2026.10.27-15.09.44:391][106]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:70
+[2026.10.27-15.09.44:502][111]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:80
+[2026.10.27-15.09.44:607][116]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:90
+[2026.10.27-15.09.44:717][122]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:00
+[2026.10.27-15.09.44:827][128]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:10
+[2026.10.27-15.09.44:939][134]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:20
+[2026.10.27-15.09.45:051][140]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:30
+[2026.10.27-15.09.45:165][146]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:40
+[2026.10.27-15.09.45:275][152]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:50
+[2026.10.27-15.09.45:388][158]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:60
+[2026.10.27-15.09.45:507][163]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:70
+[2026.10.27-15.09.45:622][168]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:80
+[2026.10.27-15.09.45:723][173]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:90
+[2026.10.27-15.09.45:831][179]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:00
+[2026.10.27-15.09.45:931][185]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:10
+[2026.10.27-15.09.46:036][191]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:20
+[2026.10.27-15.09.46:140][197]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:30
+[2026.10.27-15.09.46:257][204]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:40
+[2026.10.27-15.09.46:361][210]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:50
+[2026.10.27-15.09.46:479][216]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:60
+[2026.10.27-15.09.46:591][221]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:70
+[2026.10.27-15.09.46:705][227]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:80
+[2026.10.27-15.09.46:810][233]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:90
+[2026.10.27-15.09.46:914][239]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:00
+[2026.10.27-15.09.47:017][245]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:10
+[2026.10.27-15.09.47:125][251]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:20
+[2026.10.27-15.09.47:226][257]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:30
+[2026.10.27-15.09.47:342][264]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:40
+[2026.10.27-15.09.47:456][270]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:50
+[2026.10.27-15.09.47:559][274]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:60
+[2026.10.27-15.09.47:664][278]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:70
+[2026.10.27-15.09.47:777][284]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:80
+[2026.10.27-15.09.47:882][290]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:90
+[2026.10.27-15.09.47:982][296]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:00
+[2026.10.27-15.09.48:094][303]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:10
+[2026.10.27-15.09.48:196][309]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:20
+[2026.10.27-15.09.48:311][316]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:30
+[2026.10.27-15.09.48:416][322]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:40
+[2026.10.27-15.09.48:524][327]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:50
+[2026.10.27-15.09.48:634][333]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:60
+[2026.10.27-15.09.48:734][339]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:70
+[2026.10.27-15.09.48:838][345]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:80
+[2026.10.27-15.09.48:937][351]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:90
+[2026.10.27-15.09.49:044][357]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:00
+[2026.10.27-15.09.49:145][363]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:10
+[2026.10.27-15.09.49:258][370]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:20
+[2026.10.27-15.09.49:375][377]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:30
+[2026.10.27-15.09.49:480][382]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:40
+[2026.10.27-15.09.49:589][387]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:50
+[2026.10.27-15.09.49:700][393]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:60
+[2026.10.27-15.09.49:805][399]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:70
+[2026.10.27-15.09.49:916][405]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:80
+[2026.10.27-15.09.50:025][411]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:90
+[2026.10.27-15.09.50:134][417]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:00
+[2026.10.27-15.09.50:245][423]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:10
+[2026.10.27-15.09.50:357][429]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:20
+[2026.10.27-15.09.50:459][434]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:30
+[2026.10.27-15.09.50:561][438]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:40
+[2026.10.27-15.09.50:677][443]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:50
+[2026.10.27-15.09.50:787][449]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:60
+[2026.10.27-15.09.50:897][455]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:70
+[2026.10.27-15.09.51:008][461]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:80
+[2026.10.27-15.09.51:117][467]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:90
+[2026.10.27-15.09.51:225][473]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:00
+[2026.10.27-15.09.51:326][479]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:10
+[2026.10.27-15.09.51:432][485]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:20
+[2026.10.27-15.09.51:547][490]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:30
+[2026.10.27-15.09.51:657][495]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:40
+[2026.10.27-15.09.51:758][501]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:50
+[2026.10.27-15.09.51:859][507]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:60
+[2026.10.27-15.09.51:968][513]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:70
+[2026.10.27-15.09.52:089][519]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:80
+[2026.10.27-15.09.52:200][525]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:90
+[2026.10.27-15.09.52:313][532]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:00
+[2026.10.27-15.09.52:429][539]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:10
+[2026.10.27-15.09.52:539][544]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:20
+[2026.10.27-15.09.52:650][549]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:30
+[2026.10.27-15.09.52:764][555]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:40
+[2026.10.27-15.09.52:876][561]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:50
+[2026.10.27-15.09.52:926][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-15.09.52:926][562]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0__DiegoLevelTest
+[2026.10.27-15.09.52:926][562]LogWorld: UWorld::CleanupWorld for _DiegoLevelTest, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-15.09.52:927][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-15.09.52:930][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.27-15.09.52:937][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-15.09.52:980][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-15.09.52:980][562]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.10.27-15.09.52:980][562]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=8, StreamState=4
+[2026.10.27-15.09.52:987][562]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.27-15.09.52:994][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.10.27-15.09.53:026][563]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.10.27-15.09.54:041][677]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.27-15.09.54:051][677]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.27-15.09.54:051][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.27-15.09.54:051][677]LogPlayLevel: Creating play world package: /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_MainMenu
+[2026.10.27-15.09.54:052][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001037s)
+[2026.10.27-15.09.54:052][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Tophers_Work/_Levels/LV_MainMenu.LV_MainMenu to /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001083s)
+[2026.10.27-15.09.54:098][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.10.27-15.09.54:099][677]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2026.10.27-15.09.54:102][677]LogPlayLevel: PIE: World Init took: (0.002450s)
+[2026.10.27-15.09.54:102][677]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.10.27-15.09.54:102][677]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.27-15.09.54:102][677]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.27-15.09.54:102][677]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.27-15.09.54:102][677]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.27-15.09.54:102][677]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.27-15.09.54:102][677]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.27-15.09.54:102][677]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.27-15.09.54:102][677]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.27-15.09.54:102][677]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.27-15.09.54:102][677]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.27-15.09.54:102][677]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.27-15.09.54:102][677]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.27-15.09.54:102][677]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.27-15.09.54:110][677]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.10.27-15.09.54:111][677]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (JOUNIVO JV610)'
+[2026.10.27-15.09.54:112][677]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.10.27-15.09.54:113][677]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (JOUNIVO JV610)'
+[2026.10.27-15.09.54:115][677]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Oculus Virtual Audio Device)'
+[2026.10.27-15.09.54:116][677]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (JOUNIVO JV610)'
+[2026.10.27-15.09.54:122][677]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.27-15.09.54:122][677]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.27-15.09.54:122][677]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.27-15.09.54:122][677]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.27-15.09.54:125][677]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.27-15.09.54:125][677]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.27-15.09.54:125][677]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.27-15.09.54:125][677]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.10.27-15.09.54:126][677]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.27-15.09.54:126][677]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.27-15.09.54:126][677]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.27-15.09.54:126][677]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.10.27-15.09.54:129][677]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.10.27-15.09.54:132][677]LogInit: FAudioDevice initialized with ID 9.
+[2026.10.27-15.09.54:132][677]LogAudio: Display: Audio Device (ID: 9) registered with world 'LV_MainMenu'.
+[2026.10.27-15.09.54:132][677]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.10.27-15.09.54:132][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-15.09.54:136][677]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.27-15.09.54:137][677]LogWorld: Bringing World /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 0) at 2026.10.27-08.09.54
+[2026.10.27-15.09.54:137][677]LogWorld: Bringing up level for play took: 0.000468
+[2026.10.27-15.09.54:140][677]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.10.27-15.09.54:141][677]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.27-15.09.54:142][677]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(976)]!
+[2026.10.27-15.09.54:142][677]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.27-15.09.54:142][677]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.27-15.09.54:142][677]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.27-15.09.54:142][677]PIE: Server logged in
+[2026.10.27-15.09.54:145][677]PIE: Play in editor total start time 0.094 seconds.
+[2026.10.27-15.09.54:834][757]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/_Tophers_Work/_Levels/LV_LevelSelect"
+[2026.10.27-15.09.54:834][757]LogNet: Browse: /Game/_Tophers_Work/_Levels/LV_LevelSelect
+[2026.10.27-15.09.54:834][757]LogLoad: LoadMap: /Game/_Tophers_Work/_Levels/LV_LevelSelect
+[2026.10.27-15.09.54:834][757]LogWorld: BeginTearingDown for /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_MainMenu
+[2026.10.27-15.09.54:835][757]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-15.09.54:835][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-15.09.54:908][757]LogAudio: Display: Audio Device unregistered from world 'LV_MainMenu'.
+[2026.10.27-15.09.54:912][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.10.27-15.09.54:913][757]LogStreaming: Display: FlushAsyncLoading(626): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.27-15.09.54:915][757]LogAudio: Display: Audio Device (ID: 9) registered with world 'LV_LevelSelect'.
+[2026.10.27-15.09.54:915][757]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_LevelSelect
+[2026.10.27-15.09.54:917][757]LogPlayLevel: PIE: World Init took: (0.002483s)
+[2026.10.27-15.09.54:917][757]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.27-15.09.54:918][757]LogWorld: Bringing World /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_LevelSelect.LV_LevelSelect up for play (max tick rate 0) at 2026.10.27-08.09.54
+[2026.10.27-15.09.54:918][757]LogWorld: Bringing up level for play took: 0.000720
+[2026.10.27-15.09.54:918][757]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.10.27-15.09.54:920][757]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(976)]!
+[2026.10.27-15.09.54:920][757]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.27-15.09.54:920][757]LogLoad: Took 0.085891 seconds to LoadMap(/Game/_Tophers_Work/_Levels/LV_LevelSelect)
+[2026.10.27-15.09.54:920][757]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/_Tophers_Work/_Levels/LV_LevelSelect
+[2026.10.27-15.09.55:698][846]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/_DiegoLevelTest"
+[2026.10.27-15.09.55:698][846]LogNet: Browse: /Game/Levels/_DiegoLevelTest
+[2026.10.27-15.09.55:698][846]LogLoad: LoadMap: /Game/Levels/_DiegoLevelTest
+[2026.10.27-15.09.55:698][846]LogWorld: BeginTearingDown for /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_LevelSelect
+[2026.10.27-15.09.55:699][846]LogWorld: UWorld::CleanupWorld for LV_LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-15.09.55:699][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-15.09.55:788][846]LogAudio: Display: Audio Device unregistered from world 'LV_LevelSelect'.
+[2026.10.27-15.09.55:791][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.10.27-15.09.55:793][846]LogStreaming: Display: FlushAsyncLoading(627): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.27-15.09.55:907][846]LogAudio: Display: Audio Device (ID: 9) registered with world '_DiegoLevelTest'.
+[2026.10.27-15.09.55:907][846]LogChaosDD: Creating Chaos Debug Draw Scene for world _DiegoLevelTest
+[2026.10.27-15.09.55:910][846]LogPlayLevel: PIE: World Init took: (0.002905s)
+[2026.10.27-15.09.55:910][846]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.27-15.09.55:917][846]LogWorld: Bringing World /Game/Levels/UEDPIE_0__DiegoLevelTest._DiegoLevelTest up for play (max tick rate 0) at 2026.10.27-08.09.55
+[2026.10.27-15.09.55:917][846]LogWorld: Bringing up level for play took: 0.005945
+[2026.10.27-15.09.55:918][846]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.27-15.09.55:918][846]LogLoad: Took 0.219607 seconds to LoadMap(/Game/Levels/_DiegoLevelTest)
+[2026.10.27-15.09.55:918][846]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/_DiegoLevelTest
+[2026.10.27-15.09.55:935][847]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.10.27-15.09.55:935][847]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.10.27-15.09.56:689][896]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.27-15.09.57:702][968]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.27-15.09.58:706][ 40]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.27-15.09.58:707][ 40]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.27-15.09.58:707][ 40]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:00
+[2026.10.27-15.09.58:810][ 47]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:10
+[2026.10.27-15.09.58:915][ 54]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:20
+[2026.10.27-15.09.59:030][ 62]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:30
+[2026.10.27-15.09.59:135][ 69]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:40
+[2026.10.27-15.09.59:236][ 76]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:50
+[2026.10.27-15.09.59:343][ 83]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:60
+[2026.10.27-15.09.59:446][ 90]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:70
+[2026.10.27-15.09.59:556][ 97]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:80
+[2026.10.27-15.09.59:658][104]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:90
+[2026.10.27-15.09.59:767][111]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:00
+[2026.10.27-15.09.59:872][118]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:10
+[2026.10.27-15.09.59:977][125]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:20
+[2026.10.27-15.10.00:085][132]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:30
+[2026.10.27-15.10.00:189][139]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:40
+[2026.10.27-15.10.00:298][146]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:50
+[2026.10.27-15.10.00:401][153]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:60
+[2026.10.27-15.10.00:512][160]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:70
+[2026.10.27-15.10.00:617][167]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:80
+[2026.10.27-15.10.00:722][174]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:90
+[2026.10.27-15.10.00:833][181]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:00
+[2026.10.27-15.10.00:940][188]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:10
+[2026.10.27-15.10.01:051][195]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:20
+[2026.10.27-15.10.01:154][201]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:30
+[2026.10.27-15.10.01:263][208]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:40
+[2026.10.27-15.10.01:368][215]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:50
+[2026.10.27-15.10.01:483][221]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:60
+[2026.10.27-15.10.01:593][228]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:70
+[2026.10.27-15.10.01:699][235]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:80
+[2026.10.27-15.10.01:818][242]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:90
+[2026.10.27-15.10.01:933][249]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:00
+[2026.10.27-15.10.02:034][253]LogBlueprintUserMessages: [BP_Bike_C_1] Bonk!
+[2026.10.27-15.10.02:045][254]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:10
+[2026.10.27-15.10.02:151][260]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:20
+[2026.10.27-15.10.02:264][267]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:30
+[2026.10.27-15.10.02:367][273]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:40
+[2026.10.27-15.10.02:484][279]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:50
+[2026.10.27-15.10.02:591][285]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:60
+[2026.10.27-15.10.02:701][291]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:70
+[2026.10.27-15.10.02:808][297]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:80
+[2026.10.27-15.10.02:919][303]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:90
+[2026.10.27-15.10.03:032][309]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:00
+[2026.10.27-15.10.03:145][315]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:10
+[2026.10.27-15.10.03:266][321]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:20
+[2026.10.27-15.10.03:367][326]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:30
+[2026.10.27-15.10.03:486][331]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:40
+[2026.10.27-15.10.03:592][335]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:50
+[2026.10.27-15.10.03:706][340]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:60
+[2026.10.27-15.10.03:809][345]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:70
+[2026.10.27-15.10.03:918][350]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:80
+[2026.10.27-15.10.04:022][355]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:90
+[2026.10.27-15.10.04:124][360]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:00
+[2026.10.27-15.10.04:224][365]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:10
+[2026.10.27-15.10.04:351][371]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:20
+[2026.10.27-15.10.04:464][376]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:30
+[2026.10.27-15.10.04:569][380]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:40
+[2026.10.27-15.10.04:681][385]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:50
+[2026.10.27-15.10.04:796][391]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:60
+[2026.10.27-15.10.04:917][397]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:70
+[2026.10.27-15.10.05:033][403]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:80
+[2026.10.27-15.10.05:150][409]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:90
+[2026.10.27-15.10.05:269][415]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:00
+[2026.10.27-15.10.05:379][421]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:10
+[2026.10.27-15.10.05:488][426]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:20
+[2026.10.27-15.10.05:604][431]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:30
+[2026.10.27-15.10.05:708][435]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:40
+[2026.10.27-15.10.05:813][440]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:50
+[2026.10.27-15.10.05:924][446]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:60
+[2026.10.27-15.10.06:029][452]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:70
+[2026.10.27-15.10.06:130][458]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:80
+[2026.10.27-15.10.06:245][465]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:90
+[2026.10.27-15.10.06:296][468]LogBlueprintUserMessages: [BP_Bike_C_1] Bonk!
+[2026.10.27-15.10.06:359][472]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:00
+[2026.10.27-15.10.06:475][478]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:10
+[2026.10.27-15.10.06:594][484]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:20
+[2026.10.27-15.10.06:695][490]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:30
+[2026.10.27-15.10.06:796][496]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:40
+[2026.10.27-15.10.06:910][503]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:50
+[2026.10.27-15.10.07:011][509]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:60
+[2026.10.27-15.10.07:115][515]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:70
+[2026.10.27-15.10.07:228][522]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:80
+[2026.10.27-15.10.07:342][529]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:90
+[2026.10.27-15.10.07:458][535]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:00
+[2026.10.27-15.10.07:562][540]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:10
+[2026.10.27-15.10.07:669][546]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:20
+[2026.10.27-15.10.07:781][553]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:30
+[2026.10.27-15.10.07:882][559]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:40
+[2026.10.27-15.10.07:998][566]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:50
+[2026.10.27-15.10.08:101][572]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:60
+[2026.10.27-15.10.08:202][578]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:70
+[2026.10.27-15.10.08:315][585]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:80
+[2026.10.27-15.10.08:420][591]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:90
+[2026.10.27-15.10.08:527][596]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:00
+[2026.10.27-15.10.08:642][602]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:10
+[2026.10.27-15.10.08:744][608]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:20
+[2026.10.27-15.10.08:844][614]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:30
+[2026.10.27-15.10.08:960][621]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:40
+[2026.10.27-15.10.09:065][627]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:50
+[2026.10.27-15.10.09:180][634]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:60
+[2026.10.27-15.10.09:289][640]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:70
+[2026.10.27-15.10.09:399][646]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:80
+[2026.10.27-15.10.09:515][651]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:90
+[2026.10.27-15.10.09:628][656]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:00
+[2026.10.27-15.10.09:748][662]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:10
+[2026.10.27-15.10.09:862][668]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:20
+[2026.10.27-15.10.09:974][674]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:30
+[2026.10.27-15.10.10:087][680]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:40
+[2026.10.27-15.10.10:198][685]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:50
+[2026.10.27-15.10.10:306][690]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:60
+[2026.10.27-15.10.10:421][696]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:70
+[2026.10.27-15.10.10:526][700]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:80
+[2026.10.27-15.10.10:642][705]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:90
+[2026.10.27-15.10.10:755][711]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:00
+[2026.10.27-15.10.10:867][717]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:10
+[2026.10.27-15.10.10:979][723]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:20
+[2026.10.27-15.10.11:087][729]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:30
+[2026.10.27-15.10.11:197][735]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:40
+[2026.10.27-15.10.11:307][741]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:50
+[2026.10.27-15.10.11:412][747]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:60
+[2026.10.27-15.10.11:524][752]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:70
+[2026.10.27-15.10.11:637][757]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:80
+[2026.10.27-15.10.11:740][763]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:90
+[2026.10.27-15.10.11:857][770]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:00
+[2026.10.27-15.10.11:957][776]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:10
+[2026.10.27-15.10.12:073][783]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:20
+[2026.10.27-15.10.12:179][789]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:30
+[2026.10.27-15.10.12:295][796]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:40
+[2026.10.27-15.10.12:396][802]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:50
+[2026.10.27-15.10.12:499][807]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:60
+[2026.10.27-15.10.12:608][812]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:70
+[2026.10.27-15.10.12:715][818]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:80
+[2026.10.27-15.10.12:831][825]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:90
+[2026.10.27-15.10.12:931][831]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:00
+[2026.10.27-15.10.13:045][838]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:10
+[2026.10.27-15.10.13:151][844]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:20
+[2026.10.27-15.10.13:253][850]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:30
+[2026.10.27-15.10.13:352][856]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:40
+[2026.10.27-15.10.13:464][862]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:50
+[2026.10.27-15.10.13:572][867]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:60
+[2026.10.27-15.10.13:675][873]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:70
+[2026.10.27-15.10.13:793][880]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:80
+[2026.10.27-15.10.13:909][887]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:90
+[2026.10.27-15.10.14:024][894]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:00
+[2026.10.27-15.10.14:125][900]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:10
+[2026.10.27-15.10.14:242][907]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:20
+[2026.10.27-15.10.14:357][914]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:30
+[2026.10.27-15.10.14:469][920]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:40
+[2026.10.27-15.10.14:570][925]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:50
+[2026.10.27-15.10.14:674][930]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:60
+[2026.10.27-15.10.14:790][936]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:70
+[2026.10.27-15.10.14:892][942]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:80
+[2026.10.27-15.10.15:002][948]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:90
+[2026.10.27-15.10.15:110][954]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:00
+[2026.10.27-15.10.15:218][960]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:10
+[2026.10.27-15.10.15:332][966]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:20
+[2026.10.27-15.10.15:457][972]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:30
+[2026.10.27-15.10.15:580][977]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:40
+[2026.10.27-15.10.15:688][982]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:50
+[2026.10.27-15.10.15:798][988]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:60
+[2026.10.27-15.10.15:909][994]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:70
+[2026.10.27-15.10.16:019][  0]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:80
+[2026.10.27-15.10.16:133][  6]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:90
+[2026.10.27-15.10.16:244][ 12]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:00
+[2026.10.27-15.10.16:360][ 18]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:10
+[2026.10.27-15.10.16:462][ 23]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:20
+[2026.10.27-15.10.16:586][ 28]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:30
+[2026.10.27-15.10.16:695][ 33]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:40
+[2026.10.27-15.10.16:804][ 39]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:50
+[2026.10.27-15.10.16:912][ 45]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:60
+[2026.10.27-15.10.17:020][ 51]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:70
+[2026.10.27-15.10.17:125][ 57]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:80
+[2026.10.27-15.10.17:231][ 63]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:90
+[2026.10.27-15.10.17:335][ 69]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:00
+[2026.10.27-15.10.17:439][ 75]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:10
+[2026.10.27-15.10.17:547][ 80]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:20
+[2026.10.27-15.10.17:657][ 85]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:30
+[2026.10.27-15.10.17:757][ 91]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:40
+[2026.10.27-15.10.17:872][ 98]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:50
+[2026.10.27-15.10.17:973][104]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:60
+[2026.10.27-15.10.18:086][111]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:70
+[2026.10.27-15.10.18:189][117]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:80
+[2026.10.27-15.10.18:302][124]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:90
+[2026.10.27-15.10.18:407][130]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:00
+[2026.10.27-15.10.18:509][135]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:10
+[2026.10.27-15.10.18:612][140]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:20
+[2026.10.27-15.10.18:717][146]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:30
+[2026.10.27-15.10.18:831][153]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:40
+[2026.10.27-15.10.18:944][160]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:50
+[2026.10.27-15.10.19:060][167]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:60
+[2026.10.27-15.10.19:171][173]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:70
+[2026.10.27-15.10.19:275][178]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:80
+[2026.10.27-15.10.19:377][184]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:90
+[2026.10.27-15.10.19:482][189]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:00
+[2026.10.27-15.10.19:588][194]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:10
+[2026.10.27-15.10.19:703][200]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:20
+[2026.10.27-15.10.19:819][207]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:30
+[2026.10.27-15.10.19:936][214]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:40
+[2026.10.27-15.10.20:051][221]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:50
+[2026.10.27-15.10.20:153][227]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:60
+[2026.10.27-15.10.20:258][233]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:70
+[2026.10.27-15.10.20:363][239]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:80
+[2026.10.27-15.10.20:472][244]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:90
+[2026.10.27-15.10.20:585][249]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:00
+[2026.10.27-15.10.20:689][254]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:10
+[2026.10.27-15.10.20:798][260]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:20
+[2026.10.27-15.10.20:909][266]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:30
+[2026.10.27-15.10.21:019][272]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:40
+[2026.10.27-15.10.21:125][278]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:50
+[2026.10.27-15.10.21:234][284]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:60
+[2026.10.27-15.10.21:342][290]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:70
+[2026.10.27-15.10.21:473][296]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:80
+[2026.10.27-15.10.21:588][301]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:90
+[2026.10.27-15.10.21:696][306]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:00
+[2026.10.27-15.10.21:804][312]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:10
+[2026.10.27-15.10.21:914][318]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:20
+[2026.10.27-15.10.22:022][324]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:30
+[2026.10.27-15.10.22:133][330]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:40
+[2026.10.27-15.10.22:247][336]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:50
+[2026.10.27-15.10.22:355][342]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:60
+[2026.10.27-15.10.22:468][348]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:70
+[2026.10.27-15.10.22:583][353]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:80
+[2026.10.27-15.10.22:691][358]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:90
+[2026.10.27-15.10.22:797][364]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:00
+[2026.10.27-15.10.22:905][370]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:10
+[2026.10.27-15.10.23:013][376]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:20
+[2026.10.27-15.10.23:126][383]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:30
+[2026.10.27-15.10.23:233][389]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:40
+[2026.10.27-15.10.23:333][395]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:50
+[2026.10.27-15.10.23:436][401]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:60
+[2026.10.27-15.10.23:546][406]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:70
+[2026.10.27-15.10.23:659][412]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:80
+[2026.10.27-15.10.23:767][417]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:90
+[2026.10.27-15.10.23:867][422]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:00
+[2026.10.27-15.10.23:984][428]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:10
+[2026.10.27-15.10.24:095][434]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:20
+[2026.10.27-15.10.24:200][440]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:30
+[2026.10.27-15.10.24:314][447]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:40
+[2026.10.27-15.10.24:433][454]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:50
+[2026.10.27-15.10.24:545][459]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:60
+[2026.10.27-15.10.24:647][464]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:70
+[2026.10.27-15.10.24:751][470]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:80
+[2026.10.27-15.10.24:865][477]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:90
+[2026.10.27-15.10.24:983][484]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:00
+[2026.10.27-15.10.25:086][490]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:10
+[2026.10.27-15.10.25:189][496]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:20
+[2026.10.27-15.10.25:291][502]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:30
+[2026.10.27-15.10.25:405][508]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:40
+[2026.10.27-15.10.25:510][513]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:50
+[2026.10.27-15.10.25:611][518]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:60
+[2026.10.27-15.10.25:729][525]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:70
+[2026.10.27-15.10.25:834][531]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:80
+[2026.10.27-15.10.25:936][537]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:90
+[2026.10.27-15.10.26:038][543]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:00
+[2026.10.27-15.10.26:151][550]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:10
+[2026.10.27-15.10.26:253][556]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:20
+[2026.10.27-15.10.26:369][563]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:30
+[2026.10.27-15.10.26:490][569]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:40
+[2026.10.27-15.10.26:610][574]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:50
+[2026.10.27-15.10.26:727][580]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:60
+[2026.10.27-15.10.26:838][586]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:70
+[2026.10.27-15.10.26:948][592]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:80
+[2026.10.27-15.10.27:056][598]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:90
+[2026.10.27-15.10.27:166][604]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:00
+[2026.10.27-15.10.27:276][610]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:10
+[2026.10.27-15.10.27:388][616]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:20
+[2026.10.27-15.10.27:503][621]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:30
+[2026.10.27-15.10.27:606][626]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:40
+[2026.10.27-15.10.27:721][632]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:50
+[2026.10.27-15.10.27:831][638]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:60
+[2026.10.27-15.10.27:938][644]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:70
+[2026.10.27-15.10.28:047][650]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:80
+[2026.10.27-15.10.28:148][656]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:90
+[2026.10.27-15.10.28:269][662]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:00
+[2026.10.27-15.10.28:378][667]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:10
+[2026.10.27-15.10.28:482][672]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:20
+[2026.10.27-15.10.28:587][677]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:30
+[2026.10.27-15.10.28:696][683]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:40
+[2026.10.27-15.10.28:796][689]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:50
+[2026.10.27-15.10.28:897][695]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:60
+[2026.10.27-15.10.28:998][701]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:70
+[2026.10.27-15.10.29:107][707]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:80
+[2026.10.27-15.10.29:215][713]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:90
+[2026.10.27-15.10.29:316][719]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:28:00
+[2026.10.27-15.10.29:436][726]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:28:10
+[2026.10.27-15.10.29:546][731]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:28:20
+[2026.10.27-15.10.29:647][736]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:28:30
+[2026.10.27-15.10.29:756][742]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:28:40
+[2026.10.27-15.10.29:858][748]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:28:50
+[2026.10.27-15.10.29:959][754]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:28:60
+[2026.10.27-15.10.30:059][760]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:28:70
+[2026.10.27-15.10.30:175][767]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:28:80
+[2026.10.27-15.10.30:278][773]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:28:90
+[2026.10.27-15.10.30:383][779]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:29:00
+[2026.10.27-15.10.30:492][784]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:29:10
+[2026.10.27-15.10.30:596][789]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:29:20
+[2026.10.27-15.10.30:697][795]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:29:30
+[2026.10.27-15.10.30:802][801]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:29:40
+[2026.10.27-15.10.30:903][807]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:29:50
+[2026.10.27-15.10.31:006][813]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:29:60
+[2026.10.27-15.10.31:107][819]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:29:70
+[2026.10.27-15.10.31:213][825]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:29:80
+[2026.10.27-15.10.31:314][831]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:29:90
+[2026.10.27-15.10.31:314][831]LogBlueprintUserMessages: [BP_Bike_C_1] Race Ended!
+[2026.10.27-15.10.31:414][837]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:30:00
+[2026.10.27-15.10.34:336][ 23]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/_Tophers_Work/_Levels/LV_MainMenu"
+[2026.10.27-15.10.34:336][ 23]LogNet: Browse: /Game/_Tophers_Work/_Levels/LV_MainMenu
+[2026.10.27-15.10.34:336][ 23]LogLoad: LoadMap: /Game/_Tophers_Work/_Levels/LV_MainMenu
+[2026.10.27-15.10.34:336][ 23]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0__DiegoLevelTest
+[2026.10.27-15.10.34:337][ 23]LogWorld: UWorld::CleanupWorld for _DiegoLevelTest, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-15.10.34:338][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-15.10.34:389][ 23]LogAudio: Display: Audio Device unregistered from world '_DiegoLevelTest'.
+[2026.10.27-15.10.34:393][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.10.27-15.10.34:394][ 23]LogPlayLevel: Creating play world package: /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_MainMenu
+[2026.10.27-15.10.34:396][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001081s)
+[2026.10.27-15.10.34:396][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Tophers_Work/_Levels/LV_MainMenu.LV_MainMenu to /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001159s)
+[2026.10.27-15.10.34:396][ 23]LogAudio: Display: Audio Device (ID: 9) registered with world 'LV_MainMenu'.
+[2026.10.27-15.10.34:396][ 23]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2026.10.27-15.10.34:398][ 23]LogPlayLevel: PIE: World Init took: (0.001989s)
+[2026.10.27-15.10.34:398][ 23]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.27-15.10.34:398][ 23]LogWorld: Bringing World /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 0) at 2026.10.27-08.10.34
+[2026.10.27-15.10.34:398][ 23]LogWorld: Bringing up level for play took: 0.000417
+[2026.10.27-15.10.34:399][ 23]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.10.27-15.10.34:400][ 23]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(976)]!
+[2026.10.27-15.10.34:400][ 23]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.27-15.10.34:400][ 23]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.10.27-15.10.34:400][ 23]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.27-15.10.34:401][ 23]LogLoad: Took 0.064224 seconds to LoadMap(/Game/_Tophers_Work/_Levels/UEDPIE_0_LV_MainMenu)
+[2026.10.27-15.10.34:401][ 23]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_MainMenu
+[2026.10.27-15.10.35:988][208]Cmd: quit
+[2026.10.27-15.10.35:990][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-15.10.36:014][208]LogWorld: BeginTearingDown for /Game/_Tophers_Work/_Levels/UEDPIE_0_LV_MainMenu
+[2026.10.27-15.10.36:014][208]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-15.10.36:014][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-15.10.36:016][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.27-15.10.36:023][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-15.10.36:063][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-15.10.36:063][208]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.10.27-15.10.36:063][208]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=9, StreamState=4
+[2026.10.27-15.10.36:070][208]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.27-15.10.36:076][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.10.27-15.10.36:106][209]LogPlayLevel: Display: Destroying online subsystem :Context_13
