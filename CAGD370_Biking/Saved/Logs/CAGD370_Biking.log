@@ -2771,3 +2771,1000 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.27-04.09.11:882][283]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2026.10.27-04.09.11:882][283]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
 [2026.10.27-04.09.11:882][283]LogShaderCompilers: Display: ================================================
+[2026.10.27-04.11.43:016][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.10.27-04.11.43:017][746]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_DiegoLevelTest._DiegoLevelTest
+[2026.10.27-04.11.43:017][746]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.27-04.11.43:034][746]LogWorld: UWorld::CleanupWorld for _DiegoLevelTest, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-04.11.43:034][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-04.11.43:057][746]LogAudio: Display: Audio Device unregistered from world '_DiegoLevelTest'.
+[2026.10.27-04.11.43:058][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.10.27-04.11.43:059][746]LogStreaming: Display: FlushAsyncLoading(411): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.27-04.11.43:061][746]LogAudio: Display: Audio Device (ID: 1) registered with world '_DiegoLevelTest'.
+[2026.10.27-04.11.43:061][746]LogChaosDD: Creating Chaos Debug Draw Scene for world _DiegoLevelTest
+[2026.10.27-04.11.43:069][746]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.27-04.11.43:096][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.10.27-04.11.43:127][746]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.27-04.11.43:127][746]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.065ms to complete.
+[2026.10.27-04.11.43:146][746]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: ================================================
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Total job queries 19,412, among them cache hits 3,788 (19.51%), DDC hits 13,540 (69.75%), Duplicates 1,592 (8.20%)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Tracking 14,032 distinct input hashes that result in 13,022 distinct outputs (92.80%)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: RAM used: 182.98 MiB of 1.60 GiB budget. Usage: 11.17%
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Shaders Compiled: 492
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Jobs assigned 492, completed 492 (100%)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Average time worker was idle: 33.03 s
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Time job spent in pending queue: average 3.85 s, longest 11.05 s
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Job execution time: average 2.20 s, max 8.41 s
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Job life time (pending + execution): average 6.06 s, max 11.41
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Shader code size: total 4.802 MiB, numShaders 517, average 9.511 KiB, min 2.105 KiB, max 55.013 KiB
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.05 s
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Jobs were issued in 139 batches (only local compilation was used), average 3.54 jobs/batch
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Average processing rate: 23.37 jobs/sec
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Total thread time: 136.835 s
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Total thread preprocess time: 150.518 s
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Percentage time preprocessing: 110.00%
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Effective parallelization: 6.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.541651
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display:                                   FPathTracingMaterialCHS_IS (compiled    1 times, average 2.06 sec, max 2.06 sec, min 2.06 sec)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display:                              FRayTracingDecalMaterialCHS_AHS (compiled    2 times, average 0.74 sec, max 0.80 sec, min 0.67 sec)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   18 times, average 0.70 sec, max 3.01 sec, min 0.35 sec)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display:                            TMaterialCHS_IS_FNoLightMapPolicy (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.74% of total time (compiled   24 times, average 0.56 sec, max 1.00 sec, min 0.29 sec)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.24% of total time (compiled   18 times, average 0.70 sec, max 3.01 sec, min 0.35 sec)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.68% of total time (compiled   57 times, average 0.21 sec, max 1.54 sec, min 0.06 sec)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display:            TVelocityPS<EVelocityPassMode::Velocity_Standard> - 7.29% of total time (compiled   25 times, average 0.40 sec, max 1.52 sec, min 0.20 sec)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.50% of total time (compiled   50 times, average 0.18 sec, max 1.45 sec, min 0.06 sec)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: === Material stats ===
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Materials Translated:    172
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Material Translation Only: 0.05 s (40%)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.10.27-04.12.11:895][867]LogShaderCompilers: Display: ================================================
+[2026.10.27-04.12.14:679][115]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_lvl1/Map.Map
+[2026.10.27-04.12.14:679][115]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_lvl1/Map.Map
+[2026.10.27-04.12.14:680][115]LogActorFactory: Actor Factory spawned StaticMesh /Game/_Diegos_Work/_assets/_lvl1/Map.Map as actor: StaticMeshActor /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.StaticMeshActor_1
+[2026.10.27-04.12.15:058][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.10.27-04.12.15:060][152]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.10.27-04.12.15:066][152]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_lvl1/Map.Map
+[2026.10.27-04.12.15:066][152]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_lvl1/Map.Map
+[2026.10.27-04.12.15:067][152]LogActorFactory: Actor Factory spawned StaticMesh /Game/_Diegos_Work/_assets/_lvl1/Map.Map as actor: StaticMeshActor /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.StaticMeshActor_2
+[2026.10.27-04.14.29:529][895]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 685.176392
+[2026.10.27-04.14.29:645][908]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.27-04.14.29:645][908]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 685.284302, Update Interval: 303.781250
+[2026.10.27-04.16.28:954][125]LogStreaming: Display: FlushAsyncLoading(412): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.27-04.16.29:087][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike_C
+[2026.10.27-04.16.29:087][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike_C
+[2026.10.27-04.16.29:088][126]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike as actor: BP_Bike_C /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.BP_Bike_C_0
+[2026.10.27-04.16.29:091][126]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike as actor: BP_Bike_C /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.BP_Bike_C_0
+[2026.10.27-04.16.30:591][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.10.27-04.16.30:609][266]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2026.10.27-04.16.30:615][266]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike_C
+[2026.10.27-04.16.30:615][266]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike_C
+[2026.10.27-04.16.30:617][266]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike as actor: BP_Bike_C /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.BP_Bike_C_1
+[2026.10.27-04.16.30:619][266]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike as actor: BP_Bike_C /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.BP_Bike_C_1
+[2026.10.27-04.16.59:707][ 78]Cmd: TRANSACTION UNDO
+[2026.10.27-04.16.59:707][ 78]LogEditorTransaction: Undo Transform
+[2026.10.27-04.18.31:351][284]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.27-04.18.31:357][284]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.27-04.18.31:357][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.27-04.18.31:362][284]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.10.27-04.18.31:362][284]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.10.27-04.18.31:362][284]LogStreaming: Display: FlushAsyncLoading(413): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.27-04.18.31:369][284]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0__DiegoLevelTest
+[2026.10.27-04.18.31:370][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002202s)
+[2026.10.27-04.18.31:370][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/_DiegoLevelTest._DiegoLevelTest to /Game/Levels/UEDPIE_0__DiegoLevelTest._DiegoLevelTest (0.002261s)
+[2026.10.27-04.18.31:391][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.10.27-04.18.31:394][284]LogChaosDD: Creating Chaos Debug Draw Scene for world _DiegoLevelTest
+[2026.10.27-04.18.31:395][284]LogPlayLevel: PIE: World Init took: (0.001755s)
+[2026.10.27-04.18.31:396][284]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.10.27-04.18.31:396][284]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.27-04.18.31:396][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.27-04.18.31:396][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.27-04.18.31:396][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.27-04.18.31:396][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.27-04.18.31:396][284]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.27-04.18.31:396][284]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.27-04.18.31:396][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.27-04.18.31:396][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.27-04.18.31:396][284]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.27-04.18.31:396][284]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.27-04.18.31:396][284]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.27-04.18.31:396][284]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.27-04.18.31:400][284]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-04.18.31:401][284]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-04.18.31:403][284]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Artist 24 Pro (NVIDIA High Definition Audio)'
+[2026.10.27-04.18.31:406][284]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.27-04.18.31:406][284]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.27-04.18.31:406][284]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.27-04.18.31:407][284]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.27-04.18.31:411][284]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.27-04.18.31:412][284]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.27-04.18.31:412][284]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.27-04.18.31:412][284]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.10.27-04.18.31:412][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.27-04.18.31:412][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.27-04.18.31:412][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.27-04.18.31:413][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.10.27-04.18.31:414][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.10.27-04.18.31:416][284]LogInit: FAudioDevice initialized with ID 2.
+[2026.10.27-04.18.31:416][284]LogAudio: Display: Audio Device (ID: 2) registered with world '_DiegoLevelTest'.
+[2026.10.27-04.18.31:416][284]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.10.27-04.18.31:416][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-04.18.31:429][284]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.27-04.18.31:429][284]LogWorld: Bringing World /Game/Levels/UEDPIE_0__DiegoLevelTest._DiegoLevelTest up for play (max tick rate 0) at 2026.10.26-21.18.31
+[2026.10.27-04.18.31:429][284]LogWorld: Bringing up level for play took: 0.000804
+[2026.10.27-04.18.31:432][284]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.10.27-04.18.31:433][284]LogWindows: WindowsPlatformFeatures enabled
+[2026.10.27-04.18.31:433][284]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.27-04.18.31:433][284]LogModuleManager: InternalLoadLibrary: 'Voice' ('C:/UnrealEngine/5.8/Engine/Binaries/Win64/UnrealEditor-Voice.dll')
+[2026.10.27-04.18.31:433][284]LogModuleManager: InternalLoadLibrary: 'MovieSceneCapture' ('C:/UnrealEngine/5.8/Engine/Binaries/Win64/UnrealEditor-MovieSceneCapture.dll')
+[2026.10.27-04.18.31:435][284]PIE: Server logged in
+[2026.10.27-04.18.31:436][284]PIE: Play in editor total start time 0.079 seconds.
+[2026.10.27-04.18.31:472][285]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.27-04.18.36:463][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-04.18.36:463][876]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0__DiegoLevelTest
+[2026.10.27-04.18.36:464][876]LogWorld: UWorld::CleanupWorld for _DiegoLevelTest, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-04.18.36:464][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-04.18.36:465][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.27-04.18.36:468][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-04.18.36:487][876]LogAudio: Display: Audio Device unregistered from world '_DiegoLevelTest'.
+[2026.10.27-04.18.36:487][876]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.10.27-04.18.36:488][876]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=2, StreamState=4
+[2026.10.27-04.18.36:493][876]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.27-04.18.36:496][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-04.18.36:497][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.10.27-04.18.36:551][877]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.10.27-04.18.47:802][689]Cmd: EDIT COPY
+[2026.10.27-04.19.12:823][273]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.27-04.19.12:830][273]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.27-04.19.12:830][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.27-04.19.12:831][273]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0__DiegoLevelTest
+[2026.10.27-04.19.12:833][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002676s)
+[2026.10.27-04.19.12:833][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/_DiegoLevelTest._DiegoLevelTest to /Game/Levels/UEDPIE_0__DiegoLevelTest._DiegoLevelTest (0.002730s)
+[2026.10.27-04.19.12:853][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.10.27-04.19.12:856][273]LogChaosDD: Creating Chaos Debug Draw Scene for world _DiegoLevelTest
+[2026.10.27-04.19.12:857][273]LogPlayLevel: PIE: World Init took: (0.001892s)
+[2026.10.27-04.19.12:857][273]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.10.27-04.19.12:857][273]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.27-04.19.12:857][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.27-04.19.12:857][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.27-04.19.12:857][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.27-04.19.12:857][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.27-04.19.12:857][273]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.27-04.19.12:857][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.27-04.19.12:857][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.27-04.19.12:857][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.27-04.19.12:859][273]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.27-04.19.12:859][273]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.27-04.19.12:859][273]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.27-04.19.12:859][273]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.27-04.19.12:863][273]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-04.19.12:864][273]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-04.19.12:865][273]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Artist 24 Pro (NVIDIA High Definition Audio)'
+[2026.10.27-04.19.12:870][273]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.27-04.19.12:871][273]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.27-04.19.12:871][273]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.27-04.19.12:871][273]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.27-04.19.12:875][273]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.27-04.19.12:875][273]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.27-04.19.12:875][273]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.27-04.19.12:875][273]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.10.27-04.19.12:875][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.27-04.19.12:875][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.27-04.19.12:875][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.27-04.19.12:876][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.10.27-04.19.12:878][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.10.27-04.19.12:879][273]LogInit: FAudioDevice initialized with ID 3.
+[2026.10.27-04.19.12:879][273]LogAudio: Display: Audio Device (ID: 3) registered with world '_DiegoLevelTest'.
+[2026.10.27-04.19.12:879][273]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.10.27-04.19.12:880][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-04.19.12:883][273]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.27-04.19.12:884][273]LogWorld: Bringing World /Game/Levels/UEDPIE_0__DiegoLevelTest._DiegoLevelTest up for play (max tick rate 0) at 2026.10.26-21.19.12
+[2026.10.27-04.19.12:884][273]LogWorld: Bringing up level for play took: 0.000882
+[2026.10.27-04.19.12:886][273]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.10.27-04.19.12:887][273]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.27-04.19.12:887][273]PIE: Server logged in
+[2026.10.27-04.19.12:889][273]PIE: Play in editor total start time 0.059 seconds.
+[2026.10.27-04.19.12:920][273]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.27-04.19.14:724][487]Cmd: DebugManager.CycleToPreviousColumn
+[2026.10.27-04.19.16:283][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-04.19.16:283][670]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0__DiegoLevelTest
+[2026.10.27-04.19.16:283][670]LogWorld: UWorld::CleanupWorld for _DiegoLevelTest, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-04.19.16:283][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-04.19.16:285][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.27-04.19.16:287][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-04.19.16:305][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-04.19.16:305][670]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.10.27-04.19.16:305][670]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=3, StreamState=4
+[2026.10.27-04.19.16:311][670]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.27-04.19.16:314][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.10.27-04.19.16:414][672]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.10.27-04.19.38:398][547]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 994.044739
+[2026.10.27-04.19.38:538][561]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.27-04.19.38:539][561]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 994.170654, Update Interval: 327.970215
+[2026.10.27-04.19.48:994][475]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.10.27-04.20.16:155][268]Cmd: TRANSACTION UNDO
+[2026.10.27-04.20.16:155][268]LogEditorTransaction: Undo Edit Z
+[2026.10.27-04.20.51:282][705]Cmd: TRANSACTION UNDO
+[2026.10.27-04.20.51:283][705]LogEditorTransaction: Undo Change Landscape Resolution X
+[2026.10.27-04.21.06:908][233]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.21.06:908][233]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.166653 MB), EncodeSpeed: Fast
+[2026.10.27-04.21.06:908][233]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.21.06:913][233]LogDerivedDataCache: C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c0/19/24f4d14a4369852c8157f3012f1dff1b54bd.udd from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_0'.
+[2026.10.27-04.21.06:943][233]LogMaterial: Display: Missing cached shadermap for /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.LandscapeMaterialInstanceConstant_0 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 3714f0c5d419b9274bb0309ca9ce44dae337b519), compiling. Is special engine material.
+[2026.10.27-04.21.07:724][233]LogLandscape: RegisterLandscapeActorWithProxyInternal: Automatically enabling edit layers on ALandscape: Landscape /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0
+[2026.10.27-04.21.07:726][233]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.21.07:727][233]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.21.07:727][233]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_5 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.27-04.21.07:728][233]LogDerivedDataCache: C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c8/3f/e0791e2425e3df60fd1b002aed913868bd20.udd from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_3'.
+[2026.10.27-04.21.07:729][233]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.21.07:732][233]LogDerivedDataCache: C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/63/5a/7035afdde4aa5d4ab294fead04672b99468b.udd from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_4 [Fast]'.
+[2026.10.27-04.21.07:732][233]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.Heightmap_5 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.27-04.21.11:932][568]LogShaderCompilers: Display: ================================================
+[2026.10.27-04.21.11:932][568]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.27-04.21.11:932][568]LogShaderCompilers: Display: Total job queries 20,597, among them cache hits 4,960 (24.08%), DDC hits 13,550 (65.79%), Duplicates 1,592 (7.73%)
+[2026.10.27-04.21.11:932][568]LogShaderCompilers: Display: Tracking 14,045 distinct input hashes that result in 13,031 distinct outputs (92.78%)
+[2026.10.27-04.21.11:932][568]LogShaderCompilers: Display: RAM used: 183.04 MiB of 1.60 GiB budget. Usage: 11.17%
+[2026.10.27-04.21.11:932][568]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.27-04.21.11:932][568]LogShaderCompilers: Display: Shaders Compiled: 495
+[2026.10.27-04.21.11:932][568]LogShaderCompilers: Display: Jobs assigned 495, completed 495 (100%)
+[2026.10.27-04.21.11:932][568]LogShaderCompilers: Display: Average time worker was idle: 38.63 s
+[2026.10.27-04.21.11:932][568]LogShaderCompilers: Display: Time job spent in pending queue: average 3.83 s, longest 11.05 s
+[2026.10.27-04.21.11:932][568]LogShaderCompilers: Display: Job execution time: average 2.19 s, max 8.41 s
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Job life time (pending + execution): average 6.02 s, max 11.41
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Shader code size: total 4.828 MiB, numShaders 522, average 9.473 KiB, min 1.762 KiB, max 55.013 KiB
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.43 s
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Jobs were issued in 142 batches (only local compilation was used), average 3.49 jobs/batch
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Average processing rate: 22.07 jobs/sec
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Total thread time: 137.575 s
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Total thread preprocess time: 162.639 s
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Percentage time preprocessing: 118.22%
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Effective parallelization: 6.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.511208
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display:                                   FPathTracingMaterialCHS_IS (compiled    1 times, average 2.06 sec, max 2.06 sec, min 2.06 sec)
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display:                              FRayTracingDecalMaterialCHS_AHS (compiled    2 times, average 0.74 sec, max 0.80 sec, min 0.67 sec)
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   18 times, average 0.70 sec, max 3.01 sec, min 0.35 sec)
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display:                            TMaterialCHS_IS_FNoLightMapPolicy (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.69% of total time (compiled   24 times, average 0.56 sec, max 1.00 sec, min 0.29 sec)
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.19% of total time (compiled   18 times, average 0.70 sec, max 3.01 sec, min 0.35 sec)
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.63% of total time (compiled   57 times, average 0.21 sec, max 1.54 sec, min 0.06 sec)
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display:            TVelocityPS<EVelocityPassMode::Velocity_Standard> - 7.43% of total time (compiled   26 times, average 0.39 sec, max 1.52 sec, min 0.20 sec)
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.47% of total time (compiled   50 times, average 0.18 sec, max 1.45 sec, min 0.06 sec)
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: === Material stats ===
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Materials Translated:    173
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Material Translation Only: 0.05 s (40%)
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.10.27-04.21.11:933][568]LogShaderCompilers: Display: ================================================
+[2026.10.27-04.21.25:963][ 45]Cmd: TRANSACTION UNDO
+[2026.10.27-04.21.25:963][ 45]LogEditorTransaction: Undo Transform
+[2026.10.27-04.21.26:497][ 59]Cmd: TRANSACTION UNDO
+[2026.10.27-04.21.26:497][ 59]LogEditorTransaction: Undo Clicking on Elements
+[2026.10.27-04.21.34:332][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-04.21.34:352][889]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-04.21.34:353][889]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-04.21.34:353][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-04.21.34:411][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.10.27-04.21.34:460][889]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-04.21.34:460][889]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_DiegoLevelTestA66369AA4040FA81923BA8B30BB011C2.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-04.21.34:484][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.425 ms (total: 505.592 ms)
+[2026.10.27-04.21.34:508][889]LogContentValidation: Enabled validators:
+[2026.10.27-04.21.34:508][889]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-04.21.34:508][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-04.21.34:508][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-04.21.34:508][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-04.21.34:508][889]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-04.21.34:508][889]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-04.21.34:508][889]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-04.21.34:508][889]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-04.21.34:508][889]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-04.21.34:508][889]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-04.21.34:508][889]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-04.21.34:508][889]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-04.21.34:508][889]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-04.21.34:508][889]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-04.21.34:508][889]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-04.21.34:508][889]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-04.21.34:508][889]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-04.21.34:508][889]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-04.21.34:508][889]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-04.21.34:508][889]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-04.21.34:508][889]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-04.21.34:508][889]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-04.21.34:808][922]Cmd: TRANSACTION UNDO
+[2026.10.27-04.21.34:808][922]LogEditorTransaction: Undo Clicking on Actors
+[2026.10.27-04.21.35:132][933]Cmd: TRANSACTION UNDO
+[2026.10.27-04.21.35:132][933]LogEditorTransaction: Undo Creating New Landscape
+[2026.10.27-04.21.35:182][933]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.21.35:182][933]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.21.35:182][933]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.21.35:182][933]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.21.35:182][933]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.21.35:182][933]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.21.35:182][933]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.21.35:182][933]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.21.35:182][933]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.21.35:182][933]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.21.35:182][933]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.21.35:182][933]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.21.35:182][933]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.21.39:820][378]Cmd: TRANSACTION UNDO
+[2026.10.27-04.21.39:820][378]LogEditorTransaction: Undo Change Landscape Resolution Y
+[2026.10.27-04.21.42:167][574]Cmd: TRANSACTION UNDO
+[2026.10.27-04.21.42:167][574]LogEditorTransaction: Undo Change Landscape Resolution X
+[2026.10.27-04.21.49:693][299]LogLandscape: RegisterLandscapeActorWithProxyInternal: Automatically enabling edit layers on ALandscape: Landscape /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_1
+[2026.10.27-04.22.02:189][322]Cmd: TRANSACTION UNDO
+[2026.10.27-04.22.02:189][322]LogEditorTransaction: Undo Transform
+[2026.10.27-04.22.02:466][328]Cmd: TRANSACTION UNDO
+[2026.10.27-04.22.02:466][328]LogEditorTransaction: Undo Transform
+[2026.10.27-04.22.02:689][333]Cmd: TRANSACTION UNDO
+[2026.10.27-04.22.02:689][333]LogEditorTransaction: Undo Clicking on Elements
+[2026.10.27-04.22.02:898][345]Cmd: TRANSACTION UNDO
+[2026.10.27-04.22.02:898][345]LogEditorTransaction: Undo Creating New Landscape
+[2026.10.27-04.22.02:948][345]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_1.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.22.02:948][345]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_1.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.22.02:948][345]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_1.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.22.02:948][345]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_1.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.22.02:948][345]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_1.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.22.02:948][345]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_1.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.22.02:948][345]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_1.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.22.02:948][345]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_1.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.22.02:948][345]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_1.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.22.02:948][345]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_1.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.22.02:948][345]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_1.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.22.02:948][345]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_1.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.22.02:948][345]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_1.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.22.03:224][371]Cmd: TRANSACTION UNDO
+[2026.10.27-04.22.03:224][371]LogEditorTransaction: Undo Edit Y
+[2026.10.27-04.22.09:086][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-04.22.09:110][  9]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-04.22.09:111][  9]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-04.22.09:111][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-04.22.09:158][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.10.27-04.22.09:172][  9]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-04.22.09:172][  9]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_DiegoLevelTestFECD697D42803A933B8BECA4452AE463.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-04.22.09:195][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.924 ms (total: 614.517 ms)
+[2026.10.27-04.22.09:220][  9]LogContentValidation: Enabled validators:
+[2026.10.27-04.22.09:220][  9]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-04.22.09:220][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-04.22.09:220][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-04.22.09:220][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-04.22.09:220][  9]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-04.22.09:220][  9]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-04.22.09:220][  9]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-04.22.09:220][  9]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-04.22.09:220][  9]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-04.22.09:220][  9]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-04.22.09:220][  9]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-04.22.09:221][  9]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-04.22.09:221][  9]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-04.22.09:221][  9]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-04.22.09:221][  9]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-04.22.09:221][  9]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-04.22.09:221][  9]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-04.22.09:221][  9]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-04.22.09:221][  9]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-04.22.09:221][  9]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-04.22.09:221][  9]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-04.22.09:221][  9]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-04.22.19:107][ 36]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.Heightmap_0 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 3.333332 MB), EncodeSpeed: Fast
+[2026.10.27-04.22.19:107][ 36]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.Heightmap_1 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 3.333332 MB), EncodeSpeed: Fast
+[2026.10.27-04.22.19:110][ 36]LogDerivedDataCache: C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/d2/62/6591b3bc776a71f614478f912f8629d958d8.udd from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.Heightmap_0'.
+[2026.10.27-04.22.19:111][ 36]LogDerivedDataCache: C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/2f/2a/5595d7bbc00ca66ab3f8ac88799bf1b31af6.udd from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.Heightmap_0'.
+[2026.10.27-04.22.19:189][ 36]LogLandscape: RegisterLandscapeActorWithProxyInternal: Automatically enabling edit layers on ALandscape: Landscape /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2
+[2026.10.27-04.22.19:190][ 36]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.Heightmap_2 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.27-04.22.19:190][ 36]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.Heightmap_3 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.27-04.22.19:193][ 36]LogDerivedDataCache: C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/fc/2c/5016c73a86d18fa86aa9c2fc7150f4c23d0b.udd from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.Heightmap_3'.
+[2026.10.27-04.22.19:193][ 36]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.Heightmap_2 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.27-04.22.19:195][ 36]LogDerivedDataCache: C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/cb/4f/cb6d5fa718d4896808f77067ed7e1211a6df.udd from '/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.Heightmap_3 [Fast]'.
+[2026.10.27-04.22.24:123][553]Cmd: TRANSACTION UNDO
+[2026.10.27-04.22.24:123][553]LogEditorTransaction: Undo Transform
+[2026.10.27-04.23.11:588][249]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.11:588][249]LogEditorTransaction: Undo Transform
+[2026.10.27-04.23.11:822][255]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.11:822][255]LogEditorTransaction: Undo Transform
+[2026.10.27-04.23.11:961][258]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.11:961][258]LogEditorTransaction: Undo Transform
+[2026.10.27-04.23.12:136][263]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.12:136][263]LogEditorTransaction: Undo Transform
+[2026.10.27-04.23.12:275][269]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.12:275][269]LogEditorTransaction: Undo Transform
+[2026.10.27-04.23.12:446][278]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.12:446][278]LogEditorTransaction: Undo Transform
+[2026.10.27-04.23.12:617][287]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.12:617][287]LogEditorTransaction: Undo Transform
+[2026.10.27-04.23.13:354][349]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.13:354][349]LogEditorTransaction: Undo Transform
+[2026.10.27-04.23.13:588][370]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.13:588][370]LogEditorTransaction: Undo Transform
+[2026.10.27-04.23.13:837][393]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.13:837][393]LogEditorTransaction: Undo Transform
+[2026.10.27-04.23.14:038][411]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.14:038][411]LogEditorTransaction: Undo Transform
+[2026.10.27-04.23.14:300][435]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.14:300][435]LogEditorTransaction: Undo Clicking on Elements
+[2026.10.27-04.23.23:030][179]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.23:030][179]LogEditorTransaction: Undo Transform
+[2026.10.27-04.23.23:239][184]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.23:239][184]LogEditorTransaction: Undo Transform
+[2026.10.27-04.23.23:373][187]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.23:374][187]LogEditorTransaction: Undo Clicking on Elements
+[2026.10.27-04.23.23:558][191]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.23:558][191]LogEditorTransaction: Undo Clicking on Elements
+[2026.10.27-04.23.23:835][208]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.23:835][208]LogEditorTransaction: Undo Creating New Landscape
+[2026.10.27-04.23.23:858][208]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.23.23:858][208]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.23.23:858][208]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.23.23:858][208]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.23.23:858][208]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.23.23:858][208]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.23.23:858][208]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.23.23:858][208]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.23.23:858][208]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.23.23:858][208]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.23.23:858][208]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.23.23:858][208]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.23.23:858][208]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.10.27-04.23.43:559][399]LogLandscape: RegisterLandscapeActorWithProxyInternal: Automatically enabling edit layers on ALandscape: Landscape /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3
+[2026.10.27-04.23.48:108][777]Cmd: TRANSACTION UNDO
+[2026.10.27-04.23.48:108][777]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.24.13:693][124]Cmd: TRANSACTION UNDO
+[2026.10.27-04.24.13:693][124]LogEditorTransaction: Undo Transform
+[2026.10.27-04.24.13:925][132]Cmd: TRANSACTION UNDO
+[2026.10.27-04.24.13:926][132]LogEditorTransaction: Undo Transform
+[2026.10.27-04.25.14:700][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1330.349731
+[2026.10.27-04.25.14:838][544]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.27-04.25.14:838][544]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1330.479248, Update Interval: 350.216370
+[2026.10.27-04.27.22:986][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_lvl1/Walls.Walls
+[2026.10.27-04.27.22:987][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_lvl1/Walls.Walls
+[2026.10.27-04.27.22:987][723]LogActorFactory: Actor Factory spawned StaticMesh /Game/_Diegos_Work/_assets/_lvl1/Walls.Walls as actor: StaticMeshActor /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.StaticMeshActor_3
+[2026.10.27-04.27.23:372][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.10.27-04.27.23:375][754]LogEditorActor: Deleted 0 Actors (0.061 secs)
+[2026.10.27-04.27.23:380][754]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_lvl1/Walls.Walls
+[2026.10.27-04.27.23:380][754]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_lvl1/Walls.Walls
+[2026.10.27-04.27.23:381][754]LogActorFactory: Actor Factory spawned StaticMesh /Game/_Diegos_Work/_assets/_lvl1/Walls.Walls as actor: StaticMeshActor /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.StaticMeshActor_4
+[2026.10.27-04.27.27:803][183]Cmd: TRANSACTION UNDO
+[2026.10.27-04.27.27:803][183]LogEditorTransaction: Undo Place Objects
+[2026.10.27-04.29.10:907][565]Cmd: TRANSACTION UNDO
+[2026.10.27-04.29.10:907][565]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.29.10:942][565]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.29.37:727][941]Cmd: TRANSACTION UNDO
+[2026.10.27-04.29.37:727][941]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.29.37:760][941]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.29.43:105][403]Cmd: TRANSACTION UNDO
+[2026.10.27-04.29.43:105][403]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.29.49:342][878]Cmd: TRANSACTION UNDO
+[2026.10.27-04.29.49:342][878]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.29.49:375][878]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.29.51:056][ 18]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_0 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.29.58:661][620]Cmd: TRANSACTION UNDO
+[2026.10.27-04.29.58:661][620]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.29.58:693][620]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.29.58:693][620]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_0 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.30.20:784][375]Cmd: TRANSACTION UNDO
+[2026.10.27-04.30.20:784][375]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.27-04.30.20:816][375]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.31.31:224][999]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1706.869507
+[2026.10.27-04.31.31:349][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.27-04.31.31:350][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1706.984375, Update Interval: 348.725861
+[2026.10.27-04.32.09:042][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.10.27-04.32.09:045][275]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-04.32.09:045][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-04.32.09:052][275]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_0 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.32.09:055][275]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.32.09:057][275]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.32.09:097][275]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_DiegoLevelTest_Auto1
+[2026.10.27-04.32.09:097][275]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_DiegoLevelTest_Auto1FB3D654E4853989D64A2B5918EC54D5C.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/Autosaves/Game/Levels/_DiegoLevelTest_Auto1.umap'
+[2026.10.27-04.32.09:099][275]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/_DiegoLevelTest' took 0.094
+[2026.10.27-04.32.09:099][275]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2026.10.27-04.36.51:745][315]Cmd: TRANSACTION UNDO
+[2026.10.27-04.36.51:745][315]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.36.51:786][315]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.36.53:380][401]Cmd: TRANSACTION UNDO
+[2026.10.27-04.36.53:380][401]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.36.53:690][421]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/Common/MegaLights_16.svg'. File could not be found
+[2026.10.27-04.37.27:394][354]Cmd: TRANSACTION UNDO
+[2026.10.27-04.37.27:394][354]LogEditorTransaction: Undo Landscape Editing: Erase
+[2026.10.27-04.37.27:428][354]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.37.28:404][412]Cmd: TRANSACTION UNDO
+[2026.10.27-04.37.28:405][412]LogEditorTransaction: Undo Landscape Editing: Erase
+[2026.10.27-04.37.39:974][490]Cmd: TRANSACTION UNDO
+[2026.10.27-04.37.39:974][490]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.37.43:753][838]Cmd: TRANSACTION UNDO
+[2026.10.27-04.37.43:753][838]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.37.50:281][478]Cmd: TRANSACTION UNDO
+[2026.10.27-04.37.50:282][478]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.37.50:870][507]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2086.501221
+[2026.10.27-04.37.51:002][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.27-04.37.51:002][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2086.623291, Update Interval: 359.688721
+[2026.10.27-04.37.53:298][717]Cmd: TRANSACTION UNDO
+[2026.10.27-04.37.53:298][717]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.37.53:331][717]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.37.55:294][890]Cmd: TRANSACTION UNDO
+[2026.10.27-04.37.55:294][890]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.37.55:326][890]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.38.07:354][881]Cmd: TRANSACTION UNDO
+[2026.10.27-04.38.07:354][881]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.38.07:413][881]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.38.07:415][881]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.38.18:830][725]Cmd: TRANSACTION UNDO
+[2026.10.27-04.38.18:830][725]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.38.18:861][725]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.38.24:906][259]Cmd: TRANSACTION UNDO
+[2026.10.27-04.38.24:906][259]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.38.24:938][259]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.38.25:444][274]Cmd: TRANSACTION UNDO
+[2026.10.27-04.38.25:444][274]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.38.43:636][685]Cmd: TRANSACTION UNDO
+[2026.10.27-04.38.43:636][685]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.38.43:668][685]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: ================================================
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Total job queries 20,607, among them cache hits 4,965 (24.09%), DDC hits 13,551 (65.76%), Duplicates 1,592 (7.73%)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Tracking 14,050 distinct input hashes that result in 13,034 distinct outputs (92.77%)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: RAM used: 183.06 MiB of 1.60 GiB budget. Usage: 11.17%
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Shaders Compiled: 499
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Jobs assigned 499, completed 499 (100%)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Average time worker was idle: 79.36 s
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Time job spent in pending queue: average 3.80 s, longest 11.05 s
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Job execution time: average 2.18 s, max 8.41 s
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Job life time (pending + execution): average 5.98 s, max 11.41
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Shader code size: total 4.861 MiB, numShaders 527, average 9.446 KiB, min 1.727 KiB, max 55.013 KiB
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.30 s
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Jobs were issued in 146 batches (only local compilation was used), average 3.42 jobs/batch
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Average processing rate: 21.42 jobs/sec
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Total thread time: 138.11 s
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Total thread preprocess time: 162.725 s
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Percentage time preprocessing: 117.82%
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Effective parallelization: 5.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.494040
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display:                                   FPathTracingMaterialCHS_IS (compiled    1 times, average 2.06 sec, max 2.06 sec, min 2.06 sec)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display:                              FRayTracingDecalMaterialCHS_AHS (compiled    2 times, average 0.74 sec, max 0.80 sec, min 0.67 sec)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   18 times, average 0.70 sec, max 3.01 sec, min 0.35 sec)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display:                            TMaterialCHS_IS_FNoLightMapPolicy (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.65% of total time (compiled   24 times, average 0.56 sec, max 1.00 sec, min 0.29 sec)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.15% of total time (compiled   18 times, average 0.70 sec, max 3.01 sec, min 0.35 sec)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.66% of total time (compiled   58 times, average 0.21 sec, max 1.54 sec, min 0.06 sec)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display:            TVelocityPS<EVelocityPassMode::Velocity_Standard> - 7.40% of total time (compiled   26 times, average 0.39 sec, max 1.52 sec, min 0.20 sec)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.44% of total time (compiled   50 times, average 0.18 sec, max 1.45 sec, min 0.06 sec)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: === Material stats ===
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Materials Translated:    173
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Material Translation Only: 0.05 s (40%)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.10.27-04.39.11:965][796]LogShaderCompilers: Display: ================================================
+[2026.10.27-04.39.13:737][959]Cmd: TRANSACTION UNDO
+[2026.10.27-04.39.13:737][959]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.39.13:770][959]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.39.36:064][ 98]Cmd: TRANSACTION UNDO
+[2026.10.27-04.39.36:064][ 98]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.39.36:099][ 98]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.40.32:506][116]Cmd: TRANSACTION UNDO
+[2026.10.27-04.40.32:506][116]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.40.32:538][116]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.40.37:812][616]Cmd: TRANSACTION UNDO
+[2026.10.27-04.40.37:812][616]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.42.15:164][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.10.27-04.42.15:170][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-04.42.15:170][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-04.42.15:177][535]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.42.15:180][535]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.42.15:226][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_DiegoLevelTest_Auto2
+[2026.10.27-04.42.15:227][535]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_DiegoLevelTest_Auto2D76EE4EF4CAEC34151B22A8EBF54CF95.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/Autosaves/Game/Levels/_DiegoLevelTest_Auto2.umap'
+[2026.10.27-04.42.15:228][535]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/_DiegoLevelTest' took 0.091
+[2026.10.27-04.42.15:228][535]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2026.10.27-04.42.19:328][849]Cmd: TRANSACTION UNDO
+[2026.10.27-04.42.19:328][849]LogEditorTransaction: Undo Landscape Editing: Erase
+[2026.10.27-04.42.24:172][222]Cmd: TRANSACTION UNDO
+[2026.10.27-04.42.24:172][222]LogEditorTransaction: Undo Landscape Editing: Erase
+[2026.10.27-04.42.26:713][355]Cmd: TRANSACTION UNDO
+[2026.10.27-04.42.26:713][355]LogEditorTransaction: Undo Landscape Editing: Erase
+[2026.10.27-04.42.29:145][540]Cmd: TRANSACTION UNDO
+[2026.10.27-04.42.29:145][540]LogEditorTransaction: Undo Landscape Editing: Erase
+[2026.10.27-04.42.49:197][168]Cmd: TRANSACTION UNDO
+[2026.10.27-04.42.49:197][168]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.42.49:230][168]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.42.55:803][646]Cmd: TRANSACTION UNDO
+[2026.10.27-04.42.55:803][646]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.42.55:835][646]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.43.09:822][769]Cmd: TRANSACTION UNDO
+[2026.10.27-04.43.09:822][769]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.43.09:855][769]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.43.34:497][828]Cmd: TRANSACTION UNDO
+[2026.10.27-04.43.34:497][828]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.43.34:531][828]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.44.08:222][750]Cmd: TRANSACTION UNDO
+[2026.10.27-04.44.08:222][750]LogEditorTransaction: Undo Landscape Editing: Noise
+[2026.10.27-04.44.08:284][750]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.44.08:284][750]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.44.12:847][187]Cmd: TRANSACTION UNDO
+[2026.10.27-04.44.12:847][187]LogEditorTransaction: Undo Landscape Editing: Noise
+[2026.10.27-04.44.18:181][661]Cmd: TRANSACTION UNDO
+[2026.10.27-04.44.18:181][661]LogEditorTransaction: Undo Landscape Editing: Noise
+[2026.10.27-04.44.18:241][661]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.44.18:241][661]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.44.20:419][833]Cmd: TRANSACTION UNDO
+[2026.10.27-04.44.20:419][833]LogEditorTransaction: Undo Landscape Editing: Noise
+[2026.10.27-04.44.41:281][227]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2496.896729
+[2026.10.27-04.44.41:443][242]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.27-04.44.41:443][242]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2497.049805, Update Interval: 314.192932
+[2026.10.27-04.45.40:180][473]Cmd: TRANSACTION UNDO
+[2026.10.27-04.45.40:180][473]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.45.40:216][473]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.45.48:752][211]Cmd: TRANSACTION UNDO
+[2026.10.27-04.45.48:752][211]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.45.48:787][211]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.46.52:835][910]Cmd: TRANSACTION UNDO
+[2026.10.27-04.46.52:835][910]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.46.52:869][910]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.47.10:784][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.10.27-04.47.11:791][321]LogSlate: Window 'Save Content' being destroyed
+[2026.10.27-04.47.11:800][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-04.47.11:822][321]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-04.47.11:823][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-04.47.11:823][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-04.47.11:860][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.10.27-04.47.11:869][321]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.47.11:872][321]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.47.11:934][321]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-04.47.11:935][321]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_DiegoLevelTestE2EBBBC14838C84D212190A1E8A89498.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-04.47.11:954][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.778 ms (total: 768.295 ms)
+[2026.10.27-04.47.11:980][321]LogContentValidation: Enabled validators:
+[2026.10.27-04.47.11:981][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-04.47.11:981][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-04.47.11:981][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-04.47.11:981][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-04.47.11:981][321]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-04.47.11:981][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-04.47.11:981][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-04.47.11:981][321]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-04.47.11:981][321]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-04.47.11:981][321]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-04.47.11:981][321]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-04.47.11:981][321]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-04.47.11:981][321]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-04.47.11:981][321]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-04.47.11:981][321]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-04.47.11:981][321]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-04.47.11:981][321]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-04.47.11:981][321]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-04.47.11:981][321]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-04.47.11:981][321]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-04.47.11:981][321]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-04.47.11:981][321]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-04.48.12:717][211]Cmd: TRANSACTION UNDO
+[2026.10.27-04.48.12:717][211]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.48.12:752][211]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.48.12:911][215]Cmd: TRANSACTION UNDO
+[2026.10.27-04.48.12:912][215]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.48.12:945][215]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.48.21:191][797]Cmd: TRANSACTION UNDO
+[2026.10.27-04.48.21:191][797]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.48.21:226][797]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.48.36:671][975]Cmd: TRANSACTION UNDO
+[2026.10.27-04.48.36:671][975]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.48.36:731][975]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.48.36:732][975]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.49.11:611][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.10.27-04.49.12:680][684]LogSlate: Window 'Save Content' being destroyed
+[2026.10.27-04.49.12:689][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-04.49.12:714][684]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-04.49.12:714][684]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-04.49.12:714][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-04.49.12:754][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.10.27-04.49.12:763][684]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.49.12:766][684]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.49.12:829][684]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-04.49.12:830][684]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_DiegoLevelTest059FC1994476BDB1D0D112887BDD1070.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-04.49.12:861][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.246 ms (total: 939.542 ms)
+[2026.10.27-04.49.12:886][684]LogContentValidation: Enabled validators:
+[2026.10.27-04.49.12:886][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-04.49.12:886][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-04.49.12:886][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-04.49.12:886][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-04.49.12:886][684]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-04.49.12:886][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-04.49.12:886][684]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-04.49.12:886][684]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-04.49.12:886][684]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-04.49.12:886][684]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-04.49.12:886][684]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-04.49.12:886][684]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-04.49.12:886][684]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-04.49.12:886][684]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-04.49.12:886][684]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-04.49.12:886][684]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-04.49.12:886][684]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-04.49.12:886][684]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-04.49.12:886][684]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-04.49.12:886][684]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-04.49.12:886][684]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-04.49.12:886][684]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-04.49.33:473][258]Cmd: TRANSACTION UNDO
+[2026.10.27-04.49.33:473][258]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.49.33:508][258]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.49.34:132][279]Cmd: TRANSACTION UNDO
+[2026.10.27-04.49.34:132][279]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.49.34:166][279]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.50.38:850][797]Cmd: TRANSACTION UNDO
+[2026.10.27-04.50.38:850][797]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.50.38:883][797]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.50.43:069][129]Cmd: TRANSACTION UNDO
+[2026.10.27-04.50.43:069][129]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.27-04.50.52:955][782]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2868.541260
+[2026.10.27-04.50.53:286][808]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.27-04.50.53:287][808]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2868.861572, Update Interval: 315.740234
+[2026.10.27-04.51.37:776][499]Cmd: TRANSACTION UNDO
+[2026.10.27-04.51.37:776][499]LogEditorTransaction: Undo Landscape Editing: Noise
+[2026.10.27-04.51.37:812][499]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.51.37:813][499]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.51.42:126][853]Cmd: TRANSACTION UNDO
+[2026.10.27-04.51.42:126][853]LogEditorTransaction: Undo Landscape Editing: Noise
+[2026.10.27-04.53.23:449][952]Cmd: TRANSACTION UNDO
+[2026.10.27-04.53.23:449][952]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.27-04.53.23:483][952]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.53.30:388][368]Cmd: TRANSACTION UNDO
+[2026.10.27-04.53.30:388][368]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.27-04.53.30:421][368]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.53.51:954][200]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_0 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.54.29:566][185]Cmd: TRANSACTION UNDO
+[2026.10.27-04.54.29:567][185]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.27-04.54.29:603][185]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.54.47:995][656]Cmd: TRANSACTION UNDO
+[2026.10.27-04.54.47:995][656]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.54.48:029][656]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.54.48:030][656]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_0 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.54.50:482][827]Cmd: TRANSACTION UNDO
+[2026.10.27-04.54.50:483][827]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.54.50:519][827]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.54.50:519][827]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_0 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.54.53:014][ 51]Cmd: TRANSACTION UNDO
+[2026.10.27-04.54.53:014][ 51]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.54.59:872][562]Cmd: TRANSACTION UNDO
+[2026.10.27-04.54.59:872][562]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.54.59:908][562]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.54.59:908][562]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_0 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.55.11:889][544]Cmd: TRANSACTION UNDO
+[2026.10.27-04.55.11:889][544]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.27-04.55.11:924][544]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.55.42:139][453]Cmd: TRANSACTION UNDO
+[2026.10.27-04.55.42:139][453]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.55.42:175][453]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.55.42:175][453]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_0 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.55.47:771][861]Cmd: TRANSACTION UNDO
+[2026.10.27-04.55.47:771][861]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.55.52:760][227]Cmd: TRANSACTION UNDO
+[2026.10.27-04.55.52:760][227]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.55.55:727][403]Cmd: TRANSACTION UNDO
+[2026.10.27-04.55.55:728][403]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.55.58:272][583]Cmd: TRANSACTION UNDO
+[2026.10.27-04.55.58:272][583]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.56.04:326][982]Cmd: TRANSACTION UNDO
+[2026.10.27-04.56.04:326][982]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.56.08:986][312]Cmd: TRANSACTION UNDO
+[2026.10.27-04.56.08:986][312]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.56.13:258][645]Cmd: TRANSACTION UNDO
+[2026.10.27-04.56.13:258][645]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.56.17:678][979]Cmd: TRANSACTION UNDO
+[2026.10.27-04.56.17:678][979]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.56.17:715][979]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.56.17:716][979]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_0 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.56.17:963][987]Cmd: TRANSACTION UNDO
+[2026.10.27-04.56.17:963][987]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.56.21:379][236]Cmd: TRANSACTION UNDO
+[2026.10.27-04.56.21:379][236]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.56.21:733][244]Cmd: TRANSACTION UNDO
+[2026.10.27-04.56.21:733][244]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.27-04.56.21:769][244]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.56.33:346][471]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_1 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.56.35:329][578]Cmd: TRANSACTION UNDO
+[2026.10.27-04.56.35:329][578]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.27-04.56.35:365][578]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.56.35:365][578]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_1 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.56.42:709][122]Cmd: TRANSACTION UNDO
+[2026.10.27-04.56.42:709][122]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.27-04.56.42:745][122]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.56.59:864][538]Cmd: TRANSACTION UNDO
+[2026.10.27-04.56.59:864][538]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.27-04.56.59:929][538]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_3 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.56.59:930][538]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.27-04.57.01:010][592]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3236.587891
+[2026.10.27-04.57.01:154][605]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.27-04.57.01:154][605]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3236.718994, Update Interval: 323.826416
+[2026.10.27-04.57.07:521][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.10.27-04.57.08:448][159]LogSlate: Window 'Save Content' being destroyed
+[2026.10.27-04.57.08:460][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-04.57.08:481][159]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-04.57.08:482][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-04.57.08:482][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-04.57.08:526][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.10.27-04.57.08:534][159]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_0 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.57.08:537][159]LogTexture: Display: Building texture TwoD: /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.Landscape_3.Heightmap_1 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.27-04.57.08:609][159]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-04.57.08:609][159]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_DiegoLevelTestB0CFC5E745CAA0DDFA3DD2933CDA0C00.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-04.57.08:632][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.282 ms (total: 1.11 sec)
+[2026.10.27-04.57.08:658][159]LogContentValidation: Enabled validators:
+[2026.10.27-04.57.08:658][159]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-04.57.08:658][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-04.57.08:658][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-04.57.08:658][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-04.57.08:658][159]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-04.57.08:658][159]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-04.57.08:658][159]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-04.57.08:658][159]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-04.57.08:658][159]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-04.57.08:658][159]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-04.57.08:658][159]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-04.57.08:658][159]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-04.57.08:658][159]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-04.57.08:659][159]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-04.57.08:659][159]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-04.57.08:659][159]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-04.57.08:659][159]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-04.57.08:659][159]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-04.57.08:659][159]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-04.57.08:659][159]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-04.57.08:659][159]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-04.57.08:659][159]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-04.57.19:439][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.10.27-04.57.19:439][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.10.27-04.57.19:441][113]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.StaticMeshActor_5
+[2026.10.27-04.57.19:441][113]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/_DiegoLevelTest._DiegoLevelTest:PersistentLevel.StaticMeshActor_5
+[2026.10.27-04.58.17:162][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-04.58.17:185][ 38]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-04.58.17:186][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-04.58.17:186][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-04.58.17:229][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.10.27-04.58.17:318][ 38]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-04.58.17:318][ 38]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_DiegoLevelTestBC58BB15465B9CC6CF4DADAABBCBB2A4.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-04.58.17:343][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.459 ms (total: 1.29 sec)
+[2026.10.27-04.58.17:367][ 38]LogContentValidation: Enabled validators:
+[2026.10.27-04.58.17:367][ 38]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-04.58.17:367][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-04.58.17:367][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-04.58.17:367][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-04.58.17:367][ 38]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-04.58.17:367][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-04.58.17:367][ 38]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-04.58.17:367][ 38]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-04.58.17:367][ 38]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-04.58.17:367][ 38]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-04.58.17:367][ 38]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-04.58.17:368][ 38]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-04.58.17:368][ 38]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-04.58.17:368][ 38]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-04.58.17:368][ 38]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-04.58.17:368][ 38]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-04.58.17:368][ 38]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-04.58.17:368][ 38]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-04.58.17:368][ 38]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-04.58.17:368][ 38]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-04.58.17:368][ 38]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-04.58.17:368][ 38]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-04.58.29:649][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-04.58.29:668][ 65]LogFileHelpers: Saving Map: /Game/Levels/_DiegoLevelTest
+[2026.10.27-04.58.29:669][ 65]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_DiegoLevelTest] ([1] browsable assets)...
+[2026.10.27-04.58.29:669][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_DiegoLevelTest]
+[2026.10.27-04.58.29:712][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.10.27-04.58.29:795][ 65]LogSavePackage: Moving output files for package: /Game/Levels/_DiegoLevelTest
+[2026.10.27-04.58.29:796][ 65]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_DiegoLevelTest558326AE4841363CF44C2F8AEEA7151F.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_DiegoLevelTest.umap'
+[2026.10.27-04.58.29:820][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.202 ms (total: 1.46 sec)
+[2026.10.27-04.58.29:846][ 65]LogContentValidation: Enabled validators:
+[2026.10.27-04.58.29:846][ 65]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-04.58.29:846][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-04.58.29:846][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-04.58.29:846][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-04.58.29:846][ 65]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-04.58.29:846][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-04.58.29:846][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-04.58.29:846][ 65]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-04.58.29:846][ 65]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-04.58.29:846][ 65]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-04.58.29:846][ 65]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-04.58.29:846][ 65]AssetCheck: /Game/Levels/_DiegoLevelTest Validating asset
+[2026.10.27-04.58.29:847][ 65]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-04.58.29:847][ 65]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-04.58.29:847][ 65]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-04.58.29:847][ 65]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-04.58.29:847][ 65]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-04.58.29:847][ 65]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-04.58.29:847][ 65]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-04.58.29:847][ 65]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-04.58.29:847][ 65]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-04.58.29:847][ 65]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-04.58.51:905][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.10.27-04.58.51:940][569]LogStall: Shutdown...
+[2026.10.27-04.58.51:947][569]LogStall: Shutdown complete.
+[2026.10.27-04.58.51:956][569]LogSlate: Window 'CAGD370_Biking - Unreal Editor' being destroyed
+[2026.10.27-04.58.52:124][569]Cmd: QUIT_EDITOR
+[2026.10.27-04.58.52:124][570]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.10.27-04.58.52:129][570]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.10.27-04.58.52:130][570]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.10.27-04.58.52:130][570]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.10.27-04.58.52:135][570]LogWorld: UWorld::CleanupWorld for _DiegoLevelTest, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-04.58.52:135][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-04.58.52:136][570]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.10.27-04.58.52:146][570]LogToolsetRegistry: Display: Unregistering Toolset ToolsetRegistry.AgentSkillToolset
+[2026.10.27-04.58.52:147][570]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.10.27-04.58.52:167][570]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.10.27-04.58.52:173][570]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-04.58.52:173][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-04.58.52:174][570]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-04.58.52:174][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-04.58.52:176][570]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-04.58.52:176][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-04.58.52:178][570]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.10.27-04.58.52:186][570]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.10.27-04.58.52:779][570]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.10.27-04.58.52:780][570]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.27-04.58.52:780][570]LogAudio: Display: Audio Device unregistered from world '_DiegoLevelTest'.
+[2026.10.27-04.58.52:780][570]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.10.27-04.58.52:780][570]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.10.27-04.58.52:786][570]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.27-04.58.52:797][570]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.10.27-04.58.52:797][570]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.27-04.58.52:809][570]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.10.27-04.58.52:813][570]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.10.27-04.58.52:815][570]LogExit: Preparing to exit.
+[2026.10.27-04.58.52:959][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.10.27-04.58.53:563][570]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.10.27-04.58.53:564][570]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.10.27-04.58.53:567][570]LogEditorDataStorage: Deinitializing
+[2026.10.27-04.58.53:568][570]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.10.27-04.58.53:568][570]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.10.27-04.58.53:568][570]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.10.27-04.58.53:568][570]LogEditorDataStorage: Resetting TEDS Core.
+[2026.10.27-04.58.53:571][570]LogEditorDataStorage: Reset TEDS Core.
+[2026.10.27-04.58.53:571][570]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.10.27-04.58.53:644][570]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.10.27-04.58.53:674][570]LogExit: Editor shut down
+[2026.10.27-04.58.53:678][570]LogExit: Transaction tracking system shut down
+[2026.10.27-04.58.53:745][570]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.10.27-04.58.53:745][570]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.10.27-04.58.53:753][570]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.10.27-04.58.53:753][570]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.10.27-04.58.53:814][570]LogExit: Object subsystem successfully closed.
+[2026.10.27-04.58.53:848][570]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.10.27-04.58.53:959][570]LogObjectProfiler: Shutdown
+[2026.10.27-04.58.53:960][570]LogMemoryProfiler: Shutdown
+[2026.10.27-04.58.53:960][570]LogNetworkingProfiler: Shutdown
+[2026.10.27-04.58.53:960][570]LogLoadingProfiler: Shutdown
+[2026.10.27-04.58.53:960][570]LogTimingProfiler: Shutdown
+[2026.10.27-04.58.53:960][570]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.10.27-04.58.53:960][570]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.10.27-04.58.53:960][570]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.10.27-04.58.53:960][570]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.10.27-04.58.53:960][570]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.10.27-04.58.54:268][570]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.10.27-04.58.54:285][570]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.10.27-04.58.54:285][570]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC57F6BB3-415E-EA61-9498-F594D807A56B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=8cc7fb6c44df1784fd863dadf8868c07%7C%7C62f3dd35-f9cd-4e98-abfd-5a2a53e74184&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.10.27-04.58.54:842][570]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.10.27-04.58.54:842][570]LogNFORDenoise: NFORDenoise function shutting down
+[2026.10.27-04.58.54:842][570]RenderDocPlugin: plugin has been unloaded.
+[2026.10.27-04.58.54:843][570]LogXGEController: Cleaning working directory: C:/Users/dagalvez-gomez/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.10.27-04.58.54:845][570]LogPakFile: Destroying PakPlatformFile
+[2026.10.27-04.58.55:199][570]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.10.27-04.58.55:283][570]LogExit: Exiting.
+[2026.10.27-04.58.55:298][570]Log file closed, 10/26/26 21:58:55
