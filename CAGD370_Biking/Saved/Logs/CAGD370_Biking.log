@@ -6773,3 +6773,1797 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.27-18.08.27:966][153]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
 [2026.10.27-18.08.27:972][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
 [2026.10.27-18.08.28:005][154]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.10.27-18.13.15:924][121]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2814.736084
+[2026.10.27-18.13.16:923][124]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.27-18.13.16:924][124]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2815.402344, Update Interval: 316.060669
+[2026.10.27-18.15.21:649][885]Cmd: TRANSACTION UNDO
+[2026.10.27-18.15.21:649][885]LogEditorTransaction: Undo Transform
+[2026.10.27-18.15.45:422][552]Cmd: TRANSACTION UNDO
+[2026.10.27-18.15.45:422][552]LogEditorTransaction: Undo Transform
+[2026.10.27-18.15.46:674][658]Cmd: TRANSACTION UNDO
+[2026.10.27-18.15.46:674][658]LogEditorTransaction: Undo Transform
+[2026.10.27-18.17.02:263][ 68]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-18.17.02:326][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.10.27-18.17.03:026][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.17.03:050][117]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.17.03:050][117]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.17.03:050][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.17.03:067][117]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.17.03:068][117]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManager760D9ED44B3B42B071188FAC7EAC15B9.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.17.03:074][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.042 ms (total: 2.88 sec)
+[2026.10.27-18.17.03:099][117]LogContentValidation: Enabled validators:
+[2026.10.27-18.17.03:099][117]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.17.03:099][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.17.03:099][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.17.03:099][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.17.03:099][117]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.17.03:099][117]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.17.03:099][117]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.17.03:099][117]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.17.03:099][117]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.17.03:099][117]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.17.03:099][117]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.17.03:099][117]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.17.03:099][117]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.17.03:099][117]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.17.03:099][117]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.17.03:099][117]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.17.03:099][117]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.17.03:099][117]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.17.03:099][117]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.17.03:099][117]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.17.03:099][117]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.17.03:099][117]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.18.07:575][ 33]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-18.18.07:630][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.10.27-18.18.08:257][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.18.08:281][ 79]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.18.08:281][ 79]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.18.08:281][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.18.08:298][ 79]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.18.08:298][ 79]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManager23F41E0240BDD5F22EA5E38C1888D87D.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.18.08:305][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.663 ms (total: 2.93 sec)
+[2026.10.27-18.18.08:329][ 79]LogContentValidation: Enabled validators:
+[2026.10.27-18.18.08:329][ 79]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.18.08:329][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.18.08:329][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.18.08:329][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.18.08:329][ 79]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.18.08:329][ 79]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.18.08:329][ 79]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.18.08:330][ 79]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.18.08:330][ 79]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.18.08:330][ 79]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.18.08:330][ 79]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.18.08:330][ 79]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.18.08:330][ 79]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.18.08:330][ 79]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.18.08:330][ 79]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.18.08:330][ 79]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.18.08:330][ 79]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.18.08:330][ 79]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.18.08:330][ 79]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.18.08:330][ 79]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.18.08:330][ 79]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.18.08:330][ 79]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.18.19:806][957]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-18.18.19:858][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.10.27-18.18.20:510][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.18.20:537][  5]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.18.20:537][  5]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.18.20:537][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.18.20:553][  5]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.18.20:554][  5]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManagerEFD350A5447199737F8EB68CF7F08CD4.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.18.20:560][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.345 ms (total: 2.98 sec)
+[2026.10.27-18.18.20:584][  5]LogContentValidation: Enabled validators:
+[2026.10.27-18.18.20:584][  5]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.18.20:584][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.18.20:584][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.18.20:584][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.18.20:584][  5]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.18.20:584][  5]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.18.20:584][  5]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.18.20:584][  5]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.18.20:584][  5]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.18.20:584][  5]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.18.20:584][  5]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.18.20:584][  5]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.18.20:584][  5]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.18.20:584][  5]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.18.20:584][  5]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.18.20:584][  5]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.18.20:584][  5]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.18.20:584][  5]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.18.20:584][  5]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.18.20:584][  5]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.18.20:584][  5]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.18.20:584][  5]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.18.46:435][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.10.27-18.18.46:438][ 90]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Abbys_Work/Levels/MovementTestMap' took 0.033
+[2026.10.27-18.18.46:438][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.18.46:438][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.18.46:455][ 90]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Abbys_Work/Blueprints/BP_RaceManager_Auto2
+[2026.10.27-18.18.46:455][ 90]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManager_Auto22D931B754F65C88434EB8796B00B4E04.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/Autosaves/Game/_Abbys_Work/Blueprints/BP_RaceManager_Auto2.uasset'
+[2026.10.27-18.18.46:456][ 90]LogFileHelpers: Auto-saving content packages took 0.019
+[2026.10.27-18.19.09:090][953]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3167.878662
+[2026.10.27-18.19.09:237][965]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.27-18.19.09:237][965]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3168.014404, Update Interval: 308.272949
+[2026.10.27-18.19.54:779][671]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-18.19.54:836][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.10.27-18.19.55:457][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.19.55:484][711]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.19.55:484][711]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.19.55:484][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.19.55:501][711]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.19.55:501][711]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManagerD758B8D74C99B872D3EDCE84CF34C5F0.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.19.55:509][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.809 ms (total: 3.03 sec)
+[2026.10.27-18.19.55:536][711]LogContentValidation: Enabled validators:
+[2026.10.27-18.19.55:536][711]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.19.55:536][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.19.55:536][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.19.55:536][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.19.55:536][711]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.19.55:536][711]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.19.55:536][711]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.19.55:537][711]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.19.55:537][711]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.19.55:537][711]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.19.55:537][711]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.19.55:537][711]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.19.55:537][711]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.19.55:537][711]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.19.55:537][711]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.19.55:537][711]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.19.55:537][711]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.19.55:537][711]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.19.55:537][711]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.19.55:537][711]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.19.55:537][711]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.19.55:537][711]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.21.36:380][432]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-18.21.36:437][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.10.27-18.21.36:957][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.21.36:980][462]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.21.36:980][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.21.36:980][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.21.36:998][462]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.21.36:998][462]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManagerD248C7FC4E30384F9E98888140A3E1E3.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.21.37:006][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.365 ms (total: 3.07 sec)
+[2026.10.27-18.21.37:033][462]LogContentValidation: Enabled validators:
+[2026.10.27-18.21.37:034][462]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.21.37:034][462]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.21.37:034][462]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.21.37:034][462]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.21.37:034][462]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.21.37:034][462]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.21.37:034][462]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.21.37:034][462]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.21.37:034][462]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.21.37:034][462]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.21.37:034][462]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.21.37:034][462]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.21.37:034][462]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.21.37:034][462]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.21.37:034][462]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.21.37:034][462]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.21.37:034][462]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.21.37:034][462]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.21.37:034][462]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.21.37:034][462]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.21.37:034][462]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.21.37:034][462]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.21.56:723][744]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-18.21.56:775][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.10.27-18.21.57:446][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.21.57:472][779]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.21.57:472][779]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.21.57:472][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.21.57:488][779]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.21.57:488][779]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManagerF6F56B1B407BF834B04B2F90DA5626B2.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.21.57:495][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.915 ms (total: 3.12 sec)
+[2026.10.27-18.21.57:520][779]LogContentValidation: Enabled validators:
+[2026.10.27-18.21.57:520][779]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.21.57:520][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.21.57:520][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.21.57:520][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.21.57:520][779]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.21.57:520][779]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.21.57:520][779]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.21.57:520][779]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.21.57:520][779]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.21.57:520][779]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.21.57:520][779]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.21.57:520][779]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.21.57:520][779]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.21.57:520][779]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.21.57:520][779]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.21.57:520][779]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.21.57:520][779]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.21.57:520][779]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.21.57:520][779]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.21.57:520][779]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.21.57:520][779]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.21.57:520][779]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.22.22:281][454]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-18.22.22:334][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.10.27-18.22.22:879][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.22.22:907][492]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.22.22:908][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.22.22:908][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.22.22:925][492]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.22.22:925][492]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManager3A7B20754301F15DD6504584B4C0D72C.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.22.22:931][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.000 ms (total: 3.18 sec)
+[2026.10.27-18.22.22:955][492]LogContentValidation: Enabled validators:
+[2026.10.27-18.22.22:955][492]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.22.22:955][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.22.22:955][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.22.22:955][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.22.22:955][492]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.22.22:955][492]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.22.22:955][492]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.22.22:955][492]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.22.22:955][492]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.22.22:955][492]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.22.22:955][492]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.22.22:955][492]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.22.22:955][492]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.22.22:955][492]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.22.22:955][492]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.22.22:955][492]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.22.22:955][492]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.22.22:955][492]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.22.22:955][492]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.22.22:955][492]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.22.22:955][492]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.22.22:955][492]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.22.35:188][428]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-18.22.35:244][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.10.27-18.22.35:844][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.22.35:867][468]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.22.35:867][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.22.35:867][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.22.35:884][468]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.22.35:884][468]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManager0D6275D04D42CBAB4462A3A5F8998F9C.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.22.35:890][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.727 ms (total: 3.22 sec)
+[2026.10.27-18.22.35:914][468]LogContentValidation: Enabled validators:
+[2026.10.27-18.22.35:915][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.22.35:915][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.22.35:915][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.22.35:915][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.22.35:915][468]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.22.35:915][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.22.35:915][468]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.22.35:915][468]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.22.35:915][468]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.22.35:915][468]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.22.35:915][468]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.22.35:915][468]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.22.35:915][468]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.22.35:915][468]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.22.35:915][468]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.22.35:915][468]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.22.35:915][468]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.22.35:915][468]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.22.35:915][468]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.22.35:915][468]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.22.35:915][468]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.22.35:915][468]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.24.47:640][431]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-18.24.47:697][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.10.27-18.24.48:197][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.24.48:219][459]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.24.48:219][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.24.48:220][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.24.48:238][459]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.24.48:238][459]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManagerA808D00F4CE5946C85CFAEBC6C1346A1.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.24.48:246][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.992 ms (total: 3.27 sec)
+[2026.10.27-18.24.48:272][459]LogContentValidation: Enabled validators:
+[2026.10.27-18.24.48:272][459]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.24.48:272][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.24.48:272][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.24.48:272][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.24.48:272][459]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.24.48:272][459]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.24.48:272][459]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.24.48:272][459]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.24.48:272][459]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.24.48:272][459]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.24.48:272][459]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.24.48:272][459]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.24.48:272][459]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.24.48:273][459]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.24.48:273][459]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.24.48:273][459]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.24.48:273][459]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.24.48:273][459]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.24.48:273][459]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.24.48:273][459]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.24.48:273][459]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.24.48:273][459]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.24.59:718][234]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3518.501709
+[2026.10.27-18.24.59:881][245]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.27-18.24.59:881][245]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3518.649902, Update Interval: 324.229248
+[2026.10.27-18.25.24:984][ 51]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' with subface index 0 in Game thread.
+[2026.10.27-18.25.24:984][ 51]LogSlate: Display: Took 0.007386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K) on Game thread.
+[2026.10.27-18.25.24:984][ 51]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' subface 0 in Game thread.
+[2026.10.27-18.25.24:984][ 51]LogSlate: Display: Font face '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.10.27-18.25.36:166][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.25.36:187][824]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.25.36:187][824]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.25.36:187][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.25.36:205][824]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.25.36:205][824]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManagerEB0362924806162D67CA14B7BC391762.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.25.36:211][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.614 ms (total: 3.32 sec)
+[2026.10.27-18.25.36:236][824]LogContentValidation: Enabled validators:
+[2026.10.27-18.25.36:236][824]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.25.36:236][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.25.36:236][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.25.36:236][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.25.36:236][824]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.25.36:236][824]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.25.36:236][824]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.25.36:236][824]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.25.36:236][824]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.25.36:236][824]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.25.36:236][824]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.25.36:236][824]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.25.36:236][824]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.25.36:236][824]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.25.36:236][824]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.25.36:236][824]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.25.36:236][824]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.25.36:236][824]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.25.36:236][824]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.25.36:236][824]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.25.36:236][824]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.25.36:236][824]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.25.55:071][ 91]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-18.25.55:132][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.10.27-18.25.55:702][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.25.55:728][122]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.25.55:729][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.25.55:729][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.25.55:746][122]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.25.55:746][122]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManagerFE87675F45B7FE71B92ED4AC9110ED2C.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.25.55:753][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.639 ms (total: 3.37 sec)
+[2026.10.27-18.25.55:775][122]LogContentValidation: Enabled validators:
+[2026.10.27-18.25.55:775][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.25.55:775][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.25.55:775][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.25.55:776][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.25.55:776][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.25.55:776][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.25.55:776][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.25.55:776][122]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.25.55:776][122]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.25.55:776][122]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.25.55:776][122]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.25.55:776][122]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.25.55:776][122]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.25.55:776][122]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.25.55:776][122]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.25.55:776][122]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.25.55:776][122]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.25.55:776][122]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.25.55:776][122]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.25.55:776][122]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.25.55:776][122]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.25.55:776][122]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.25.58:459][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.25.58:485][296]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.25.58:485][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.25.58:485][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.25.58:502][296]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.25.58:502][296]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManager6E9D770E40AF8429D7FA8FAEA8B9A273.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.25.58:509][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.920 ms (total: 3.42 sec)
+[2026.10.27-18.25.58:533][296]LogContentValidation: Enabled validators:
+[2026.10.27-18.25.58:533][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.25.58:533][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.25.58:533][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.25.58:533][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.25.58:533][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.25.58:533][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.25.58:533][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.25.58:533][296]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.25.58:533][296]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.25.58:533][296]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.25.58:533][296]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.25.58:533][296]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.25.58:534][296]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.25.58:534][296]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.25.58:534][296]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.25.58:534][296]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.25.58:534][296]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.25.58:534][296]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.25.58:534][296]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.25.58:534][296]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.25.58:534][296]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.25.58:534][296]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.26.22:806][903]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-18.26.22:862][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.10.27-18.26.23:605][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.26.23:631][943]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.26.23:631][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.26.23:631][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.26.23:649][943]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.26.23:649][943]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManager7546256B46A492CA22B9249A8774AEE4.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.26.23:655][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.226 ms (total: 3.46 sec)
+[2026.10.27-18.26.23:678][943]LogContentValidation: Enabled validators:
+[2026.10.27-18.26.23:678][943]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.26.23:678][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.26.23:678][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.26.23:678][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.26.23:678][943]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.26.23:678][943]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.26.23:678][943]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.26.23:678][943]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.26.23:678][943]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.26.23:678][943]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.26.23:678][943]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.26.23:678][943]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.26.23:678][943]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.26.23:678][943]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.26.23:678][943]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.26.23:678][943]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.26.23:679][943]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.26.23:679][943]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.26.23:679][943]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.26.23:679][943]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.26.23:679][943]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.26.23:679][943]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.26.50:461][929]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/ToonProfile_16.svg'. File could not be found
+[2026.10.27-18.26.50:461][929]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_16.svg'. File could not be found
+[2026.10.27-18.26.51:606][ 26]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.10.27-18.26.51:615][ 26]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.10.27-18.26.51:629][ 27]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.10.27-18.26.55:634][461]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Restart
+[2026.10.27-18.26.55:634][461]LogContentBrowser: End creating deferred item NewInputAction
+[2026.10.27-18.26.57:131][612]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/_Abbys_Work/Blueprints/Input/IA_Restart.IA_Restart
+[2026.10.27-18.27.02:832][106]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.27-18.27.02:832][106]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.27-18.27.02:832][106]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.27-18.27.02:832][106]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.27-18.27.02:832][106]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.27-18.27.11:475][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.27.11:498][869]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/Input/IA_Restart
+[2026.10.27-18.27.11:498][869]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/Input/IA_Restart] ([1] browsable assets)...
+[2026.10.27-18.27.11:498][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/Input/IA_Restart]
+[2026.10.27-18.27.11:508][869]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/Input/IA_Restart
+[2026.10.27-18.27.11:508][869]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/IA_RestartEA7612A547BE93FB3AE92EA8909D305C.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/Input/IA_Restart.uasset'
+[2026.10.27-18.27.11:514][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.257 ms (total: 3.50 sec)
+[2026.10.27-18.27.11:540][869]LogContentValidation: Enabled validators:
+[2026.10.27-18.27.11:540][869]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.27.11:540][869]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.27.11:540][869]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.27.11:540][869]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.27.11:540][869]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.27.11:540][869]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.27.11:540][869]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.27.11:540][869]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.27.11:540][869]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.27.11:540][869]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.27.11:540][869]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.27.11:540][869]AssetCheck: /Game/_Abbys_Work/Blueprints/Input/IA_Restart Validating asset
+[2026.10.27-18.27.11:540][869]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.27.11:540][869]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.27.11:540][869]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.27.11:540][869]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.27.11:540][869]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.27.11:540][869]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.27.11:540][869]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.27.11:540][869]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.27.11:540][869]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.27.11:540][869]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.27.11:558][869]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.27-18.27.14:307][117]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/_Abbys_Work/Blueprints/Input/IMC_BikeControls.IMC_BikeControls
+[2026.10.27-18.27.27:513][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.27.27:542][251]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/Input/IMC_BikeControls
+[2026.10.27-18.27.27:542][251]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/Input/IMC_BikeControls] ([1] browsable assets)...
+[2026.10.27-18.27.27:542][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/Input/IMC_BikeControls]
+[2026.10.27-18.27.27:551][251]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/Input/IMC_BikeControls
+[2026.10.27-18.27.27:551][251]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/IMC_BikeControls712E558140C03AA8FE886F80546D071D.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/Input/IMC_BikeControls.uasset'
+[2026.10.27-18.27.27:557][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.603 ms (total: 3.55 sec)
+[2026.10.27-18.27.27:582][251]LogContentValidation: Enabled validators:
+[2026.10.27-18.27.27:582][251]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.27.27:582][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.27.27:582][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.27.27:582][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.27.27:582][251]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.27.27:582][251]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.27.27:582][251]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.27.27:582][251]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.27.27:582][251]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.27.27:582][251]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.27.27:582][251]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.27.27:582][251]AssetCheck: /Game/_Abbys_Work/Blueprints/Input/IMC_BikeControls Validating asset
+[2026.10.27-18.27.27:582][251]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.27.27:582][251]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.27.27:582][251]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.27.27:582][251]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.27.27:582][251]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.27.27:582][251]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.27.27:582][251]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.27.27:582][251]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.27.27:582][251]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.27.27:582][251]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.27.27:600][251]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.27-18.28.05:336][728]LogDerivedDataCache: C:/Users/azeibert/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.069 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9287 files in 9762 folders with total size 210 MiB.
+[2026.10.27-18.28.15:207][312]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike'
+[2026.10.27-18.28.15:313][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.10.27-18.28.15:815][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.28.15:839][333]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_Bike
+[2026.10.27-18.28.15:839][333]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_Bike] ([2] browsable assets)...
+[2026.10.27-18.28.15:866][333]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike]
+[2026.10.27-18.28.15:867][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_Bike]
+[2026.10.27-18.28.15:894][333]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_Bike
+[2026.10.27-18.28.15:895][333]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_BikeF36884A148D79AE450FAF58F92EB46B9.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_Bike.uasset'
+[2026.10.27-18.28.15:904][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.774 ms (total: 3.64 sec)
+[2026.10.27-18.28.15:931][333]LogContentValidation: Enabled validators:
+[2026.10.27-18.28.15:931][333]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.28.15:931][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.28.15:931][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.28.15:931][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.28.15:931][333]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.28.15:931][333]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.28.15:931][333]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.28.15:931][333]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.28.15:931][333]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.28.15:931][333]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.28.15:931][333]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.28.15:931][333]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_Bike Validating asset
+[2026.10.27-18.28.15:931][333]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.28.15:931][333]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.28.15:931][333]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.28.15:931][333]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.28.15:931][333]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.28.15:931][333]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.28.15:931][333]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.28.15:931][333]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.28.15:931][333]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.28.15:931][333]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.28.19:276][587]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.27-18.28.19:276][587]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.27-18.28.19:277][587]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.27-18.28.19:277][587]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.27-18.28.19:277][587]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.10.27-18.28.43:391][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.28.43:415][651]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/Input/IA_Restart
+[2026.10.27-18.28.43:415][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/Input/IA_Restart] ([1] browsable assets)...
+[2026.10.27-18.28.43:415][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/Input/IA_Restart]
+[2026.10.27-18.28.43:425][651]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/Input/IA_Restart
+[2026.10.27-18.28.43:425][651]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/IA_Restart5817FD6C43E5406A1E703FB8E1A42B05.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/Input/IA_Restart.uasset'
+[2026.10.27-18.28.43:432][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.880 ms (total: 3.68 sec)
+[2026.10.27-18.28.43:458][651]LogContentValidation: Enabled validators:
+[2026.10.27-18.28.43:458][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.28.43:458][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.28.43:458][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.28.43:458][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.28.43:458][651]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.28.43:458][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.28.43:458][651]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.28.43:458][651]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.28.43:458][651]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.28.43:458][651]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.28.43:458][651]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.28.43:458][651]AssetCheck: /Game/_Abbys_Work/Blueprints/Input/IA_Restart Validating asset
+[2026.10.27-18.28.43:458][651]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.28.43:458][651]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.28.43:458][651]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.28.43:458][651]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.28.43:458][651]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.28.43:458][651]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.28.43:458][651]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.28.43:458][651]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.28.43:458][651]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.28.43:458][651]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.29.26:641][130]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike'
+[2026.10.27-18.29.26:713][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.10.27-18.29.27:623][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.29.27:651][173]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_Bike
+[2026.10.27-18.29.27:651][173]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_Bike] ([2] browsable assets)...
+[2026.10.27-18.29.27:678][173]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike]
+[2026.10.27-18.29.27:678][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_Bike]
+[2026.10.27-18.29.27:707][173]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_Bike
+[2026.10.27-18.29.27:707][173]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_Bike60165037498207084AEAE4ACC33334E3.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_Bike.uasset'
+[2026.10.27-18.29.27:715][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.208 ms (total: 3.77 sec)
+[2026.10.27-18.29.27:741][173]LogContentValidation: Enabled validators:
+[2026.10.27-18.29.27:741][173]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.29.27:741][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.29.27:741][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.29.27:741][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.29.27:741][173]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.29.27:741][173]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.29.27:741][173]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.29.27:741][173]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.29.27:741][173]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.29.27:741][173]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.29.27:741][173]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.29.27:741][173]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_Bike Validating asset
+[2026.10.27-18.29.27:741][173]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.29.27:741][173]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.29.27:741][173]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.29.27:741][173]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.29.27:741][173]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.29.27:741][173]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.29.27:741][173]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.29.27:741][173]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.29.27:741][173]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.29.27:741][173]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.29.31:112][414]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.27-18.29.31:119][414]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.27-18.29.31:119][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.27-18.29.31:119][414]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.27-18.29.31:125][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005630s)
+[2026.10.27-18.29.31:125][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.005671s)
+[2026.10.27-18.29.31:153][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.10.27-18.29.31:158][414]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.10.27-18.29.31:159][414]LogPlayLevel: PIE: World Init took: (0.002028s)
+[2026.10.27-18.29.31:159][414]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.10.27-18.29.31:159][414]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.27-18.29.31:159][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.27-18.29.31:159][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.27-18.29.31:159][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.27-18.29.31:159][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.27-18.29.31:159][414]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.27-18.29.31:159][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.27-18.29.31:159][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.27-18.29.31:159][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.27-18.29.31:159][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.27-18.29.31:159][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.27-18.29.31:159][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.27-18.29.31:161][414]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.27-18.29.31:164][414]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.29.31:165][414]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.29.31:166][414]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.29.31:170][414]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.27-18.29.31:170][414]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.27-18.29.31:170][414]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.27-18.29.31:171][414]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.27-18.29.31:175][414]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.27-18.29.31:175][414]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.27-18.29.31:175][414]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.27-18.29.31:175][414]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.10.27-18.29.31:175][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.27-18.29.31:175][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.27-18.29.31:175][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.27-18.29.31:176][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.10.27-18.29.31:177][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.10.27-18.29.31:179][414]LogInit: FAudioDevice initialized with ID 13.
+[2026.10.27-18.29.31:179][414]LogAudio: Display: Audio Device (ID: 13) registered with world 'MovementTestMap'.
+[2026.10.27-18.29.31:179][414]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.10.27-18.29.31:179][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.29.31:183][414]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.27-18.29.31:185][414]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 0) at 2026.10.27-11.29.31
+[2026.10.27-18.29.31:185][414]LogWorld: Bringing up level for play took: 0.001610
+[2026.10.27-18.29.31:187][414]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.10.27-18.29.31:188][414]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.27-18.29.31:188][414]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.27-18.29.31:188][414]PIE: Server logged in
+[2026.10.27-18.29.31:190][414]PIE: Play in editor total start time 0.071 seconds.
+[2026.10.27-18.29.31:209][415]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.27-18.29.31:221][415]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.27-18.29.32:107][519]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.27-18.29.33:108][638]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.27-18.29.34:116][758]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.27-18.29.34:116][758]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.27-18.29.34:116][758]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:00
+[2026.10.27-18.29.34:218][770]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:10
+[2026.10.27-18.29.34:320][782]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:20
+[2026.10.27-18.29.34:422][794]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:30
+[2026.10.27-18.29.34:526][806]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:40
+[2026.10.27-18.29.34:626][818]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:50
+[2026.10.27-18.29.34:726][830]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:60
+[2026.10.27-18.29.34:828][842]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:70
+[2026.10.27-18.29.34:933][854]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:80
+[2026.10.27-18.29.35:035][866]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:90
+[2026.10.27-18.29.35:137][878]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:00
+[2026.10.27-18.29.35:240][890]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:10
+[2026.10.27-18.29.35:343][902]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:20
+[2026.10.27-18.29.35:447][914]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:30
+[2026.10.27-18.29.35:549][926]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:40
+[2026.10.27-18.29.35:650][938]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:50
+[2026.10.27-18.29.35:752][950]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:60
+[2026.10.27-18.29.35:852][962]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:70
+[2026.10.27-18.29.35:955][974]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:80
+[2026.10.27-18.29.36:056][986]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:90
+[2026.10.27-18.29.36:161][998]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:00
+[2026.10.27-18.29.36:271][  9]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:10
+[2026.10.27-18.29.36:378][ 19]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:20
+[2026.10.27-18.29.36:483][ 29]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:30
+[2026.10.27-18.29.36:592][ 38]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:40
+[2026.10.27-18.29.36:694][ 46]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:50
+[2026.10.27-18.29.36:795][ 54]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:60
+[2026.10.27-18.29.36:899][ 62]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:70
+[2026.10.27-18.29.37:002][ 70]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:80
+[2026.10.27-18.29.37:108][ 78]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:90
+[2026.10.27-18.29.37:214][ 86]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:00
+[2026.10.27-18.29.37:319][ 94]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:10
+[2026.10.27-18.29.37:425][102]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:20
+[2026.10.27-18.29.37:533][110]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:30
+[2026.10.27-18.29.37:642][118]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:40
+[2026.10.27-18.29.37:753][126]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:50
+[2026.10.27-18.29.37:868][134]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:60
+[2026.10.27-18.29.37:978][141]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:70
+[2026.10.27-18.29.38:091][148]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:80
+[2026.10.27-18.29.38:206][155]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:90
+[2026.10.27-18.29.38:320][162]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:00
+[2026.10.27-18.29.38:433][169]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:10
+[2026.10.27-18.29.38:549][176]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:20
+[2026.10.27-18.29.38:650][182]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:30
+[2026.10.27-18.29.38:753][188]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:40
+[2026.10.27-18.29.38:853][194]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:50
+[2026.10.27-18.29.38:954][200]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:60
+[2026.10.27-18.29.39:055][206]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:70
+[2026.10.27-18.29.39:158][212]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:80
+[2026.10.27-18.29.39:260][218]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:90
+[2026.10.27-18.29.39:362][224]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:00
+[2026.10.27-18.29.39:463][230]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:10
+[2026.10.27-18.29.39:566][236]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:20
+[2026.10.27-18.29.39:666][242]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:30
+[2026.10.27-18.29.39:782][249]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:40
+[2026.10.27-18.29.39:898][256]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:50
+[2026.10.27-18.29.39:998][262]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:60
+[2026.10.27-18.29.40:112][269]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:70
+[2026.10.27-18.29.40:227][276]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:80
+[2026.10.27-18.29.40:328][282]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:90
+[2026.10.27-18.29.40:440][289]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:00
+[2026.10.27-18.29.40:546][296]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:10
+[2026.10.27-18.29.40:657][304]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:20
+[2026.10.27-18.29.40:768][312]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:30
+[2026.10.27-18.29.40:879][320]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:40
+[2026.10.27-18.29.40:987][328]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:50
+[2026.10.27-18.29.41:093][336]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:60
+[2026.10.27-18.29.41:203][344]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:70
+[2026.10.27-18.29.41:310][352]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:80
+[2026.10.27-18.29.41:415][360]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:90
+[2026.10.27-18.29.41:521][368]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:00
+[2026.10.27-18.29.41:627][376]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:10
+[2026.10.27-18.29.41:731][384]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:20
+[2026.10.27-18.29.41:837][392]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:30
+[2026.10.27-18.29.41:942][400]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:40
+[2026.10.27-18.29.42:049][408]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:50
+[2026.10.27-18.29.42:155][416]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:60
+[2026.10.27-18.29.42:262][424]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:70
+[2026.10.27-18.29.42:370][432]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:80
+[2026.10.27-18.29.42:476][440]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:90
+[2026.10.27-18.29.42:582][448]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:00
+[2026.10.27-18.29.42:687][456]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:10
+[2026.10.27-18.29.42:796][464]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:20
+[2026.10.27-18.29.42:901][472]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:30
+[2026.10.27-18.29.43:009][480]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:40
+[2026.10.27-18.29.43:116][488]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:50
+[2026.10.27-18.29.43:222][496]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:60
+[2026.10.27-18.29.43:328][504]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:70
+[2026.10.27-18.29.43:433][512]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:80
+[2026.10.27-18.29.43:540][520]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:90
+[2026.10.27-18.29.43:648][528]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:00
+[2026.10.27-18.29.43:756][536]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:10
+[2026.10.27-18.29.43:864][544]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:20
+[2026.10.27-18.29.43:969][552]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:30
+[2026.10.27-18.29.44:076][560]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:40
+[2026.10.27-18.29.44:185][568]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:50
+[2026.10.27-18.29.44:294][576]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:60
+[2026.10.27-18.29.44:401][584]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:70
+[2026.10.27-18.29.44:508][592]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:80
+[2026.10.27-18.29.44:617][600]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:90
+[2026.10.27-18.29.44:725][608]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:00
+[2026.10.27-18.29.44:831][616]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:10
+[2026.10.27-18.29.44:940][624]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:20
+[2026.10.27-18.29.45:052][632]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:30
+[2026.10.27-18.29.45:160][640]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:40
+[2026.10.27-18.29.45:270][648]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:50
+[2026.10.27-18.29.45:382][656]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:60
+[2026.10.27-18.29.45:491][664]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:70
+[2026.10.27-18.29.45:603][672]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:80
+[2026.10.27-18.29.45:710][680]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:90
+[2026.10.27-18.29.45:821][688]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:00
+[2026.10.27-18.29.45:903][694]LogBlueprintUserMessages: [BP_Bike_C_1] Race Ended!
+[2026.10.27-18.29.45:903][694]LogBlueprintUserMessages: [BP_RaceManager_C_1] 0
+[2026.10.27-18.29.45:932][696]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:10
+[2026.10.27-18.29.46:898][769]LogBlueprintUserMessages: [BP_RaceManager_C_1] -1
+[2026.10.27-18.29.47:899][865]LogBlueprintUserMessages: [BP_RaceManager_C_1] -2
+[2026.10.27-18.29.48:906][985]LogBlueprintUserMessages: [BP_RaceManager_C_1] -3
+[2026.10.27-18.29.49:456][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.29.49:456][ 46]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.27-18.29.49:456][ 46]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-18.29.49:457][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-18.29.49:460][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.27-18.29.49:465][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-18.29.49:494][ 46]LogAudio: Display: Audio Device unregistered from world 'MovementTestMap'.
+[2026.10.27-18.29.49:495][ 46]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.10.27-18.29.49:495][ 46]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=13, StreamState=4
+[2026.10.27-18.29.49:499][ 46]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.27-18.29.49:502][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.29.49:505][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.10.27-18.29.49:568][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.10.27-18.30.13:749][728]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-18.30.13:807][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.10.27-18.30.14:599][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.30.14:620][780]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.30.14:621][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.30.14:621][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.30.14:638][780]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.30.14:639][780]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManager416C06234D72053AA8B11793E9E1E0FC.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.30.14:648][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.676 ms (total: 3.82 sec)
+[2026.10.27-18.30.14:674][780]LogContentValidation: Enabled validators:
+[2026.10.27-18.30.14:674][780]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.30.14:674][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.30.14:674][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.30.14:674][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.30.14:674][780]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.30.14:674][780]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.30.14:674][780]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.30.14:674][780]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.30.14:674][780]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.30.14:674][780]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.30.14:674][780]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.30.14:674][780]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.30.14:674][780]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.30.14:674][780]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.30.14:674][780]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.30.14:674][780]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.30.14:674][780]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.30.14:674][780]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.30.14:674][780]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.30.14:674][780]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.30.14:674][780]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.30.14:674][780]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.30.26:909][766]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.27-18.30.26:916][766]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.27-18.30.26:916][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.27-18.30.26:916][766]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.27-18.30.26:921][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005890s)
+[2026.10.27-18.30.26:921][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.005928s)
+[2026.10.27-18.30.26:952][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.10.27-18.30.26:958][766]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.10.27-18.30.26:960][766]LogPlayLevel: PIE: World Init took: (0.001755s)
+[2026.10.27-18.30.26:960][766]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.10.27-18.30.26:960][766]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.27-18.30.26:960][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.27-18.30.26:960][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.27-18.30.26:960][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.27-18.30.26:960][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.27-18.30.26:960][766]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.27-18.30.26:960][766]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.27-18.30.26:960][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.27-18.30.26:960][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.27-18.30.26:960][766]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.27-18.30.26:960][766]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.27-18.30.26:960][766]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.27-18.30.26:960][766]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.27-18.30.26:964][766]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.30.26:965][766]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.30.26:966][766]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.30.26:970][766]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.27-18.30.26:970][766]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.27-18.30.26:970][766]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.27-18.30.26:971][766]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.27-18.30.26:974][766]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.27-18.30.26:974][766]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.27-18.30.26:974][766]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.27-18.30.26:974][766]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.10.27-18.30.26:974][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.27-18.30.26:974][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.27-18.30.26:974][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.27-18.30.26:975][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.10.27-18.30.26:976][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.10.27-18.30.26:977][766]LogInit: FAudioDevice initialized with ID 14.
+[2026.10.27-18.30.26:977][766]LogAudio: Display: Audio Device (ID: 14) registered with world 'MovementTestMap'.
+[2026.10.27-18.30.26:977][766]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.10.27-18.30.26:977][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.30.26:980][766]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.27-18.30.26:983][766]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 0) at 2026.10.27-11.30.26
+[2026.10.27-18.30.26:983][766]LogWorld: Bringing up level for play took: 0.001570
+[2026.10.27-18.30.26:984][766]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.10.27-18.30.26:985][766]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.27-18.30.26:985][766]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.27-18.30.26:985][766]PIE: Server logged in
+[2026.10.27-18.30.26:987][766]PIE: Play in editor total start time 0.072 seconds.
+[2026.10.27-18.30.27:018][767]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.27-18.30.27:025][768]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.27-18.30.27:904][871]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.27-18.30.28:910][991]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.27-18.30.29:911][111]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.27-18.30.29:911][111]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.27-18.30.29:911][111]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:00
+[2026.10.27-18.30.30:012][123]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:10
+[2026.10.27-18.30.30:111][135]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:20
+[2026.10.27-18.30.30:212][147]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:30
+[2026.10.27-18.30.30:312][159]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:40
+[2026.10.27-18.30.30:413][171]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:50
+[2026.10.27-18.30.30:512][183]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:60
+[2026.10.27-18.30.30:612][195]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:70
+[2026.10.27-18.30.30:713][207]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:80
+[2026.10.27-18.30.30:812][219]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:90
+[2026.10.27-18.30.30:912][231]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:00
+[2026.10.27-18.30.31:013][243]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:10
+[2026.10.27-18.30.31:114][255]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:20
+[2026.10.27-18.30.31:215][267]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:30
+[2026.10.27-18.30.31:315][279]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:40
+[2026.10.27-18.30.31:415][291]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:50
+[2026.10.27-18.30.31:516][303]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:60
+[2026.10.27-18.30.31:616][315]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:70
+[2026.10.27-18.30.31:715][327]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:80
+[2026.10.27-18.30.31:816][339]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:90
+[2026.10.27-18.30.31:917][351]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:00
+[2026.10.27-18.30.32:026][362]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:10
+[2026.10.27-18.30.32:131][372]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:20
+[2026.10.27-18.30.32:240][382]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:30
+[2026.10.27-18.30.32:351][391]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:40
+[2026.10.27-18.30.32:453][399]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:50
+[2026.10.27-18.30.32:555][407]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:60
+[2026.10.27-18.30.32:657][415]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:70
+[2026.10.27-18.30.32:733][421]LogBlueprintUserMessages: [BP_Bike_C_1] Race Ended!
+[2026.10.27-18.30.32:733][421]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.27-18.30.32:759][423]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:80
+[2026.10.27-18.30.33:726][498]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.27-18.30.34:730][575]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.27-18.30.35:735][667]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.27-18.30.35:735][667]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.27-18.30.35:735][667]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:80
+[2026.10.27-18.30.35:837][679]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:90
+[2026.10.27-18.30.35:940][691]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:00
+[2026.10.27-18.30.36:042][703]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:10
+[2026.10.27-18.30.36:147][715]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:20
+[2026.10.27-18.30.36:248][727]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:30
+[2026.10.27-18.30.36:350][739]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:40
+[2026.10.27-18.30.36:451][751]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:50
+[2026.10.27-18.30.36:552][763]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:60
+[2026.10.27-18.30.36:652][775]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:70
+[2026.10.27-18.30.36:755][787]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:80
+[2026.10.27-18.30.36:855][799]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:90
+[2026.10.27-18.30.36:957][811]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:00
+[2026.10.27-18.30.37:060][823]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:10
+[2026.10.27-18.30.37:160][835]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:20
+[2026.10.27-18.30.37:260][847]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:30
+[2026.10.27-18.30.37:363][859]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:40
+[2026.10.27-18.30.37:466][871]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:50
+[2026.10.27-18.30.37:569][883]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:60
+[2026.10.27-18.30.37:670][895]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:70
+[2026.10.27-18.30.37:776][907]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:80
+[2026.10.27-18.30.37:885][918]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:90
+[2026.10.27-18.30.37:991][928]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:00
+[2026.10.27-18.30.38:100][938]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:10
+[2026.10.27-18.30.38:209][947]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:20
+[2026.10.27-18.30.38:309][955]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:30
+[2026.10.27-18.30.38:410][963]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:40
+[2026.10.27-18.30.38:514][971]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:50
+[2026.10.27-18.30.38:616][979]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:60
+[2026.10.27-18.30.38:722][987]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:70
+[2026.10.27-18.30.38:825][995]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:80
+[2026.10.27-18.30.38:931][  3]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:90
+[2026.10.27-18.30.39:037][ 11]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:00
+[2026.10.27-18.30.39:147][ 19]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:10
+[2026.10.27-18.30.39:227][ 25]LogBlueprintUserMessages: [BP_Bike_C_1] Race Ended!
+[2026.10.27-18.30.39:227][ 25]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.27-18.30.39:255][ 27]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:20
+[2026.10.27-18.30.40:226][ 99]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.27-18.30.41:228][174]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.27-18.30.42:234][274]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.27-18.30.42:234][274]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.27-18.30.42:234][274]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:20
+[2026.10.27-18.30.42:337][286]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:30
+[2026.10.27-18.30.42:438][298]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:40
+[2026.10.27-18.30.42:541][310]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:50
+[2026.10.27-18.30.42:642][322]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:60
+[2026.10.27-18.30.42:743][334]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:70
+[2026.10.27-18.30.42:847][346]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:80
+[2026.10.27-18.30.42:949][358]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:90
+[2026.10.27-18.30.43:051][370]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:00
+[2026.10.27-18.30.43:150][382]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:10
+[2026.10.27-18.30.43:251][394]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:20
+[2026.10.27-18.30.43:356][406]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:30
+[2026.10.27-18.30.43:457][418]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:40
+[2026.10.27-18.30.43:561][430]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:50
+[2026.10.27-18.30.43:668][442]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:60
+[2026.10.27-18.30.43:772][454]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:70
+[2026.10.27-18.30.43:879][466]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:80
+[2026.10.27-18.30.43:981][477]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:90
+[2026.10.27-18.30.44:085][489]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:00
+[2026.10.27-18.30.44:192][501]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:10
+[2026.10.27-18.30.44:300][513]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:20
+[2026.10.27-18.30.44:401][523]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:30
+[2026.10.27-18.30.44:505][533]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:40
+[2026.10.27-18.30.44:613][543]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:50
+[2026.10.27-18.30.44:722][552]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:60
+[2026.10.27-18.30.44:823][560]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:70
+[2026.10.27-18.30.44:925][568]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:80
+[2026.10.27-18.30.45:028][576]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:90
+[2026.10.27-18.30.45:132][584]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:00
+[2026.10.27-18.30.45:237][592]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:10
+[2026.10.27-18.30.45:344][600]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:20
+[2026.10.27-18.30.45:450][608]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:30
+[2026.10.27-18.30.45:551][616]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:40
+[2026.10.27-18.30.45:661][625]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:50
+[2026.10.27-18.30.45:773][634]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:60
+[2026.10.27-18.30.45:883][643]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:70
+[2026.10.27-18.30.45:991][651]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:80
+[2026.10.27-18.30.46:092][658]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:90
+[2026.10.27-18.30.46:202][665]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:00
+[2026.10.27-18.30.46:308][672]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:10
+[2026.10.27-18.30.46:416][679]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:20
+[2026.10.27-18.30.46:524][686]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:30
+[2026.10.27-18.30.46:636][693]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:40
+[2026.10.27-18.30.46:747][700]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:50
+[2026.10.27-18.30.46:856][707]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:60
+[2026.10.27-18.30.46:970][714]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:70
+[2026.10.27-18.30.47:083][721]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:80
+[2026.10.27-18.30.47:198][728]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:90
+[2026.10.27-18.30.47:297][734]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:00
+[2026.10.27-18.30.47:411][741]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:10
+[2026.10.27-18.30.47:526][748]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:20
+[2026.10.27-18.30.47:640][755]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:30
+[2026.10.27-18.30.47:751][762]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:40
+[2026.10.27-18.30.47:860][769]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:50
+[2026.10.27-18.30.47:970][776]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:60
+[2026.10.27-18.30.48:080][783]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:70
+[2026.10.27-18.30.48:191][790]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:80
+[2026.10.27-18.30.48:301][797]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:90
+[2026.10.27-18.30.48:412][804]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:00
+[2026.10.27-18.30.48:522][811]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:10
+[2026.10.27-18.30.48:629][818]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:20
+[2026.10.27-18.30.48:733][825]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:30
+[2026.10.27-18.30.48:842][833]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:40
+[2026.10.27-18.30.48:944][841]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:50
+[2026.10.27-18.30.49:045][849]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:60
+[2026.10.27-18.30.49:146][857]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:70
+[2026.10.27-18.30.49:259][866]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:80
+[2026.10.27-18.30.49:360][874]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:90
+[2026.10.27-18.30.49:472][883]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:00
+[2026.10.27-18.30.49:573][891]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:10
+[2026.10.27-18.30.49:683][900]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:20
+[2026.10.27-18.30.49:785][908]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:30
+[2026.10.27-18.30.49:896][917]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:40
+[2026.10.27-18.30.50:009][926]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:50
+[2026.10.27-18.30.50:120][935]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:60
+[2026.10.27-18.30.50:221][943]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:70
+[2026.10.27-18.30.50:322][951]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:80
+[2026.10.27-18.30.50:434][960]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:90
+[2026.10.27-18.30.50:545][969]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:00
+[2026.10.27-18.30.50:645][977]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:10
+[2026.10.27-18.30.50:757][986]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:20
+[2026.10.27-18.30.50:869][995]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:30
+[2026.10.27-18.30.50:980][  4]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:40
+[2026.10.27-18.30.51:083][ 12]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:50
+[2026.10.27-18.30.51:195][ 20]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:60
+[2026.10.27-18.30.51:303][ 28]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:70
+[2026.10.27-18.30.51:412][ 36]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:80
+[2026.10.27-18.30.51:522][ 44]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:90
+[2026.10.27-18.30.51:633][ 52]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:00
+[2026.10.27-18.30.51:743][ 60]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:10
+[2026.10.27-18.30.51:852][ 68]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:20
+[2026.10.27-18.30.51:962][ 76]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:30
+[2026.10.27-18.30.52:071][ 84]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:40
+[2026.10.27-18.30.52:182][ 92]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:50
+[2026.10.27-18.30.52:291][100]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:60
+[2026.10.27-18.30.52:401][108]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:70
+[2026.10.27-18.30.52:511][116]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:80
+[2026.10.27-18.30.52:623][124]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:90
+[2026.10.27-18.30.52:735][132]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:00
+[2026.10.27-18.30.52:845][140]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:10
+[2026.10.27-18.30.52:953][148]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:20
+[2026.10.27-18.30.53:056][155]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:30
+[2026.10.27-18.30.53:158][162]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:40
+[2026.10.27-18.30.53:271][170]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:50
+[2026.10.27-18.30.53:385][178]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:60
+[2026.10.27-18.30.53:500][186]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:70
+[2026.10.27-18.30.53:601][193]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:80
+[2026.10.27-18.30.53:701][200]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:90
+[2026.10.27-18.30.53:801][207]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:00
+[2026.10.27-18.30.53:901][214]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:10
+[2026.10.27-18.30.54:003][221]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:20
+[2026.10.27-18.30.54:103][228]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:30
+[2026.10.27-18.30.54:213][236]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:40
+[2026.10.27-18.30.54:313][244]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:50
+[2026.10.27-18.30.54:415][252]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:60
+[2026.10.27-18.30.54:517][260]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:70
+[2026.10.27-18.30.54:621][268]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:80
+[2026.10.27-18.30.54:721][276]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:90
+[2026.10.27-18.30.54:822][284]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:00
+[2026.10.27-18.30.54:924][292]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:10
+[2026.10.27-18.30.55:025][300]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:20
+[2026.10.27-18.30.55:127][308]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:30
+[2026.10.27-18.30.55:227][316]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:40
+[2026.10.27-18.30.55:327][324]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:50
+[2026.10.27-18.30.55:429][332]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:60
+[2026.10.27-18.30.55:530][340]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:70
+[2026.10.27-18.30.55:642][349]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:80
+[2026.10.27-18.30.55:744][357]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:90
+[2026.10.27-18.30.55:843][365]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:00
+[2026.10.27-18.30.55:944][373]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:10
+[2026.10.27-18.30.56:046][381]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:20
+[2026.10.27-18.30.56:145][389]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:30
+[2026.10.27-18.30.56:246][397]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:40
+[2026.10.27-18.30.56:359][406]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:50
+[2026.10.27-18.30.56:466][414]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:60
+[2026.10.27-18.30.56:578][422]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:70
+[2026.10.27-18.30.56:686][430]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:80
+[2026.10.27-18.30.56:797][438]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:90
+[2026.10.27-18.30.56:907][446]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:00
+[2026.10.27-18.30.57:016][454]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:10
+[2026.10.27-18.30.57:127][462]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:20
+[2026.10.27-18.30.57:237][470]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:30
+[2026.10.27-18.30.57:345][478]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:40
+[2026.10.27-18.30.57:455][486]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:50
+[2026.10.27-18.30.57:567][494]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:60
+[2026.10.27-18.30.57:677][502]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:70
+[2026.10.27-18.30.57:790][510]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:80
+[2026.10.27-18.30.57:901][518]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:90
+[2026.10.27-18.30.58:010][526]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:00
+[2026.10.27-18.30.58:111][533]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:10
+[2026.10.27-18.30.58:212][540]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:20
+[2026.10.27-18.30.58:313][547]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:30
+[2026.10.27-18.30.58:413][554]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:40
+[2026.10.27-18.30.58:524][562]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:50
+[2026.10.27-18.30.58:639][570]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:60
+[2026.10.27-18.30.58:752][578]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:70
+[2026.10.27-18.30.58:867][586]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:80
+[2026.10.27-18.30.58:981][594]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:21:90
+[2026.10.27-18.30.59:053][599]LogBlueprintUserMessages: [BP_Bike_C_1] Race Ended!
+[2026.10.27-18.30.59:053][599]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.27-18.30.59:092][602]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:00
+[2026.10.27-18.31.00:039][680]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.27-18.31.01:046][781]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.27-18.31.02:051][900]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.27-18.31.02:051][900]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.27-18.31.02:051][900]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:00
+[2026.10.27-18.31.02:156][912]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:10
+[2026.10.27-18.31.02:258][924]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:20
+[2026.10.27-18.31.02:362][936]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:30
+[2026.10.27-18.31.02:465][948]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:40
+[2026.10.27-18.31.02:569][960]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:50
+[2026.10.27-18.31.02:671][972]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:60
+[2026.10.27-18.31.02:773][984]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:70
+[2026.10.27-18.31.02:876][996]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:80
+[2026.10.27-18.31.02:978][  8]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:22:90
+[2026.10.27-18.31.03:081][ 20]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:00
+[2026.10.27-18.31.03:184][ 32]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:10
+[2026.10.27-18.31.03:286][ 44]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:20
+[2026.10.27-18.31.03:385][ 56]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:30
+[2026.10.27-18.31.03:486][ 68]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:40
+[2026.10.27-18.31.03:587][ 80]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:50
+[2026.10.27-18.31.03:689][ 92]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:60
+[2026.10.27-18.31.03:792][104]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:70
+[2026.10.27-18.31.03:896][116]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:80
+[2026.10.27-18.31.04:004][128]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:23:90
+[2026.10.27-18.31.04:104][140]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:00
+[2026.10.27-18.31.04:210][151]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:10
+[2026.10.27-18.31.04:310][161]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:20
+[2026.10.27-18.31.04:416][171]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:30
+[2026.10.27-18.31.04:528][180]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:40
+[2026.10.27-18.31.04:639][189]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:50
+[2026.10.27-18.31.04:741][197]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:60
+[2026.10.27-18.31.04:844][205]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:70
+[2026.10.27-18.31.04:947][213]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:80
+[2026.10.27-18.31.05:050][221]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:24:90
+[2026.10.27-18.31.05:155][229]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:00
+[2026.10.27-18.31.05:259][237]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:10
+[2026.10.27-18.31.05:364][245]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:20
+[2026.10.27-18.31.05:472][253]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:30
+[2026.10.27-18.31.05:582][261]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:40
+[2026.10.27-18.31.05:692][269]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:50
+[2026.10.27-18.31.05:795][276]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:60
+[2026.10.27-18.31.05:909][283]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:70
+[2026.10.27-18.31.06:025][290]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:80
+[2026.10.27-18.31.06:141][297]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:25:90
+[2026.10.27-18.31.06:248][304]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:00
+[2026.10.27-18.31.06:352][311]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:10
+[2026.10.27-18.31.06:454][318]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:20
+[2026.10.27-18.31.06:557][325]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:30
+[2026.10.27-18.31.06:662][332]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:40
+[2026.10.27-18.31.06:766][339]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:50
+[2026.10.27-18.31.06:872][346]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:60
+[2026.10.27-18.31.06:979][353]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:70
+[2026.10.27-18.31.07:086][360]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:80
+[2026.10.27-18.31.07:192][367]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:26:90
+[2026.10.27-18.31.07:300][374]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:00
+[2026.10.27-18.31.07:406][381]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:10
+[2026.10.27-18.31.07:513][388]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:27:20
+[2026.10.27-18.31.07:586][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.31.07:587][390]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.27-18.31.07:587][390]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-18.31.07:587][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-18.31.07:590][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.27-18.31.07:596][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-18.31.07:624][390]LogAudio: Display: Audio Device unregistered from world 'MovementTestMap'.
+[2026.10.27-18.31.07:624][390]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.10.27-18.31.07:625][390]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=14, StreamState=4
+[2026.10.27-18.31.07:630][390]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.27-18.31.07:634][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.31.07:636][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.10.27-18.31.07:695][391]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.10.27-18.31.09:186][553]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.27-18.31.09:192][553]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.27-18.31.09:193][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.27-18.31.09:193][553]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.27-18.31.09:199][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005615s)
+[2026.10.27-18.31.09:199][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.005653s)
+[2026.10.27-18.31.09:227][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.10.27-18.31.09:229][553]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.10.27-18.31.09:231][553]LogPlayLevel: PIE: World Init took: (0.001823s)
+[2026.10.27-18.31.09:231][553]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.10.27-18.31.09:231][553]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.27-18.31.09:231][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.27-18.31.09:231][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.27-18.31.09:231][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.27-18.31.09:231][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.27-18.31.09:231][553]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.27-18.31.09:231][553]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.27-18.31.09:231][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.27-18.31.09:231][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.27-18.31.09:231][553]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.27-18.31.09:231][553]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.27-18.31.09:231][553]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.27-18.31.09:231][553]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.27-18.31.09:234][553]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.31.09:235][553]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.31.09:236][553]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.31.09:240][553]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.27-18.31.09:240][553]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.27-18.31.09:240][553]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.27-18.31.09:241][553]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.27-18.31.09:244][553]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.27-18.31.09:244][553]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.27-18.31.09:244][553]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.27-18.31.09:244][553]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.10.27-18.31.09:245][553]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.27-18.31.09:245][553]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.27-18.31.09:245][553]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.27-18.31.09:245][553]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.10.27-18.31.09:246][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.10.27-18.31.09:248][553]LogInit: FAudioDevice initialized with ID 15.
+[2026.10.27-18.31.09:248][553]LogAudio: Display: Audio Device (ID: 15) registered with world 'MovementTestMap'.
+[2026.10.27-18.31.09:248][553]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.10.27-18.31.09:249][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.31.09:252][553]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.27-18.31.09:253][553]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 0) at 2026.10.27-11.31.09
+[2026.10.27-18.31.09:253][553]LogWorld: Bringing up level for play took: 0.001502
+[2026.10.27-18.31.09:255][553]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2026.10.27-18.31.09:255][553]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.27-18.31.09:255][553]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.27-18.31.09:256][553]PIE: Server logged in
+[2026.10.27-18.31.09:258][553]PIE: Play in editor total start time 0.065 seconds.
+[2026.10.27-18.31.09:288][554]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.27-18.31.09:296][555]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.27-18.31.10:182][659]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.27-18.31.11:189][779]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.27-18.31.12:191][899]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.27-18.31.12:191][899]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.27-18.31.12:191][899]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:00
+[2026.10.27-18.31.12:292][911]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:10
+[2026.10.27-18.31.12:392][923]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:20
+[2026.10.27-18.31.12:491][935]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:30
+[2026.10.27-18.31.12:591][947]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:40
+[2026.10.27-18.31.12:692][959]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:50
+[2026.10.27-18.31.12:792][971]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:60
+[2026.10.27-18.31.12:892][983]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:70
+[2026.10.27-18.31.12:992][995]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:80
+[2026.10.27-18.31.13:093][  7]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:90
+[2026.10.27-18.31.13:193][ 19]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:00
+[2026.10.27-18.31.13:293][ 31]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:10
+[2026.10.27-18.31.13:395][ 43]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:20
+[2026.10.27-18.31.13:495][ 55]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:30
+[2026.10.27-18.31.13:595][ 67]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:40
+[2026.10.27-18.31.13:695][ 79]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:50
+[2026.10.27-18.31.13:796][ 91]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:60
+[2026.10.27-18.31.13:896][103]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:70
+[2026.10.27-18.31.13:997][115]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:80
+[2026.10.27-18.31.14:097][127]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:90
+[2026.10.27-18.31.14:198][139]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:00
+[2026.10.27-18.31.14:305][150]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:10
+[2026.10.27-18.31.14:412][160]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:20
+[2026.10.27-18.31.14:515][170]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:30
+[2026.10.27-18.31.14:620][179]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:40
+[2026.10.27-18.31.14:724][188]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:50
+[2026.10.27-18.31.14:828][197]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:60
+[2026.10.27-18.31.14:934][206]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:70
+[2026.10.27-18.31.15:041][215]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:80
+[2026.10.27-18.31.15:148][224]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:90
+[2026.10.27-18.31.15:258][233]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:00
+[2026.10.27-18.31.15:365][242]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:10
+[2026.10.27-18.31.15:466][250]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:20
+[2026.10.27-18.31.15:575][259]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:30
+[2026.10.27-18.31.15:676][267]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:40
+[2026.10.27-18.31.15:780][275]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:50
+[2026.10.27-18.31.15:893][283]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:60
+[2026.10.27-18.31.15:998][290]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:70
+[2026.10.27-18.31.16:099][297]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:80
+[2026.10.27-18.31.16:200][304]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:90
+[2026.10.27-18.31.16:303][311]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:00
+[2026.10.27-18.31.16:406][318]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:10
+[2026.10.27-18.31.16:509][325]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:20
+[2026.10.27-18.31.16:612][332]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:30
+[2026.10.27-18.31.16:716][339]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:40
+[2026.10.27-18.31.16:822][346]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:50
+[2026.10.27-18.31.16:927][353]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:60
+[2026.10.27-18.31.17:032][360]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:70
+[2026.10.27-18.31.17:142][367]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:80
+[2026.10.27-18.31.17:248][374]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:90
+[2026.10.27-18.31.17:263][375]LogBlueprintUserMessages: [BP_Bike_C_1] Race Ended!
+[2026.10.27-18.31.17:263][375]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.27-18.31.17:354][381]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:00
+[2026.10.27-18.31.18:253][445]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.27-18.31.19:254][537]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.27-18.31.19:771][598]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3898.561035
+[2026.10.27-18.31.19:900][613]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.27-18.31.19:901][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3898.680664, Update Interval: 359.412201
+[2026.10.27-18.31.20:255][656]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.27-18.31.20:255][656]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.27-18.31.20:255][656]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:00
+[2026.10.27-18.31.20:357][668]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:10
+[2026.10.27-18.31.20:462][680]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:20
+[2026.10.27-18.31.20:563][692]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:30
+[2026.10.27-18.31.20:663][703]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:40
+[2026.10.27-18.31.20:764][715]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:50
+[2026.10.27-18.31.20:866][727]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:60
+[2026.10.27-18.31.20:971][739]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:70
+[2026.10.27-18.31.21:076][751]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:80
+[2026.10.27-18.31.21:166][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.31.21:166][757]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.27-18.31.21:166][757]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-18.31.21:167][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-18.31.21:170][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.27-18.31.21:175][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-18.31.21:205][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.31.21:205][757]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.10.27-18.31.21:205][757]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=15, StreamState=4
+[2026.10.27-18.31.21:210][757]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.27-18.31.21:215][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.10.27-18.31.21:275][758]Cmd: SELECT NONE
+[2026.10.27-18.31.21:279][758]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2026.10.27-18.32.36:814][570]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-18.32.36:871][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.10.27-18.32.37:658][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.32.37:682][633]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.32.37:682][633]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.32.37:682][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.32.37:700][633]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.32.37:701][633]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManager3D2115954CFEC4428BD64AAEE011FB61.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.32.37:707][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.324 ms (total: 3.87 sec)
+[2026.10.27-18.32.37:729][633]LogContentValidation: Enabled validators:
+[2026.10.27-18.32.37:729][633]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.32.37:729][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.32.37:729][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.32.37:729][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.32.37:729][633]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.32.37:729][633]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.32.37:729][633]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.32.37:729][633]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.32.37:729][633]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.32.37:730][633]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.32.37:730][633]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.32.37:730][633]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.32.37:730][633]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.32.37:730][633]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.32.37:730][633]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.32.37:730][633]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.32.37:730][633]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.32.37:730][633]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.32.37:730][633]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.32.37:730][633]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.32.37:730][633]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.32.37:730][633]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.32.44:107][302]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.27-18.32.44:114][302]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.27-18.32.44:114][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.27-18.32.44:114][302]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.27-18.32.44:119][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005595s)
+[2026.10.27-18.32.44:119][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.005632s)
+[2026.10.27-18.32.44:147][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.10.27-18.32.44:153][302]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.10.27-18.32.44:154][302]LogPlayLevel: PIE: World Init took: (0.001919s)
+[2026.10.27-18.32.44:154][302]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.10.27-18.32.44:154][302]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.27-18.32.44:154][302]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.27-18.32.44:154][302]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.27-18.32.44:154][302]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.27-18.32.44:154][302]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.27-18.32.44:154][302]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.27-18.32.44:154][302]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.27-18.32.44:154][302]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.27-18.32.44:154][302]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.27-18.32.44:154][302]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.27-18.32.44:154][302]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.27-18.32.44:154][302]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.27-18.32.44:155][302]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.27-18.32.44:158][302]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.32.44:159][302]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.32.44:160][302]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.32.44:164][302]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.27-18.32.44:164][302]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.27-18.32.44:164][302]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.27-18.32.44:164][302]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.27-18.32.44:168][302]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.27-18.32.44:168][302]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.27-18.32.44:168][302]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.27-18.32.44:168][302]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.10.27-18.32.44:168][302]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.27-18.32.44:168][302]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.27-18.32.44:168][302]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.27-18.32.44:169][302]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.10.27-18.32.44:170][302]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.10.27-18.32.44:172][302]LogInit: FAudioDevice initialized with ID 16.
+[2026.10.27-18.32.44:172][302]LogAudio: Display: Audio Device (ID: 16) registered with world 'MovementTestMap'.
+[2026.10.27-18.32.44:172][302]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.10.27-18.32.44:172][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.32.44:176][302]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.27-18.32.44:177][302]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 0) at 2026.10.27-11.32.44
+[2026.10.27-18.32.44:177][302]LogWorld: Bringing up level for play took: 0.001591
+[2026.10.27-18.32.44:180][302]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.10.27-18.32.44:181][302]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.27-18.32.44:181][302]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.27-18.32.44:181][302]PIE: Server logged in
+[2026.10.27-18.32.44:183][302]PIE: Play in editor total start time 0.069 seconds.
+[2026.10.27-18.32.44:213][303]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.27-18.32.44:222][304]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.27-18.32.45:101][407]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.27-18.32.46:108][527]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.27-18.32.47:109][647]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.27-18.32.47:109][647]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.27-18.32.47:109][647]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:00
+[2026.10.27-18.32.47:208][659]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:10
+[2026.10.27-18.32.47:308][671]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:20
+[2026.10.27-18.32.47:408][683]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:30
+[2026.10.27-18.32.47:509][695]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:40
+[2026.10.27-18.32.47:609][707]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:50
+[2026.10.27-18.32.47:710][719]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:60
+[2026.10.27-18.32.47:813][731]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:70
+[2026.10.27-18.32.47:921][743]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:80
+[2026.10.27-18.32.48:027][755]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:90
+[2026.10.27-18.32.48:131][767]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:00
+[2026.10.27-18.32.48:234][779]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:10
+[2026.10.27-18.32.48:337][791]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:20
+[2026.10.27-18.32.48:440][803]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:30
+[2026.10.27-18.32.48:541][815]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:40
+[2026.10.27-18.32.48:642][827]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:50
+[2026.10.27-18.32.48:742][839]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:60
+[2026.10.27-18.32.48:843][851]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:70
+[2026.10.27-18.32.48:944][863]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:80
+[2026.10.27-18.32.49:047][875]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:90
+[2026.10.27-18.32.49:148][887]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:00
+[2026.10.27-18.32.49:258][899]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:10
+[2026.10.27-18.32.49:362][910]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:20
+[2026.10.27-18.32.49:464][920]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:30
+[2026.10.27-18.32.49:564][929]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:40
+[2026.10.27-18.32.49:668][938]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:50
+[2026.10.27-18.32.49:775][947]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:60
+[2026.10.27-18.32.49:885][956]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:70
+[2026.10.27-18.32.49:991][965]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:80
+[2026.10.27-18.32.50:097][974]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:90
+[2026.10.27-18.32.50:207][983]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:00
+[2026.10.27-18.32.50:315][992]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:10
+[2026.10.27-18.32.50:426][  1]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:20
+[2026.10.27-18.32.50:537][ 10]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:30
+[2026.10.27-18.32.50:649][ 19]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:40
+[2026.10.27-18.32.50:760][ 27]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:50
+[2026.10.27-18.32.50:860][ 34]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:60
+[2026.10.27-18.32.50:963][ 41]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:70
+[2026.10.27-18.32.51:074][ 48]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:80
+[2026.10.27-18.32.51:187][ 55]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:90
+[2026.10.27-18.32.51:300][ 62]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:00
+[2026.10.27-18.32.51:414][ 69]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:10
+[2026.10.27-18.32.51:530][ 76]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:20
+[2026.10.27-18.32.51:646][ 83]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:30
+[2026.10.27-18.32.51:678][ 85]LogBlueprintUserMessages: [BP_Bike_C_1] Race Ended!
+[2026.10.27-18.32.51:678][ 85]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.27-18.32.51:760][ 90]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:40
+[2026.10.27-18.32.52:662][145]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.27-18.32.53:670][228]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.27-18.32.54:672][346]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.27-18.32.54:672][346]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.27-18.32.54:672][346]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:40
+[2026.10.27-18.32.54:772][358]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:50
+[2026.10.27-18.32.54:871][370]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:60
+[2026.10.27-18.32.54:971][382]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:70
+[2026.10.27-18.32.55:072][394]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:80
+[2026.10.27-18.32.55:171][406]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:90
+[2026.10.27-18.32.55:272][418]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:00
+[2026.10.27-18.32.55:372][430]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:10
+[2026.10.27-18.32.55:471][442]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:20
+[2026.10.27-18.32.55:572][454]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:30
+[2026.10.27-18.32.55:673][466]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:40
+[2026.10.27-18.32.55:773][478]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:50
+[2026.10.27-18.32.55:872][490]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:60
+[2026.10.27-18.32.55:972][502]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:70
+[2026.10.27-18.32.56:073][514]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:80
+[2026.10.27-18.32.56:176][526]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:90
+[2026.10.27-18.32.56:279][538]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:00
+[2026.10.27-18.32.56:366][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.32.56:366][544]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.27-18.32.56:367][544]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-18.32.56:367][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-18.32.56:370][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.27-18.32.56:376][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-18.32.56:402][544]LogAudio: Display: Audio Device unregistered from world 'MovementTestMap'.
+[2026.10.27-18.32.56:402][544]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.10.27-18.32.56:402][544]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=16, StreamState=4
+[2026.10.27-18.32.56:408][544]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.27-18.32.56:410][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.32.56:412][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.10.27-18.32.56:445][545]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.10.27-18.34.00:540][406]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.10.27-18.34.00:597][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.10.27-18.34.01:152][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-18.34.01:173][454]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.34.01:173][454]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.10.27-18.34.01:173][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.10.27-18.34.01:192][454]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.10.27-18.34.01:192][454]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_RaceManagerE19DEB534DBA3869B280D48C635A8CF6.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.10.27-18.34.01:199][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.180 ms (total: 3.92 sec)
+[2026.10.27-18.34.01:221][454]LogContentValidation: Enabled validators:
+[2026.10.27-18.34.01:221][454]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-18.34.01:221][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.27-18.34.01:221][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-18.34.01:221][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-18.34.01:221][454]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-18.34.01:221][454]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-18.34.01:221][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-18.34.01:221][454]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.27-18.34.01:221][454]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.27-18.34.01:221][454]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.27-18.34.01:221][454]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.27-18.34.01:221][454]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.10.27-18.34.01:221][454]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.27-18.34.01:221][454]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.27-18.34.01:221][454]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.27-18.34.01:221][454]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.27-18.34.01:221][454]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.27-18.34.01:221][454]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.27-18.34.01:221][454]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.27-18.34.01:221][454]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.27-18.34.01:221][454]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.27-18.34.01:221][454]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.27-18.34.03:484][700]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.27-18.34.03:491][700]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.27-18.34.03:491][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.27-18.34.03:491][700]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.27-18.34.03:496][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005695s)
+[2026.10.27-18.34.03:496][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.005731s)
+[2026.10.27-18.34.03:526][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.10.27-18.34.03:529][700]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.10.27-18.34.03:531][700]LogPlayLevel: PIE: World Init took: (0.001832s)
+[2026.10.27-18.34.03:531][700]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.10.27-18.34.03:531][700]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.27-18.34.03:531][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.27-18.34.03:531][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.27-18.34.03:531][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.27-18.34.03:531][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.27-18.34.03:531][700]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.27-18.34.03:531][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.27-18.34.03:531][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.27-18.34.03:531][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.27-18.34.03:531][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.27-18.34.03:531][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.27-18.34.03:531][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.27-18.34.03:531][700]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.27-18.34.03:534][700]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.34.03:536][700]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.34.03:537][700]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.10.27-18.34.03:541][700]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.27-18.34.03:541][700]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.27-18.34.03:541][700]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.27-18.34.03:542][700]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.27-18.34.03:544][700]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.27-18.34.03:544][700]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.27-18.34.03:544][700]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.27-18.34.03:544][700]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.10.27-18.34.03:544][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.27-18.34.03:544][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.27-18.34.03:546][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.27-18.34.03:546][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.10.27-18.34.03:547][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.10.27-18.34.03:549][700]LogInit: FAudioDevice initialized with ID 17.
+[2026.10.27-18.34.03:549][700]LogAudio: Display: Audio Device (ID: 17) registered with world 'MovementTestMap'.
+[2026.10.27-18.34.03:549][700]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.10.27-18.34.03:549][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.34.03:553][700]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.27-18.34.03:554][700]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 0) at 2026.10.27-11.34.03
+[2026.10.27-18.34.03:554][700]LogWorld: Bringing up level for play took: 0.001552
+[2026.10.27-18.34.03:556][700]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.10.27-18.34.03:556][700]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.27-18.34.03:556][700]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.27-18.34.03:557][700]PIE: Server logged in
+[2026.10.27-18.34.03:558][700]PIE: Play in editor total start time 0.068 seconds.
+[2026.10.27-18.34.03:589][701]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.27-18.34.03:596][702]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.27-18.34.04:481][806]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.27-18.34.05:484][925]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.27-18.34.06:490][ 45]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.27-18.34.06:490][ 45]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.27-18.34.06:490][ 45]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:00
+[2026.10.27-18.34.06:592][ 57]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:10
+[2026.10.27-18.34.06:695][ 69]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:20
+[2026.10.27-18.34.06:795][ 81]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:30
+[2026.10.27-18.34.06:894][ 93]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:40
+[2026.10.27-18.34.06:996][105]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:50
+[2026.10.27-18.34.07:096][117]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:60
+[2026.10.27-18.34.07:197][129]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:70
+[2026.10.27-18.34.07:299][138]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:80
+[2026.10.27-18.34.07:400][150]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:90
+[2026.10.27-18.34.07:499][162]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:00
+[2026.10.27-18.34.07:599][174]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:10
+[2026.10.27-18.34.07:699][186]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:20
+[2026.10.27-18.34.07:801][198]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:30
+[2026.10.27-18.34.07:903][210]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:40
+[2026.10.27-18.34.08:002][222]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:50
+[2026.10.27-18.34.08:105][234]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:60
+[2026.10.27-18.34.08:205][246]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:70
+[2026.10.27-18.34.08:306][258]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:80
+[2026.10.27-18.34.08:406][270]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:90
+[2026.10.27-18.34.08:508][282]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:00
+[2026.10.27-18.34.08:612][293]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:10
+[2026.10.27-18.34.08:713][303]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:20
+[2026.10.27-18.34.08:820][313]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:30
+[2026.10.27-18.34.08:923][322]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:40
+[2026.10.27-18.34.09:032][331]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:50
+[2026.10.27-18.34.09:132][339]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:60
+[2026.10.27-18.34.09:235][347]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:70
+[2026.10.27-18.34.09:339][355]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:80
+[2026.10.27-18.34.09:443][363]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:90
+[2026.10.27-18.34.09:547][371]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:00
+[2026.10.27-18.34.09:646][379]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:10
+[2026.10.27-18.34.09:748][387]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:20
+[2026.10.27-18.34.09:858][396]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:30
+[2026.10.27-18.34.09:959][404]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:40
+[2026.10.27-18.34.10:062][412]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:50
+[2026.10.27-18.34.10:164][420]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:60
+[2026.10.27-18.34.10:268][427]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:70
+[2026.10.27-18.34.10:378][434]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:80
+[2026.10.27-18.34.10:493][441]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:90
+[2026.10.27-18.34.10:606][448]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:00
+[2026.10.27-18.34.10:720][455]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:10
+[2026.10.27-18.34.10:835][462]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:20
+[2026.10.27-18.34.10:950][469]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:30
+[2026.10.27-18.34.11:052][475]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:40
+[2026.10.27-18.34.11:119][479]LogBlueprintUserMessages: [BP_Bike_C_1] Race Ended!
+[2026.10.27-18.34.11:119][479]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.27-18.34.11:153][481]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:10
+[2026.10.27-18.34.12:108][541]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.27-18.34.13:117][624]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.27-18.34.14:125][743]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.27-18.34.14:125][743]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.27-18.34.14:125][743]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:10
+[2026.10.27-18.34.14:224][755]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:20
+[2026.10.27-18.34.14:325][767]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:30
+[2026.10.27-18.34.14:425][779]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:40
+[2026.10.27-18.34.14:524][791]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:50
+[2026.10.27-18.34.14:628][803]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:60
+[2026.10.27-18.34.14:729][815]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:70
+[2026.10.27-18.34.14:828][827]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:80
+[2026.10.27-18.34.14:928][839]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:90
+[2026.10.27-18.34.15:029][851]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:00
+[2026.10.27-18.34.15:129][863]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:10
+[2026.10.27-18.34.15:231][875]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:20
+[2026.10.27-18.34.15:331][887]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:30
+[2026.10.27-18.34.15:431][899]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:40
+[2026.10.27-18.34.15:532][911]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:50
+[2026.10.27-18.34.15:632][923]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:60
+[2026.10.27-18.34.15:733][935]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:70
+[2026.10.27-18.34.15:834][947]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:80
+[2026.10.27-18.34.15:935][959]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:90
+[2026.10.27-18.34.16:039][971]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:00
+[2026.10.27-18.34.16:143][983]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:10
+[2026.10.27-18.34.16:246][993]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:20
+[2026.10.27-18.34.16:352][  3]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:30
+[2026.10.27-18.34.16:462][ 13]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:40
+[2026.10.27-18.34.16:572][ 22]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:50
+[2026.10.27-18.34.16:684][ 31]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:60
+[2026.10.27-18.34.16:784][ 39]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:70
+[2026.10.27-18.34.16:886][ 47]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:80
+[2026.10.27-18.34.16:988][ 55]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:90
+[2026.10.27-18.34.17:093][ 63]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:00
+[2026.10.27-18.34.17:197][ 71]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:10
+[2026.10.27-18.34.17:306][ 79]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:20
+[2026.10.27-18.34.17:413][ 87]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:30
+[2026.10.27-18.34.17:517][ 95]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:40
+[2026.10.27-18.34.17:618][103]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:50
+[2026.10.27-18.34.17:719][111]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:60
+[2026.10.27-18.34.17:824][119]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:70
+[2026.10.27-18.34.17:928][126]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:80
+[2026.10.27-18.34.18:039][133]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:90
+[2026.10.27-18.34.18:151][140]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:00
+[2026.10.27-18.34.18:264][147]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:10
+[2026.10.27-18.34.18:377][154]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:20
+[2026.10.27-18.34.18:492][161]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:30
+[2026.10.27-18.34.18:608][168]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:40
+[2026.10.27-18.34.18:725][175]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:50
+[2026.10.27-18.34.18:825][181]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:60
+[2026.10.27-18.34.18:930][187]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:70
+[2026.10.27-18.34.19:040][194]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:80
+[2026.10.27-18.34.19:151][201]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:90
+[2026.10.27-18.34.19:266][208]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:00
+[2026.10.27-18.34.19:376][215]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:10
+[2026.10.27-18.34.19:484][222]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:20
+[2026.10.27-18.34.19:596][229]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:30
+[2026.10.27-18.34.19:709][236]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:40
+[2026.10.27-18.34.19:820][243]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:50
+[2026.10.27-18.34.19:927][250]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:60
+[2026.10.27-18.34.20:036][257]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:70
+[2026.10.27-18.34.20:143][264]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:80
+[2026.10.27-18.34.20:251][271]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:90
+[2026.10.27-18.34.20:360][278]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:00
+[2026.10.27-18.34.20:464][285]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:10
+[2026.10.27-18.34.20:569][292]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:20
+[2026.10.27-18.34.20:671][299]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:30
+[2026.10.27-18.34.20:772][307]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:40
+[2026.10.27-18.34.20:878][315]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:50
+[2026.10.27-18.34.20:979][323]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:60
+[2026.10.27-18.34.21:079][331]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:70
+[2026.10.27-18.34.21:181][339]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:80
+[2026.10.27-18.34.21:283][347]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:90
+[2026.10.27-18.34.21:394][356]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:00
+[2026.10.27-18.34.21:494][364]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:10
+[2026.10.27-18.34.21:594][372]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:20
+[2026.10.27-18.34.21:699][380]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:30
+[2026.10.27-18.34.21:804][388]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:40
+[2026.10.27-18.34.21:908][396]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:50
+[2026.10.27-18.34.22:013][404]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:60
+[2026.10.27-18.34.22:118][412]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:70
+[2026.10.27-18.34.22:223][420]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:80
+[2026.10.27-18.34.22:333][429]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:90
+[2026.10.27-18.34.22:438][437]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:00
+[2026.10.27-18.34.22:546][445]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:10
+[2026.10.27-18.34.22:655][453]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:20
+[2026.10.27-18.34.22:762][461]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:30
+[2026.10.27-18.34.22:869][469]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:40
+[2026.10.27-18.34.22:974][477]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:50
+[2026.10.27-18.34.23:082][485]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:60
+[2026.10.27-18.34.23:190][493]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:70
+[2026.10.27-18.34.23:297][501]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:80
+[2026.10.27-18.34.23:402][509]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:90
+[2026.10.27-18.34.23:509][517]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:00
+[2026.10.27-18.34.23:617][525]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:10
+[2026.10.27-18.34.23:724][533]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:20
+[2026.10.27-18.34.23:830][541]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:30
+[2026.10.27-18.34.23:938][549]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:40
+[2026.10.27-18.34.24:046][557]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:50
+[2026.10.27-18.34.24:158][565]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:60
+[2026.10.27-18.34.24:266][573]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:70
+[2026.10.27-18.34.24:374][581]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:80
+[2026.10.27-18.34.24:484][589]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:90
+[2026.10.27-18.34.24:594][597]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:00
+[2026.10.27-18.34.24:703][605]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:10
+[2026.10.27-18.34.24:814][613]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:20
+[2026.10.27-18.34.24:925][621]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:30
+[2026.10.27-18.34.25:032][629]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:40
+[2026.10.27-18.34.25:143][637]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:50
+[2026.10.27-18.34.25:251][644]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:60
+[2026.10.27-18.34.25:359][651]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:70
+[2026.10.27-18.34.25:464][658]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:80
+[2026.10.27-18.34.25:569][665]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:90
+[2026.10.27-18.34.25:673][672]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:00
+[2026.10.27-18.34.25:785][680]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:10
+[2026.10.27-18.34.25:895][688]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:20
+[2026.10.27-18.34.26:005][696]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:30
+[2026.10.27-18.34.26:115][704]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:40
+[2026.10.27-18.34.26:224][712]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:50
+[2026.10.27-18.34.26:333][720]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:60
+[2026.10.27-18.34.26:443][728]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:70
+[2026.10.27-18.34.26:471][730]LogBlueprintUserMessages: [BP_Bike_C_1] Race Ended!
+[2026.10.27-18.34.26:472][730]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.27-18.34.26:554][736]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:10
+[2026.10.27-18.34.27:465][806]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.27-18.34.28:468][904]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.27-18.34.28:717][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.34.28:717][930]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.27-18.34.28:717][930]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-18.34.28:718][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-18.34.28:721][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.27-18.34.28:726][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-18.34.28:755][930]LogAudio: Display: Audio Device unregistered from world 'MovementTestMap'.
+[2026.10.27-18.34.28:755][930]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.10.27-18.34.28:755][930]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=17, StreamState=4
+[2026.10.27-18.34.28:760][930]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.27-18.34.28:764][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.27-18.34.28:766][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.10.27-18.34.28:797][931]LogPlayLevel: Display: Destroying online subsystem :Context_23
