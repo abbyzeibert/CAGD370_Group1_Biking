@@ -3461,3 +3461,1063 @@ Are you sure?
 [2026.10.29-18.12.54:407][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2881.068359
 [2026.10.29-18.12.55:406][391]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.29-18.12.55:406][391]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2881.735107, Update Interval: 357.517029
+[2026.10.29-18.19.03:957][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.10.29-18.19.03:961][390]LogStreaming: Display: FlushAsyncLoading(430): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-18.19.04:042][390]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl1
+[2026.10.29-18.19.04:073][390]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl1._Lvl1
+[2026.10.29-18.19.04:074][390]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.29-18.19.04:087][390]LogWorld: UWorld::CleanupWorld for _Lvl3, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.19.04:087][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.19.04:114][390]LogAudio: Display: Audio Device unregistered from world '_Lvl3'.
+[2026.10.29-18.19.04:116][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.10.29-18.19.04:119][390]LogWorld: UWorld::CleanupWorld for _Lvl1, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.19.04:120][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.19.04:154][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.10.29-18.19.04:179][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.10.29-18.19.04:253][390]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl1'.
+[2026.10.29-18.19.04:253][390]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl1
+[2026.10.29-18.19.04:279][390]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.29-18.19.04:309][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.10.29-18.19.04:314][390]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.29-18.19.04:314][390]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2026.10.29-18.19.04:406][391]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-18.19.10:057][898]Cmd: EDIT COPY
+[2026.10.29-18.19.10:671][904]Cmd: EDIT COPY
+[2026.10.29-18.19.11:179][904]Cmd: EDIT COPY
+[2026.10.29-18.19.51:408][687]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3298.054688
+[2026.10.29-18.19.52:408][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-18.19.52:408][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3298.721191, Update Interval: 329.301422
+[2026.10.29-18.21.35:845][  2]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.10.29-18.21.35:845][  2]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.10.29-18.21.35:847][  2]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/_Lvl1._Lvl1:PersistentLevel.StaticMeshActor_1
+[2026.10.29-18.21.35:847][  2]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/_Lvl1._Lvl1:PersistentLevel.StaticMeshActor_1
+[2026.10.29-18.21.57:628][907]Cmd: TRANSACTION UNDO
+[2026.10.29-18.21.57:628][907]LogEditorTransaction: Undo Transform
+[2026.10.29-18.22.21:178][ 56]Cmd: EDIT COPY
+[2026.10.29-18.22.21:839][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.10.29-18.22.23:209][119]LogSlate: Window 'Save Content' being destroyed
+[2026.10.29-18.22.23:232][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.29-18.22.23:263][119]LogFileHelpers: Saving Map: /Game/Levels/_Lvl1
+[2026.10.29-18.22.23:263][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl1] ([1] browsable assets)...
+[2026.10.29-18.22.23:263][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl1]
+[2026.10.29-18.22.23:300][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.10.29-18.22.23:517][119]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl1
+[2026.10.29-18.22.23:517][119]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Saved/_Lvl120F527D8422185A034C82A9D39D6C6C0.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl1.umap'
+[2026.10.29-18.22.23:565][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 333.440 ms (total: 1.52 sec)
+[2026.10.29-18.22.23:565][119]LogStreaming: Display: FlushAsyncLoading(432): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-18.22.23:568][119]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.10.29-18.22.23:569][119]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl2._Lvl2
+[2026.10.29-18.22.23:569][119]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.29-18.22.23:616][119]LogWorld: UWorld::CleanupWorld for _Lvl1, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.22.23:616][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.22.23:641][119]LogAudio: Display: Audio Device unregistered from world '_Lvl1'.
+[2026.10.29-18.22.23:644][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.10.29-18.22.23:647][119]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.22.23:647][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.22.23:670][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.10.29-18.22.23:694][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.10.29-18.22.23:697][119]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl2'.
+[2026.10.29-18.22.23:697][119]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.10.29-18.22.23:708][119]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.29-18.22.23:733][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.10.29-18.22.23:738][119]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.29-18.22.23:738][119]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2026.10.29-18.22.23:795][119]LogContentValidation: Enabled validators:
+[2026.10.29-18.22.23:795][119]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.29-18.22.23:795][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.29-18.22.23:795][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.29-18.22.23:795][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.29-18.22.23:795][119]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.29-18.22.23:795][119]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.29-18.22.23:795][119]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.29-18.22.23:795][119]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.29-18.22.23:795][119]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.29-18.22.23:795][119]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.29-18.22.23:795][119]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.29-18.22.23:795][119]LogContentValidation: Validated asset counts for 0 validators:
+[2026.10.29-18.22.23:817][119]LogAutomationController: Ignoring very large delta of 2.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.10.29-18.22.23:853][120]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-18.22.24:315][155]Cmd: EDIT PASTE
+[2026.10.29-18.22.38:493][500]Cmd: TRANSACTION UNDO
+[2026.10.29-18.22.38:494][500]LogEditorTransaction: Undo Transform
+[2026.10.29-18.22.38:739][506]Cmd: TRANSACTION UNDO
+[2026.10.29-18.22.38:739][506]LogEditorTransaction: Undo Transform
+[2026.10.29-18.22.53:827][827]Cmd: MODE SCALEGRID=0
+[2026.10.29-18.23.02:828][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.10.29-18.23.03:875][724]LogSlate: Window 'Save Content' being destroyed
+[2026.10.29-18.23.03:896][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.29-18.23.03:918][724]LogFileHelpers: Saving Map: /Game/Levels/_Lvl2
+[2026.10.29-18.23.03:918][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.10.29-18.23.03:918][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.10.29-18.23.03:952][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.10.29-18.23.03:965][724]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl2
+[2026.10.29-18.23.03:966][724]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Saved/_Lvl28F2959BE4610DB3203BFE79837473029.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl2.umap'
+[2026.10.29-18.23.04:008][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.854 ms (total: 1.63 sec)
+[2026.10.29-18.23.04:009][724]LogStreaming: Display: FlushAsyncLoading(434): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-18.23.04:012][724]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl3
+[2026.10.29-18.23.04:013][724]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl3._Lvl3
+[2026.10.29-18.23.04:013][724]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.29-18.23.04:046][724]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.23.04:047][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.23.04:069][724]LogAudio: Display: Audio Device unregistered from world '_Lvl2'.
+[2026.10.29-18.23.04:070][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.10.29-18.23.04:072][724]LogWorld: UWorld::CleanupWorld for _Lvl3, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.23.04:072][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.23.04:094][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.10.29-18.23.04:118][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.10.29-18.23.04:121][724]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl3'.
+[2026.10.29-18.23.04:121][724]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl3
+[2026.10.29-18.23.04:131][724]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.29-18.23.04:156][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.10.29-18.23.04:162][724]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.29-18.23.04:162][724]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.062ms to complete.
+[2026.10.29-18.23.04:209][724]LogContentValidation: Enabled validators:
+[2026.10.29-18.23.04:209][724]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.29-18.23.04:209][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.29-18.23.04:209][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.29-18.23.04:209][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.29-18.23.04:209][724]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.29-18.23.04:209][724]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.29-18.23.04:209][724]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.29-18.23.04:209][724]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.29-18.23.04:209][724]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.29-18.23.04:209][724]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.29-18.23.04:209][724]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.29-18.23.04:209][724]LogContentValidation: Validated asset counts for 0 validators:
+[2026.10.29-18.23.04:272][725]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-18.23.05:315][837]Cmd: EDIT PASTE
+[2026.10.29-18.23.31:747][414]Cmd: DELETE
+[2026.10.29-18.23.31:747][414]Cmd: ACTOR DELETE
+[2026.10.29-18.23.31:750][414]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.29-18.23.31:770][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.10.29-18.23.31:773][414]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.10.29-18.23.32:900][538]LogStreaming: Display: FlushAsyncLoading(436): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-18.23.32:902][538]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.10.29-18.23.32:903][538]LogObjectTools: Deleting 1 worlds: /Game/Levels/_Lvl2._Lvl2
+[2026.10.29-18.23.32:903][538]LogObjectTools: Currently 4 active worlds: /Game/Levels/_Lvl3._Lvl3, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2026.10.29-18.23.32:925][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.10.29-18.23.34:220][538]LogSlate: Window 'Delete Assets' being destroyed
+[2026.10.29-18.23.35:390][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.10.29-18.23.36:249][659]LogSlate: Window 'Save Content' being destroyed
+[2026.10.29-18.23.36:258][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.29-18.23.36:281][659]LogFileHelpers: Saving Map: /Game/Levels/_Lvl3
+[2026.10.29-18.23.36:281][659]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl3] ([1] browsable assets)...
+[2026.10.29-18.23.36:281][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl3]
+[2026.10.29-18.23.36:316][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.10.29-18.23.36:330][659]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl3
+[2026.10.29-18.23.36:330][659]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Saved/_Lvl350CAB7814DC32FFD6E3F6DB345F565FD.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl3.umap'
+[2026.10.29-18.23.36:379][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.353 ms (total: 1.76 sec)
+[2026.10.29-18.23.36:379][659]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl2._Lvl2
+[2026.10.29-18.23.36:379][659]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.29-18.23.36:427][659]LogWorld: UWorld::CleanupWorld for _Lvl3, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.23.36:427][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.23.36:445][659]LogAudio: Display: Audio Device unregistered from world '_Lvl3'.
+[2026.10.29-18.23.36:447][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.10.29-18.23.36:448][659]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.23.36:448][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.23.36:468][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.10.29-18.23.36:487][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.10.29-18.23.36:488][659]LogStreaming: Display: FlushAsyncLoading(437): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-18.23.36:490][659]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl2'.
+[2026.10.29-18.23.36:490][659]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.10.29-18.23.36:499][659]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.29-18.23.36:519][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.10.29-18.23.36:525][659]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.29-18.23.36:525][659]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.057ms to complete.
+[2026.10.29-18.23.36:565][659]LogContentValidation: Enabled validators:
+[2026.10.29-18.23.36:565][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.29-18.23.36:565][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.29-18.23.36:565][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.29-18.23.36:565][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.29-18.23.36:565][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.29-18.23.36:565][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.29-18.23.36:565][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.29-18.23.36:565][659]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.29-18.23.36:565][659]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.29-18.23.36:565][659]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.29-18.23.36:565][659]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.29-18.23.36:565][659]LogContentValidation: Validated asset counts for 0 validators:
+[2026.10.29-18.23.36:614][660]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-18.23.38:009][813]Cmd: DELETE
+[2026.10.29-18.23.38:009][813]Cmd: ACTOR DELETE
+[2026.10.29-18.23.38:011][813]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.29-18.23.38:032][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.10.29-18.23.38:034][813]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.10.29-18.23.41:554][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.29-18.23.41:578][215]LogFileHelpers: Saving Map: /Game/Levels/_Lvl2
+[2026.10.29-18.23.41:578][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.10.29-18.23.41:578][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.10.29-18.23.41:613][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.10.29-18.23.41:628][215]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl2
+[2026.10.29-18.23.41:628][215]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Saved/_Lvl2763D1BF2459B32DA7467EC810A4A9345.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl2.umap'
+[2026.10.29-18.23.41:641][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.529 ms (total: 1.84 sec)
+[2026.10.29-18.23.41:669][215]LogContentValidation: Enabled validators:
+[2026.10.29-18.23.41:669][215]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.29-18.23.41:669][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.29-18.23.41:669][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.29-18.23.41:669][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.29-18.23.41:669][215]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.29-18.23.41:669][215]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.29-18.23.41:669][215]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.29-18.23.41:669][215]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.29-18.23.41:669][215]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.29-18.23.41:669][215]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.29-18.23.41:669][215]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.29-18.23.41:669][215]AssetCheck: /Game/Levels/_Lvl2 Validating asset
+[2026.10.29-18.23.41:669][215]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.29-18.23.41:669][215]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.29-18.23.41:669][215]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.29-18.23.41:669][215]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.29-18.23.41:669][215]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.29-18.23.41:669][215]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.29-18.23.41:669][215]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.29-18.23.41:669][215]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.29-18.23.41:669][215]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.29-18.23.41:669][215]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.29-18.23.42:633][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.10.29-18.23.42:635][315]LogStreaming: Display: FlushAsyncLoading(438): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-18.23.42:707][315]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl1
+[2026.10.29-18.23.42:711][315]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl1._Lvl1
+[2026.10.29-18.23.42:711][315]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.29-18.23.42:749][315]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.23.42:749][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.23.42:774][315]LogAudio: Display: Audio Device unregistered from world '_Lvl2'.
+[2026.10.29-18.23.42:775][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.10.29-18.23.42:778][315]LogWorld: UWorld::CleanupWorld for _Lvl1, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.23.42:779][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.23.42:813][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.10.29-18.23.42:835][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.10.29-18.23.42:904][315]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl1'.
+[2026.10.29-18.23.42:904][315]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl1
+[2026.10.29-18.23.42:927][315]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.29-18.23.42:953][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.10.29-18.23.42:961][315]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.29-18.23.42:961][315]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.064ms to complete.
+[2026.10.29-18.23.43:043][316]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-18.23.45:187][551]Cmd: MODE GRID=0
+[2026.10.29-18.23.45:818][619]Cmd: MODE GRID=1
+[2026.10.29-18.23.46:730][718]Cmd: DELETE
+[2026.10.29-18.23.46:730][718]Cmd: ACTOR DELETE
+[2026.10.29-18.23.46:735][718]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.29-18.23.46:758][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.10.29-18.23.46:760][718]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.10.29-18.24.44:866][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.29-18.24.44:894][658]LogFileHelpers: Saving Map: /Game/Levels/_Lvl1
+[2026.10.29-18.24.44:894][658]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl1] ([1] browsable assets)...
+[2026.10.29-18.24.44:894][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl1]
+[2026.10.29-18.24.44:930][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.10.29-18.24.45:154][658]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl1
+[2026.10.29-18.24.45:154][658]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Saved/_Lvl17D790E8643E814F64930ABA2DEE86ED9.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl1.umap'
+[2026.10.29-18.24.45:173][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 306.765 ms (total: 2.15 sec)
+[2026.10.29-18.24.45:209][658]LogContentValidation: Enabled validators:
+[2026.10.29-18.24.45:209][658]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.29-18.24.45:209][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.29-18.24.45:209][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.29-18.24.45:209][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.29-18.24.45:209][658]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.29-18.24.45:209][658]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.29-18.24.45:209][658]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.29-18.24.45:209][658]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.29-18.24.45:209][658]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.29-18.24.45:209][658]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.29-18.24.45:209][658]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.29-18.24.45:209][658]AssetCheck: /Game/Levels/_Lvl1 Validating asset
+[2026.10.29-18.24.45:209][658]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.29-18.24.45:209][658]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.29-18.24.45:209][658]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.29-18.24.45:209][658]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.29-18.24.45:209][658]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.29-18.24.45:209][658]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.29-18.24.45:209][658]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.29-18.24.45:209][658]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.29-18.24.45:209][658]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.29-18.24.45:209][658]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.29-18.24.46:229][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.10.29-18.24.46:231][758]LogStreaming: Display: FlushAsyncLoading(440): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-18.24.46:233][758]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.10.29-18.24.46:234][758]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl2._Lvl2
+[2026.10.29-18.24.46:234][758]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.29-18.24.46:249][758]LogWorld: UWorld::CleanupWorld for _Lvl1, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.24.46:249][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.24.46:276][758]LogAudio: Display: Audio Device unregistered from world '_Lvl1'.
+[2026.10.29-18.24.46:279][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.10.29-18.24.46:282][758]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.24.46:282][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.24.46:305][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.10.29-18.24.46:329][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.10.29-18.24.46:358][758]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl2'.
+[2026.10.29-18.24.46:358][758]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.10.29-18.24.46:367][758]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.29-18.24.46:391][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.10.29-18.24.46:397][758]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.29-18.24.46:397][758]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.065ms to complete.
+[2026.10.29-18.24.46:437][759]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-18.24.51:732][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.10.29-18.24.51:735][317]LogStreaming: Display: FlushAsyncLoading(442): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-18.24.51:807][317]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl1
+[2026.10.29-18.24.51:812][317]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl1._Lvl1
+[2026.10.29-18.24.51:812][317]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.29-18.24.51:847][317]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.24.51:847][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.24.51:871][317]LogAudio: Display: Audio Device unregistered from world '_Lvl2'.
+[2026.10.29-18.24.51:872][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.10.29-18.24.51:875][317]LogWorld: UWorld::CleanupWorld for _Lvl1, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.24.51:875][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.24.51:910][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.10.29-18.24.51:932][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.10.29-18.24.52:002][317]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl1'.
+[2026.10.29-18.24.52:002][317]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl1
+[2026.10.29-18.24.52:024][317]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.29-18.24.52:051][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.10.29-18.24.52:058][317]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.29-18.24.52:058][317]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2026.10.29-18.24.52:139][318]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-18.25.03:683][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.10.29-18.25.03:686][441]LogStreaming: Display: FlushAsyncLoading(444): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-18.25.03:687][441]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.10.29-18.25.03:688][441]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl2._Lvl2
+[2026.10.29-18.25.03:689][441]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.29-18.25.03:702][441]LogWorld: UWorld::CleanupWorld for _Lvl1, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.25.03:707][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.25.03:732][441]LogAudio: Display: Audio Device unregistered from world '_Lvl1'.
+[2026.10.29-18.25.03:735][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.10.29-18.25.03:739][441]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.25.03:739][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.25.03:763][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.10.29-18.25.03:812][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.10.29-18.25.03:814][441]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl2'.
+[2026.10.29-18.25.03:814][441]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.10.29-18.25.03:825][441]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.29-18.25.03:849][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.10.29-18.25.03:854][441]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.29-18.25.03:854][441]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.062ms to complete.
+[2026.10.29-18.25.03:891][441]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-18.25.14:006][551]Cmd: TRANSACTION UNDO
+[2026.10.29-18.25.14:006][551]LogEditorTransaction: Undo Edit X
+[2026.10.29-18.25.14:038][551]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.10.29-18.25.14:062][551]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.024 s
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: === Handled ensure: ===
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: 
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: Ensure condition failed: PropertyHandle->GetValue(Value) == FPropertyAccess::Success  [File:D:\build\++UE5\Sync\Engine\Source\Editor\LandscapeEditor\Private\LandscapeEditorDetailCustomization_Base.h] [Line: 56] 
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: 
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: Stack: 
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x000002002f5683c3 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x000002002f6172e3 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x000002002f63ab38 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x000002002f651c4c UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x000002002f612aaa UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x00007ffe09f86360 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x00007ffe0a374c74 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x00007ffe0a065629 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x00007ffe09fb1f29 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x00007ffe09fb147a UnrealEditor-Slate.dll!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x00007ff66ace29d3 UnrealEditor.exe!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x00007ff66accc4ac UnrealEditor.exe!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x00007ff66accc5ba UnrealEditor.exe!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x00007ff66acd1256 UnrealEditor.exe!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x00007ff66ace5c74 UnrealEditor.exe!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x00007ff66ace902a UnrealEditor.exe!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x00007ffef5f9dda7 KERNEL32.DLL!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: [Callstack] 0x00007ffef815ee4c ntdll.dll!UnknownFunction []
+[2026.10.29-18.25.14:062][551]LogOutputDevice: Error: 
+[2026.10.29-18.25.14:066][551]LogStats:                SubmitErrorReport -  0.000 s
+[2026.10.29-18.25.15:546][551]LogStats:                    SendNewReport -  1.480 s
+[2026.10.29-18.25.15:547][551]LogStats:             FDebug::EnsureFailed -  1.508 s
+[2026.10.29-18.25.15:548][551]EnsureFailed: Error: Ensure condition failed: PropertyHandle->GetValue(Value) == FPropertyAccess::Success  [File:D:\build\++UE5\Sync\Engine\Source\Editor\LandscapeEditor\Private\LandscapeEditorDetailCustomization_Base.h] [Line: 56] 
+
+Stack: 
+0x000002002f5683c3 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+0x000002002f6172e3 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+0x000002002f63ab38 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+0x000002002f651c4c UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+0x000002002f612aaa UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+0x00007ffe09f86360 UnrealEditor-Slate.dll!UnknownFunction []
+0x00007ffe0a374c74 UnrealEditor-Slate.dll!UnknownFunction []
+0x00007ffe0a065629 UnrealEditor-Slate.dll!UnknownFunction []
+0x00007ffe09fb1f29 UnrealEditor-Slate.dll!UnknownFunction []
+0x00007ffe09fb147a UnrealEditor-Slate.dll!UnknownFunction []
+0x00007ff66ace29d3 UnrealEditor.exe!UnknownFunction []
+0x00007ff66accc4ac UnrealEditor.exe!UnknownFunction []
+0x00007ff66accc5ba UnrealEditor.exe!UnknownFunction []
+0x00007ff66acd1256 UnrealEditor.exe!UnknownFunction []
+0x00007ff66ace5c74 UnrealEditor.exe!UnknownFunction []
+0x00007ff66ace902a UnrealEditor.exe!UnknownFunction []
+0x00007ffef5f9dda7 KERNEL32.DLL!UnknownFunction []
+0x00007ffef815ee4c ntdll.dll!UnknownFunction []
+
+[2026.10.29-18.25.48:114][387]Cmd: TRANSACTION UNDO
+[2026.10.29-18.25.48:114][387]LogEditorTransaction: Undo Transform
+[2026.10.29-18.26.07:378][132]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3674.026123
+[2026.10.29-18.26.07:509][147]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-18.26.07:509][147]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3674.148682, Update Interval: 304.931183
+[2026.10.29-18.26.43:311][133]Cmd: TRANSACTION UNDO
+[2026.10.29-18.26.43:311][133]LogEditorTransaction: Undo Transform
+[2026.10.29-18.26.46:359][415]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.333332 MB), EncodeSpeed: Fast
+[2026.10.29-18.26.46:359][415]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.26.46:360][415]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.26.46:361][415]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.29-18.26.46:361][415]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_7 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.166653 MB), EncodeSpeed: Fast
+[2026.10.29-18.26.46:365][415]LogDerivedDataCache: C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/2a/90/7ebb44e0cb9bae099e742fc942ffb2ebffa1.udd from '/Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_2'.
+[2026.10.29-18.26.46:485][415]LogLandscape: RegisterLandscapeActorWithProxyInternal: Automatically enabling edit layers on ALandscape: Landscape /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0
+[2026.10.29-18.26.46:486][415]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_9 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.29-18.26.46:486][415]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.26.46:487][415]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.26.46:489][415]LogDerivedDataCache: C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/7e/66/c0e65191b16f1240781a75d0c78ffe723427.udd from '/Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_9'.
+[2026.10.29-18.26.46:490][415]LogDerivedDataCache: C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/7e/66/c0e65191b16f1240781a75d0c78ffe723427.udd from '/Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_13 [Fast]'.
+[2026.10.29-18.26.46:490][415]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_15 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.29-18.26.46:490][415]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.29-18.26.46:498][415]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.26.46:499][415]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_9 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.29-18.26.46:507][415]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.29-18.26.46:508][415]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_15 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.29-18.27.13:095][776]LogDerivedDataCache: C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.052 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 12996 files in 13293 folders with total size 341 MiB.
+[2026.10.29-18.27.19:973][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.29-18.27.20:000][339]LogFileHelpers: Saving Map: /Game/Levels/_Lvl2
+[2026.10.29-18.27.20:000][339]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.10.29-18.27.20:001][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.10.29-18.27.20:051][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.10.29-18.27.20:205][339]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl2
+[2026.10.29-18.27.20:205][339]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Saved/_Lvl2F23209BA44D70C06C4E779BA698E1F79.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl2.umap'
+[2026.10.29-18.27.20:225][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 251.841 ms (total: 2.40 sec)
+[2026.10.29-18.27.20:253][339]LogContentValidation: Enabled validators:
+[2026.10.29-18.27.20:253][339]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.29-18.27.20:253][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.29-18.27.20:253][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.29-18.27.20:253][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.29-18.27.20:253][339]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.29-18.27.20:253][339]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.29-18.27.20:253][339]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.29-18.27.20:253][339]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.29-18.27.20:253][339]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.29-18.27.20:253][339]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.29-18.27.20:253][339]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.29-18.27.20:254][339]AssetCheck: /Game/Levels/_Lvl2 Validating asset
+[2026.10.29-18.27.20:254][339]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.29-18.27.20:254][339]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.29-18.27.20:254][339]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.29-18.27.20:254][339]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.29-18.27.20:254][339]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.29-18.27.20:254][339]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.29-18.27.20:254][339]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.29-18.27.20:254][339]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.29-18.27.20:254][339]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.29-18.27.20:254][339]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.29-18.27.21:457][442]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/_Diegos_Work/_assets/_materials/m_ground.m_ground
+[2026.10.29-18.27.23:989][588]LogSlate: Window 'm_ground' being destroyed
+[2026.10.29-18.27.23:994][588]LogSlate: Window 'm_ground' being destroyed
+[2026.10.29-18.27.24:038][588]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.27.24:038][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.27.24:085][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.10.29-18.28.00:285][117]Cmd: TRANSACTION UNDO
+[2026.10.29-18.28.00:285][117]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.28.00:351][117]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.28.00:729][128]Cmd: TRANSACTION UNDO
+[2026.10.29-18.28.00:729][128]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.28.28:946][790]Cmd: TRANSACTION UNDO
+[2026.10.29-18.28.28:946][790]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.28.29:013][790]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.28.29:156][793]Cmd: TRANSACTION UNDO
+[2026.10.29-18.28.29:156][793]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.28.41:121][859]Cmd: TRANSACTION UNDO
+[2026.10.29-18.28.41:121][859]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.28.49:120][455]Cmd: TRANSACTION UNDO
+[2026.10.29-18.28.49:120][455]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.28.53:540][804]Cmd: TRANSACTION UNDO
+[2026.10.29-18.28.53:540][804]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.29.01:563][349]Cmd: TRANSACTION UNDO
+[2026.10.29-18.29.01:563][349]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.29.01:644][349]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.29.20:636][545]Cmd: TRANSACTION UNDO
+[2026.10.29-18.29.20:636][545]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.29.20:774][545]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.29.31:920][236]Cmd: TRANSACTION UNDO
+[2026.10.29-18.29.31:920][236]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.29.32:049][236]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.29.32:050][236]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.29.32:636][261]Cmd: TRANSACTION UNDO
+[2026.10.29-18.29.32:636][261]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.29.33:140][298]Cmd: TRANSACTION UNDO
+[2026.10.29-18.29.33:140][298]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.29.33:283][298]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.29.33:284][298]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.29.33:944][360]Cmd: TRANSACTION REDO
+[2026.10.29-18.29.33:944][360]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2026.10.29-18.29.49:192][157]Cmd: TRANSACTION UNDO
+[2026.10.29-18.29.49:192][157]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.29.49:264][157]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.30.00:427][953]Cmd: TRANSACTION UNDO
+[2026.10.29-18.30.00:427][953]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.30.00:539][953]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.29-18.30.00:540][953]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.30.11:397][553]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/Common/MegaLights_16.svg'. File could not be found
+[2026.10.29-18.30.42:134][ 83]Cmd: TRANSACTION UNDO
+[2026.10.29-18.30.42:134][ 83]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.30.42:256][ 83]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_15 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.29-18.30.42:256][ 83]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_13 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.29-18.30.42:258][ 83]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.29-18.30.42:258][ 83]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: ================================================
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Total job queries 581, among them cache hits 98 (16.87%), DDC hits 422 (72.63%), Duplicates 39 (6.71%)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Tracking 444 distinct input hashes that result in 288 distinct outputs (64.86%)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: RAM used: 3.74 MiB of 1.60 GiB budget. Usage: 0.23%
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Shaders Compiled: 22
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Jobs assigned 22, completed 22 (100%)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Average time worker was idle: 897.88 s
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Job execution time: average 1.16 s, max 2.42 s
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Job life time (pending + execution): average 1.24 s, max 2.51
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Shader code size: total 234.312 KiB, numShaders 24, average 9.763 KiB, min 2.285 KiB, max 29.57 KiB
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.28 s
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Average processing rate: 4.17 jobs/sec
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Total thread time: 4.834 s
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Total thread preprocess time: 6.11 s
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Percentage time preprocessing: 126.39%
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Effective parallelization: 0.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.076288
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.44 sec, max 0.48 sec, min 0.39 sec)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.26 sec, max 0.28 sec, min 0.23 sec)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.16 sec, max 0.22 sec, min 0.11 sec)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.34% of total time (compiled    3 times, average 0.44 sec, max 0.48 sec, min 0.39 sec)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.17% of total time (compiled    7 times, average 0.16 sec, max 0.22 sec, min 0.11 sec)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 10.56% of total time (compiled    2 times, average 0.26 sec, max 0.28 sec, min 0.23 sec)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.92% of total time (compiled    4 times, average 0.11 sec, max 0.13 sec, min 0.09 sec)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display:                                                 FLumenCardCS - 8.69% of total time (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: === Material stats ===
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Materials Translated:    172
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Material Translation Only: 0.05 s (45%)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: Material Cache Hits: 9 (5%)
+[2026.10.29-18.30.57:699][ 53]LogShaderCompilers: Display: ================================================
+[2026.10.29-18.31.02:402][464]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.31.02:406][464]LogDerivedDataCache: C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b8/bd/3afda5a8efeca502483bb8e77452446bbab0.udd from '/Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 [MIP 1]'.
+[2026.10.29-18.31.29:570][397]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.29-18.31.59:321][469]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4025.963379
+[2026.10.29-18.31.59:503][479]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-18.31.59:503][479]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4026.126953, Update Interval: 340.482178
+[2026.10.29-18.31.59:521][481]Cmd: TRANSACTION UNDO
+[2026.10.29-18.31.59:521][481]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.31.59:621][481]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.29-18.31.59:622][481]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.32.04:041][857]Cmd: TRANSACTION UNDO
+[2026.10.29-18.32.04:041][857]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.32.12:549][450]Cmd: TRANSACTION UNDO
+[2026.10.29-18.32.12:549][450]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.32.12:631][450]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.32.18:407][945]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.32.21:248][ 62]Cmd: TRANSACTION UNDO
+[2026.10.29-18.32.21:248][ 62]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.32.21:380][ 62]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.33.14:498][738]Cmd: TRANSACTION UNDO
+[2026.10.29-18.33.14:498][738]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.33.14:641][738]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_15 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.29-18.33.14:642][738]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.29-18.33.14:642][738]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_13 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.29-18.33.14:643][738]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.33.14:644][738]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.33.40:710][519]Cmd: TRANSACTION UNDO
+[2026.10.29-18.33.40:710][519]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.33.44:316][894]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_7 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.166653 MB), EncodeSpeed: Fast
+[2026.10.29-18.33.54:558][579]Cmd: TRANSACTION UNDO
+[2026.10.29-18.33.54:558][579]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: ================================================
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Total job queries 585, among them cache hits 98 (16.75%), DDC hits 425 (72.65%), Duplicates 39 (6.67%)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Tracking 448 distinct input hashes that result in 290 distinct outputs (64.73%)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: RAM used: 3.75 MiB of 1.60 GiB budget. Usage: 0.23%
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Shaders Compiled: 23
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Jobs assigned 23, completed 23 (100%)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Average time worker was idle: 840.46 s
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Job execution time: average 1.12 s, max 2.42 s
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Job life time (pending + execution): average 1.20 s, max 2.51
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Shader code size: total 242.637 KiB, numShaders 25, average 9.705 KiB, min 2.285 KiB, max 29.57 KiB
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.69 s
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Average processing rate: 4.04 jobs/sec
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Total thread time: 4.937 s
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Total thread preprocess time: 6.139 s
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Percentage time preprocessing: 124.35%
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Effective parallelization: 0.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.072326
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.44 sec, max 0.48 sec, min 0.39 sec)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.26 sec, max 0.28 sec, min 0.23 sec)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.16 sec, max 0.22 sec, min 0.11 sec)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 26.77% of total time (compiled    3 times, average 0.44 sec, max 0.48 sec, min 0.39 sec)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.69% of total time (compiled    7 times, average 0.16 sec, max 0.22 sec, min 0.11 sec)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 10.34% of total time (compiled    2 times, average 0.26 sec, max 0.28 sec, min 0.23 sec)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.74% of total time (compiled    4 times, average 0.11 sec, max 0.13 sec, min 0.09 sec)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display:                                                 FLumenCardCS - 8.51% of total time (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: === Material stats ===
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Materials Translated:    172
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Material Translation Only: 0.05 s (45%)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: Material Cache Hits: 9 (5%)
+[2026.10.29-18.33.57:717][821]LogShaderCompilers: Display: ================================================
+[2026.10.29-18.33.59:089][897]Cmd: TRANSACTION UNDO
+[2026.10.29-18.33.59:089][897]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.34.11:052][757]Cmd: TRANSACTION UNDO
+[2026.10.29-18.34.11:053][757]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.34.11:109][757]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_15 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.29-18.34.11:109][757]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.29-18.34.11:109][757]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.29-18.34.12:019][811]Cmd: TRANSACTION UNDO
+[2026.10.29-18.34.12:019][811]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.34.12:128][811]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.34.12:129][811]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.34.13:075][861]Cmd: TRANSACTION UNDO
+[2026.10.29-18.34.13:075][861]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.34.29:234][150]Cmd: TRANSACTION UNDO
+[2026.10.29-18.34.29:234][150]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.34.29:317][150]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.29-18.34.29:317][150]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.34.29:318][150]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.36.28:606][714]Cmd: TRANSACTION UNDO
+[2026.10.29-18.36.28:606][714]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2026.10.29-18.36.28:649][714]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_13 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.29-18.36.28:649][714]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.36.28:650][714]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.36.47:880][904]Cmd: TRANSACTION UNDO
+[2026.10.29-18.36.47:880][904]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2026.10.29-18.36.47:933][904]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_13 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.29-18.36.47:934][904]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.36.47:934][904]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_11 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.29-18.36.47:935][904]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.37.36:638][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.10.29-18.37.36:643][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.10.29-18.37.36:644][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.10.29-18.37.36:671][301]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.37.36:675][301]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.37.36:678][301]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.29-18.37.36:680][301]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_7 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.166653 MB), EncodeSpeed: Fast
+[2026.10.29-18.37.36:683][301]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_9 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.29-18.37.36:685][301]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.37.36:688][301]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_11 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.29-18.37.36:690][301]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_13 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.29-18.37.36:691][301]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.29-18.37.36:693][301]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_15 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.29-18.37.36:842][301]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_Lvl2_Auto1
+[2026.10.29-18.37.36:842][301]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Saved/_Lvl2_Auto1D31C084B4A7471C986ED31BADC48431B.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Saved/Autosaves/Game/Levels/_Lvl2_Auto1.umap'
+[2026.10.29-18.37.36:845][301]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/_Lvl2' took 0.254
+[2026.10.29-18.37.36:845][301]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.254
+[2026.10.29-18.38.32:919][144]Cmd: DELETE
+[2026.10.29-18.38.32:919][144]Cmd: ACTOR DELETE
+[2026.10.29-18.38.32:935][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.29-18.38.32:964][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.10.29-18.38.32:968][144]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2026.10.29-18.38.37:704][685]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4424.362305
+[2026.10.29-18.38.37:835][695]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-18.38.37:835][695]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4424.484375, Update Interval: 311.455414
+[2026.10.29-18.38.40:049][938]Cmd: TRANSACTION UNDO
+[2026.10.29-18.38.40:049][938]LogEditorTransaction: Undo Transform
+[2026.10.29-18.38.40:450][954]Cmd: TRANSACTION UNDO
+[2026.10.29-18.38.40:450][954]LogEditorTransaction: Undo Clicking on Actors
+[2026.10.29-18.38.40:808][987]Cmd: TRANSACTION UNDO
+[2026.10.29-18.38.40:809][987]LogEditorTransaction: Undo Delete Elements
+[2026.10.29-18.39.20:788][507]Cmd: DELETE
+[2026.10.29-18.39.20:788][507]Cmd: ACTOR DELETE
+[2026.10.29-18.39.20:803][507]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.29-18.39.20:828][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.10.29-18.39.20:833][507]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2026.10.29-18.39.33:978][809]Cmd: TRANSACTION UNDO
+[2026.10.29-18.39.33:978][809]LogEditorTransaction: Undo Transform
+[2026.10.29-18.39.34:227][819]Cmd: TRANSACTION UNDO
+[2026.10.29-18.39.34:227][819]LogEditorTransaction: Undo Transform
+[2026.10.29-18.39.34:534][836]Cmd: TRANSACTION UNDO
+[2026.10.29-18.39.34:535][836]LogEditorTransaction: Undo Clicking on Actors
+[2026.10.29-18.39.34:871][873]Cmd: TRANSACTION UNDO
+[2026.10.29-18.39.34:871][873]LogEditorTransaction: Undo Delete Elements
+[2026.10.29-18.39.36:655][ 56]Cmd: DELETE
+[2026.10.29-18.39.36:655][ 56]Cmd: ACTOR DELETE
+[2026.10.29-18.39.36:669][ 56]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.29-18.39.36:692][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.10.29-18.39.36:696][ 56]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.10.29-18.40.10:179][596]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.40.18:750][472]Cmd: TRANSACTION UNDO
+[2026.10.29-18.40.18:750][472]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.41.41:150][ 41]Cmd: TRANSACTION UNDO
+[2026.10.29-18.41.41:150][ 41]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.41.41:233][ 41]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.41.41:464][ 49]Cmd: TRANSACTION UNDO
+[2026.10.29-18.41.41:464][ 49]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.41.47:717][566]Cmd: TRANSACTION UNDO
+[2026.10.29-18.41.47:717][566]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.41.50:988][701]Cmd: TRANSACTION UNDO
+[2026.10.29-18.41.50:988][701]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.41.59:922][368]Cmd: TRANSACTION UNDO
+[2026.10.29-18.41.59:922][368]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.42.04:790][704]Cmd: TRANSACTION UNDO
+[2026.10.29-18.42.04:790][704]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.42.17:345][696]Cmd: TRANSACTION UNDO
+[2026.10.29-18.42.17:345][696]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.42.17:504][696]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.42.18:175][721]Cmd: TRANSACTION UNDO
+[2026.10.29-18.42.18:175][721]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.42.23:087][127]Cmd: TRANSACTION UNDO
+[2026.10.29-18.42.23:087][127]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.42.24:844][267]Cmd: TRANSACTION UNDO
+[2026.10.29-18.42.24:844][267]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.42.26:845][436]Cmd: TRANSACTION UNDO
+[2026.10.29-18.42.26:845][436]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.42.27:009][436]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.42.42:406][664]Cmd: TRANSACTION UNDO
+[2026.10.29-18.42.42:406][664]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.42.42:495][664]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.43.35:851][106]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.10.29-18.44.43:225][740]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4789.906738
+[2026.10.29-18.44.43:400][748]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-18.44.43:400][749]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4790.060547, Update Interval: 343.776367
+[2026.10.29-18.45.32:384][465]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.45.34:217][551]Cmd: TRANSACTION UNDO
+[2026.10.29-18.45.34:217][551]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.45.34:390][551]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.45.34:390][551]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.45.41:065][ 80]Cmd: TRANSACTION UNDO
+[2026.10.29-18.45.41:065][ 80]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.46.12:931][798]Cmd: TRANSACTION UNDO
+[2026.10.29-18.46.12:931][798]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2026.10.29-18.46.12:955][798]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.46.44:702][702]Cmd: TRANSACTION UNDO
+[2026.10.29-18.46.44:702][702]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2026.10.29-18.46.44:717][702]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.46.45:841][759]Cmd: TRANSACTION REDO
+[2026.10.29-18.46.45:841][759]LogEditorTransaction: Redo Landscape Editing: Add ramp
+[2026.10.29-18.46.45:855][759]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.47.35:414][459]Cmd: TRANSACTION UNDO
+[2026.10.29-18.47.35:414][459]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.47.35:496][459]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.47.35:497][459]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.47.45:748][176]Cmd: TRANSACTION UNDO
+[2026.10.29-18.47.45:748][176]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.47.45:829][176]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.47.45:830][176]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.48.08:868][945]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.48.10:637][ 83]Cmd: TRANSACTION UNDO
+[2026.10.29-18.48.10:637][ 83]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.48.10:790][ 83]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.48.10:790][ 83]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.48.14:944][291]Cmd: TRANSACTION UNDO
+[2026.10.29-18.48.14:944][291]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.48.20:913][656]Cmd: TRANSACTION UNDO
+[2026.10.29-18.48.20:913][656]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.48.20:999][656]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.48.20:999][656]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.48.36:405][922]Cmd: TRANSACTION UNDO
+[2026.10.29-18.48.36:405][922]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.29-18.48.36:489][922]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.48.46:951][703]Cmd: TRANSACTION UNDO
+[2026.10.29-18.48.46:951][703]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.48.47:034][703]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.48.47:034][703]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.48.52:258][965]Cmd: TRANSACTION UNDO
+[2026.10.29-18.48.52:258][965]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.48.52:356][965]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.48.52:357][965]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.49.04:930][666]Cmd: TRANSACTION UNDO
+[2026.10.29-18.49.04:930][666]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.29-18.49.05:109][666]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.49.05:109][666]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.49.56:299][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.10.29-18.49.56:305][630]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.10.29-18.49.56:305][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.10.29-18.49.56:332][630]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.49.56:336][630]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.49.56:341][630]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.49.56:346][630]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.49.56:349][630]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.49.56:352][630]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.49.56:355][630]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_13 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.29-18.49.56:357][630]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.29-18.49.56:358][630]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_15 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.29-18.49.56:514][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_Lvl2_Auto2
+[2026.10.29-18.49.56:514][630]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Saved/_Lvl2_Auto2851C551A461EDFC704DB42AB5F30207A.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Saved/Autosaves/Game/Levels/_Lvl2_Auto2.umap'
+[2026.10.29-18.49.56:517][630]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/_Lvl2' took 0.280
+[2026.10.29-18.49.56:517][630]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.280
+[2026.10.29-18.50.30:077][961]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.50.31:921][ 72]Cmd: TRANSACTION UNDO
+[2026.10.29-18.50.31:921][ 72]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.50.31:998][ 72]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.51.06:736][407]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5173.422363
+[2026.10.29-18.51.06:925][417]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-18.51.06:925][417]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5173.593262, Update Interval: 345.308990
+[2026.10.29-18.51.19:261][241]Cmd: TRANSACTION UNDO
+[2026.10.29-18.51.19:261][241]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.51.19:348][241]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.51.19:349][241]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.51.39:972][546]Cmd: TRANSACTION UNDO
+[2026.10.29-18.51.39:972][546]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.51.40:049][546]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.51.40:050][546]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.52.41:266][787]Cmd: TRANSACTION UNDO
+[2026.10.29-18.52.41:266][787]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2026.10.29-18.52.41:285][787]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.53.21:228][703]Cmd: TRANSACTION UNDO
+[2026.10.29-18.53.21:228][703]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.29-18.53.21:306][703]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.53.45:657][179]Cmd: TRANSACTION UNDO
+[2026.10.29-18.53.45:657][179]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.29-18.53.45:735][179]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.54.01:382][279]Cmd: TRANSACTION UNDO
+[2026.10.29-18.54.01:382][279]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.29-18.55.07:066][ 30]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.29-18.55.33:568][726]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2026.10.29-18.55.33:568][726]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2026.10.29-18.55.33:570][726]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/Levels/_Lvl2._Lvl2:PersistentLevel.StaticMeshActor_1
+[2026.10.29-18.55.33:570][726]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/Levels/_Lvl2._Lvl2:PersistentLevel.StaticMeshActor_1
+[2026.10.29-18.55.52:845][149]Cmd: TRANSACTION UNDO
+[2026.10.29-18.55.52:845][149]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.29-18.55.52:970][149]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.29-18.55.52:971][149]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.55.56:904][429]Cmd: TRANSACTION UNDO
+[2026.10.29-18.55.56:904][429]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.10.29-18.56.24:545][624]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2026.10.29-18.56.24:545][624]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2026.10.29-18.56.24:545][624]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2026.10.29-18.56.24:545][624]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2026.10.29-18.56.24:545][624]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2026.10.29-18.56.24:545][624]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2026.10.29-18.56.24:545][624]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2026.10.29-18.56.24:545][624]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2026.10.29-18.56.24:545][624]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2026.10.29-18.56.24:546][624]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2026.10.29-18.56.24:546][624]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2026.10.29-18.56.24:546][624]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2026.10.29-18.56.24:546][624]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2026.10.29-18.56.24:546][624]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2026.10.29-18.56.24:546][624]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2026.10.29-18.56.24:546][624]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2026.10.29-18.56.24:546][624]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2026.10.29-18.56.24:546][624]LogConfig: Set CVar [[r.MegaLights.DownsampleMode:0]]
+[2026.10.29-18.56.24:546][624]LogConfig: Set CVar [[r.MegaLights.FrontLayerTranslucency.SpecularOnly:0]]
+[2026.10.29-18.56.24:546][624]LogConfig: Set CVar [[r.MegaLights.FrontLayerTranslucency.SoftShadows:1]]
+[2026.10.29-18.56.24:546][624]LogConfig: Set CVar [[r.MegaLights.FrontLayerTranslucency.TexturedRectLights:1]]
+[2026.10.29-18.56.24:546][624]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:350]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:8]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.NumAdaptiveProbes:4]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:16]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:.5]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:4]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:16]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:350]]
+[2026.10.29-18.56.24:550][624]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:1]]
+[2026.10.29-18.56.24:550][624]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.GTAO.Numangles:4]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.LUT.Shaper:1]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.LUT.Size:64]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:1         ; do the gathering at full resolution]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2026.10.29-18.56.24:550][624]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2026.10.29-18.56.24:551][624]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.Streaming.PoolSize:3000]]
+[2026.10.29-18.56.24:551][624]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.HeterogeneousVolumes.ApplyFogInscattering:1]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:1]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:1024]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Type:0]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:1024]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.MaxSampleCount:16]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Precision:1]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.HeterogeneousVolumes.UseExistenceMask:1]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.Translucency.HeterogeneousVolumes.Type:0]]
+[2026.10.29-18.56.24:551][624]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[pcg.Quality:4]]
+[2026.10.29-18.56.24:551][624]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2026.10.29-18.56.24:551][624]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2026.10.29-18.56.24:551][624]LogConfig: Applying CVar settings from Section [LandscapeQuality@Cine] File [Scalability]
+[2026.10.29-18.56.24:570][624]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2026.10.29-18.56.24:686][627]LogContentStreaming: Texture pool size now 3000 MB
+[2026.10.29-18.56.24:686][627]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="3000"
+[2026.10.29-18.56.26:439][829]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2026.10.29-18.56.26:439][829]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2026.10.29-18.56.26:439][829]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.MegaLights.DownsampleMode:2]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.MegaLights.FrontLayerTranslucency.SpecularOnly:1]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.MegaLights.FrontLayerTranslucency.SoftShadows:0]]
+[2026.10.29-18.56.26:439][829]LogConfig: Set CVar [[r.MegaLights.FrontLayerTranslucency.TexturedRectLights:0]]
+[2026.10.29-18.56.26:440][829]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2026.10.29-18.56.26:443][829]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:150]]
+[2026.10.29-18.56.26:443][829]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2026.10.29-18.56.26:443][829]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.NumAdaptiveProbes:8]]
+[2026.10.29-18.56.26:443][829]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2026.10.29-18.56.26:443][829]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2026.10.29-18.56.26:443][829]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+[2026.10.29-18.56.26:443][829]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2026.10.29-18.56.26:443][829]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:100]]
+[2026.10.29-18.56.26:443][829]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2026.10.29-18.56.26:443][829]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2026.10.29-18.56.26:444][829]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.LUT.Shaper:0]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.LUT.Size:32]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2026.10.29-18.56.26:444][829]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2026.10.29-18.56.26:444][829]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:2]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:256]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:512]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Precision:0]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.HeterogeneousVolumes.UseExistenceMask:0]]
+[2026.10.29-18.56.26:444][829]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[pcg.Quality:3]]
+[2026.10.29-18.56.26:444][829]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2026.10.29-18.56.26:444][829]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2026.10.29-18.56.26:444][829]LogConfig: Applying CVar settings from Section [LandscapeQuality@3] File [Scalability]
+[2026.10.29-18.56.26:461][829]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2026.10.29-18.56.26:466][830]LogContentStreaming: Texture pool size now 1000 MB
+[2026.10.29-18.56.26:466][830]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2026.10.29-18.56.37:246][893]Cmd: TRANSACTION UNDO
+[2026.10.29-18.56.37:246][893]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.10.29-18.56.37:333][893]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.56.41:282][237]Cmd: TRANSACTION UNDO
+[2026.10.29-18.56.41:282][237]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.56.41:372][237]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.56.49:571][773]Cmd: TRANSACTION UNDO
+[2026.10.29-18.56.49:571][773]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.56.49:648][773]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.56.49:649][773]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.57.05:431][811]Cmd: TRANSACTION UNDO
+[2026.10.29-18.57.05:431][811]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.57.05:481][811]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.29-18.57.05:482][811]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.29-18.57.36:363][801]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5562.988281
+[2026.10.29-18.57.36:518][815]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-18.57.36:518][815]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5563.130859, Update Interval: 353.065582
+[2026.10.29-18.58.27:492][473]Cmd: TRANSACTION UNDO
+[2026.10.29-18.58.27:492][473]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.58.27:571][473]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.58.27:572][473]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.58.31:317][709]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.58.41:265][390]Cmd: TRANSACTION UNDO
+[2026.10.29-18.58.41:265][390]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.10.29-18.58.41:344][390]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.58.41:345][390]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.58.42:838][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.29-18.58.42:860][483]LogFileHelpers: Saving Map: /Game/Levels/_Lvl2
+[2026.10.29-18.58.42:861][483]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.10.29-18.58.42:861][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.10.29-18.58.42:910][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.10.29-18.58.42:945][483]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.10.29-18.58.42:950][483]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.10.29-18.58.42:954][483]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.58.42:959][483]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.10.29-18.58.42:961][483]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_13 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.10.29-18.58.42:963][483]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.10.29-18.58.42:965][483]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_15 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.10.29-18.58.43:139][483]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl2
+[2026.10.29-18.58.43:139][483]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Saved/_Lvl27D90376B47C3DE667A1B1E9948A24C87.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking 5.8/Content/Levels/_Lvl2.umap'
+[2026.10.29-18.58.43:160][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 323.057 ms (total: 2.72 sec)
+[2026.10.29-18.58.43:199][483]LogContentValidation: Enabled validators:
+[2026.10.29-18.58.43:199][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.29-18.58.43:199][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.29-18.58.43:199][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.29-18.58.43:199][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.29-18.58.43:199][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.29-18.58.43:199][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.29-18.58.43:199][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.29-18.58.43:199][483]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.29-18.58.43:199][483]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.29-18.58.43:199][483]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.29-18.58.43:199][483]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.29-18.58.43:200][483]AssetCheck: /Game/Levels/_Lvl2 Validating asset
+[2026.10.29-18.58.43:200][483]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.29-18.58.43:200][483]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.29-18.58.43:200][483]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.29-18.58.43:200][483]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.29-18.58.43:200][483]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.29-18.58.43:200][483]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.29-18.58.43:200][483]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.29-18.58.43:200][483]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.29-18.58.43:200][483]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.29-18.58.43:200][483]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
