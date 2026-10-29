@@ -2338,3 +2338,290 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.29-17.52.26:276][225]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2510.652588
 [2026.10.29-17.52.27:280][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.29-17.52.27:280][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2511.347168, Update Interval: 306.678070
+[2026.10.29-17.54.01:501][511]LogSlate: Window 'WBP_PauseScreen' being destroyed
+[2026.10.29-17.54.01:507][511]LogSlate: Window 'WBP_PauseScreen' being destroyed
+[2026.10.29-17.54.01:544][511]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-17.54.01:544][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-17.54.01:567][511]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-17.54.01:567][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-17.54.02:053][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.10.29-17.54.07:633][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.10.29-17.54.07:635][816]LogStreaming: Display: FlushAsyncLoading(606): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-17.54.08:204][816]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.10.29-17.54.08:217][816]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap
+[2026.10.29-17.54.08:217][816]Cmd: MAP LOAD FILE="../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Levels/MovementTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.29-17.54.08:253][816]LogWorld: UWorld::CleanupWorld for LV_Options, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-17.54.08:253][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-17.54.08:306][816]LogAudio: Display: Audio Device unregistered from world 'LV_Options'.
+[2026.10.29-17.54.08:311][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.10.29-17.54.08:317][816]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-17.54.08:318][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-17.54.08:371][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.10.29-17.54.08:417][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.10.29-17.54.08:542][816]LogAudio: Display: Audio Device (ID: 1) registered with world 'MovementTestMap'.
+[2026.10.29-17.54.08:542][816]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.10.29-17.54.08:571][816]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.29-17.54.08:606][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.10.29-17.54.08:618][816]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.29-17.54.08:618][816]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.064ms to complete.
+[2026.10.29-17.54.08:809][817]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-17.54.08:829][817]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' with subface index 0 in Render thread.
+[2026.10.29-17.54.08:829][817]LogSlate: Display: Took 0.005317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K) on Render thread.
+[2026.10.29-17.54.08:829][817]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' subface 0 in Render thread.
+[2026.10.29-17.54.08:829][817]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' subface index 0 successfully added to font face map in Render thread.
+[2026.10.29-17.54.10:111][881]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.29-17.54.10:119][881]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.29-17.54.10:119][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.29-17.54.10:119][881]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.29-17.54.10:129][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009267s)
+[2026.10.29-17.54.10:129][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.009434s)
+[2026.10.29-17.54.10:167][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.10.29-17.54.10:168][881]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.10.29-17.54.10:170][881]LogPlayLevel: PIE: World Init took: (0.002102s)
+[2026.10.29-17.54.10:170][881]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.10.29-17.54.10:170][881]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.29-17.54.10:170][881]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.29-17.54.10:170][881]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.29-17.54.10:170][881]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.29-17.54.10:171][881]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.29-17.54.10:171][881]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.29-17.54.10:171][881]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.29-17.54.10:171][881]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.29-17.54.10:171][881]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.29-17.54.10:171][881]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.29-17.54.10:171][881]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.29-17.54.10:171][881]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.29-17.54.10:171][881]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.29-17.54.10:184][881]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers (Realtek(R) Audio)'
+[2026.10.29-17.54.10:185][881]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.10.29-17.54.10:188][881]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers (Realtek(R) Audio)'
+[2026.10.29-17.54.10:190][881]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.10.29-17.54.10:193][881]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers (Realtek(R) Audio)'
+[2026.10.29-17.54.10:194][881]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.10.29-17.54.10:199][881]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.29-17.54.10:199][881]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.29-17.54.10:199][881]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.29-17.54.10:201][881]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.29-17.54.10:214][881]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.29-17.54.10:215][881]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.29-17.54.10:215][881]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.29-17.54.10:215][881]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.10.29-17.54.10:216][881]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.29-17.54.10:216][881]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.29-17.54.10:216][881]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.29-17.54.10:217][881]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.10.29-17.54.10:219][881]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.10.29-17.54.10:221][881]LogInit: FAudioDevice initialized with ID 4.
+[2026.10.29-17.54.10:223][881]LogAudio: Display: Audio Device (ID: 4) registered with world 'MovementTestMap'.
+[2026.10.29-17.54.10:223][881]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.10.29-17.54.10:223][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-17.54.10:227][881]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.29-17.54.10:228][881]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 60) at 2026.10.29-10.54.10
+[2026.10.29-17.54.10:229][881]LogWorld: Bringing up level for play took: 0.001989
+[2026.10.29-17.54.10:232][881]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.10.29-17.54.10:233][881]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.29-17.54.10:234][881]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.29-17.54.10:237][881]PIE: Server logged in
+[2026.10.29-17.54.10:238][881]PIE: Play in editor total start time 0.119 seconds.
+[2026.10.29-17.54.10:269][882]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.29-17.54.10:283][882]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-17.54.11:108][931]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.29-17.54.12:108][991]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.29-17.54.13:108][ 51]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.29-17.54.13:108][ 51]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.29-17.54.13:110][ 51]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:00
+[2026.10.29-17.54.13:209][ 57]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:10
+[2026.10.29-17.54.13:308][ 63]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:20
+[2026.10.29-17.54.13:409][ 69]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:30
+[2026.10.29-17.54.13:509][ 75]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:40
+[2026.10.29-17.54.13:609][ 81]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:50
+[2026.10.29-17.54.13:709][ 87]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:60
+[2026.10.29-17.54.13:809][ 93]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:70
+[2026.10.29-17.54.13:909][ 99]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:80
+[2026.10.29-17.54.14:008][105]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:90
+[2026.10.29-17.54.14:109][111]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:00
+[2026.10.29-17.54.14:209][117]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:10
+[2026.10.29-17.54.14:308][123]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:20
+[2026.10.29-17.54.14:410][129]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:30
+[2026.10.29-17.54.14:509][135]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:40
+[2026.10.29-17.54.14:609][141]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:50
+[2026.10.29-17.54.14:710][147]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:60
+[2026.10.29-17.54.14:809][153]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:70
+[2026.10.29-17.54.14:909][159]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:80
+[2026.10.29-17.54.15:010][165]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:90
+[2026.10.29-17.54.15:109][171]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:00
+[2026.10.29-17.54.15:210][177]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:10
+[2026.10.29-17.54.15:310][183]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:20
+[2026.10.29-17.54.15:410][189]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:30
+[2026.10.29-17.54.15:509][195]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:40
+[2026.10.29-17.54.15:609][201]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:50
+[2026.10.29-17.54.15:710][207]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:60
+[2026.10.29-17.54.15:810][213]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:70
+[2026.10.29-17.54.15:910][219]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:80
+[2026.10.29-17.54.16:010][225]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:90
+[2026.10.29-17.54.16:110][231]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:00
+[2026.10.29-17.54.16:210][237]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:10
+[2026.10.29-17.54.16:311][243]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:20
+[2026.10.29-17.54.16:410][249]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:30
+[2026.10.29-17.54.16:510][255]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:40
+[2026.10.29-17.54.16:610][261]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:50
+[2026.10.29-17.54.16:711][267]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:60
+[2026.10.29-17.54.16:813][273]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:70
+[2026.10.29-17.54.16:913][279]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:80
+[2026.10.29-17.54.17:013][285]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:90
+[2026.10.29-17.54.17:113][291]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:00
+[2026.10.29-17.54.17:213][297]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:10
+[2026.10.29-17.54.17:313][303]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:20
+[2026.10.29-17.54.17:414][309]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:30
+[2026.10.29-17.54.17:515][315]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:40
+[2026.10.29-17.54.17:615][321]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:50
+[2026.10.29-17.54.17:714][327]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:60
+[2026.10.29-17.54.17:813][333]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:70
+[2026.10.29-17.54.17:913][339]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:80
+[2026.10.29-17.54.18:014][345]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:90
+[2026.10.29-17.54.18:121][351]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:00
+[2026.10.29-17.54.18:221][357]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:10
+[2026.10.29-17.54.18:320][363]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:20
+[2026.10.29-17.54.18:420][369]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:30
+[2026.10.29-17.54.18:520][375]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:40
+[2026.10.29-17.54.18:627][381]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:50
+[2026.10.29-17.54.18:737][387]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:60
+[2026.10.29-17.54.18:839][393]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:70
+[2026.10.29-17.54.18:938][399]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:80
+[2026.10.29-17.54.19:038][405]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:90
+[2026.10.29-17.54.19:139][411]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:00
+[2026.10.29-17.54.19:238][417]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:10
+[2026.10.29-17.54.19:338][423]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:20
+[2026.10.29-17.54.19:449][428]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:30
+[2026.10.29-17.54.19:561][432]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:40
+[2026.10.29-17.54.19:666][435]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:50
+[2026.10.29-17.54.19:775][439]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:60
+[2026.10.29-17.54.19:885][443]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:70
+[2026.10.29-17.54.19:991][447]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:80
+[2026.10.29-17.54.20:097][453]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:90
+[2026.10.29-17.54.20:203][459]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:00
+[2026.10.29-17.54.20:309][465]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:10
+[2026.10.29-17.54.20:414][470]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:20
+[2026.10.29-17.54.20:517][474]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:30
+[2026.10.29-17.54.20:641][479]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:40
+[2026.10.29-17.54.20:742][483]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:50
+[2026.10.29-17.54.20:864][488]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:60
+[2026.10.29-17.54.20:967][491]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:70
+[2026.10.29-17.54.21:068][495]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:80
+[2026.10.29-17.54.21:174][501]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:90
+[2026.10.29-17.54.21:278][507]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:00
+[2026.10.29-17.54.21:382][510]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:10
+[2026.10.29-17.54.21:489][514]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:20
+[2026.10.29-17.54.21:588][520]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:30
+[2026.10.29-17.54.21:690][526]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:40
+[2026.10.29-17.54.21:790][532]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:50
+[2026.10.29-17.54.21:892][538]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:60
+[2026.10.29-17.54.22:015][544]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:70
+[2026.10.29-17.54.22:137][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-17.54.22:138][548]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.29-17.54.22:138][548]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-17.54.22:139][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-17.54.22:173][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.29-17.54.22:181][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-17.54.22:234][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-17.54.22:235][548]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.10.29-17.54.22:235][548]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=4, StreamState=4
+[2026.10.29-17.54.22:248][548]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.29-17.54.22:261][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.10.29-17.54.22:301][549]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.10.29-17.54.26:775][797]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager
+[2026.10.29-17.54.27:072][797]LogStreaming: Display: FlushAsyncLoading(608): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-17.54.52:828][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.10.29-17.54.52:830][257]LogStreaming: Display: FlushAsyncLoading(610): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-17.54.52:846][257]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_LevelSelect
+[2026.10.29-17.54.52:847][257]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Tophers_Work/_Levels/LV_LevelSelect.LV_LevelSelect
+[2026.10.29-17.54.52:848][257]Cmd: MAP LOAD FILE="../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/LV_LevelSelect.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.29-17.54.52:876][257]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-17.54.52:876][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-17.54.52:921][257]LogAudio: Display: Audio Device unregistered from world 'MovementTestMap'.
+[2026.10.29-17.54.52:924][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.10.29-17.54.52:925][257]LogWorld: UWorld::CleanupWorld for LV_LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-17.54.52:926][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-17.54.52:956][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.10.29-17.54.53:086][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.10.29-17.54.53:089][257]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_LevelSelect'.
+[2026.10.29-17.54.53:089][257]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_LevelSelect
+[2026.10.29-17.54.53:104][257]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.29-17.54.53:157][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.10.29-17.54.53:168][257]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.29-17.54.53:169][257]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.065ms to complete.
+[2026.10.29-17.54.53:239][258]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-17.58.28:478][  7]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2872.856934
+[2026.10.29-17.58.29:488][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-17.58.29:490][ 11]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2873.521729, Update Interval: 305.308380
+[2026.10.29-18.00.30:726][374]LogSlate: Window 'BP_RaceManager' being destroyed
+[2026.10.29-18.00.30:731][374]LogSlate: Window 'BP_RaceManager' being destroyed
+[2026.10.29-18.00.30:738][374]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.00.30:738][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.00.30:918][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.10.29-18.00.31:526][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.10.29-18.00.31:579][376]LogStall: Shutdown...
+[2026.10.29-18.00.31:586][376]LogStall: Shutdown complete.
+[2026.10.29-18.00.31:601][376]LogSlate: Window 'CAGD370_Biking - Unreal Editor' being destroyed
+[2026.10.29-18.00.31:770][376]Cmd: QUIT_EDITOR
+[2026.10.29-18.00.31:771][377]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.10.29-18.00.31:780][377]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.10.29-18.00.31:782][377]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.10.29-18.00.31:782][377]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.10.29-18.00.31:793][377]LogWorld: UWorld::CleanupWorld for LV_LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.00.31:793][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.00.31:794][377]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.10.29-18.00.31:810][377]LogToolsetRegistry: Display: Unregistering Toolset ToolsetRegistry.AgentSkillToolset
+[2026.10.29-18.00.31:811][377]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.10.29-18.00.31:854][377]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.10.29-18.00.31:872][377]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-18.00.31:872][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-18.00.31:886][377]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.10.29-18.00.31:896][377]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.10.29-18.00.32:142][377]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.10.29-18.00.32:142][377]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.29-18.00.32:142][377]LogAudio: Display: Audio Device unregistered from world 'LV_LevelSelect'.
+[2026.10.29-18.00.32:142][377]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.10.29-18.00.32:142][377]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.10.29-18.00.32:154][377]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.29-18.00.32:441][377]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.10.29-18.00.32:441][377]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.29-18.00.33:454][377]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.10.29-18.00.33:466][377]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.10.29-18.00.33:468][377]LogExit: Preparing to exit.
+[2026.10.29-18.00.34:884][377]LogUObjectHash: Compacting FUObjectHashTables data took 111.79ms
+[2026.10.29-18.00.34:914][377]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.29-18.00.36:801][377]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.10.29-18.00.36:802][377]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.10.29-18.00.36:808][377]LogEditorDataStorage: Deinitializing
+[2026.10.29-18.00.36:814][377]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.10.29-18.00.36:814][377]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.10.29-18.00.36:814][377]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.10.29-18.00.36:814][377]LogEditorDataStorage: Resetting TEDS Core.
+[2026.10.29-18.00.36:823][377]LogEditorDataStorage: Reset TEDS Core.
+[2026.10.29-18.00.36:824][377]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.10.29-18.00.38:376][377]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.10.29-18.00.38:538][377]LogExit: Editor shut down
+[2026.10.29-18.00.38:566][377]LogExit: Transaction tracking system shut down
+[2026.10.29-18.00.40:648][377]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.10.29-18.00.40:649][377]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.10.29-18.00.40:768][377]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.10.29-18.00.40:768][377]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.10.29-18.00.42:149][377]LogExit: Object subsystem successfully closed.
+[2026.10.29-18.00.42:631][377]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.10.29-18.00.43:996][377]LogObjectProfiler: Shutdown
+[2026.10.29-18.00.43:996][377]LogMemoryProfiler: Shutdown
+[2026.10.29-18.00.43:997][377]LogNetworkingProfiler: Shutdown
+[2026.10.29-18.00.43:997][377]LogLoadingProfiler: Shutdown
+[2026.10.29-18.00.43:997][377]LogTimingProfiler: Shutdown
+[2026.10.29-18.00.44:003][377]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.10.29-18.00.44:003][377]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.10.29-18.00.44:003][377]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.10.29-18.00.44:003][377]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.10.29-18.00.44:003][377]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
