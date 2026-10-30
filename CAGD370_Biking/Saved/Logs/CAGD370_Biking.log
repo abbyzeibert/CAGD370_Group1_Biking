@@ -6309,3 +6309,15 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2026.10.30-22.32.23:414][620]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
 [2026.10.30-22.32.23:509][620]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
 [2026.10.30-22.32.23:594][620]LogExit: Preparing to exit.
+[2026.10.30-22.32.26:417][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2026.10.30-22.32.26:427][620]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.30-22.32.28:645][620]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.10.30-22.32.28:645][620]LogAssetRegistry: Display:   CachedAssetRegistry_0_BBFDCD4A4756B7303B3AE99DB5CEDA9C.bin: delete failed (orphaned but still in use)
+[2026.10.30-22.32.28:645][620]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 2 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 1 orphans locked (kept)
+[2026.10.30-22.32.28:693][620]LogEditorDataStorage: Deinitializing
+[2026.10.30-22.32.28:956][620]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.10.30-22.32.29:031][620]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.10.30-22.32.29:031][620]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.10.30-22.32.29:031][620]LogEditorDataStorage: Resetting TEDS Core.
+[2026.10.30-22.32.29:174][620]LogEditorDataStorage: Reset TEDS Core.
+[2026.10.30-22.32.29:174][620]LogEditorDataStorage: De-initialized TEDS Core.
