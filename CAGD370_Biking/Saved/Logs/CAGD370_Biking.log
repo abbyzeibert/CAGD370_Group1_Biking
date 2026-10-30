@@ -6045,3 +6045,267 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2026.10.30-22.17.41:882][730]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7404.516602
 [2026.10.30-22.17.42:884][733]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.30-22.17.42:884][733]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7405.186035, Update Interval: 311.371185
+[2026.10.30-22.23.38:321][976]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7760.947754
+[2026.10.30-22.23.39:321][979]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.30-22.23.39:321][979]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7761.615234, Update Interval: 326.212341
+[2026.10.30-22.24.55:272][340]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.30-22.24.55:284][340]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.30-22.24.55:284][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.30-22.24.55:285][340]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.30-22.24.55:296][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011922s)
+[2026.10.30-22.24.55:296][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.011991s)
+[2026.10.30-22.24.55:352][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2026.10.30-22.24.55:356][340]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.10.30-22.24.55:359][340]LogPlayLevel: PIE: World Init took: (0.003445s)
+[2026.10.30-22.24.55:359][340]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.10.30-22.24.55:359][340]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.30-22.24.55:359][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.30-22.24.55:359][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.30-22.24.55:359][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.30-22.24.55:359][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.30-22.24.55:359][340]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.30-22.24.55:359][340]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.30-22.24.55:359][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.30-22.24.55:359][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.30-22.24.55:359][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.30-22.24.55:359][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.30-22.24.55:359][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.30-22.24.55:359][340]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.30-22.24.55:367][340]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.10.30-22.24.55:368][340]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Headset Microphone (Oculus Virtual Audio Device)'
+[2026.10.30-22.24.55:370][340]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.10.30-22.24.55:370][340]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Headset Microphone (Oculus Virtual Audio Device)'
+[2026.10.30-22.24.55:372][340]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Oculus Virtual Audio Device)'
+[2026.10.30-22.24.55:373][340]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Headset Microphone (Oculus Virtual Audio Device)'
+[2026.10.30-22.24.55:378][340]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.30-22.24.55:378][340]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.30-22.24.55:378][340]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.30-22.24.55:380][340]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.30-22.24.55:384][340]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.30-22.24.55:384][340]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.30-22.24.55:384][340]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.30-22.24.55:384][340]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.10.30-22.24.55:384][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.30-22.24.55:384][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.30-22.24.55:384][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.30-22.24.55:385][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.10.30-22.24.55:388][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.10.30-22.24.55:392][340]LogInit: FAudioDevice initialized with ID 24.
+[2026.10.30-22.24.55:392][340]LogAudio: Display: Audio Device (ID: 24) registered with world 'MovementTestMap'.
+[2026.10.30-22.24.55:392][340]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.10.30-22.24.55:392][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.30-22.24.55:397][340]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.30-22.24.55:400][340]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 0) at 2026.10.30-15.24.55
+[2026.10.30-22.24.55:400][340]LogWorld: Bringing up level for play took: 0.003082
+[2026.10.30-22.24.55:404][340]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.10.30-22.24.55:405][340]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.30-22.24.55:406][340]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.30-22.24.55:406][340]PIE: Server logged in
+[2026.10.30-22.24.55:410][340]PIE: Play in editor total start time 0.126 seconds.
+[2026.10.30-22.24.55:445][341]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.30-22.24.56:263][377]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.30-22.24.57:270][441]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.30-22.24.58:274][505]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.30-22.24.58:274][505]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.30-22.25.18:080][138]LogBlueprintUserMessages: [BP_Bike_C_1] Bonk!
+[2026.10.30-22.25.18:121][139]LogBlueprintUserMessages: [BP_Bike_C_1] Bonk!
+[2026.10.30-22.25.18:209][141]LogBlueprintUserMessages: [BP_Bike_C_1] Bonk!
+[2026.10.30-22.25.22:948][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.30-22.25.22:949][241]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.30-22.25.22:949][241]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.30-22.25.22:950][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.30-22.25.22:993][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.30-22.25.23:002][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.30-22.25.23:053][241]LogAudio: Display: Audio Device unregistered from world 'MovementTestMap'.
+[2026.10.30-22.25.23:053][241]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.10.30-22.25.23:054][241]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=24, StreamState=4
+[2026.10.30-22.25.23:063][241]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.30-22.25.23:067][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.30-22.25.23:072][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2026.10.30-22.25.23:209][242]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.10.30-22.25.43:459][350]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.30-22.25.43:481][350]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.30-22.25.43:481][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.30-22.25.43:481][350]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.30-22.25.43:497][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015476s)
+[2026.10.30-22.25.43:497][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.015542s)
+[2026.10.30-22.25.43:567][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2026.10.30-22.25.43:570][350]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.10.30-22.25.43:574][350]LogPlayLevel: PIE: World Init took: (0.004295s)
+[2026.10.30-22.25.43:574][350]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.10.30-22.25.43:574][350]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.30-22.25.43:574][350]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.30-22.25.43:574][350]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.30-22.25.43:574][350]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.30-22.25.43:574][350]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.30-22.25.43:574][350]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.30-22.25.43:574][350]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.30-22.25.43:574][350]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.30-22.25.43:574][350]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.30-22.25.43:574][350]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.30-22.25.43:574][350]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.30-22.25.43:575][350]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.30-22.25.43:575][350]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.30-22.25.43:583][350]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.10.30-22.25.43:584][350]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Headset Microphone (Oculus Virtual Audio Device)'
+[2026.10.30-22.25.43:585][350]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.10.30-22.25.43:586][350]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Headset Microphone (Oculus Virtual Audio Device)'
+[2026.10.30-22.25.43:588][350]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Oculus Virtual Audio Device)'
+[2026.10.30-22.25.43:589][350]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Headset Microphone (Oculus Virtual Audio Device)'
+[2026.10.30-22.25.43:597][350]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.30-22.25.43:597][350]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.30-22.25.43:597][350]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.30-22.25.43:599][350]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.30-22.25.43:604][350]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.30-22.25.43:604][350]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.30-22.25.43:604][350]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.30-22.25.43:604][350]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.10.30-22.25.43:604][350]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.30-22.25.43:604][350]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.30-22.25.43:604][350]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.30-22.25.43:606][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.10.30-22.25.43:611][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.10.30-22.25.43:615][350]LogInit: FAudioDevice initialized with ID 25.
+[2026.10.30-22.25.43:615][350]LogAudio: Display: Audio Device (ID: 25) registered with world 'MovementTestMap'.
+[2026.10.30-22.25.43:615][350]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.10.30-22.25.43:616][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.30-22.25.43:623][350]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.30-22.25.43:629][350]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 0) at 2026.10.30-15.25.43
+[2026.10.30-22.25.43:629][350]LogWorld: Bringing up level for play took: 0.005300
+[2026.10.30-22.25.43:635][350]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.10.30-22.25.43:636][350]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.30-22.25.43:637][350]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.30-22.25.43:638][350]PIE: Server logged in
+[2026.10.30-22.25.43:642][350]PIE: Play in editor total start time 0.161 seconds.
+[2026.10.30-22.25.43:681][351]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.30-22.25.44:445][361]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.30-22.25.45:761][404]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.30-22.25.46:762][407]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.30-22.25.46:762][407]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.30-22.25.57:468][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.30-22.25.57:468][670]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.30-22.25.57:468][670]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.30-22.25.57:469][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.30-22.25.57:473][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.30-22.25.57:482][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.30-22.25.57:534][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.30-22.25.57:535][670]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.10.30-22.25.57:535][670]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=25, StreamState=4
+[2026.10.30-22.25.57:545][670]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.30-22.25.57:553][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2026.10.30-22.25.57:690][671]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.10.30-22.26.07:014][752]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.30-22.26.07:027][752]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.30-22.26.07:027][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.30-22.26.07:027][752]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.30-22.26.07:038][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010740s)
+[2026.10.30-22.26.07:038][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.010794s)
+[2026.10.30-22.26.07:087][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2026.10.30-22.26.07:089][752]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.10.30-22.26.07:092][752]LogPlayLevel: PIE: World Init took: (0.002813s)
+[2026.10.30-22.26.07:092][752]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.10.30-22.26.07:092][752]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.30-22.26.07:092][752]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.30-22.26.07:092][752]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.30-22.26.07:092][752]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.30-22.26.07:092][752]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.30-22.26.07:092][752]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.30-22.26.07:092][752]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.30-22.26.07:092][752]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.30-22.26.07:092][752]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.30-22.26.07:092][752]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.30-22.26.07:092][752]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.30-22.26.07:092][752]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.30-22.26.07:092][752]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.30-22.26.07:100][752]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.10.30-22.26.07:101][752]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Headset Microphone (Oculus Virtual Audio Device)'
+[2026.10.30-22.26.07:102][752]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.10.30-22.26.07:103][752]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Headset Microphone (Oculus Virtual Audio Device)'
+[2026.10.30-22.26.07:104][752]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Oculus Virtual Audio Device)'
+[2026.10.30-22.26.07:105][752]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Headset Microphone (Oculus Virtual Audio Device)'
+[2026.10.30-22.26.07:112][752]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.30-22.26.07:112][752]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.30-22.26.07:112][752]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.30-22.26.07:113][752]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.30-22.26.07:117][752]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.30-22.26.07:118][752]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.30-22.26.07:118][752]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.30-22.26.07:118][752]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.10.30-22.26.07:118][752]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.30-22.26.07:118][752]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.30-22.26.07:118][752]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.30-22.26.07:118][752]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2026.10.30-22.26.07:121][752]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.10.30-22.26.07:123][752]LogInit: FAudioDevice initialized with ID 26.
+[2026.10.30-22.26.07:123][752]LogAudio: Display: Audio Device (ID: 26) registered with world 'MovementTestMap'.
+[2026.10.30-22.26.07:123][752]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.10.30-22.26.07:124][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.30-22.26.07:129][752]LogLoad: Game class is 'BP_GameMode_C'
+[2026.10.30-22.26.07:132][752]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 0) at 2026.10.30-15.26.07
+[2026.10.30-22.26.07:132][752]LogWorld: Bringing up level for play took: 0.002744
+[2026.10.30-22.26.07:136][752]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.10.30-22.26.07:136][752]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.30-22.26.07:137][752]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.10.30-22.26.07:137][752]PIE: Server logged in
+[2026.10.30-22.26.07:139][752]PIE: Play in editor total start time 0.113 seconds.
+[2026.10.30-22.26.07:172][753]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.30-22.26.08:003][782]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.10.30-22.26.09:179][809]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.10.30-22.26.10:179][812]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.10.30-22.26.10:179][812]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.10.30-22.26.25:558][258]LogBlueprintUserMessages: [BP_Bike_C_1] Bonk!
+[2026.10.30-22.26.27:033][296]LogBlueprintUserMessages: [BP_Bike_C_1] Bonk!
+[2026.10.30-22.26.27:572][309]LogBlueprintUserMessages: [BP_Bike_C_1] Bonk!
+[2026.10.30-22.26.36:808][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.30-22.26.36:809][524]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.10.30-22.26.36:809][524]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.30-22.26.36:810][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.30-22.26.36:848][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.30-22.26.36:857][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.30-22.26.36:910][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.30-22.26.36:910][524]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.10.30-22.26.36:911][524]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=26, StreamState=4
+[2026.10.30-22.26.36:919][524]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.30-22.26.36:928][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2026.10.30-22.26.37:075][525]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.10.30-22.30.02:381][147]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8145.001465
+[2026.10.30-22.30.03:380][150]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.30-22.30.03:380][150]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8145.666992, Update Interval: 341.870178
+[2026.10.30-22.32.12:735][584]LogSlate: Window 'BP_Bike' being destroyed
+[2026.10.30-22.32.12:748][584]LogSlate: Window 'BP_Bike' being destroyed
+[2026.10.30-22.32.13:176][584]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.10.30-22.32.13:176][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.30-22.32.13:906][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.10.30-22.32.14:828][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.10.30-22.32.14:974][619]LogStall: Shutdown...
+[2026.10.30-22.32.14:980][619]LogStall: Shutdown complete.
+[2026.10.30-22.32.15:015][619]LogSlate: Window 'CAGD370_Biking - Unreal Editor' being destroyed
+[2026.10.30-22.32.15:964][619]Cmd: QUIT_EDITOR
+[2026.10.30-22.32.15:994][619]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.10.30-22.32.16:266][620]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.10.30-22.32.16:504][620]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.10.30-22.32.16:522][620]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.10.30-22.32.16:872][620]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.30-22.32.16:885][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.30-22.32.16:915][620]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.10.30-22.32.18:464][620]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.10.30-22.32.19:432][620]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.10.30-22.32.20:120][620]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.10.30-22.32.20:120][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.30-22.32.20:126][620]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.30-22.32.20:126][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.30-22.32.20:131][620]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.10.30-22.32.20:131][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.30-22.32.21:157][620]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.10.30-22.32.21:936][620]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.10.30-22.32.23:275][620]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.10.30-22.32.23:275][620]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.30-22.32.23:275][620]LogAudio: Display: Audio Device unregistered from world 'MovementTestMap'.
+[2026.10.30-22.32.23:275][620]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.10.30-22.32.23:275][620]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.10.30-22.32.23:293][620]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.30-22.32.23:310][620]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.10.30-22.32.23:369][620]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.30-22.32.23:414][620]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.10.30-22.32.23:509][620]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.10.30-22.32.23:594][620]LogExit: Preparing to exit.
