@@ -7859,3 +7859,1125 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.05-15.46.09:910][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
 [2026.11.05-15.46.09:912][523]LogEditorActor: Deleted 1 Actors (0.052 secs)
 [2026.11.05-15.46.11:059][587]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager
+[2026.11.05-15.47.26:257][126]LogBlueprint: Compiling Blueprint '/Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager'
+[2026.11.05-15.47.26:257][126]LogBlueprint: Error: [AssetLog] /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager: [Compiler] Invalid default type 'WBP_MainMenu_C' on property 'Class' in  BP_GameUIManager
+[2026.11.05-15.47.26:262][126]LogStreaming: Display: FlushAsyncLoading(612): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-15.47.26:361][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.11.05-15.47.42:081][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-15.47.42:141][ 49]LogFileHelpers: Saving Package: /Game/_Tophers_Work/_Blueprints/BP_GameUIManager
+[2026.11.05-15.47.42:142][ 49]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Tophers_Work/_Blueprints/BP_GameUIManager] ([2] browsable assets)...
+[2026.11.05-15.47.42:142][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Blueprints/BP_GameUIManager]
+[2026.11.05-15.47.42:154][ 49]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Blueprints/BP_GameUIManager
+[2026.11.05-15.47.42:154][ 49]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/BP_GameUIManagerA8178271436AB129A1BFDC88A48D257F.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/BP_GameUIManager.uasset'
+[2026.11.05-15.47.42:170][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.784 ms (total: 2.28 sec)
+[2026.11.05-15.47.42:208][ 49]LogContentValidation: Enabled validators:
+[2026.11.05-15.47.42:208][ 49]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-15.47.42:208][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-15.47.42:208][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-15.47.42:208][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-15.47.42:208][ 49]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-15.47.42:208][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-15.47.42:208][ 49]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-15.47.42:208][ 49]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-15.47.42:208][ 49]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-15.47.42:208][ 49]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-15.47.42:208][ 49]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-15.47.42:208][ 49]AssetCheck: /Game/_Tophers_Work/_Blueprints/BP_GameUIManager Validating asset
+[2026.11.05-15.47.42:208][ 49]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-15.47.42:208][ 49]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-15.47.42:208][ 49]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-15.47.42:208][ 49]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-15.47.42:208][ 49]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-15.47.42:209][ 49]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-15.47.42:209][ 49]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-15.47.42:209][ 49]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-15.47.42:209][ 49]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-15.47.42:209][ 49]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-15.47.42:234][ 49]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.05-15.47.53:776][725]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.05-15.47.53:776][725]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.05-15.47.53:776][725]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.05-15.47.53:776][725]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.05-15.47.53:776][725]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.05-15.47.56:502][880]LogBlueprint: Compiling Blueprint '/Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager'
+[2026.11.05-15.47.56:563][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.11.05-15.47.57:247][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-15.47.57:319][916]LogFileHelpers: Saving Package: /Game/_Tophers_Work/_Blueprints/BP_GameUIManager
+[2026.11.05-15.47.57:319][916]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Tophers_Work/_Blueprints/BP_GameUIManager] ([2] browsable assets)...
+[2026.11.05-15.47.57:319][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Blueprints/BP_GameUIManager]
+[2026.11.05-15.47.57:332][916]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Blueprints/BP_GameUIManager
+[2026.11.05-15.47.57:333][916]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/BP_GameUIManager7ACCCFAC4FBE27664D2135832E6F2065.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/BP_GameUIManager.uasset'
+[2026.11.05-15.47.57:354][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.701 ms (total: 2.38 sec)
+[2026.11.05-15.47.57:402][916]LogContentValidation: Enabled validators:
+[2026.11.05-15.47.57:404][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-15.47.57:404][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-15.47.57:404][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-15.47.57:404][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-15.47.57:404][916]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-15.47.57:404][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-15.47.57:404][916]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-15.47.57:404][916]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-15.47.57:404][916]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-15.47.57:404][916]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-15.47.57:404][916]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-15.47.57:404][916]AssetCheck: /Game/_Tophers_Work/_Blueprints/BP_GameUIManager Validating asset
+[2026.11.05-15.47.57:404][916]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-15.47.57:404][916]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-15.47.57:404][916]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-15.47.57:404][916]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-15.47.57:404][916]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-15.47.57:404][916]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-15.47.57:404][916]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-15.47.57:404][916]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-15.47.57:404][916]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-15.47.57:404][916]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-15.48.04:326][288]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager_C
+[2026.11.05-15.48.04:326][288]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager_C
+[2026.11.05-15.48.04:327][288]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager as actor: BP_GameUIManager_C /Game/_Tophers_Work/_Levels/MovementTestMap_Topher.MovementTestMap_Topher:PersistentLevel.BP_GameUIManager_C_0
+[2026.11.05-15.48.04:327][288]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager as actor: BP_GameUIManager_C /Game/_Tophers_Work/_Levels/MovementTestMap_Topher.MovementTestMap_Topher:PersistentLevel.BP_GameUIManager_C_0
+[2026.11.05-15.48.04:777][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.11.05-15.48.04:781][307]LogEditorActor: Deleted 0 Actors (0.063 secs)
+[2026.11.05-15.48.04:784][307]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager_C
+[2026.11.05-15.48.04:784][307]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager_C
+[2026.11.05-15.48.04:785][307]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager as actor: BP_GameUIManager_C /Game/_Tophers_Work/_Levels/MovementTestMap_Topher.MovementTestMap_Topher:PersistentLevel.BP_GameUIManager_C_1
+[2026.11.05-15.48.04:786][307]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager as actor: BP_GameUIManager_C /Game/_Tophers_Work/_Levels/MovementTestMap_Topher.MovementTestMap_Topher:PersistentLevel.BP_GameUIManager_C_1
+[2026.11.05-15.48.14:030][853]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.05-15.48.14:043][853]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.05-15.48.14:043][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.05-15.48.14:044][853]LogPlayLevel: Creating play world package: /Game/_Tophers_Work/_Levels/UEDPIE_0_MovementTestMap_Topher
+[2026.11.05-15.48.14:052][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009193s)
+[2026.11.05-15.48.14:052][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Tophers_Work/_Levels/MovementTestMap_Topher.MovementTestMap_Topher to /Game/_Tophers_Work/_Levels/UEDPIE_0_MovementTestMap_Topher.MovementTestMap_Topher (0.009247s)
+[2026.11.05-15.48.14:085][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.11.05-15.48.14:087][853]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap_Topher
+[2026.11.05-15.48.14:090][853]LogPlayLevel: PIE: World Init took: (0.002936s)
+[2026.11.05-15.48.14:090][853]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.11.05-15.48.14:090][853]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.05-15.48.14:090][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.05-15.48.14:090][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.05-15.48.14:090][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.05-15.48.14:090][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.05-15.48.14:090][853]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.05-15.48.14:090][853]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.05-15.48.14:090][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.05-15.48.14:090][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.05-15.48.14:090][853]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.05-15.48.14:090][853]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.05-15.48.14:090][853]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.05-15.48.14:090][853]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.05-15.48.14:103][853]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers (Realtek(R) Audio)'
+[2026.11.05-15.48.14:105][853]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.11.05-15.48.14:107][853]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers (Realtek(R) Audio)'
+[2026.11.05-15.48.14:109][853]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.11.05-15.48.14:111][853]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers (Realtek(R) Audio)'
+[2026.11.05-15.48.14:112][853]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.11.05-15.48.14:119][853]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.05-15.48.14:119][853]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.05-15.48.14:119][853]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.05-15.48.14:123][853]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.05-15.48.14:135][853]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.05-15.48.14:135][853]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.05-15.48.14:135][853]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.05-15.48.14:135][853]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.11.05-15.48.14:136][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.05-15.48.14:136][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.05-15.48.14:136][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.05-15.48.14:136][853]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.11.05-15.48.14:139][853]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.11.05-15.48.14:143][853]LogInit: FAudioDevice initialized with ID 8.
+[2026.11.05-15.48.14:143][853]LogAudio: Display: Audio Device (ID: 8) registered with world 'MovementTestMap_Topher'.
+[2026.11.05-15.48.14:143][853]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.11.05-15.48.14:143][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.05-15.48.14:147][853]LogLoad: Game class is 'BP_GameMode_C'
+[2026.11.05-15.48.14:149][853]LogWorld: Bringing World /Game/_Tophers_Work/_Levels/UEDPIE_0_MovementTestMap_Topher.MovementTestMap_Topher up for play (max tick rate 60) at 2026.11.05-07.48.14
+[2026.11.05-15.48.14:149][853]LogWorld: Bringing up level for play took: 0.002082
+[2026.11.05-15.48.14:152][853]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.11.05-15.48.14:153][853]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.05-15.48.14:153][853]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.11.05-15.48.14:154][853]PIE: Server logged in
+[2026.11.05-15.48.14:156][853]PIE: Play in editor total start time 0.116 seconds.
+[2026.11.05-15.48.14:177][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:177][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:177][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:183][854]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.11.05-15.48.14:192][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:192][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:192][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:205][854]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.05-15.48.14:240][855]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:240][855]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:240][855]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:265][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:265][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:265][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:278][857]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:278][857]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:278][857]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:296][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:296][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:296][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:311][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:312][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:312][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:330][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:330][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:330][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:347][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:347][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:347][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:363][862]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:363][862]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:363][862]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:380][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:381][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:381][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:397][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:398][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:398][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:412][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:412][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:412][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:429][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:429][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:429][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:445][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:445][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:445][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:461][868]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:461][868]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:461][868]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:479][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:479][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:479][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:495][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:495][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:495][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:511][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:512][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:512][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:529][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:529][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:529][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:545][873]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:545][873]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:545][873]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:563][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:563][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:563][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:577][875]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:577][875]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:577][875]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:594][876]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:594][876]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:594][876]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:611][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:611][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:612][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:628][878]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:628][878]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:628][878]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:645][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:645][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:645][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:661][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:661][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:662][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:678][881]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:679][881]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:679][881]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:695][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:695][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:695][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:712][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:712][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:712][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:727][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:727][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:728][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:744][885]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:744][885]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:744][885]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:761][886]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:761][886]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:761][886]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:777][887]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:777][887]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:777][887]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:795][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:795][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:795][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:812][889]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:812][889]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:813][889]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:828][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:828][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:828][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:846][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:846][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:846][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:863][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:863][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:863][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:881][893]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:881][893]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:881][893]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:897][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:898][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:898][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:913][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:913][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:913][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:931][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:931][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:932][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:947][897]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:947][897]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:947][897]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:963][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:964][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:964][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:978][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:978][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:978][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:995][900]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:995][900]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.14:995][900]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:012][901]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:013][901]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:013][901]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:025][902]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.11.05-15.48.15:029][902]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:029][902]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:029][902]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:056][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:056][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:056][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:067][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:067][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:067][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:083][905]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:083][905]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:083][905]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:100][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:100][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:100][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:115][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:115][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:115][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:132][908]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:132][908]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:132][908]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:148][909]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:148][909]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:148][909]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:165][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:166][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:166][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:182][911]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:182][911]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:182][911]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:197][912]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:197][912]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:197][912]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:215][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:215][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:215][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:231][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:232][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:232][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:248][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:248][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:248][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:264][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:264][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:264][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:281][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:281][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:281][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:297][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:297][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:297][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:314][919]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:314][919]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:314][919]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:330][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:330][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:330][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:347][921]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:347][921]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:348][921]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:364][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:364][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:365][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:381][923]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:381][923]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:381][923]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:398][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:398][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:398][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:414][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:414][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:415][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:431][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:431][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:431][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:447][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:447][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:447][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:465][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:465][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:465][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:480][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:480][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:480][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:497][930]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:497][930]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:497][930]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:514][931]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:514][931]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:514][931]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:531][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:531][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:531][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:547][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:547][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:547][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:564][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:564][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:564][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:581][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:581][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:581][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:599][936]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:600][936]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:600][936]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:613][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:615][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:615][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:630][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:630][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:630][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:647][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:648][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:648][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:665][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Countdown Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:665][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Time Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:665][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_RaceManager in /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Game UI Blueprint:  WBP_GameUI
+[2026.11.05-15.48.15:711][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.05-15.48.15:711][941]LogWorld: BeginTearingDown for /Game/_Tophers_Work/_Levels/UEDPIE_0_MovementTestMap_Topher
+[2026.11.05-15.48.15:711][941]LogWorld: UWorld::CleanupWorld for MovementTestMap_Topher, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-15.48.15:712][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-15.48.15:715][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.05-15.48.15:720][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-15.48.15:754][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.05-15.48.15:754][941]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.11.05-15.48.15:754][941]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=8, StreamState=4
+[2026.11.05-15.48.15:762][941]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.05-15.48.15:769][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.11.05-15.48.15:919][942]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.11.05-15.48.16:867][991]LogSlate: Window 'Message Log' being destroyed
+[2026.11.05-15.48.16:876][991]LogSlate: Window 'Message Log' being destroyed
+[2026.11.05-15.48.27:003][503]LogBlueprint: Compiling Blueprint '/Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager'
+[2026.11.05-15.48.27:071][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.11.05-15.48.27:737][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-15.48.27:786][533]LogFileHelpers: Saving Package: /Game/_Tophers_Work/_Blueprints/BP_GameUIManager
+[2026.11.05-15.48.27:786][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Tophers_Work/_Blueprints/BP_GameUIManager] ([2] browsable assets)...
+[2026.11.05-15.48.27:786][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Blueprints/BP_GameUIManager]
+[2026.11.05-15.48.27:797][533]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Blueprints/BP_GameUIManager
+[2026.11.05-15.48.27:799][533]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/BP_GameUIManagerE4FA278949D275BFC641498964912BDF.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/BP_GameUIManager.uasset'
+[2026.11.05-15.48.27:812][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.788 ms (total: 2.46 sec)
+[2026.11.05-15.48.27:862][533]LogContentValidation: Enabled validators:
+[2026.11.05-15.48.27:862][533]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-15.48.27:862][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-15.48.27:862][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-15.48.27:862][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-15.48.27:862][533]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-15.48.27:862][533]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-15.48.27:862][533]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-15.48.27:862][533]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-15.48.27:862][533]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-15.48.27:862][533]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-15.48.27:862][533]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-15.48.27:862][533]AssetCheck: /Game/_Tophers_Work/_Blueprints/BP_GameUIManager Validating asset
+[2026.11.05-15.48.27:862][533]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-15.48.27:862][533]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-15.48.27:862][533]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-15.48.27:862][533]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-15.48.27:862][533]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-15.48.27:862][533]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-15.48.27:862][533]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-15.48.27:862][533]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-15.48.27:862][533]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-15.48.27:862][533]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-15.48.36:139][959]LogBlueprint: Compiling Blueprint '/Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager'
+[2026.11.05-15.48.36:221][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.11.05-15.48.37:055][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-15.48.37:107][  1]LogFileHelpers: Saving Package: /Game/_Tophers_Work/_Blueprints/BP_GameUIManager
+[2026.11.05-15.48.37:107][  1]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Tophers_Work/_Blueprints/BP_GameUIManager] ([2] browsable assets)...
+[2026.11.05-15.48.37:107][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Blueprints/BP_GameUIManager]
+[2026.11.05-15.48.37:118][  1]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Blueprints/BP_GameUIManager
+[2026.11.05-15.48.37:119][  1]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/BP_GameUIManager6F0715FC490E831EEF82338F9A3BEF8C.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Blueprints/BP_GameUIManager.uasset'
+[2026.11.05-15.48.37:142][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.851 ms (total: 2.54 sec)
+[2026.11.05-15.48.37:199][  1]LogContentValidation: Enabled validators:
+[2026.11.05-15.48.37:199][  1]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-15.48.37:199][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-15.48.37:199][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-15.48.37:199][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-15.48.37:199][  1]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-15.48.37:199][  1]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-15.48.37:199][  1]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-15.48.37:199][  1]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-15.48.37:199][  1]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-15.48.37:199][  1]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-15.48.37:199][  1]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-15.48.37:199][  1]AssetCheck: /Game/_Tophers_Work/_Blueprints/BP_GameUIManager Validating asset
+[2026.11.05-15.48.37:199][  1]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-15.48.37:199][  1]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-15.48.37:199][  1]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-15.48.37:199][  1]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-15.48.37:199][  1]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-15.48.37:199][  1]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-15.48.37:199][  1]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-15.48.37:199][  1]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-15.48.37:199][  1]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-15.48.37:199][  1]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-15.48.38:882][ 91]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.11.05-15.48.38:882][ 91]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.11.05-15.48.41:012][204]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.05-15.48.41:021][204]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.05-15.48.41:021][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.05-15.48.41:021][204]LogPlayLevel: Creating play world package: /Game/_Tophers_Work/_Levels/UEDPIE_0_MovementTestMap_Topher
+[2026.11.05-15.48.41:029][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007870s)
+[2026.11.05-15.48.41:029][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Tophers_Work/_Levels/MovementTestMap_Topher.MovementTestMap_Topher to /Game/_Tophers_Work/_Levels/UEDPIE_0_MovementTestMap_Topher.MovementTestMap_Topher (0.007920s)
+[2026.11.05-15.48.41:077][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.11.05-15.48.41:080][204]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap_Topher
+[2026.11.05-15.48.41:081][204]LogPlayLevel: PIE: World Init took: (0.002028s)
+[2026.11.05-15.48.41:081][204]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.11.05-15.48.41:081][204]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.05-15.48.41:081][204]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.05-15.48.41:081][204]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.05-15.48.41:081][204]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.05-15.48.41:081][204]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.05-15.48.41:081][204]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.05-15.48.41:081][204]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.05-15.48.41:081][204]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.05-15.48.41:081][204]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.05-15.48.41:081][204]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.05-15.48.41:081][204]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.05-15.48.41:081][204]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.05-15.48.41:081][204]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.05-15.48.41:094][204]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers (Realtek(R) Audio)'
+[2026.11.05-15.48.41:095][204]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.11.05-15.48.41:098][204]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers (Realtek(R) Audio)'
+[2026.11.05-15.48.41:099][204]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.11.05-15.48.41:101][204]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers (Realtek(R) Audio)'
+[2026.11.05-15.48.41:102][204]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.11.05-15.48.41:107][204]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.05-15.48.41:107][204]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.05-15.48.41:107][204]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.05-15.48.41:109][204]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.05-15.48.41:117][204]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.05-15.48.41:117][204]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.05-15.48.41:117][204]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.05-15.48.41:117][204]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.11.05-15.48.41:118][204]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.05-15.48.41:118][204]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.05-15.48.41:118][204]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.05-15.48.41:118][204]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.11.05-15.48.41:122][204]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.11.05-15.48.41:125][204]LogInit: FAudioDevice initialized with ID 9.
+[2026.11.05-15.48.41:125][204]LogAudio: Display: Audio Device (ID: 9) registered with world 'MovementTestMap_Topher'.
+[2026.11.05-15.48.41:125][204]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.11.05-15.48.41:125][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.05-15.48.41:129][204]LogLoad: Game class is 'BP_GameMode_C'
+[2026.11.05-15.48.41:130][204]LogWorld: Bringing World /Game/_Tophers_Work/_Levels/UEDPIE_0_MovementTestMap_Topher.MovementTestMap_Topher up for play (max tick rate 60) at 2026.11.05-07.48.41
+[2026.11.05-15.48.41:130][204]LogWorld: Bringing up level for play took: 0.001876
+[2026.11.05-15.48.41:133][204]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.11.05-15.48.41:134][204]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.05-15.48.41:134][204]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.11.05-15.48.41:135][204]PIE: Server logged in
+[2026.11.05-15.48.41:137][204]PIE: Play in editor total start time 0.116 seconds.
+[2026.11.05-15.48.41:162][205]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.11.05-15.48.41:180][205]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.05-15.48.42:002][254]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.11.05-15.48.43:003][314]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.11.05-15.48.44:004][374]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.11.05-15.48.44:004][374]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.11.05-15.48.44:004][374]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:00
+[2026.11.05-15.48.44:104][380]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:10
+[2026.11.05-15.48.44:207][386]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:20
+[2026.11.05-15.48.44:306][392]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:30
+[2026.11.05-15.48.44:410][398]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:40
+[2026.11.05-15.48.44:506][404]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:50
+[2026.11.05-15.48.44:605][410]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:60
+[2026.11.05-15.48.44:706][416]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:70
+[2026.11.05-15.48.44:806][422]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:80
+[2026.11.05-15.48.44:905][428]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:90
+[2026.11.05-15.48.45:006][434]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:00
+[2026.11.05-15.48.45:105][440]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:10
+[2026.11.05-15.48.45:205][446]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:20
+[2026.11.05-15.48.45:306][452]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:30
+[2026.11.05-15.48.45:406][458]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:40
+[2026.11.05-15.48.45:507][464]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:50
+[2026.11.05-15.48.45:606][470]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:60
+[2026.11.05-15.48.45:707][476]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:70
+[2026.11.05-15.48.45:808][482]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:80
+[2026.11.05-15.48.45:909][488]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:90
+[2026.11.05-15.48.46:007][494]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:00
+[2026.11.05-15.48.46:107][500]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:10
+[2026.11.05-15.48.46:207][506]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:20
+[2026.11.05-15.48.46:308][512]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:30
+[2026.11.05-15.48.46:407][518]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:40
+[2026.11.05-15.48.46:509][524]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:50
+[2026.11.05-15.48.46:606][530]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:60
+[2026.11.05-15.48.46:706][536]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:70
+[2026.11.05-15.48.46:807][542]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:80
+[2026.11.05-15.48.46:907][548]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:90
+[2026.11.05-15.48.47:007][554]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:00
+[2026.11.05-15.48.47:109][560]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:10
+[2026.11.05-15.48.47:208][566]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:20
+[2026.11.05-15.48.47:307][572]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:30
+[2026.11.05-15.48.47:407][578]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:40
+[2026.11.05-15.48.47:508][584]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:50
+[2026.11.05-15.48.47:609][590]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:60
+[2026.11.05-15.48.47:709][596]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:70
+[2026.11.05-15.48.47:809][602]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:80
+[2026.11.05-15.48.47:910][608]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:90
+[2026.11.05-15.48.48:011][614]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:00
+[2026.11.05-15.48.48:112][620]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:10
+[2026.11.05-15.48.48:211][626]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:20
+[2026.11.05-15.48.48:312][632]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:30
+[2026.11.05-15.48.48:414][638]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:40
+[2026.11.05-15.48.48:515][644]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:50
+[2026.11.05-15.48.48:620][650]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:60
+[2026.11.05-15.48.48:725][656]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:70
+[2026.11.05-15.48.48:825][662]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:80
+[2026.11.05-15.48.48:925][668]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:90
+[2026.11.05-15.48.49:026][674]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:00
+[2026.11.05-15.48.49:126][680]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:10
+[2026.11.05-15.48.49:227][686]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:20
+[2026.11.05-15.48.49:328][692]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:30
+[2026.11.05-15.48.49:429][698]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:40
+[2026.11.05-15.48.49:528][704]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:50
+[2026.11.05-15.48.49:628][710]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:60
+[2026.11.05-15.48.49:728][716]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:70
+[2026.11.05-15.48.49:827][722]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:80
+[2026.11.05-15.48.49:929][728]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:90
+[2026.11.05-15.48.50:041][734]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:00
+[2026.11.05-15.48.50:146][739]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:10
+[2026.11.05-15.48.50:246][745]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:20
+[2026.11.05-15.48.50:347][751]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:30
+[2026.11.05-15.48.50:447][757]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:40
+[2026.11.05-15.48.50:548][763]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:50
+[2026.11.05-15.48.50:649][769]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:60
+[2026.11.05-15.48.50:747][775]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:70
+[2026.11.05-15.48.50:847][781]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:80
+[2026.11.05-15.48.50:947][787]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:90
+[2026.11.05-15.48.51:049][793]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:00
+[2026.11.05-15.48.51:148][799]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:10
+[2026.11.05-15.48.51:251][805]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:20
+[2026.11.05-15.48.51:349][811]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:30
+[2026.11.05-15.48.51:453][817]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:40
+[2026.11.05-15.48.51:559][822]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:50
+[2026.11.05-15.48.51:664][828]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:60
+[2026.11.05-15.48.51:765][834]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:70
+[2026.11.05-15.48.51:865][840]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:80
+[2026.11.05-15.48.51:966][846]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:90
+[2026.11.05-15.48.52:065][852]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:00
+[2026.11.05-15.48.52:166][858]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:10
+[2026.11.05-15.48.52:265][864]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:20
+[2026.11.05-15.48.52:366][870]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:30
+[2026.11.05-15.48.52:466][876]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:40
+[2026.11.05-15.48.52:566][882]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:50
+[2026.11.05-15.48.52:667][888]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:60
+[2026.11.05-15.48.52:770][894]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:70
+[2026.11.05-15.48.52:887][900]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:80
+[2026.11.05-15.48.52:990][905]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:90
+[2026.11.05-15.48.53:094][911]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:00
+[2026.11.05-15.48.53:196][917]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:10
+[2026.11.05-15.48.53:297][923]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:20
+[2026.11.05-15.48.53:400][929]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:30
+[2026.11.05-15.48.53:501][935]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:40
+[2026.11.05-15.48.53:601][941]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:50
+[2026.11.05-15.48.53:701][947]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:60
+[2026.11.05-15.48.53:802][953]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:70
+[2026.11.05-15.48.53:902][959]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:80
+[2026.11.05-15.48.54:001][965]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:90
+[2026.11.05-15.48.54:102][971]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:00
+[2026.11.05-15.48.54:216][977]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:10
+[2026.11.05-15.48.54:327][982]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:20
+[2026.11.05-15.48.54:431][987]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:30
+[2026.11.05-15.48.54:536][993]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:40
+[2026.11.05-15.48.54:635][999]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:50
+[2026.11.05-15.48.54:734][  5]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:60
+[2026.11.05-15.48.54:835][ 11]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:70
+[2026.11.05-15.48.54:934][ 17]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:80
+[2026.11.05-15.48.55:035][ 23]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:90
+[2026.11.05-15.48.55:138][ 29]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:00
+[2026.11.05-15.48.55:236][ 35]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:10
+[2026.11.05-15.48.55:336][ 41]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:20
+[2026.11.05-15.48.55:436][ 47]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:30
+[2026.11.05-15.48.55:536][ 53]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:40
+[2026.11.05-15.48.55:637][ 59]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:50
+[2026.11.05-15.48.55:756][ 65]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:60
+[2026.11.05-15.48.55:855][ 70]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:70
+[2026.11.05-15.48.55:958][ 76]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:80
+[2026.11.05-15.48.56:057][ 82]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:90
+[2026.11.05-15.48.56:158][ 88]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:00
+[2026.11.05-15.48.56:259][ 94]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:10
+[2026.11.05-15.48.56:361][100]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:20
+[2026.11.05-15.48.56:461][106]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:30
+[2026.11.05-15.48.56:562][112]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:40
+[2026.11.05-15.48.56:665][118]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:50
+[2026.11.05-15.48.56:764][124]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:60
+[2026.11.05-15.48.56:864][130]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:70
+[2026.11.05-15.48.56:964][136]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:80
+[2026.11.05-15.48.57:065][142]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:90
+[2026.11.05-15.48.57:171][148]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:00
+[2026.11.05-15.48.57:281][153]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:10
+[2026.11.05-15.48.57:383][158]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:20
+[2026.11.05-15.48.57:484][164]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:30
+[2026.11.05-15.48.57:584][170]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:40
+[2026.11.05-15.48.57:684][176]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:50
+[2026.11.05-15.48.57:785][182]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:60
+[2026.11.05-15.48.57:885][188]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:70
+[2026.11.05-15.48.57:984][194]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:80
+[2026.11.05-15.48.58:083][200]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:90
+[2026.11.05-15.48.58:195][206]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:00
+[2026.11.05-15.48.58:293][212]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:10
+[2026.11.05-15.48.58:393][218]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:20
+[2026.11.05-15.48.58:496][224]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:30
+[2026.11.05-15.48.58:596][229]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:40
+[2026.11.05-15.48.58:697][234]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:50
+[2026.11.05-15.48.58:797][240]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:60
+[2026.11.05-15.48.58:897][246]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:70
+[2026.11.05-15.48.59:000][252]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:80
+[2026.11.05-15.48.59:098][258]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:90
+[2026.11.05-15.48.59:198][264]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:00
+[2026.11.05-15.48.59:299][270]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:10
+[2026.11.05-15.48.59:399][276]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:20
+[2026.11.05-15.48.59:499][282]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:30
+[2026.11.05-15.48.59:598][288]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:40
+[2026.11.05-15.48.59:700][294]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:50
+[2026.11.05-15.48.59:800][300]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:60
+[2026.11.05-15.48.59:899][306]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:70
+[2026.11.05-15.49.00:009][312]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:80
+[2026.11.05-15.49.00:130][317]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:90
+[2026.11.05-15.49.00:234][323]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:00
+[2026.11.05-15.49.00:332][329]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:10
+[2026.11.05-15.49.00:432][335]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:20
+[2026.11.05-15.49.00:536][341]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:30
+[2026.11.05-15.49.00:639][347]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:40
+[2026.11.05-15.49.00:742][353]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:50
+[2026.11.05-15.49.00:843][359]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:60
+[2026.11.05-15.49.00:942][365]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:70
+[2026.11.05-15.49.01:043][371]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:80
+[2026.11.05-15.49.01:142][377]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:90
+[2026.11.05-15.49.01:243][383]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:00
+[2026.11.05-15.49.01:343][389]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:10
+[2026.11.05-15.49.01:449][394]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:20
+[2026.11.05-15.49.01:549][399]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:30
+[2026.11.05-15.49.01:659][405]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:40
+[2026.11.05-15.49.01:759][411]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:50
+[2026.11.05-15.49.01:859][417]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:60
+[2026.11.05-15.49.01:960][423]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:70
+[2026.11.05-15.49.02:060][429]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:80
+[2026.11.05-15.49.02:160][435]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:17:90
+[2026.11.05-15.49.02:259][441]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:00
+[2026.11.05-15.49.02:361][447]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:10
+[2026.11.05-15.49.02:462][453]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:20
+[2026.11.05-15.49.02:563][459]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:30
+[2026.11.05-15.49.02:663][465]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:40
+[2026.11.05-15.49.02:763][471]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:50
+[2026.11.05-15.49.02:863][477]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:60
+[2026.11.05-15.49.02:963][483]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:70
+[2026.11.05-15.49.03:063][489]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:80
+[2026.11.05-15.49.03:164][495]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:18:90
+[2026.11.05-15.49.03:265][501]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:00
+[2026.11.05-15.49.03:369][507]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:10
+[2026.11.05-15.49.03:474][513]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:20
+[2026.11.05-15.49.03:574][519]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:30
+[2026.11.05-15.49.03:675][525]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:40
+[2026.11.05-15.49.03:774][531]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:50
+[2026.11.05-15.49.03:874][537]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:60
+[2026.11.05-15.49.03:975][543]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:70
+[2026.11.05-15.49.04:075][549]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:80
+[2026.11.05-15.49.04:177][555]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:19:90
+[2026.11.05-15.49.04:282][559]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:00
+[2026.11.05-15.49.04:383][564]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:10
+[2026.11.05-15.49.04:484][570]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:20
+[2026.11.05-15.49.04:583][576]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:30
+[2026.11.05-15.49.04:684][582]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:40
+[2026.11.05-15.49.04:785][588]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:50
+[2026.11.05-15.49.04:890][594]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:60
+[2026.11.05-15.49.04:990][600]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:70
+[2026.11.05-15.49.05:093][606]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:20:80
+[2026.11.05-15.49.05:180][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.05-15.49.05:180][609]LogWorld: BeginTearingDown for /Game/_Tophers_Work/_Levels/UEDPIE_0_MovementTestMap_Topher
+[2026.11.05-15.49.05:181][609]LogWorld: UWorld::CleanupWorld for MovementTestMap_Topher, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-15.49.05:181][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-15.49.05:186][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.05-15.49.05:190][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-15.49.05:240][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.05-15.49.05:240][609]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.11.05-15.49.05:241][609]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=9, StreamState=4
+[2026.11.05-15.49.05:248][609]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.05-15.49.05:254][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.11.05-15.49.05:304][610]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.11.05-15.49.35:242][ 98]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2092.342773
+[2026.11.05-15.49.35:707][107]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-15.49.35:707][108]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2092.788574, Update Interval: 326.410095
+[2026.11.05-15.49.46:945][331]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.05-15.49.46:955][331]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.05-15.49.46:955][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.05-15.49.46:955][331]LogPlayLevel: Creating play world package: /Game/_Tophers_Work/_Levels/UEDPIE_0_MovementTestMap_Topher
+[2026.11.05-15.49.46:964][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008715s)
+[2026.11.05-15.49.46:964][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Tophers_Work/_Levels/MovementTestMap_Topher.MovementTestMap_Topher to /Game/_Tophers_Work/_Levels/UEDPIE_0_MovementTestMap_Topher.MovementTestMap_Topher (0.008776s)
+[2026.11.05-15.49.47:006][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.11.05-15.49.47:009][331]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap_Topher
+[2026.11.05-15.49.47:011][331]LogPlayLevel: PIE: World Init took: (0.001981s)
+[2026.11.05-15.49.47:011][331]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.11.05-15.49.47:011][331]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.05-15.49.47:011][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.05-15.49.47:011][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.05-15.49.47:011][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.05-15.49.47:011][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.05-15.49.47:011][331]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.05-15.49.47:011][331]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.05-15.49.47:011][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.05-15.49.47:011][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.05-15.49.47:011][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.05-15.49.47:011][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.05-15.49.47:011][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.05-15.49.47:012][331]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.05-15.49.47:023][331]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers (Realtek(R) Audio)'
+[2026.11.05-15.49.47:025][331]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.11.05-15.49.47:027][331]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers (Realtek(R) Audio)'
+[2026.11.05-15.49.47:028][331]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.11.05-15.49.47:031][331]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers (Realtek(R) Audio)'
+[2026.11.05-15.49.47:032][331]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.11.05-15.49.47:037][331]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.05-15.49.47:037][331]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.05-15.49.47:037][331]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.05-15.49.47:038][331]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.05-15.49.47:047][331]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.05-15.49.47:047][331]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.05-15.49.47:047][331]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.05-15.49.47:047][331]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.11.05-15.49.47:047][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.05-15.49.47:047][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.05-15.49.47:047][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.05-15.49.47:048][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.11.05-15.49.47:051][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.11.05-15.49.47:053][331]LogInit: FAudioDevice initialized with ID 10.
+[2026.11.05-15.49.47:053][331]LogAudio: Display: Audio Device (ID: 10) registered with world 'MovementTestMap_Topher'.
+[2026.11.05-15.49.47:053][331]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.11.05-15.49.47:054][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.05-15.49.47:057][331]LogLoad: Game class is 'BP_GameMode_C'
+[2026.11.05-15.49.47:059][331]LogWorld: Bringing World /Game/_Tophers_Work/_Levels/UEDPIE_0_MovementTestMap_Topher.MovementTestMap_Topher up for play (max tick rate 60) at 2026.11.05-07.49.47
+[2026.11.05-15.49.47:060][331]LogWorld: Bringing up level for play took: 0.001887
+[2026.11.05-15.49.47:062][331]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.11.05-15.49.47:063][331]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.05-15.49.47:063][331]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.11.05-15.49.47:065][331]PIE: Server logged in
+[2026.11.05-15.49.47:067][331]PIE: Play in editor total start time 0.112 seconds.
+[2026.11.05-15.49.47:091][332]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.11.05-15.49.47:107][332]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.05-15.49.47:937][381]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.11.05-15.49.48:942][441]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.11.05-15.49.49:945][501]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.11.05-15.49.49:945][501]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.11.05-15.49.49:945][501]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:00
+[2026.11.05-15.49.50:045][507]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:10
+[2026.11.05-15.49.50:147][513]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:20
+[2026.11.05-15.49.50:247][519]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:30
+[2026.11.05-15.49.50:349][525]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:40
+[2026.11.05-15.49.50:449][531]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:50
+[2026.11.05-15.49.50:548][537]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:60
+[2026.11.05-15.49.50:648][543]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:70
+[2026.11.05-15.49.50:748][549]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:80
+[2026.11.05-15.49.50:848][555]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:00:90
+[2026.11.05-15.49.50:948][561]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:00
+[2026.11.05-15.49.51:048][567]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:10
+[2026.11.05-15.49.51:148][573]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:20
+[2026.11.05-15.49.51:247][579]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:30
+[2026.11.05-15.49.51:348][585]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:40
+[2026.11.05-15.49.51:449][591]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:50
+[2026.11.05-15.49.51:548][597]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:60
+[2026.11.05-15.49.51:648][603]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:70
+[2026.11.05-15.49.51:752][609]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:80
+[2026.11.05-15.49.51:871][615]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:01:90
+[2026.11.05-15.49.51:971][621]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:00
+[2026.11.05-15.49.52:071][627]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:10
+[2026.11.05-15.49.52:171][633]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:20
+[2026.11.05-15.49.52:271][639]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:30
+[2026.11.05-15.49.52:377][644]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:40
+[2026.11.05-15.49.52:480][650]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:50
+[2026.11.05-15.49.52:579][656]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:60
+[2026.11.05-15.49.52:679][662]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:70
+[2026.11.05-15.49.52:779][668]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:80
+[2026.11.05-15.49.52:879][674]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:02:90
+[2026.11.05-15.49.52:979][680]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:00
+[2026.11.05-15.49.53:079][686]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:10
+[2026.11.05-15.49.53:180][692]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:20
+[2026.11.05-15.49.53:279][698]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:30
+[2026.11.05-15.49.53:382][704]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:40
+[2026.11.05-15.49.53:492][710]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:50
+[2026.11.05-15.49.53:607][715]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:60
+[2026.11.05-15.49.53:707][720]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:70
+[2026.11.05-15.49.53:807][726]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:80
+[2026.11.05-15.49.53:907][732]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:03:90
+[2026.11.05-15.49.54:011][738]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:00
+[2026.11.05-15.49.54:111][744]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:10
+[2026.11.05-15.49.54:210][750]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:20
+[2026.11.05-15.49.54:310][756]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:30
+[2026.11.05-15.49.54:414][761]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:40
+[2026.11.05-15.49.54:532][765]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:50
+[2026.11.05-15.49.54:639][771]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:60
+[2026.11.05-15.49.54:740][777]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:70
+[2026.11.05-15.49.54:865][783]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:80
+[2026.11.05-15.49.54:981][787]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:04:90
+[2026.11.05-15.49.55:107][791]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:00
+[2026.11.05-15.49.55:223][795]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:10
+[2026.11.05-15.49.55:337][798]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:20
+[2026.11.05-15.49.55:460][801]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:30
+[2026.11.05-15.49.55:570][807]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:40
+[2026.11.05-15.49.55:669][813]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:50
+[2026.11.05-15.49.55:774][819]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:60
+[2026.11.05-15.49.55:873][825]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:70
+[2026.11.05-15.49.55:974][831]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:80
+[2026.11.05-15.49.56:074][837]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:05:90
+[2026.11.05-15.49.56:175][843]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:00
+[2026.11.05-15.49.56:274][849]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:10
+[2026.11.05-15.49.56:375][855]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:20
+[2026.11.05-15.49.56:474][861]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:30
+[2026.11.05-15.49.56:585][865]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:40
+[2026.11.05-15.49.56:685][871]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:50
+[2026.11.05-15.49.56:789][877]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:60
+[2026.11.05-15.49.56:901][882]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:70
+[2026.11.05-15.49.57:012][888]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:80
+[2026.11.05-15.49.57:112][894]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:06:90
+[2026.11.05-15.49.57:211][900]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:00
+[2026.11.05-15.49.57:312][906]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:10
+[2026.11.05-15.49.57:412][912]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:20
+[2026.11.05-15.49.57:520][918]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:30
+[2026.11.05-15.49.57:621][922]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:40
+[2026.11.05-15.49.57:723][926]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:50
+[2026.11.05-15.49.57:835][932]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:60
+[2026.11.05-15.49.57:938][938]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:70
+[2026.11.05-15.49.58:036][944]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:80
+[2026.11.05-15.49.58:159][950]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:07:90
+[2026.11.05-15.49.58:281][955]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:00
+[2026.11.05-15.49.58:407][959]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:10
+[2026.11.05-15.49.58:529][963]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:20
+[2026.11.05-15.49.58:631][969]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:30
+[2026.11.05-15.49.58:731][975]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:40
+[2026.11.05-15.49.58:831][981]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:50
+[2026.11.05-15.49.58:932][987]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:60
+[2026.11.05-15.49.59:031][993]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:70
+[2026.11.05-15.49.59:133][999]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:80
+[2026.11.05-15.49.59:242][  4]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:08:90
+[2026.11.05-15.49.59:368][  9]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:00
+[2026.11.05-15.49.59:472][ 13]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:10
+[2026.11.05-15.49.59:573][ 17]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:20
+[2026.11.05-15.49.59:680][ 21]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:30
+[2026.11.05-15.49.59:784][ 26]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:40
+[2026.11.05-15.49.59:888][ 32]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:50
+[2026.11.05-15.49.59:988][ 38]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:60
+[2026.11.05-15.50.00:088][ 44]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:70
+[2026.11.05-15.50.00:190][ 50]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:80
+[2026.11.05-15.50.00:291][ 56]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:09:90
+[2026.11.05-15.50.00:390][ 62]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:00
+[2026.11.05-15.50.00:493][ 68]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:10
+[2026.11.05-15.50.00:592][ 74]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:20
+[2026.11.05-15.50.00:692][ 80]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:30
+[2026.11.05-15.50.00:794][ 86]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:40
+[2026.11.05-15.50.00:892][ 92]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:50
+[2026.11.05-15.50.00:992][ 98]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:60
+[2026.11.05-15.50.01:092][104]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:70
+[2026.11.05-15.50.01:193][110]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:80
+[2026.11.05-15.50.01:292][116]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:10:90
+[2026.11.05-15.50.01:392][122]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:00
+[2026.11.05-15.50.01:492][128]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:10
+[2026.11.05-15.50.01:592][134]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:20
+[2026.11.05-15.50.01:692][140]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:30
+[2026.11.05-15.50.01:793][146]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:40
+[2026.11.05-15.50.01:906][152]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:50
+[2026.11.05-15.50.02:020][156]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:60
+[2026.11.05-15.50.02:121][161]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:70
+[2026.11.05-15.50.02:221][167]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:80
+[2026.11.05-15.50.02:320][173]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:11:90
+[2026.11.05-15.50.02:421][179]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:00
+[2026.11.05-15.50.02:527][185]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:10
+[2026.11.05-15.50.02:651][189]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:20
+[2026.11.05-15.50.02:762][193]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:30
+[2026.11.05-15.50.02:860][199]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:40
+[2026.11.05-15.50.02:960][205]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:50
+[2026.11.05-15.50.03:060][211]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:60
+[2026.11.05-15.50.03:161][217]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:70
+[2026.11.05-15.50.03:269][222]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:80
+[2026.11.05-15.50.03:379][226]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:12:90
+[2026.11.05-15.50.03:478][230]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:00
+[2026.11.05-15.50.03:605][235]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:10
+[2026.11.05-15.50.03:732][239]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:20
+[2026.11.05-15.50.03:838][244]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:30
+[2026.11.05-15.50.03:939][250]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:40
+[2026.11.05-15.50.04:039][256]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:50
+[2026.11.05-15.50.04:139][262]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:60
+[2026.11.05-15.50.04:239][268]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:70
+[2026.11.05-15.50.04:339][274]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:80
+[2026.11.05-15.50.04:440][280]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:13:90
+[2026.11.05-15.50.04:539][286]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:00
+[2026.11.05-15.50.04:639][292]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:10
+[2026.11.05-15.50.04:745][298]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:20
+[2026.11.05-15.50.04:856][304]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:30
+[2026.11.05-15.50.04:964][310]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:40
+[2026.11.05-15.50.05:079][315]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:50
+[2026.11.05-15.50.05:180][321]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:60
+[2026.11.05-15.50.05:280][327]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:70
+[2026.11.05-15.50.05:384][333]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:80
+[2026.11.05-15.50.05:485][337]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:14:90
+[2026.11.05-15.50.05:587][341]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:00
+[2026.11.05-15.50.05:700][347]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:10
+[2026.11.05-15.50.05:801][353]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:20
+[2026.11.05-15.50.05:901][359]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:30
+[2026.11.05-15.50.06:000][365]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:40
+[2026.11.05-15.50.06:101][371]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:50
+[2026.11.05-15.50.06:201][377]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:60
+[2026.11.05-15.50.06:310][382]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:70
+[2026.11.05-15.50.06:436][386]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:80
+[2026.11.05-15.50.06:537][390]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:15:90
+[2026.11.05-15.50.06:650][396]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:00
+[2026.11.05-15.50.06:750][402]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:10
+[2026.11.05-15.50.06:851][408]LogBlueprintUserMessages: [BP_RaceManager_C_1] 00:00:16:20
+[2026.11.05-15.50.06:951][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.05-15.50.06:951][411]LogWorld: BeginTearingDown for /Game/_Tophers_Work/_Levels/UEDPIE_0_MovementTestMap_Topher
+[2026.11.05-15.50.06:951][411]LogWorld: UWorld::CleanupWorld for MovementTestMap_Topher, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-15.50.06:952][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-15.50.06:960][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.05-15.50.06:966][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-15.50.07:017][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.05-15.50.07:018][411]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.11.05-15.50.07:018][411]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=10, StreamState=4
+[2026.11.05-15.50.07:030][411]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.05-15.50.07:040][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.11.05-15.50.07:117][412]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.11.05-15.50.17:354][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-15.50.17:385][593]LogFileHelpers: Saving Map: /Game/_Tophers_Work/_Levels/MovementTestMap_Topher
+[2026.11.05-15.50.17:385][593]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Tophers_Work/_Levels/MovementTestMap_Topher] ([1] browsable assets)...
+[2026.11.05-15.50.17:386][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Tophers_Work/_Levels/MovementTestMap_Topher]
+[2026.11.05-15.50.17:442][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.11.05-15.50.17:472][593]LogSavePackage: Moving output files for package: /Game/_Tophers_Work/_Levels/MovementTestMap_Topher
+[2026.11.05-15.50.17:472][593]LogSavePackage: Moving '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/MovementTestMap_TopherDDE793A342AFD60F079439925FF0E4C0.tmp' to '../../../../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Tophers_Work/_Levels/MovementTestMap_Topher.umap'
+[2026.11.05-15.50.17:497][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.247 ms (total: 2.69 sec)
+[2026.11.05-15.50.17:529][593]LogContentValidation: Enabled validators:
+[2026.11.05-15.50.17:529][593]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-15.50.17:529][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-15.50.17:529][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-15.50.17:529][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-15.50.17:529][593]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-15.50.17:529][593]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-15.50.17:529][593]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-15.50.17:529][593]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-15.50.17:529][593]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-15.50.17:529][593]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-15.50.17:529][593]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-15.50.17:530][593]AssetCheck: /Game/_Tophers_Work/_Levels/MovementTestMap_Topher Validating asset
+[2026.11.05-15.50.17:530][593]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-15.50.17:530][593]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-15.50.17:530][593]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-15.50.17:530][593]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-15.50.17:530][593]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-15.50.17:530][593]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-15.50.17:530][593]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-15.50.17:530][593]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-15.50.17:530][593]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-15.50.17:530][593]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-15.50.43:843][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.11.05-15.50.43:939][ 49]LogStall: Shutdown...
+[2026.11.05-15.50.43:944][ 49]LogStall: Shutdown complete.
+[2026.11.05-15.50.44:019][ 49]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-15.50.44:019][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-15.50.44:029][ 49]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-15.50.44:029][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-15.50.44:095][ 49]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-15.50.44:095][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-15.50.44:169][ 49]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.11.05-15.50.44:169][ 49]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-15.50.44:169][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-15.50.44:232][ 49]LogSlate: Window 'BP_GameUIManager' being destroyed
+[2026.11.05-15.50.44:247][ 49]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.11.05-15.50.44:247][ 49]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-15.50.44:247][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-15.50.44:278][ 49]LogSlate: Window 'CAGD370_Biking - Unreal Editor' being destroyed
+[2026.11.05-15.50.45:052][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2026.11.05-15.50.45:105][ 50]Cmd: QUIT_EDITOR
+[2026.11.05-15.50.45:105][ 50]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.11.05-15.50.45:112][ 50]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.11.05-15.50.45:112][ 50]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.11.05-15.50.45:112][ 50]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.11.05-15.50.45:117][ 50]LogWorld: UWorld::CleanupWorld for MovementTestMap_Topher, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-15.50.45:117][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-15.50.45:117][ 50]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.11.05-15.50.45:128][ 50]LogToolsetRegistry: Display: Unregistering Toolset ToolsetRegistry.AgentSkillToolset
+[2026.11.05-15.50.45:129][ 50]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.11.05-15.50.45:175][ 50]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.11.05-15.50.45:189][ 50]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-15.50.45:189][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-15.50.45:200][ 50]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.11.05-15.50.45:213][ 50]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.11.05-15.50.45:753][ 50]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.11.05-15.50.45:753][ 50]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.11.05-15.50.45:753][ 50]LogAudio: Display: Audio Device unregistered from world 'MovementTestMap_Topher'.
+[2026.11.05-15.50.45:753][ 50]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.11.05-15.50.45:753][ 50]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.11.05-15.50.45:765][ 50]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.05-15.50.45:874][ 50]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.11.05-15.50.45:874][ 50]LogAudio: Display: Audio Device Manager Shutdown
+[2026.11.05-15.50.45:914][ 50]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.11.05-15.50.45:927][ 50]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.11.05-15.50.45:927][ 50]LogExit: Preparing to exit.
+[2026.11.05-15.50.46:549][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2026.11.05-15.50.46:556][ 50]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.05-15.50.47:033][ 50]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.11.05-15.50.47:033][ 50]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.11.05-15.50.47:038][ 50]LogEditorDataStorage: Deinitializing
+[2026.11.05-15.50.47:045][ 50]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.11.05-15.50.47:045][ 50]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.11.05-15.50.47:045][ 50]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.11.05-15.50.47:045][ 50]LogEditorDataStorage: Resetting TEDS Core.
+[2026.11.05-15.50.47:051][ 50]LogEditorDataStorage: Reset TEDS Core.
+[2026.11.05-15.50.47:051][ 50]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.11.05-15.50.47:334][ 50]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.11.05-15.50.47:404][ 50]LogExit: Editor shut down
+[2026.11.05-15.50.47:468][ 50]LogExit: Transaction tracking system shut down
+[2026.11.05-15.50.47:722][ 50]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.11.05-15.50.47:723][ 50]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.11.05-15.50.47:754][ 50]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.11.05-15.50.47:756][ 50]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.11.05-15.50.47:942][ 50]LogExit: Object subsystem successfully closed.
+[2026.11.05-15.50.47:970][ 50]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.11.05-15.50.48:670][ 50]LogObjectProfiler: Shutdown
+[2026.11.05-15.50.48:670][ 50]LogMemoryProfiler: Shutdown
+[2026.11.05-15.50.48:670][ 50]LogNetworkingProfiler: Shutdown
+[2026.11.05-15.50.48:670][ 50]LogLoadingProfiler: Shutdown
+[2026.11.05-15.50.48:670][ 50]LogTimingProfiler: Shutdown
+[2026.11.05-15.50.48:671][ 50]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.11.05-15.50.48:671][ 50]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.11.05-15.50.48:671][ 50]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.11.05-15.50.48:671][ 50]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.11.05-15.50.48:671][ 50]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.11.05-15.50.49:218][ 50]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.11.05-15.50.49:218][ 50]RenderDocPlugin: plugin has been unloaded.
+[2026.11.05-15.50.49:231][ 50]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 2 outstanding Http Requests:
+[2026.11.05-15.50.49:231][ 50]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64051CC9-4E4F-6C1F-E483-20B5F580FCA0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=6b193a30465a4469adc1de85988a248c%7C66fdc2bdd7e8458db570007dc3a0bd7e%7Cddb79a17-c88f-4539-9c5a-a1b63785669c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[3] status=Processing
+[2026.11.05-15.50.49:231][ 50]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64051CC9-4E4F-6C1F-E483-20B5F580FCA0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=6b193a30465a4469adc1de85988a248c%7C66fdc2bdd7e8458db570007dc3a0bd7e%7Cddb79a17-c88f-4539-9c5a-a1b63785669c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.11.05-15.50.49:958][ 50]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.11.05-15.50.49:976][ 50]LogNFORDenoise: NFORDenoise function shutting down
+[2026.11.05-15.50.49:976][ 50]LogXGEController: Cleaning working directory: C:/Users/tophe/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.11.05-15.50.49:980][ 50]LogPakFile: Destroying PakPlatformFile
