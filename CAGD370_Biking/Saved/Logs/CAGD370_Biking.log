@@ -11561,3 +11561,79 @@ FPackageName: Skipped package /Game/_Diegos_Work/_assets/_materials/m_Obstacles 
 [2026.11.05-11.51.40:059][339]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.11.05-11.51.40:059][339]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.11.05-11.51.40:059][339]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-11.52.33:313][665]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12961.017578
+[2026.11.05-11.52.34:312][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-11.52.34:312][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12961.684570, Update Interval: 333.346344
+[2026.11.05-11.53.16:607][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-11.53.16:632][799]LogFileHelpers: Saving Package: /Game/_Diegos_Work/_assets/_models/sm_checkpoint
+[2026.11.05-11.53.16:632][799]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Diegos_Work/_assets/_models/sm_checkpoint] ([1] browsable assets)...
+[2026.11.05-11.53.16:641][799]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint]
+[2026.11.05-11.53.16:641][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Diegos_Work/_assets/_models/sm_checkpoint]
+[2026.11.05-11.53.16:653][799]LogSavePackage: Moving output files for package: /Game/_Diegos_Work/_assets/_models/sm_checkpoint
+[2026.11.05-11.53.16:653][799]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/sm_checkpointD51670054EAEEBB16D4025BAD1776639.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_models/sm_checkpoint.uasset'
+[2026.11.05-11.53.16:660][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.190 ms (total: 38.8 sec)
+[2026.11.05-11.53.16:686][799]LogContentValidation: Enabled validators:
+[2026.11.05-11.53.16:686][799]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-11.53.16:686][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-11.53.16:686][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-11.53.16:686][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-11.53.16:686][799]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-11.53.16:686][799]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-11.53.16:686][799]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-11.53.16:686][799]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-11.53.16:686][799]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-11.53.16:686][799]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-11.53.16:686][799]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-11.53.16:686][799]AssetCheck: /Game/_Diegos_Work/_assets/_models/sm_checkpoint Validating asset
+[2026.11.05-11.53.16:686][799]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-11.53.16:686][799]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-11.53.16:686][799]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-11.53.16:686][799]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-11.53.16:686][799]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-11.53.16:686][799]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-11.53.16:686][799]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-11.53.16:686][799]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-11.53.16:686][799]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-11.53.16:686][799]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-11.53.16:733][799]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.05-11.53.18:438][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.11.05-11.53.19:707][969]LogSlate: Window 'Save Content' being destroyed
+[2026.11.05-11.53.19:714][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-11.53.19:733][969]LogFileHelpers: Saving Package: /Game/_Diegos_Work/_assets/_materials/m_check1
+[2026.11.05-11.53.19:733][969]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Diegos_Work/_assets/_materials/m_check1] ([1] browsable assets)...
+[2026.11.05-11.53.19:792][969]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/_Diegos_Work/_assets/_materials/m_check1.m_check1]
+[2026.11.05-11.53.19:792][969]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Diegos_Work/_assets/_materials/m_check1]
+[2026.11.05-11.53.19:801][969]LogSavePackage: Moving output files for package: /Game/_Diegos_Work/_assets/_materials/m_check1
+[2026.11.05-11.53.19:801][969]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/m_check1341A97F34E71B32C59698787E86B9A61.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_materials/m_check1.uasset'
+[2026.11.05-11.53.19:802][969]LogFileHelpers: Saving Package: /Game/_Diegos_Work/_assets/_materials/m_check2
+[2026.11.05-11.53.19:802][969]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Diegos_Work/_assets/_materials/m_check2] ([1] browsable assets)...
+[2026.11.05-11.53.19:808][969]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/_Diegos_Work/_assets/_materials/m_check2.m_check2]
+[2026.11.05-11.53.19:808][969]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Diegos_Work/_assets/_materials/m_check2]
+[2026.11.05-11.53.19:816][969]LogSavePackage: Moving output files for package: /Game/_Diegos_Work/_assets/_materials/m_check2
+[2026.11.05-11.53.19:816][969]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/m_check256354C34475435FA98BA9BAFBD1A4895.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_materials/m_check2.uasset'
+[2026.11.05-11.53.19:823][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.424 ms (total: 38.9 sec)
+[2026.11.05-11.53.19:849][969]LogContentValidation: Enabled validators:
+[2026.11.05-11.53.19:849][969]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-11.53.19:849][969]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-11.53.19:849][969]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-11.53.19:849][969]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-11.53.19:849][969]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-11.53.19:849][969]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-11.53.19:849][969]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-11.53.19:849][969]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-11.53.19:849][969]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-11.53.19:849][969]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.11.05-11.53.19:849][969]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-11.53.19:849][969]AssetCheck: /Game/_Diegos_Work/_assets/_materials/m_check1 Validating asset
+[2026.11.05-11.53.19:849][969]AssetCheck: /Game/_Diegos_Work/_assets/_materials/m_check2 Validating asset
+[2026.11.05-11.53.19:849][969]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-11.53.19:849][969]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-11.53.19:850][969]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-11.53.19:850][969]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.11.05-11.53.19:850][969]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-11.53.19:850][969]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-11.53.19:850][969]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-11.53.19:850][969]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-11.53.19:850][969]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-11.53.19:850][969]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-11.53.19:881][969]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
