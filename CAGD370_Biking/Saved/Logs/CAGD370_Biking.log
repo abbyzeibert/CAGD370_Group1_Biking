@@ -11637,3 +11637,260 @@ FPackageName: Skipped package /Game/_Diegos_Work/_assets/_materials/m_Obstacles 
 [2026.11.05-11.53.19:850][969]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.11.05-11.53.19:850][969]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
 [2026.11.05-11.53.19:881][969]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.05-11.53.40:311][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.11.05-11.53.40:315][660]LogStreaming: Display: FlushAsyncLoading(842): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-11.53.40:367][660]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.11.05-11.53.40:378][660]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl2._Lvl2
+[2026.11.05-11.53.40:378][660]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.05-11.53.40:410][660]LogWorld: UWorld::CleanupWorld for _Lvl3, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-11.53.40:410][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-11.53.40:448][660]LogAudio: Display: Audio Device unregistered from world '_Lvl3'.
+[2026.11.05-11.53.40:458][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.11.05-11.53.40:513][660]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-11.53.40:514][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-11.53.40:580][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.11.05-11.53.40:612][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.11.05-11.53.40:669][660]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl2'.
+[2026.11.05-11.53.40:669][660]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.11.05-11.53.40:718][660]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.05-11.53.40:748][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.11.05-11.53.40:758][660]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.05-11.53.40:758][660]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.061ms to complete.
+[2026.11.05-11.53.40:905][662]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.05-11.54.52:008][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.11.05-11.54.52:014][614]LogStreaming: Display: FlushAsyncLoading(844): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-11.54.52:071][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_9 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:071][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_77 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:071][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_41 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:071][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_80 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:072][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:072][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_82 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:072][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_34 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:072][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_90 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:072][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_91 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:073][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_44 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:073][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_131 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:073][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_92 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:074][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_35 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:074][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:074][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_46 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:074][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:074][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_79 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:074][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_84 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:074][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_133 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:074][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_47 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:075][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:075][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_134 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:075][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_49 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:076][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_95 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:076][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_129 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:076][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_51 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:076][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_96 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:076][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_127 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:076][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:076][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_86 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:076][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_115 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:077][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_69 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:077][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_126 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:077][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_121 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:077][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_147 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:077][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_137 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:077][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_122 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:077][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_150 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:077][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_158 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:077][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_71 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:077][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_109 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:078][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_160 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:078][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_119 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:078][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_162 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:078][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_62 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:078][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_73 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:078][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_55 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:078][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_54 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:078][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_57 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:078][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_117 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:078][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_151 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:079][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_59 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:079][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_113 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:079][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_124 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:079][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_99 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:079][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_111 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:079][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_75 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:080][614]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl1
+[2026.11.05-11.54.52:080][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_108 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:080][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_103 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:080][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_102 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:080][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_63 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:080][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_104 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:080][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_66 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:080][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_106 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:081][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_139 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:081][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_142 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:081][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_65 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:081][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_156 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:081][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_153 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:081][614]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_145 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.54.52:114][614]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl1._Lvl1
+[2026.11.05-11.54.52:114][614]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.05-11.54.52:135][614]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-11.54.52:135][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-11.54.52:168][614]LogAudio: Display: Audio Device unregistered from world '_Lvl2'.
+[2026.11.05-11.54.52:178][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2026.11.05-11.54.52:210][614]LogWorld: UWorld::CleanupWorld for _Lvl1, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-11.54.52:211][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-11.54.52:262][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.11.05-11.54.52:289][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.11.05-11.54.52:324][614]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl1'.
+[2026.11.05-11.54.52:324][614]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl1
+[2026.11.05-11.54.52:353][614]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.05-11.54.52:384][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.11.05-11.54.52:394][614]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.05-11.54.52:394][614]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2026.11.05-11.54.52:512][615]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.05-11.56.26:204][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.11.05-11.56.26:207][140]LogStreaming: Display: FlushAsyncLoading(846): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-11.56.26:259][140]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.11.05-11.56.26:284][140]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl2._Lvl2
+[2026.11.05-11.56.26:285][140]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.05-11.56.26:358][140]LogWorld: UWorld::CleanupWorld for _Lvl1, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-11.56.26:358][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-11.56.26:388][140]LogAudio: Display: Audio Device unregistered from world '_Lvl1'.
+[2026.11.05-11.56.26:393][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.11.05-11.56.26:413][140]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-11.56.26:414][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-11.56.26:476][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.11.05-11.56.26:504][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.11.05-11.56.26:559][140]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl2'.
+[2026.11.05-11.56.26:559][140]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.11.05-11.56.26:603][140]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.05-11.56.26:631][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.11.05-11.56.26:641][140]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.05-11.56.26:641][140]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2026.11.05-11.56.26:778][142]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.05-11.56.26:839][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.11.05-11.56.26:843][144]LogStreaming: Display: FlushAsyncLoading(848): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-11.56.26:867][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:867][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:867][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_11 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:867][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_9 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:867][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_10 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:868][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_13 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:868][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:868][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_92 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:869][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_17 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:869][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_77 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:869][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_18 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:869][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_21 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:870][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_90 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:870][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_25 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:870][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_23 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:870][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_94 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:870][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_27 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:870][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:870][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_32 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:870][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_79 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:870][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_30 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:871][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_96 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:871][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_87 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:871][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_98 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:871][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_99 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:871][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_36 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:871][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:871][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_101 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:872][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:872][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_105 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:872][144]LogDerivedDataCache: C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/dagalvez-gomez/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/3c/4f/759b2230eb97d280e18cc0ac698cf4fa15fc.udd from '/Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_13'.
+[2026.11.05-11.56.26:872][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:872][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_49 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:872][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_107 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:872][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_52 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:873][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_44 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:873][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_39 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:873][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_108 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:873][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_41 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:873][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_111 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:873][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_47 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:873][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_45 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:874][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_113 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:876][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_115 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:878][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_102 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:878][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_117 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:878][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_35 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:879][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_55 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:879][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_118 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:879][144]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl3
+[2026.11.05-11.56.26:879][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_119 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:880][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_53 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:880][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_68 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:881][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_123 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:881][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_57 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:882][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_125 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:882][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_58 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:884][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_63 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:884][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_71 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:884][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_127 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:884][144]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl3._Lvl3:PersistentLevel.Landscape_1.Weightmap_65 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.11.05-11.56.26:889][144]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl3._Lvl3
+[2026.11.05-11.56.26:890][144]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.05-11.56.26:916][144]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-11.56.26:916][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-11.56.26:946][144]LogAudio: Display: Audio Device unregistered from world '_Lvl2'.
+[2026.11.05-11.56.26:954][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.11.05-11.56.27:004][144]LogWorld: UWorld::CleanupWorld for _Lvl3, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-11.56.27:004][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-11.56.27:052][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.11.05-11.56.27:079][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.11.05-11.56.27:113][144]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl3'.
+[2026.11.05-11.56.27:113][144]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl3
+[2026.11.05-11.56.27:140][144]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.05-11.56.27:170][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.11.05-11.56.27:180][144]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.05-11.56.27:180][144]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.061ms to complete.
+[2026.11.05-11.56.27:288][146]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.05-11.56.34:860][905]Cmd: DELETE
+[2026.11.05-11.56.34:860][905]Cmd: ACTOR DELETE
+[2026.11.05-11.56.34:866][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.05-11.56.34:895][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.11.05-11.56.34:900][905]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.11.05-11.58.44:884][850]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13332.558594
+[2026.11.05-11.58.45:883][853]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-11.58.45:883][853]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13333.224609, Update Interval: 354.242981
+[2026.11.05-11.59.59:252][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-11.59.59:294][ 76]LogFileHelpers: Saving Map: /Game/Levels/_Lvl3
+[2026.11.05-11.59.59:294][ 76]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl3] ([1] browsable assets)...
+[2026.11.05-11.59.59:294][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl3]
+[2026.11.05-11.59.59:334][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.11.05-11.59.59:626][ 76]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl3
+[2026.11.05-11.59.59:627][ 76]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl3F9BE562E46991DD2B8161C9814DD652A.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl3.umap'
+[2026.11.05-11.59.59:653][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 401.315 ms (total: 39.3 sec)
+[2026.11.05-11.59.59:678][ 76]LogContentValidation: Enabled validators:
+[2026.11.05-11.59.59:678][ 76]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-11.59.59:678][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-11.59.59:678][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-11.59.59:678][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-11.59.59:678][ 76]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-11.59.59:678][ 76]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-11.59.59:678][ 76]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-11.59.59:678][ 76]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-11.59.59:678][ 76]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-11.59.59:678][ 76]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-11.59.59:678][ 76]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-11.59.59:679][ 76]AssetCheck: /Game/Levels/_Lvl3 Validating asset
+[2026.11.05-11.59.59:679][ 76]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-11.59.59:679][ 76]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-11.59.59:679][ 76]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-11.59.59:679][ 76]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-11.59.59:679][ 76]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-11.59.59:679][ 76]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-11.59.59:679][ 76]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-11.59.59:679][ 76]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-11.59.59:679][ 76]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-11.59.59:679][ 76]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
