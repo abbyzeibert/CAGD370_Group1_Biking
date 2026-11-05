@@ -7995,3 +7995,445 @@ FPackageName: Skipped package /Game/_Diegos_Work/_assets/_materials/m_Obstacles 
 [2026.11.05-10.45.46:290][273]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.11.05-10.45.46:290][273]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.11.05-10.45.46:290][273]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: ================================================
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Total job queries 2,692, among them cache hits 1,055 (39.19%), DDC hits 1,054 (39.15%), Duplicates 117 (4.35%)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Tracking 1,343 distinct input hashes that result in 870 distinct outputs (64.78%)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: RAM used: 11.07 MiB of 1.60 GiB budget. Usage: 0.68%
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Shaders Compiled: 707
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Jobs assigned 707, completed 707 (100%)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Average time worker was idle: 148.11 s
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 2.44 s
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 2.19 s
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Job life time (pending + execution): average 0.62 s, max 3.17
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Shader code size: total 5.731 MiB, numShaders 707, average 8.301 KiB, min 2.105 KiB, max 29.57 KiB
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 58.22 s
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Jobs were issued in 638 batches (only local compilation was used), average 1.11 jobs/batch
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Average processing rate: 12.14 jobs/sec
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Total thread time: 113.502 s
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Total thread preprocess time: 24.574 s
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Percentage time preprocessing: 21.65%
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Effective parallelization: 1.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.162448
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    7 times, average 0.63 sec, max 0.69 sec, min 0.52 sec)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    7 times, average 0.63 sec, max 0.69 sec, min 0.49 sec)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   35 times, average 0.41 sec, max 0.59 sec, min 0.25 sec)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 0.39 sec, max 0.41 sec, min 0.34 sec)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 0.36 sec, max 0.39 sec, min 0.33 sec)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 26.88% of total time (compiled   89 times, average 0.34 sec, max 0.48 sec, min 0.27 sec)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.19% of total time (compiled  143 times, average 0.12 sec, max 0.18 sec, min 0.10 sec)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.49% of total time (compiled   35 times, average 0.41 sec, max 0.59 sec, min 0.25 sec)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.01% of total time (compiled  140 times, average 0.09 sec, max 0.15 sec, min 0.07 sec)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.25% of total time (compiled   90 times, average 0.09 sec, max 0.13 sec, min 0.07 sec)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: === Material stats ===
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Materials Translated:    417
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Material Translation Only: 0.07 s (39%)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.05-10.46.44:020][519]LogShaderCompilers: Display: Material Cache Hits: 7 (2%)
+[2026.11.05-10.46.44:021][519]LogShaderCompilers: Display: ================================================
+[2026.11.05-10.49.33:748][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.11.05-10.49.36:610][686]LogSlate: Window 'Delete Assets' being destroyed
+[2026.11.05-10.49.36:731][686]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-10.49.36:731][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-10.49.36:754][686]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/_Diegos_Work/_assets/_textures/rocky_terrain_02_diff_4k.rocky_terrain_02_diff_4k
+	Asset Type: Texture2D
+	Asset Name: /Game/_Diegos_Work/_assets/_textures/rocky_terrain_02_nor_gl_4k.rocky_terrain_02_nor_gl_4k
+	Asset Type: Texture2D
+[2026.11.05-10.49.36:791][686]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.11.05-10.49.36:959][686]LogMaterial: Warning: m_landscape_lvl1: Requesting an invalid TextureIndex! (5 / 5)
+[2026.11.05-10.49.37:045][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.11.05-10.49.37:079][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.11.05-10.49.37:103][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.11.05-10.49.37:138][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.11.05-10.49.48:572][896]LogStreaming: Display: FlushAsyncLoading(812): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-10.49.48:578][896]LogInterchangeEngine: [Pending] Importing
+[2026.11.05-10.49.48:578][896]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dagalvez-gomez/Downloads/sparse_grass_4k/textures/sparse_grass_diff_4k.jpg]
+[2026.11.05-10.49.48:579][896]LogInterchangeEngine: [Pending] Importing - Importing (2)
+[2026.11.05-10.49.48:579][896]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dagalvez-gomez/Downloads/sparse_grass_4k/textures/sparse_grass_nor_gl_4k.jpg]
+[2026.11.05-10.49.49:275][898]LogStreaming: Display: FlushAsyncLoading(814): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-10.49.49:275][898]LogInterchangeImport: JPEG file [C:/Users/dagalvez-gomez/Downloads/sparse_grass_4k/textures/sparse_grass_diff_4k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.11.05-10.49.49:275][898]LogInterchangeImport: JPEG file [C:/Users/dagalvez-gomez/Downloads/sparse_grass_4k/textures/sparse_grass_nor_gl_4k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.11.05-10.49.49:777][900]LogTexture: Display: Building texture TwoD: /Game/_Diegos_Work/_assets/_textures/sparse_grass_diff_4k.sparse_grass_diff_4k (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.11.05-10.49.49:810][900]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.11.05-10.49.49:966][905]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dagalvez-go...se_grass_4k/textures/sparse_grass_diff_4k.jpg]
+[2026.11.05-10.49.49:966][905]LogInterchangeEngine: [Pending] Importing - Importing (1)
+[2026.11.05-10.49.50:019][907]LogTexture: Display: Building texture TwoD: /Game/_Diegos_Work/_assets/_textures/sparse_grass_nor_gl_4k.sparse_grass_nor_gl_4k (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1155.749988 MB), EncodeSpeed: Fast
+[2026.11.05-10.49.50:172][911]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dagalvez-go...se_grass_4k/textures/sparse_grass_nor_gl_4k.jpg]
+[2026.11.05-10.49.50:184][911]LogInterchangeEngine: Display: Import Done in 1.604918 seconds.
+[2026.11.05-10.49.50:184][911]LogInterchangeEngine: [Pending] Importing - Operation Completed.
+[2026.11.05-10.49.50:184][911]LogInterchangeEngine: [Success] Import Done
+[2026.11.05-10.49.58:075][126]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_Diegos_Work/_assets/_materials/_landscape_mats/m_landscape_lvl1.m_landscape_lvl1
+[2026.11.05-10.50.01:182][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9209.611328
+[2026.11.05-10.50.01:373][307]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-10.50.01:373][307]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9209.772461, Update Interval: 315.800659
+[2026.11.05-10.50.10:182][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-10.50.10:202][891]LogFileHelpers: Saving Package: /Game/_Diegos_Work/_assets/_textures/sparse_grass_nor_gl_4k
+[2026.11.05-10.50.10:202][891]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Diegos_Work/_assets/_textures/sparse_grass_nor_gl_4k] ([1] browsable assets)...
+[2026.11.05-10.50.10:203][891]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_Diegos_Work/_assets/_textures/sparse_grass_nor_gl_4k.sparse_grass_nor_gl_4k]
+[2026.11.05-10.50.10:203][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Diegos_Work/_assets/_textures/sparse_grass_nor_gl_4k]
+[2026.11.05-10.50.10:224][891]LogSavePackage: Moving output files for package: /Game/_Diegos_Work/_assets/_textures/sparse_grass_nor_gl_4k
+[2026.11.05-10.50.10:224][891]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/sparse_grass_nor_gl_4k0AB0787A41527ECB0A5F0C995EBE2E91.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_textures/sparse_grass_nor_gl_4k.uasset'
+[2026.11.05-10.50.10:233][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.994 ms (total: 28.9 sec)
+[2026.11.05-10.50.10:256][891]LogContentValidation: Enabled validators:
+[2026.11.05-10.50.10:256][891]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-10.50.10:256][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-10.50.10:256][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-10.50.10:256][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-10.50.10:256][891]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-10.50.10:256][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-10.50.10:256][891]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-10.50.10:256][891]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-10.50.10:256][891]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-10.50.10:256][891]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-10.50.10:256][891]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-10.50.10:256][891]AssetCheck: /Game/_Diegos_Work/_assets/_textures/sparse_grass_nor_gl_4k Validating asset
+[2026.11.05-10.50.10:256][891]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-10.50.10:256][891]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-10.50.10:256][891]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-10.50.10:256][891]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-10.50.10:256][891]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-10.50.10:256][891]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-10.50.10:256][891]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-10.50.10:256][891]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-10.50.10:256][891]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-10.50.10:256][891]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-10.50.10:279][891]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.05-10.50.15:478][216]Cmd: TRANSACTION UNDO
+[2026.11.05-10.50.15:478][216]LogEditorTransaction: Undo Landscape Editing: Paint
+[2026.11.05-10.50.15:485][216]LogMaterial: Warning: [AssetLog] C:\Users\dagalvez-gomez\Documents\GitHub\CAGD370_Group1_Biking\CAGD370_Biking\Content\Levels\_Lvl1.umap: Failed to compile Material Instance with Base m_landscape_lvl1 for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.11.05-10.50.21:848][546]LogSlate: Window 'Message' being destroyed
+[2026.11.05-10.50.21:855][546]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to delete this layer?
+[2026.11.05-10.50.37:343][905]LogSlate: Window 'Message' being destroyed
+[2026.11.05-10.50.37:349][905]Message dialog closed, result: Ok, title: Message, text: Asset /Game/_Diegos_Work/_assets/_materials/_landscape_mats/Grass_LayerInfo already exists.
+[2026.11.05-10.50.40:916][905]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2026.11.05-10.50.43:802][104]LogStreaming: Display: FlushAsyncLoading(816): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-10.50.43:860][104]LogTexture: Display: Building texture TwoD: /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.166653 MB), EncodeSpeed: Fast
+[2026.11.05-10.50.43:860][104]LogTexture: Display: Building texture TwoD: /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x256 x1x1x1) (Required Memory Estimate: 2.124985 MB), EncodeSpeed: Fast
+[2026.11.05-10.50.43:944][104]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.11.05-10.50.43:955][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-10.50.43:957][104]LogFileHelpers: Saving Map: /Game/_Abbys_Work/Levels/MovementTestMap
+[2026.11.05-10.50.43:960][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Levels/MovementTestMap] ([1] browsable assets)...
+[2026.11.05-10.50.43:960][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Levels/MovementTestMap]
+[2026.11.05-10.50.44:027][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.11.05-10.50.44:059][104]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Levels/MovementTestMap
+[2026.11.05-10.50.44:060][104]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/MovementTestMap58DE5C7E426C429E6E9A66A2D56B3650.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Levels/MovementTestMap.umap'
+[2026.11.05-10.50.44:068][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.212 ms (total: 29.1 sec)
+[2026.11.05-10.50.45:158][104]LogSlate: Window 'Redirector Update Report' being destroyed
+[2026.11.05-10.50.45:191][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.11.05-10.50.45:364][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.11.05-10.50.45:391][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.11.05-10.50.45:417][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.11.05-10.50.45:422][104]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-10.50.45:423][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-10.50.45:449][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.11.05-10.50.45:476][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.11.05-10.50.45:512][104]LogContentValidation: Enabled validators:
+[2026.11.05-10.50.45:512][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-10.50.45:512][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-10.50.45:512][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-10.50.45:512][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-10.50.45:512][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-10.50.45:512][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-10.50.45:512][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-10.50.45:512][104]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-10.50.45:512][104]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-10.50.45:512][104]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-10.50.45:512][104]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-10.50.45:512][104]LogContentValidation: Validated asset counts for 0 validators:
+[2026.11.05-10.50.45:552][104]LoadErrors: While trying to load package /Game/_Diegos_Work/_assets/_lvl1/m_ground, a dependent package /Game/_Diegos_Work/_assets/_materials/m_Obstacles (6A589B0CBF3FB4A5) was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/_Diegos_Work/_assets/_materials/m_Obstacles has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_materials/m_Obstacles'. Perhaps it has been deleted or was not synced?
+
+[2026.11.05-10.50.45:552][104]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.05-10.50.51:977][187]LogSlate: Window 'Message' being destroyed
+[2026.11.05-10.50.51:983][187]Message dialog closed, result: Ok, title: Message, text: Asset /Game/_Diegos_Work/_assets/_materials/_landscape_mats/Grass_LayerInfo already exists.
+[2026.11.05-10.50.54:902][187]LogSlate: Window 'Message' being destroyed
+[2026.11.05-10.50.54:909][187]Message dialog closed, result: Ok, title: Message, text: Asset /Game/_Diegos_Work/_assets/_materials/_landscape_mats/Grass_LayerInfo already exists.
+[2026.11.05-10.50.57:751][187]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2026.11.05-10.51.06:235][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.11.05-10.51.09:210][764]LogSlate: Window 'Delete Assets' being destroyed
+[2026.11.05-10.51.09:279][764]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/_Diegos_Work/_assets/_materials/_landscape_mats/Grass_LayerInfo.Grass_LayerInfo
+	Asset Type: LandscapeLayerInfoObject
+[2026.11.05-10.51.09:318][764]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.11.05-10.51.09:567][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.11.05-10.51.09:593][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.11.05-10.51.09:617][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.11.05-10.51.15:914][863]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2026.11.05-10.51.18:658][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-10.51.18:682][ 34]LogFileHelpers: Saving Map: /Game/Levels/_Lvl1
+[2026.11.05-10.51.18:682][ 34]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl1] ([1] browsable assets)...
+[2026.11.05-10.51.18:682][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl1]
+[2026.11.05-10.51.18:726][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.11.05-10.51.18:918][ 34]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl1
+[2026.11.05-10.51.18:918][ 34]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl1BB1603244302F3D748FEAEA3583124BF.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl1.umap'
+[2026.11.05-10.51.18:941][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 284.016 ms (total: 29.3 sec)
+[2026.11.05-10.51.18:968][ 34]LogContentValidation: Enabled validators:
+[2026.11.05-10.51.18:968][ 34]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-10.51.18:968][ 34]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-10.51.18:968][ 34]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-10.51.18:968][ 34]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-10.51.18:968][ 34]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-10.51.18:968][ 34]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-10.51.18:968][ 34]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-10.51.18:968][ 34]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-10.51.18:968][ 34]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-10.51.18:968][ 34]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-10.51.18:968][ 34]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-10.51.18:968][ 34]AssetCheck: /Game/Levels/_Lvl1 Validating asset
+[2026.11.05-10.51.18:968][ 34]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-10.51.18:968][ 34]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-10.51.18:968][ 34]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-10.51.18:968][ 34]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-10.51.18:968][ 34]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-10.51.18:968][ 34]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-10.51.18:968][ 34]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-10.51.18:968][ 34]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-10.51.18:968][ 34]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-10.51.18:968][ 34]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-10.51.21:737][222]Cmd: TRANSACTION UNDO
+[2026.11.05-10.51.21:737][222]LogEditorTransaction: Undo Landscape Editing: Paint
+[2026.11.05-10.51.39:937][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-10.51.39:962][593]LogFileHelpers: Saving Package: /Game/_Diegos_Work/_assets/_textures/sparse_grass_diff_4k
+[2026.11.05-10.51.39:962][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Diegos_Work/_assets/_textures/sparse_grass_diff_4k] ([1] browsable assets)...
+[2026.11.05-10.51.39:963][593]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_Diegos_Work/_assets/_textures/sparse_grass_diff_4k.sparse_grass_diff_4k]
+[2026.11.05-10.51.39:963][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Diegos_Work/_assets/_textures/sparse_grass_diff_4k]
+[2026.11.05-10.51.39:977][593]LogSavePackage: Moving output files for package: /Game/_Diegos_Work/_assets/_textures/sparse_grass_diff_4k
+[2026.11.05-10.51.39:977][593]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/sparse_grass_diff_4k789C9D054A895EBE98F71EA421F2AA82.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_textures/sparse_grass_diff_4k.uasset'
+[2026.11.05-10.51.39:985][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.708 ms (total: 29.4 sec)
+[2026.11.05-10.51.40:008][593]LogContentValidation: Enabled validators:
+[2026.11.05-10.51.40:008][593]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-10.51.40:008][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-10.51.40:008][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-10.51.40:008][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-10.51.40:008][593]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-10.51.40:008][593]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-10.51.40:009][593]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-10.51.40:009][593]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-10.51.40:009][593]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-10.51.40:009][593]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-10.51.40:009][593]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-10.51.40:009][593]AssetCheck: /Game/_Diegos_Work/_assets/_textures/sparse_grass_diff_4k Validating asset
+[2026.11.05-10.51.40:009][593]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-10.51.40:009][593]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-10.51.40:009][593]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-10.51.40:009][593]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-10.51.40:009][593]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-10.51.40:009][593]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-10.51.40:009][593]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-10.51.40:009][593]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-10.51.40:009][593]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-10.51.40:009][593]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-10.51.40:047][593]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.05-10.52.18:336][555]LogMaterialEditor: Applying material m_landscape_lvl1
+[2026.11.05-10.52.18:442][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.11.05-10.52.18:616][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: ================================================
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Total job queries 2,903, among them cache hits 1,192 (41.06%), DDC hits 1,054 (36.31%), Duplicates 131 (4.51%)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Tracking 1,355 distinct input hashes that result in 877 distinct outputs (64.72%)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: RAM used: 11.14 MiB of 1.60 GiB budget. Usage: 0.68%
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Shaders Compiled: 833
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Jobs assigned 833, completed 833 (100%)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Average time worker was idle: 134.67 s
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 2.44 s
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Job execution time: average 0.39 s, max 2.19 s
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Job life time (pending + execution): average 0.57 s, max 3.17
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Shader code size: total 6.649 MiB, numShaders 833, average 8.175 KiB, min 2.105 KiB, max 29.57 KiB
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 66.66 s
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Jobs were issued in 764 batches (only local compilation was used), average 1.09 jobs/batch
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Average processing rate: 12.50 jobs/sec
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Total thread time: 130.039 s
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Total thread preprocess time: 26.32 s
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Percentage time preprocessing: 20.24%
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Effective parallelization: 1.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.162576
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    7 times, average 0.63 sec, max 0.69 sec, min 0.52 sec)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    7 times, average 0.63 sec, max 0.69 sec, min 0.49 sec)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   37 times, average 0.40 sec, max 0.59 sec, min 0.25 sec)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 0.39 sec, max 0.41 sec, min 0.34 sec)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 0.36 sec, max 0.39 sec, min 0.33 sec)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.13% of total time (compiled  103 times, average 0.34 sec, max 0.48 sec, min 0.27 sec)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.23% of total time (compiled  188 times, average 0.12 sec, max 0.18 sec, min 0.09 sec)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.99% of total time (compiled  175 times, average 0.09 sec, max 0.15 sec, min 0.07 sec)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.47% of total time (compiled   37 times, average 0.40 sec, max 0.59 sec, min 0.25 sec)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.29% of total time (compiled  104 times, average 0.09 sec, max 0.13 sec, min 0.07 sec)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: === Material stats ===
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Materials Translated:    491
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Material Translation Only: 0.08 s (39%)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: Material Cache Hits: 7 (1%)
+[2026.11.05-10.52.44:323][871]LogShaderCompilers: Display: ================================================
+[2026.11.05-10.53.04:938][994]Cmd: TRANSACTION UNDO
+[2026.11.05-10.53.04:938][994]LogEditorTransaction: Undo Landscape Editing: Paint
+[2026.11.05-10.53.04:952][994]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_98 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.53.04:952][994]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_40 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.53.04:953][994]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_101 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.53.05:874][ 31]Cmd: TRANSACTION UNDO
+[2026.11.05-10.53.05:874][ 31]LogEditorTransaction: Undo Landscape Editing: Paint
+[2026.11.05-10.53.05:893][ 31]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_100 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.53.05:893][ 31]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_105 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.53.05:893][ 31]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_141 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.53.05:894][ 31]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_152 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.53.05:895][ 31]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_42 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.53.53:676][752]Cmd: TRANSACTION UNDO
+[2026.11.05-10.53.53:677][752]LogEditorTransaction: Undo Landscape Editing: Paint
+[2026.11.05-10.53.53:693][752]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_105 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.53.53:693][752]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_141 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.53.53:694][752]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_40 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.53.53:694][752]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_39 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.53.53:695][752]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_100 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.53.53:695][752]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_101 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.53.53:696][752]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_98 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:495][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-10.55.04:520][643]LogFileHelpers: Saving Map: /Game/Levels/_Lvl1
+[2026.11.05-10.55.04:521][643]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl1] ([1] browsable assets)...
+[2026.11.05-10.55.04:521][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl1]
+[2026.11.05-10.55.04:563][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.11.05-10.55.04:614][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:615][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_94 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:616][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_52 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:618][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_97 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:619][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_53 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:620][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_130 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:621][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_107 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:622][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_56 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:623][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_110 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:624][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_112 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:626][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_116 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:628][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_138 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:629][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_64 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:630][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_140 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:631][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_143 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:633][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_144 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:634][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_146 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:635][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_58 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:636][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_132 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:637][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_61 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:638][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_114 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:640][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_48 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:641][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_36 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:642][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_123 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:644][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_37 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:645][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_38 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:646][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_42 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:647][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_43 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:649][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_70 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:650][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_60 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:652][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_72 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:653][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_74 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:654][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_76 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:655][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_125 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:656][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_78 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:657][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_118 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:659][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_81 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:660][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_83 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:661][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_45 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:663][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_85 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:664][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_50 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:665][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_87 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:667][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_88 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:668][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_128 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:669][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_89 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:670][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_148 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:672][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_149 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:673][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_135 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:674][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_120 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:676][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_67 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:677][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_154 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:679][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_155 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:680][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_157 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:681][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_136 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:682][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_68 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:684][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_159 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:685][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_161 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:686][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl1._Lvl1:PersistentLevel.Landscape_0.Weightmap_163 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2026.11.05-10.55.04:842][643]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl1
+[2026.11.05-10.55.04:842][643]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl1A50C7C4C437A28CB385FA2ABDE028822.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl1.umap'
+[2026.11.05-10.55.04:869][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 374.865 ms (total: 29.8 sec)
+[2026.11.05-10.55.04:897][643]LogContentValidation: Enabled validators:
+[2026.11.05-10.55.04:897][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-10.55.04:897][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-10.55.04:897][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-10.55.04:897][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-10.55.04:897][643]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-10.55.04:897][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-10.55.04:897][643]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-10.55.04:897][643]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-10.55.04:897][643]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-10.55.04:897][643]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-10.55.04:897][643]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-10.55.04:897][643]AssetCheck: /Game/Levels/_Lvl1 Validating asset
+[2026.11.05-10.55.04:898][643]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-10.55.04:898][643]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-10.55.04:898][643]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-10.55.04:898][643]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-10.55.04:898][643]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-10.55.04:898][643]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-10.55.04:898][643]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-10.55.04:898][643]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-10.55.04:898][643]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-10.55.04:898][643]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-10.55.07:781][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.11.05-10.55.08:628][822]LogSlate: Window 'Save Content' being destroyed
+[2026.11.05-10.55.08:636][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-10.55.08:658][822]LogFileHelpers: Saving Package: /Game/_Diegos_Work/_assets/_materials/_landscape_mats/Grass_LayerInfo
+[2026.11.05-10.55.08:658][822]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Diegos_Work/_assets/_materials/_landscape_mats/Grass_LayerInfo] ([1] browsable assets)...
+[2026.11.05-10.55.08:658][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Diegos_Work/_assets/_materials/_landscape_mats/Grass_LayerInfo]
+[2026.11.05-10.55.08:667][822]LogSavePackage: Moving output files for package: /Game/_Diegos_Work/_assets/_materials/_landscape_mats/Grass_LayerInfo
+[2026.11.05-10.55.08:667][822]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/Grass_LayerInfoE1CCB3C344562B12D06FEC9FC842C2C2.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_materials/_landscape_mats/Grass_LayerInfo.uasset'
+[2026.11.05-10.55.08:669][822]LogFileHelpers: Saving Package: /Game/_Diegos_Work/_assets/_materials/_landscape_mats/m_landscape_lvl1
+[2026.11.05-10.55.08:669][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Diegos_Work/_assets/_materials/_landscape_mats/m_landscape_lvl1] ([1] browsable assets)...
+[2026.11.05-10.55.08:703][822]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Diegos_Work/_assets/_materials/_landscape_mats/m_landscape_lvl1.m_landscape_lvl1]
+[2026.11.05-10.55.08:703][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Diegos_Work/_assets/_materials/_landscape_mats/m_landscape_lvl1]
+[2026.11.05-10.55.08:711][822]LogSavePackage: Moving output files for package: /Game/_Diegos_Work/_assets/_materials/_landscape_mats/m_landscape_lvl1
+[2026.11.05-10.55.08:712][822]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/m_landscape_lvl1670D136D4CBCCBE202D7108B339DD632.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_materials/_landscape_mats/m_landscape_lvl1.uasset'
+[2026.11.05-10.55.08:713][822]LogFileHelpers: Saving Package: /Game/_Diegos_Work/_assets/_materials/m_tree
+[2026.11.05-10.55.08:713][822]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Diegos_Work/_assets/_materials/m_tree] ([1] browsable assets)...
+[2026.11.05-10.55.08:713][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Diegos_Work/_assets/_materials/m_tree]
+[2026.11.05-10.55.08:720][822]LogSavePackage: Moving output files for package: /Game/_Diegos_Work/_assets/_materials/m_tree
+[2026.11.05-10.55.08:720][822]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/m_treeC813F7A74711953A2A836A9C2CD0434A.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_materials/m_tree.uasset'
+[2026.11.05-10.55.08:721][822]LogFileHelpers: Saving Package: /Game/_Diegos_Work/_assets/_models/sm_tree
+[2026.11.05-10.55.08:721][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Diegos_Work/_assets/_models/sm_tree] ([1] browsable assets)...
+[2026.11.05-10.55.08:732][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_Diegos_Work/_assets/_models/sm_tree.sm_tree]
+[2026.11.05-10.55.08:732][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Diegos_Work/_assets/_models/sm_tree]
+[2026.11.05-10.55.08:742][822]LogSavePackage: Moving output files for package: /Game/_Diegos_Work/_assets/_models/sm_tree
+[2026.11.05-10.55.08:742][822]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/sm_treeD076155441DD4973A8556A830DAD373B.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_models/sm_tree.uasset'
+[2026.11.05-10.55.08:751][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.654 ms (total: 29.9 sec)
+[2026.11.05-10.55.08:774][822]LogContentValidation: Enabled validators:
+[2026.11.05-10.55.08:774][822]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-10.55.08:774][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-10.55.08:774][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-10.55.08:774][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-10.55.08:774][822]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-10.55.08:774][822]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-10.55.08:774][822]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-10.55.08:774][822]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-10.55.08:774][822]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-10.55.08:774][822]LogContentValidation: Display: Starting to validate 4 assets (0 associated objects such as actors)
+[2026.11.05-10.55.08:774][822]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-10.55.08:774][822]AssetCheck: /Game/_Diegos_Work/_assets/_materials/_landscape_mats/Grass_LayerInfo Validating asset
+[2026.11.05-10.55.08:774][822]AssetCheck: /Game/_Diegos_Work/_assets/_materials/_landscape_mats/m_landscape_lvl1 Validating asset
+[2026.11.05-10.55.08:774][822]AssetCheck: /Game/_Diegos_Work/_assets/_materials/m_tree Validating asset
+[2026.11.05-10.55.08:774][822]AssetCheck: /Game/_Diegos_Work/_assets/_models/sm_tree Validating asset
+[2026.11.05-10.55.08:774][822]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-10.55.08:775][822]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-10.55.08:775][822]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-10.55.08:775][822]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 4
+[2026.11.05-10.55.08:775][822]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-10.55.08:775][822]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-10.55.08:775][822]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-10.55.08:775][822]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-10.55.08:775][822]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-10.55.08:775][822]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
