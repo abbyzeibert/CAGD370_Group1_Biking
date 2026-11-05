@@ -11210,3 +11210,354 @@ FPackageName: Skipped package /Game/_Diegos_Work/_assets/_materials/m_Obstacles 
 [2026.11.05-11.34.28:734][909]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.11.05-11.34.28:734][909]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.11.05-11.34.28:734][909]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: ================================================
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Total job queries 3,363, among them cache hits 1,587 (47.19%), DDC hits 1,058 (31.46%), Duplicates 139 (4.13%)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Tracking 1,371 distinct input hashes that result in 886 distinct outputs (64.62%)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: RAM used: 11.22 MiB of 1.60 GiB budget. Usage: 0.68%
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Shaders Compiled: 979
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Jobs assigned 979, completed 979 (100%)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Average time worker was idle: 140.17 s
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 2.44 s
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Job execution time: average 0.37 s, max 2.19 s
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 3.17
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Shader code size: total 7.773 MiB, numShaders 981, average 8.114 KiB, min 1.727 KiB, max 29.57 KiB
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 80.24 s
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Jobs were issued in 910 batches (only local compilation was used), average 1.08 jobs/batch
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Average processing rate: 12.20 jobs/sec
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Total thread time: 150.825 s
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Total thread preprocess time: 30.151 s
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Percentage time preprocessing: 19.99%
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Effective parallelization: 1.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.156638
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    7 times, average 0.63 sec, max 0.69 sec, min 0.52 sec)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    7 times, average 0.63 sec, max 0.69 sec, min 0.49 sec)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   45 times, average 0.39 sec, max 0.59 sec, min 0.25 sec)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 0.39 sec, max 0.41 sec, min 0.34 sec)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 0.36 sec, max 0.39 sec, min 0.33 sec)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.60% of total time (compiled  122 times, average 0.34 sec, max 0.48 sec, min 0.27 sec)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.96% of total time (compiled  228 times, average 0.12 sec, max 0.18 sec, min 0.09 sec)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.52% of total time (compiled  213 times, average 0.09 sec, max 0.15 sec, min 0.07 sec)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.73% of total time (compiled   45 times, average 0.39 sec, max 0.59 sec, min 0.25 sec)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.40% of total time (compiled  123 times, average 0.09 sec, max 0.13 sec, min 0.07 sec)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: === Material stats ===
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Materials Translated:    588
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Material Translation Only: 0.09 s (40%)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: Material Cache Hits: 8 (1%)
+[2026.11.05-11.34.44:951][420]LogShaderCompilers: Display: ================================================
+[2026.11.05-11.35.40:218][369]LogMaterialEditor: Saving and Compiling material m_landscape_lvl3
+[2026.11.05-11.35.40:219][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-11.35.40:245][369]LogFileHelpers: Saving Package: /Game/_Diegos_Work/_assets/_materials/_landscape_mats/m_landscape_lvl3
+[2026.11.05-11.35.40:245][369]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Diegos_Work/_assets/_materials/_landscape_mats/m_landscape_lvl3] ([1] browsable assets)...
+[2026.11.05-11.35.40:245][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Diegos_Work/_assets/_materials/_landscape_mats/m_landscape_lvl3]
+[2026.11.05-11.35.40:254][369]LogSavePackage: Moving output files for package: /Game/_Diegos_Work/_assets/_materials/_landscape_mats/m_landscape_lvl3
+[2026.11.05-11.35.40:255][369]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/m_landscape_lvl3D044BE854C36D84BBE292CAD67F77F0D.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_materials/_landscape_mats/m_landscape_lvl3.uasset'
+[2026.11.05-11.35.40:261][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.688 ms (total: 38.1 sec)
+[2026.11.05-11.35.40:285][369]LogContentValidation: Enabled validators:
+[2026.11.05-11.35.40:285][369]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-11.35.40:285][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-11.35.40:285][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-11.35.40:285][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-11.35.40:285][369]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-11.35.40:285][369]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-11.35.40:285][369]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-11.35.40:285][369]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-11.35.40:285][369]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-11.35.40:285][369]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-11.35.40:285][369]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-11.35.40:285][369]AssetCheck: /Game/_Diegos_Work/_assets/_materials/_landscape_mats/m_landscape_lvl3 Validating asset
+[2026.11.05-11.35.40:285][369]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-11.35.40:285][369]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-11.35.40:285][369]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-11.35.40:285][369]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-11.35.40:285][369]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-11.35.40:285][369]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-11.35.40:285][369]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-11.35.40:285][369]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-11.35.40:285][369]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-11.35.40:285][369]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-11.35.42:475][525]LogSlate: Window 'm_landscape_lvl3' being destroyed
+[2026.11.05-11.35.42:479][525]LogSlate: Window 'm_landscape_lvl3' being destroyed
+[2026.11.05-11.35.42:542][525]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-11.35.42:542][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-11.35.42:584][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.11.05-11.40.08:394][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12216.122070
+[2026.11.05-11.40.09:393][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-11.40.09:393][277]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12216.789062, Update Interval: 318.594940
+[2026.11.05-11.46.10:035][716]LogStreaming: Display: FlushAsyncLoading(838): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-11.46.10:060][716]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/dagalvez-gomez/Downloads/sm_checkpoint.obj]
+[2026.11.05-11.46.10:062][716]LogInterchangeObjImport: Warning: Interchange Obj translator: Unknown keyword: s
+[2026.11.05-11.46.10:062][716]LogInterchangeObjImport: Warning: Interchange Obj translator: Unknown keyword: s
+[2026.11.05-11.46.10:062][716]LogInterchangeObjImport: Warning: Interchange Obj translator: Unknown keyword: s
+[2026.11.05-11.46.10:062][716]LogInterchangeObjImport: Warning: Interchange Obj translator: Unknown keyword: s
+[2026.11.05-11.46.12:759][716]LogSlate: Window 'Import Content' being destroyed
+[2026.11.05-11.46.12:772][716]LogInterchangeEngine: [Pending] Importing
+[2026.11.05-11.46.12:842][717]LogStreaming: Display: FlushAsyncLoading(839): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-11.46.12:945][719]LogStreaming: Display: FlushAsyncLoading(841): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-11.46.12:983][720]LogStaticMesh: Display: Building static mesh sm_checkpoint (Required Memory Estimate: 0.083967 MB)...
+[2026.11.05-11.46.12:983][721]LogStaticMesh: Adjacency [0.00s], tris: 56, UVs 1
+[2026.11.05-11.46.12:984][721]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.11.05-11.46.12:984][721]LogStaticMesh: Leaves [0.00s]
+[2026.11.05-11.46.12:984][721]LogStaticMesh: Reduce [0.00s]
+[2026.11.05-11.46.12:984][721]LogStaticMesh: Fallback [0.00s], num tris: 56
+[2026.11.05-11.46.12:984][721]LogStaticMesh: Fallback [0.00s], num tris: 56
+[2026.11.05-11.46.12:984][721]LogStaticMesh: ConstrainClusters:
+[2026.11.05-11.46.12:984][721]LogStaticMesh:   Input: 1 Clusters, 56 Triangles and 90 Vertices
+[2026.11.05-11.46.12:984][721]LogStaticMesh:   Output without splits: 1 Clusters, 56 Triangles and 90 Vertices
+[2026.11.05-11.46.12:984][721]LogStaticMesh:   Output with splits: 1 Clusters, 56 Triangles and 90 Vertices
+[2026.11.05-11.46.12:984][721]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 1, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.05-11.46.12:984][721]LogStaticMesh: WritePages: 1
+[2026.11.05-11.46.12:984][721]LogStaticMesh:   Root: GPU size: 1216 bytes. 1 Pages. 1216.000 bytes per page (3.711% utilization).
+[2026.11.05-11.46.12:984][721]LogStaticMesh:   Streaming: 0 bytes.
+[2026.11.05-11.46.12:984][721]LogStaticMesh:   Page data disk size: 1396 bytes. Fixup data size: 56 bytes.
+[2026.11.05-11.46.12:984][721]LogStaticMesh:   Total GPU size: 1216 bytes, Total disk size: 1452 bytes.
+[2026.11.05-11.46.12:984][721]LogStaticMesh: Encode [0.00s]
+[2026.11.05-11.46.12:984][721]LogStaticMesh: NaniteBuild [0.00s]
+[2026.11.05-11.46.12:985][721]LogStaticMesh: Built static mesh [0.00s] /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint
+[2026.11.05-11.46.13:067][722]LogInterchangeEngine: Display: Interchange import completed [C:/Users/dagalvez-gomez/Downloads/sm_checkpoint.obj]
+[2026.11.05-11.46.13:083][722]LogInterchangeEngine: Display: Import Done in 0.312877 seconds.
+[2026.11.05-11.46.13:083][722]LogInterchangeEngine: [Pending] Importing - Operation Completed.
+[2026.11.05-11.46.13:083][722]LogInterchangeEngine: [Success] Import Done
+[2026.11.05-11.46.18:612][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.11.05-11.46.19:801][286]LogSlate: Window 'Delete Assets' being destroyed
+[2026.11.05-11.46.19:835][286]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/_Diegos_Work/_assets/_models/lambert2SG.lambert2SG
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/_Diegos_Work/_assets/_models/initialShadingGroup.initialShadingGroup
+	Asset Type: MaterialInstanceConstant
+[2026.11.05-11.46.19:875][286]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.11.05-11.46.20:152][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.11.05-11.46.20:183][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.11.05-11.46.20:210][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.11.05-11.46.22:396][505]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint
+[2026.11.05-11.46.22:396][505]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint
+[2026.11.05-11.46.22:397][505]LogActorFactory: Actor Factory spawned StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint as actor: StaticMeshActor /Game/Levels/_Lvl3._Lvl3:PersistentLevel.StaticMeshActor_9
+[2026.11.05-11.46.23:077][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.11.05-11.46.23:080][580]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.11.05-11.46.23:087][580]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint
+[2026.11.05-11.46.23:087][580]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint
+[2026.11.05-11.46.23:089][580]LogActorFactory: Actor Factory spawned StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint as actor: StaticMeshActor /Game/Levels/_Lvl3._Lvl3:PersistentLevel.StaticMeshActor_10
+[2026.11.05-11.46.24:425][684]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12592.152344
+[2026.11.05-11.46.24:569][694]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-11.46.24:569][694]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12592.288086, Update Interval: 314.723969
+[2026.11.05-11.46.25:835][826]Cmd: TRANSACTION UNDO
+[2026.11.05-11.46.25:835][826]LogEditorTransaction: Undo Transform
+[2026.11.05-11.46.27:495][977]Cmd: MODE ROTGRID=1
+[2026.11.05-11.46.36:177][825]LogContentBrowser: Deferred new asset file creation: m_master_Inst
+[2026.11.05-11.46.36:203][825]LogContentBrowser: Creating deferred item: m_master_Inst
+[2026.11.05-11.46.36:225][826]LogContentBrowser: Renaming the item being created (Deferred Item: m_master_Inst).
+[2026.11.05-11.46.37:633][972]LogContentBrowser: Attempting asset rename: m_master_Inst -> m_master_Inst
+[2026.11.05-11.46.37:634][972]LogContentBrowser: End creating deferred item m_master_Inst
+[2026.11.05-11.46.50:258][443]LogContentBrowser: Attempting asset rename: m_master_Inst -> m_check1
+[2026.11.05-11.46.50:299][443]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.11.05-11.46.50:325][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-11.46.50:325][443]LogFileHelpers: Saving Package: /Game/_Diegos_Work/_assets/_materials/m_check1
+[2026.11.05-11.46.50:325][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Diegos_Work/_assets/_materials/m_check1] ([1] browsable assets)...
+[2026.11.05-11.46.50:358][443]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/_Diegos_Work/_assets/_materials/m_check1.m_check1]
+[2026.11.05-11.46.50:359][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Diegos_Work/_assets/_materials/m_check1]
+[2026.11.05-11.46.50:368][443]LogSavePackage: Moving output files for package: /Game/_Diegos_Work/_assets/_materials/m_check1
+[2026.11.05-11.46.50:368][443]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/m_check1018B9E6842086A7C470BAAA9D288D1FB.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Diegos_Work/_assets/_materials/m_check1.uasset'
+[2026.11.05-11.46.50:369][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.457 ms (total: 38.1 sec)
+[2026.11.05-11.46.50:412][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.11.05-11.46.50:442][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.11.05-11.46.50:470][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.11.05-11.46.50:507][443]LogContentValidation: Enabled validators:
+[2026.11.05-11.46.50:507][443]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-11.46.50:507][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-11.46.50:507][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-11.46.50:507][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-11.46.50:507][443]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-11.46.50:507][443]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-11.46.50:507][443]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-11.46.50:507][443]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-11.46.50:507][443]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-11.46.50:507][443]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-11.46.50:507][443]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-11.46.50:507][443]AssetCheck: /Game/_Diegos_Work/_assets/_materials/m_check1 Validating asset
+[2026.11.05-11.46.50:507][443]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-11.46.50:508][443]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-11.46.50:508][443]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-11.46.50:508][443]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-11.46.50:508][443]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-11.46.50:508][443]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-11.46.50:508][443]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-11.46.50:508][443]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-11.46.50:508][443]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-11.46.50:508][443]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-11.46.50:549][443]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.05-11.46.51:636][570]LogContentBrowser: Deferred new asset file creation: m_check2
+[2026.11.05-11.46.51:643][570]LogContentBrowser: Creating deferred item: m_check2
+[2026.11.05-11.46.51:655][571]LogContentBrowser: Renaming the item being created (Deferred Item: m_check2).
+[2026.11.05-11.46.52:725][696]LogContentBrowser: Attempting asset rename: m_check2 -> m_check2
+[2026.11.05-11.46.52:726][696]LogContentBrowser: End creating deferred item m_check2
+[2026.11.05-11.46.54:333][848]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/_Diegos_Work/_assets/_materials/m_check1.m_check1
+[2026.11.05-11.47.01:140][373]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.05-11.47.05:226][695]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/_Diegos_Work/_assets/_materials/m_check2.m_check2
+[2026.11.05-11.47.15:140][387]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.05-11.47.19:486][714]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint
+[2026.11.05-11.47.22:829][889]LogMaterial: Display: Material /Game/_Diegos_Work/_assets/_materials/m_check1.m_check1 needed to set usage flag Nanite
+[2026.11.05-11.47.25:116][ 29]LogMaterial: Display: Material /Game/_Diegos_Work/_assets/_materials/m_check2.m_check2 needed to set usage flag Nanite
+[2026.11.05-11.47.29:083][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-11.47.29:107][267]LogFileHelpers: Saving Map: /Game/Levels/_Lvl3
+[2026.11.05-11.47.29:108][267]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl3] ([1] browsable assets)...
+[2026.11.05-11.47.29:108][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl3]
+[2026.11.05-11.47.29:193][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.11.05-11.47.29:404][267]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl3
+[2026.11.05-11.47.29:404][267]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl38E1F7DB544DCB34B28A4B39CF65D2EC0.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl3.umap'
+[2026.11.05-11.47.29:432][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 349.275 ms (total: 38.5 sec)
+[2026.11.05-11.47.29:457][267]LogContentValidation: Enabled validators:
+[2026.11.05-11.47.29:457][267]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-11.47.29:457][267]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-11.47.29:457][267]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-11.47.29:457][267]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-11.47.29:457][267]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-11.47.29:457][267]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-11.47.29:457][267]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-11.47.29:457][267]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-11.47.29:457][267]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-11.47.29:457][267]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-11.47.29:457][267]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-11.47.29:458][267]AssetCheck: /Game/Levels/_Lvl3 Validating asset
+[2026.11.05-11.47.29:458][267]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-11.47.29:458][267]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-11.47.29:458][267]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-11.47.29:458][267]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-11.47.29:458][267]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-11.47.29:458][267]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-11.47.29:458][267]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-11.47.29:458][267]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-11.47.29:458][267]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-11.47.29:458][267]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-11.48.09:671][582]Cmd: TRANSACTION UNDO
+[2026.11.05-11.48.09:671][582]LogEditorTransaction: Undo Transform
+[2026.11.05-11.48.34:030][971]Cmd: TRANSACTION UNDO
+[2026.11.05-11.48.34:030][971]LogEditorTransaction: Undo Transform
+[2026.11.05-11.49.34:043][246]LogSlate: Window 'sm_checkpoint' being destroyed
+[2026.11.05-11.49.34:050][246]LogSlate: Window 'sm_checkpoint' being destroyed
+[2026.11.05-11.49.34:080][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.11.05-11.49.34:246][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.11.05-11.49.34:302][246]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-11.49.34:302][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-11.49.34:343][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.11.05-11.49.34:403][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.11.05-11.49.34:472][246]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-11.49.34:472][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-11.49.34:510][246]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-11.49.34:510][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-11.49.34:558][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.11.05-11.51.17:138][852]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2026.11.05-11.51.17:138][852]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2026.11.05-11.51.17:138][852]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.MegaLights.DownsampleMode:0]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.MegaLights.FrontLayerTranslucency.SpecularOnly:0]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.MegaLights.FrontLayerTranslucency.SoftShadows:1]]
+[2026.11.05-11.51.17:138][852]LogConfig: Set CVar [[r.MegaLights.FrontLayerTranslucency.TexturedRectLights:1]]
+[2026.11.05-11.51.17:138][852]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:350]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:8]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.NumAdaptiveProbes:4]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:16]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:.5]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:4]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:16]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:350]]
+[2026.11.05-11.51.17:142][852]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:1]]
+[2026.11.05-11.51.17:142][852]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.GTAO.Numangles:4]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.LUT.Shaper:1]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.LUT.Size:64]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:1         ; do the gathering at full resolution]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2026.11.05-11.51.17:142][852]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.Streaming.PoolSize:3000]]
+[2026.11.05-11.51.17:142][852]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.HeterogeneousVolumes.ApplyFogInscattering:1]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:1]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:1024]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Type:0]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:1024]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.MaxSampleCount:16]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Precision:1]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.HeterogeneousVolumes.UseExistenceMask:1]]
+[2026.11.05-11.51.17:142][852]LogConfig: Set CVar [[r.Translucency.HeterogeneousVolumes.Type:0]]
+[2026.11.05-11.51.17:142][852]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2026.11.05-11.51.17:143][852]LogConfig: Set CVar [[pcg.Quality:4]]
+[2026.11.05-11.51.17:143][852]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2026.11.05-11.51.17:143][852]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2026.11.05-11.51.17:143][852]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2026.11.05-11.51.17:143][852]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2026.11.05-11.51.17:143][852]LogConfig: Applying CVar settings from Section [LandscapeQuality@Cine] File [Scalability]
+[2026.11.05-11.51.17:153][852]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2026.11.05-11.51.17:263][855]LogContentStreaming: Texture pool size now 3000 MB
+[2026.11.05-11.51.17:263][855]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="3000"
+[2026.11.05-11.51.39:736][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-11.51.39:756][339]LogFileHelpers: Saving Map: /Game/Levels/_Lvl3
+[2026.11.05-11.51.39:757][339]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl3] ([1] browsable assets)...
+[2026.11.05-11.51.39:757][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl3]
+[2026.11.05-11.51.39:804][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.11.05-11.51.40:011][339]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl3
+[2026.11.05-11.51.40:012][339]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl30D121B31444DCE2298950196947CD04B.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl3.umap'
+[2026.11.05-11.51.40:033][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 297.151 ms (total: 38.8 sec)
+[2026.11.05-11.51.40:059][339]LogContentValidation: Enabled validators:
+[2026.11.05-11.51.40:059][339]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-11.51.40:059][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-11.51.40:059][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-11.51.40:059][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-11.51.40:059][339]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-11.51.40:059][339]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-11.51.40:059][339]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-11.51.40:059][339]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-11.51.40:059][339]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-11.51.40:059][339]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-11.51.40:059][339]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-11.51.40:059][339]AssetCheck: /Game/Levels/_Lvl3 Validating asset
+[2026.11.05-11.51.40:059][339]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-11.51.40:059][339]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-11.51.40:059][339]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-11.51.40:059][339]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-11.51.40:059][339]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-11.51.40:059][339]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-11.51.40:059][339]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-11.51.40:059][339]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-11.51.40:059][339]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-11.51.40:059][339]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
