@@ -11894,3 +11894,113 @@ FPackageName: Skipped package /Game/_Diegos_Work/_assets/_materials/m_Obstacles 
 [2026.11.05-11.59.59:679][ 76]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.11.05-11.59.59:679][ 76]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.11.05-11.59.59:679][ 76]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-12.00.48:399][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.11.05-12.00.48:404][218]LogStreaming: Display: FlushAsyncLoading(850): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-12.00.48:464][218]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.11.05-12.00.48:474][218]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl2._Lvl2
+[2026.11.05-12.00.48:474][218]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.05-12.00.48:522][218]LogWorld: UWorld::CleanupWorld for _Lvl3, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-12.00.48:522][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-12.00.48:552][218]LogAudio: Display: Audio Device unregistered from world '_Lvl3'.
+[2026.11.05-12.00.48:557][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.11.05-12.00.48:579][218]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-12.00.48:580][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-12.00.48:646][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.11.05-12.00.48:677][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.11.05-12.00.48:734][218]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl2'.
+[2026.11.05-12.00.48:734][218]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.11.05-12.00.48:786][218]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.05-12.00.48:816][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.11.05-12.00.48:827][218]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.05-12.00.48:827][218]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.058ms to complete.
+[2026.11.05-12.00.48:969][220]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.05-12.00.56:402][816]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint
+[2026.11.05-12.00.56:402][816]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint
+[2026.11.05-12.00.56:402][816]LogActorFactory: Actor Factory spawned StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint as actor: StaticMeshActor /Game/Levels/_Lvl2._Lvl2:PersistentLevel.StaticMeshActor_2
+[2026.11.05-12.00.57:585][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.11.05-12.00.57:591][930]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.11.05-12.00.57:597][930]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint
+[2026.11.05-12.00.57:597][930]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint
+[2026.11.05-12.00.57:599][930]LogActorFactory: Actor Factory spawned StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint as actor: StaticMeshActor /Game/Levels/_Lvl2._Lvl2:PersistentLevel.StaticMeshActor_3
+[2026.11.05-12.01.19:835][634]Cmd: TRANSACTION UNDO
+[2026.11.05-12.01.19:835][634]LogEditorTransaction: Undo Clicking on Elements
+[2026.11.05-12.01.20:222][645]Cmd: TRANSACTION UNDO
+[2026.11.05-12.01.20:222][645]LogEditorTransaction: Undo Clicking on Elements
+[2026.11.05-12.01.20:591][668]Cmd: TRANSACTION UNDO
+[2026.11.05-12.01.20:591][668]LogEditorTransaction: Undo Clicking on Elements
+[2026.11.05-12.01.21:515][728]Cmd: TRANSACTION UNDO
+[2026.11.05-12.01.21:515][728]LogEditorTransaction: Undo Clicking on Elements
+[2026.11.05-12.01.21:734][740]Cmd: TRANSACTION UNDO
+[2026.11.05-12.01.21:734][740]LogEditorTransaction: Undo Place Objects
+[2026.11.05-12.01.23:225][837]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint
+[2026.11.05-12.01.23:225][837]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint
+[2026.11.05-12.01.23:225][837]LogActorFactory: Actor Factory spawned StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint as actor: StaticMeshActor /Game/Levels/_Lvl2._Lvl2:PersistentLevel.StaticMeshActor_8
+[2026.11.05-12.01.23:987][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.11.05-12.01.23:995][911]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2026.11.05-12.01.24:002][911]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint
+[2026.11.05-12.01.24:002][911]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint
+[2026.11.05-12.01.24:004][911]LogActorFactory: Actor Factory spawned StaticMesh /Game/_Diegos_Work/_assets/_models/sm_checkpoint.sm_checkpoint as actor: StaticMeshActor /Game/Levels/_Lvl2._Lvl2:PersistentLevel.StaticMeshActor_10
+[2026.11.05-12.01.25:559][ 35]Cmd: DELETE
+[2026.11.05-12.01.25:560][ 35]Cmd: ACTOR DELETE
+[2026.11.05-12.01.25:569][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.05-12.01.25:598][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.11.05-12.01.25:600][ 35]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.11.05-12.01.29:509][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-12.01.29:570][333]LogFileHelpers: Saving Map: /Game/Levels/_Lvl2
+[2026.11.05-12.01.29:571][333]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.11.05-12.01.29:571][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.11.05-12.01.29:613][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.11.05-12.01.30:218][333]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl2
+[2026.11.05-12.01.30:219][333]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl25897DBFB41F37940A7BF4AA8AD917AB2.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap'
+[2026.11.05-12.01.30:250][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 741.606 ms (total: 40.1 sec)
+[2026.11.05-12.01.30:279][333]LogContentValidation: Enabled validators:
+[2026.11.05-12.01.30:279][333]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-12.01.30:279][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-12.01.30:279][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-12.01.30:279][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-12.01.30:279][333]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-12.01.30:279][333]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-12.01.30:279][333]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-12.01.30:279][333]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-12.01.30:279][333]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-12.01.30:279][333]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-12.01.30:279][333]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-12.01.30:280][333]AssetCheck: /Game/Levels/_Lvl2 Validating asset
+[2026.11.05-12.01.30:280][333]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-12.01.30:280][333]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-12.01.30:280][333]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-12.01.30:280][333]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-12.01.30:280][333]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-12.01.30:280][333]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-12.01.30:280][333]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-12.01.30:280][333]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-12.01.30:280][333]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-12.01.30:280][333]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-12.01.44:805][684]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.11.05-12.02.08:247][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.11.05-12.02.08:252][596]LogStreaming: Display: FlushAsyncLoading(852): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-12.02.08:285][596]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl1
+[2026.11.05-12.02.08:292][596]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl1._Lvl1
+[2026.11.05-12.02.08:292][596]Cmd: MAP LOAD FILE="../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.05-12.02.08:314][596]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-12.02.08:314][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-12.02.08:347][596]LogAudio: Display: Audio Device unregistered from world '_Lvl2'.
+[2026.11.05-12.02.08:355][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.11.05-12.02.08:396][596]LogWorld: UWorld::CleanupWorld for _Lvl1, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-12.02.08:397][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-12.02.08:452][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.11.05-12.02.08:482][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.11.05-12.02.08:517][596]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl1'.
+[2026.11.05-12.02.08:517][596]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl1
+[2026.11.05-12.02.08:547][596]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.05-12.02.08:576][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.11.05-12.02.08:585][596]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.05-12.02.08:587][596]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.715ms to complete.
+[2026.11.05-12.02.08:699][597]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.05-12.05.18:362][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13726.059570
+[2026.11.05-12.05.19:363][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-12.05.19:363][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13726.726562, Update Interval: 350.904877
