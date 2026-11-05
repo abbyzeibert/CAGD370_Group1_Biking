@@ -2449,3 +2449,148 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.05-08.54.59:220][113]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.11.05-08.54.59:220][113]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.11.05-08.54.59:220][113]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-08.56.19:592][385]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2387.933594
+[2026.11.05-08.56.20:592][388]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-08.56.20:592][388]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2388.600098, Update Interval: 302.080139
+[2026.11.05-08.57.03:840][ 64]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-08.57.05:919][201]Cmd: TRANSACTION UNDO
+[2026.11.05-08.57.05:919][201]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-08.57.05:986][201]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-08.57.08:225][376]Cmd: TRANSACTION UNDO
+[2026.11.05-08.57.08:225][376]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-08.57.08:292][376]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-08.57.08:293][376]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-08.57.11:140][643]Cmd: TRANSACTION UNDO
+[2026.11.05-08.57.11:140][643]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-08.57.11:208][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-08.57.11:209][643]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-08.57.12:482][730]Cmd: TRANSACTION UNDO
+[2026.11.05-08.57.12:482][730]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-08.57.18:226][186]Cmd: TRANSACTION UNDO
+[2026.11.05-08.57.18:226][186]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.11.05-08.57.18:293][186]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-08.58.40:582][547]Cmd: TRANSACTION UNDO
+[2026.11.05-08.58.40:582][547]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-08.58.40:653][547]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-08.58.40:653][547]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-08.58.42:341][639]Cmd: TRANSACTION UNDO
+[2026.11.05-08.58.42:341][639]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-08.59.08:141][627]Cmd: TRANSACTION UNDO
+[2026.11.05-08.59.08:141][627]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.11.05-08.59.08:210][627]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.00.21:590][861]Cmd: TRANSACTION UNDO
+[2026.11.05-09.00.21:590][861]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.00.21:661][861]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.00.21:661][861]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-09.00.23:157][977]Cmd: TRANSACTION UNDO
+[2026.11.05-09.00.23:157][977]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.00.27:945][450]Cmd: TRANSACTION UNDO
+[2026.11.05-09.00.27:945][450]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.00.28:016][450]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.00.28:017][450]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-09.00.47:353][963]Cmd: TRANSACTION UNDO
+[2026.11.05-09.00.47:353][963]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.00.47:423][963]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.00.47:424][963]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-09.00.48:737][ 61]Cmd: TRANSACTION UNDO
+[2026.11.05-09.00.48:737][ 61]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.00.55:347][641]Cmd: TRANSACTION UNDO
+[2026.11.05-09.00.55:347][641]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.00.55:421][641]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.00.55:421][641]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-09.01.23:771][487]Cmd: TRANSACTION UNDO
+[2026.11.05-09.01.23:771][487]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2026.11.05-09.01.23:794][487]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.01.41:593][353]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.11.05-09.01.42:772][408]Cmd: TRANSACTION UNDO
+[2026.11.05-09.01.42:773][408]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.01.42:812][408]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.11.05-09.01.42:812][408]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.11.05-09.01.43:759][469]Cmd: TRANSACTION UNDO
+[2026.11.05-09.01.43:759][469]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.01.43:952][478]Cmd: TRANSACTION UNDO
+[2026.11.05-09.01.43:952][478]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.01.43:994][478]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.11.05-09.01.43:994][478]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.11.05-09.01.44:554][530]Cmd: TRANSACTION UNDO
+[2026.11.05-09.01.44:554][530]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.01.44:595][530]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.11.05-09.01.44:595][530]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.11.05-09.01.45:834][646]Cmd: TRANSACTION UNDO
+[2026.11.05-09.01.45:834][646]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.01.54:332][345]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2722.681152
+[2026.11.05-09.01.54:469][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-09.01.54:469][355]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2722.803711, Update Interval: 323.974731
+[2026.11.05-09.01.56:471][573]Cmd: TRANSACTION UNDO
+[2026.11.05-09.01.56:471][573]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.11.05-09.02.20:996][923]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-09.02.33:521][195]Cmd: TRANSACTION UNDO
+[2026.11.05-09.02.33:521][195]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.11.05-09.02.33:592][195]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.02.33:877][201]Cmd: TRANSACTION UNDO
+[2026.11.05-09.02.33:877][201]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.11.05-09.02.33:949][201]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.02.34:174][209]Cmd: TRANSACTION UNDO
+[2026.11.05-09.02.34:174][209]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.02.34:245][209]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.02.34:246][209]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-09.02.34:489][218]Cmd: TRANSACTION UNDO
+[2026.11.05-09.02.34:489][218]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.02.34:563][218]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.02.34:563][218]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-09.02.35:312][273]Cmd: TRANSACTION UNDO
+[2026.11.05-09.02.35:312][273]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.02.35:388][273]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.02.35:889][300]Cmd: TRANSACTION UNDO
+[2026.11.05-09.02.35:889][300]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2026.11.05-09.02.49:457][423]Cmd: TRANSACTION UNDO
+[2026.11.05-09.02.49:457][423]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.02.49:529][423]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.02.49:530][423]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-09.04.39:906][660]Cmd: TRANSACTION UNDO
+[2026.11.05-09.04.39:906][660]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.11.05-09.04.39:981][660]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.04.40:091][663]Cmd: TRANSACTION UNDO
+[2026.11.05-09.04.40:091][663]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2026.11.05-09.04.40:107][663]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.04.44:614][125]Cmd: TRANSACTION UNDO
+[2026.11.05-09.04.44:614][125]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.11.05-09.04.47:965][424]Cmd: TRANSACTION UNDO
+[2026.11.05-09.04.47:965][424]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.11.05-09.05.21:751][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-09.05.21:772][534]LogFileHelpers: Saving Map: /Game/Levels/_Lvl2
+[2026.11.05-09.05.21:773][534]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.11.05-09.05.21:773][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.11.05-09.05.21:816][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.11.05-09.05.21:854][534]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.05.21:857][534]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.05.21:859][534]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.499985 MB), EncodeSpeed: Fast
+[2026.11.05-09.05.21:861][534]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-09.05.21:865][534]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-09.05.21:870][534]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 5.666653 MB), EncodeSpeed: Fast
+[2026.11.05-09.05.22:045][534]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl2
+[2026.11.05-09.05.22:046][534]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl25E169BA24967AB11E07196ABF5930D2B.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap'
+[2026.11.05-09.05.22:064][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 313.451 ms (total: 1.14 sec)
+[2026.11.05-09.05.22:086][534]LogContentValidation: Enabled validators:
+[2026.11.05-09.05.22:086][534]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-09.05.22:086][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-09.05.22:086][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-09.05.22:086][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-09.05.22:086][534]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-09.05.22:086][534]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-09.05.22:086][534]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-09.05.22:086][534]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-09.05.22:086][534]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-09.05.22:086][534]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-09.05.22:086][534]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-09.05.22:086][534]AssetCheck: /Game/Levels/_Lvl2 Validating asset
+[2026.11.05-09.05.22:086][534]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-09.05.22:086][534]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-09.05.22:086][534]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-09.05.22:086][534]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-09.05.22:086][534]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-09.05.22:086][534]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-09.05.22:086][534]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-09.05.22:087][534]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-09.05.22:087][534]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-09.05.22:087][534]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
