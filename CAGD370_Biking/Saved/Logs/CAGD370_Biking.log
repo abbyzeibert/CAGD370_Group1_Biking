@@ -4162,3 +4162,619 @@ FPackageName: Skipped package /Game/_Diegos_Work/_assets/_materials/m_Obstacles 
 [2026.11.05-09.31.20:253][996]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.11.05-09.31.20:253][996]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.11.05-09.31.20:253][996]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: ================================================
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Total job queries 1,759, among them cache hits 521 (29.62%), DDC hits 1,020 (57.99%), Duplicates 65 (3.70%)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Tracking 1,158 distinct input hashes that result in 784 distinct outputs (67.70%)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: RAM used: 10.33 MiB of 1.60 GiB budget. Usage: 0.63%
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Shaders Compiled: 181
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Jobs assigned 181, completed 181 (100%)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Average time worker was idle: 271.61 s
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Time job spent in pending queue: average 0.57 s, longest 2.44 s
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Job execution time: average 0.84 s, max 2.19 s
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Job life time (pending + execution): average 1.41 s, max 3.17
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Shader code size: total 1.637 MiB, numShaders 181, average 9.261 KiB, min 2.105 KiB, max 29.172 KiB
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.87 s
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Jobs were issued in 112 batches (only local compilation was used), average 1.62 jobs/batch
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Average processing rate: 14.06 jobs/sec
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Total thread time: 35.572 s
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Total thread preprocess time: 16.909 s
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Percentage time preprocessing: 47.53%
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Effective parallelization: 2.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.230260
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    7 times, average 0.63 sec, max 0.69 sec, min 0.52 sec)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    7 times, average 0.63 sec, max 0.69 sec, min 0.49 sec)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   15 times, average 0.46 sec, max 0.59 sec, min 0.28 sec)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 0.38 sec, max 0.41 sec, min 0.34 sec)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   15 times, average 0.35 sec, max 0.42 sec, min 0.29 sec)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display:                                             FDebugViewModePS - 19.19% of total time (compiled   15 times, average 0.46 sec, max 0.59 sec, min 0.28 sec)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.73% of total time (compiled   15 times, average 0.35 sec, max 0.42 sec, min 0.29 sec)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.44% of total time (compiled    7 times, average 0.63 sec, max 0.69 sec, min 0.52 sec)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 12.35% of total time (compiled    7 times, average 0.63 sec, max 0.69 sec, min 0.49 sec)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.29% of total time (compiled   27 times, average 0.10 sec, max 0.15 sec, min 0.07 sec)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: === Material stats ===
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Materials Translated:    201
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Material Translation Only: 0.04 s (35%)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: Material Cache Hits: 7 (3%)
+[2026.11.05-09.31.41:824][717]LogShaderCompilers: Display: ================================================
+[2026.11.05-09.32.43:775][441]LogStreaming: Display: FlushAsyncLoading(517): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-09.32.43:980][441]LogEditorModes: Warning: ITF Gizmos and Controls have been disabled. The "Foliage" Editor Mode requires the legacy systems.
+[2026.11.05-09.33.03:948][542]LogStreaming: Display: FlushAsyncLoading(518): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-09.33.04:050][547]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint_C
+[2026.11.05-09.33.04:050][547]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint_C
+[2026.11.05-09.33.04:052][547]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_Checkpoint_C_0
+[2026.11.05-09.33.04:053][547]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_Checkpoint_C_0
+[2026.11.05-09.33.04:665][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.11.05-09.33.04:667][609]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2026.11.05-09.33.04:672][609]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint_C
+[2026.11.05-09.33.04:672][609]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint_C
+[2026.11.05-09.33.04:674][609]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_Checkpoint_C_1
+[2026.11.05-09.33.04:674][609]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_Checkpoint_C_1
+[2026.11.05-09.33.05:563][691]Cmd: TRANSACTION UNDO
+[2026.11.05-09.33.05:563][691]LogEditorTransaction: Undo Place Objects
+[2026.11.05-09.33.07:427][870]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.11.05-09.33.23:894][664]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-09.33.24:010][672]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane_C
+[2026.11.05-09.33.24:010][672]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane_C
+[2026.11.05-09.33.24:011][672]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane as actor: BP_DeathPlane_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_DeathPlane_C_0
+[2026.11.05-09.33.24:011][672]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane as actor: BP_DeathPlane_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_DeathPlane_C_0
+[2026.11.05-09.33.24:670][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.11.05-09.33.24:674][746]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.11.05-09.33.24:679][746]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane_C
+[2026.11.05-09.33.24:679][746]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane_C
+[2026.11.05-09.33.24:680][746]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane as actor: BP_DeathPlane_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_DeathPlane_C_1
+[2026.11.05-09.33.24:681][746]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane as actor: BP_DeathPlane_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_DeathPlane_C_1
+[2026.11.05-09.33.26:400][926]Cmd: TRANSACTION UNDO
+[2026.11.05-09.33.26:400][926]LogEditorTransaction: Undo Place Objects
+[2026.11.05-09.33.30:202][293]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane_C
+[2026.11.05-09.33.30:202][293]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane_C
+[2026.11.05-09.33.30:202][293]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane as actor: BP_DeathPlane_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_DeathPlane_C_2
+[2026.11.05-09.33.30:203][293]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane as actor: BP_DeathPlane_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_DeathPlane_C_2
+[2026.11.05-09.33.31:600][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.11.05-09.33.31:602][452]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.11.05-09.33.31:607][452]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane_C
+[2026.11.05-09.33.31:607][452]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane_C
+[2026.11.05-09.33.31:608][452]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane as actor: BP_DeathPlane_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_DeathPlane_C_3
+[2026.11.05-09.33.31:609][452]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane as actor: BP_DeathPlane_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_DeathPlane_C_3
+[2026.11.05-09.33.44:620][770]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2026.11.05-09.33.49:219][192]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4637.505859
+[2026.11.05-09.33.49:337][205]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-09.33.49:337][205]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4637.616699, Update Interval: 359.544067
+[2026.11.05-09.34.05:247][665]LogPhysics: Warning: Scale for /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_DeathPlane_C_3.Hitbox has a component set to zero, which will result in a bad body instance. Scale:X=983.250 Y=0.000 Z=5.750 Package:/Game/Levels/_Lvl2
+[2026.11.05-09.34.25:693][737]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint_C
+[2026.11.05-09.34.25:693][737]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint_C
+[2026.11.05-09.34.25:694][737]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_Checkpoint_C_2
+[2026.11.05-09.34.25:695][737]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_Checkpoint_C_2
+[2026.11.05-09.34.26:374][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.11.05-09.34.26:377][804]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.11.05-09.34.26:383][804]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint_C
+[2026.11.05-09.34.26:383][804]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint_C
+[2026.11.05-09.34.26:384][804]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_Checkpoint_C_3
+[2026.11.05-09.34.26:385][804]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_Checkpoint_C_3
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: ================================================
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Total job queries 1,770, among them cache hits 524 (29.60%), DDC hits 1,024 (57.85%), Duplicates 65 (3.67%)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Tracking 1,166 distinct input hashes that result in 788 distinct outputs (67.58%)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: RAM used: 10.36 MiB of 1.60 GiB budget. Usage: 0.63%
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Shaders Compiled: 185
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Jobs assigned 185, completed 185 (100%)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Average time worker was idle: 268.56 s
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Time job spent in pending queue: average 0.56 s, longest 2.44 s
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Job execution time: average 0.83 s, max 2.19 s
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Job life time (pending + execution): average 1.39 s, max 3.17
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Shader code size: total 1.678 MiB, numShaders 185, average 9.287 KiB, min 2.105 KiB, max 29.172 KiB
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.55 s
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Jobs were issued in 116 batches (only local compilation was used), average 1.59 jobs/batch
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Average processing rate: 13.65 jobs/sec
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Total thread time: 36.309 s
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Total thread preprocess time: 17.002 s
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Percentage time preprocessing: 46.83%
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Effective parallelization: 2.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.223256
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    7 times, average 0.63 sec, max 0.69 sec, min 0.52 sec)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    7 times, average 0.63 sec, max 0.69 sec, min 0.49 sec)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   15 times, average 0.46 sec, max 0.59 sec, min 0.28 sec)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 0.38 sec, max 0.41 sec, min 0.34 sec)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   16 times, average 0.35 sec, max 0.42 sec, min 0.29 sec)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display:                                             FDebugViewModePS - 18.80% of total time (compiled   15 times, average 0.46 sec, max 0.59 sec, min 0.28 sec)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.47% of total time (compiled   16 times, average 0.35 sec, max 0.42 sec, min 0.29 sec)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.19% of total time (compiled    7 times, average 0.63 sec, max 0.69 sec, min 0.52 sec)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 12.10% of total time (compiled    7 times, average 0.63 sec, max 0.69 sec, min 0.49 sec)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.44% of total time (compiled   28 times, average 0.10 sec, max 0.15 sec, min 0.07 sec)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: === Material stats ===
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Materials Translated:    202
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Material Translation Only: 0.05 s (36%)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: Material Cache Hits: 7 (3%)
+[2026.11.05-09.34.41:826][454]LogShaderCompilers: Display: ================================================
+[2026.11.05-09.34.47:825][ 67]Cmd: TRANSACTION UNDO
+[2026.11.05-09.34.47:825][ 67]LogEditorTransaction: Undo Transform
+[2026.11.05-09.34.50:495][309]Cmd: TRANSACTION UNDO
+[2026.11.05-09.34.50:495][309]LogEditorTransaction: Undo Transform
+[2026.11.05-09.35.18:851][ 43]Cmd: TRANSACTION UNDO
+[2026.11.05-09.35.18:851][ 43]LogEditorTransaction: Undo Transform
+[2026.11.05-09.35.19:706][ 99]LogScript: Error: Script Msg: Element handle data type is '5', but '4' (FActorElementData) was requested!
+[2026.11.05-09.35.19:706][ 99]LogScript: Error: Script call stack:
+	[Empty] (FFrame::GetScriptCallstack() called from native code)
+[2026.11.05-09.35.44:170][443]Cmd: TRANSACTION UNDO
+[2026.11.05-09.35.44:170][443]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2026.11.05-09.35.44:515][449]Cmd: TRANSACTION UNDO
+[2026.11.05-09.35.44:515][449]LogEditorTransaction: Undo Transform
+[2026.11.05-09.35.44:708][456]Cmd: TRANSACTION UNDO
+[2026.11.05-09.35.44:708][456]LogEditorTransaction: Undo Transform
+[2026.11.05-09.35.44:884][469]Cmd: TRANSACTION UNDO
+[2026.11.05-09.35.44:884][469]LogEditorTransaction: Undo Transform
+[2026.11.05-09.35.45:071][483]Cmd: TRANSACTION UNDO
+[2026.11.05-09.35.45:071][483]LogEditorTransaction: Undo Transform
+[2026.11.05-09.35.45:223][493]Cmd: TRANSACTION UNDO
+[2026.11.05-09.35.45:223][493]LogEditorTransaction: Undo Transform
+[2026.11.05-09.35.45:398][506]Cmd: TRANSACTION UNDO
+[2026.11.05-09.35.45:398][506]LogEditorTransaction: Undo Transform
+[2026.11.05-09.35.45:590][520]Cmd: TRANSACTION UNDO
+[2026.11.05-09.35.45:590][520]LogEditorTransaction: Undo Duplicate and Transform
+[2026.11.05-09.35.53:886][344]Cmd: TRANSACTION UNDO
+[2026.11.05-09.35.53:886][344]LogEditorTransaction: Undo Transform
+[2026.11.05-09.36.15:629][265]Cmd: TRANSACTION UNDO
+[2026.11.05-09.36.15:629][265]LogEditorTransaction: Undo Transform
+[2026.11.05-09.36.31:033][771]Cmd: TRANSACTION UNDO
+[2026.11.05-09.36.31:033][771]LogEditorTransaction: Undo Transform
+[2026.11.05-09.37.02:205][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-09.37.02:227][  9]LogFileHelpers: Saving Map: /Game/Levels/_Lvl2
+[2026.11.05-09.37.02:227][  9]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.11.05-09.37.02:227][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.11.05-09.37.02:264][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.11.05-09.37.02:505][  9]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl2
+[2026.11.05-09.37.02:505][  9]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl256C3F9644B4C38EFD18583B71E2477C2.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap'
+[2026.11.05-09.37.02:529][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 323.689 ms (total: 20.1 sec)
+[2026.11.05-09.37.02:555][  9]LogContentValidation: Enabled validators:
+[2026.11.05-09.37.02:555][  9]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-09.37.02:555][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-09.37.02:555][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-09.37.02:555][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-09.37.02:555][  9]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-09.37.02:555][  9]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-09.37.02:555][  9]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-09.37.02:555][  9]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-09.37.02:555][  9]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-09.37.02:555][  9]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-09.37.02:555][  9]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-09.37.02:555][  9]AssetCheck: /Game/Levels/_Lvl2 Validating asset
+[2026.11.05-09.37.02:555][  9]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-09.37.02:555][  9]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-09.37.02:555][  9]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-09.37.02:555][  9]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-09.37.02:555][  9]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-09.37.02:555][  9]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-09.37.02:555][  9]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-09.37.02:555][  9]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-09.37.02:555][  9]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-09.37.02:555][  9]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-09.37.06:303][379]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager_C
+[2026.11.05-09.37.06:303][379]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager_C
+[2026.11.05-09.37.06:304][379]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager as actor: BP_RaceManager_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_RaceManager_C_0
+[2026.11.05-09.37.06:305][379]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager as actor: BP_RaceManager_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_RaceManager_C_0
+[2026.11.05-09.37.06:861][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.11.05-09.37.06:862][435]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.11.05-09.37.06:868][435]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager_C
+[2026.11.05-09.37.06:868][435]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager_C
+[2026.11.05-09.37.06:870][435]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager as actor: BP_RaceManager_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_RaceManager_C_1
+[2026.11.05-09.37.06:871][435]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager as actor: BP_RaceManager_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_RaceManager_C_1
+[2026.11.05-09.37.12:247][840]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager
+[2026.11.05-09.37.12:317][840]LogStreaming: Display: FlushAsyncLoading(520): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.05-09.37.12:495][840]LogTexture: Display: Building texture TwoD: /PCG/BP_Elements/Resources/MaterialsAndRTs/DebugMaterials/debugFrame.debugFrame (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Fast
+[2026.11.05-09.37.12:520][840]LogTexture: Display: Building texture TwoD: /PCG/BP_Elements/Resources/Textures/T_BlackLinearFloat.T_BlackLinearFloat (RGBA16F, 8x8 x1x1x1) (Required Memory Estimate: 1.002514 MB), EncodeSpeed: Fast
+[2026.11.05-09.37.14:305][840]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2026.11.05-09.37.14:307][840]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.11.05-09.37.19:986][181]LogSlate: Window 'BP_RaceManager' being destroyed
+[2026.11.05-09.37.19:994][181]LogSlate: Window 'BP_RaceManager' being destroyed
+[2026.11.05-09.37.19:999][181]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.11.05-09.37.19:999][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.05-09.37.20:065][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.11.05-09.37.21:591][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-09.37.21:616][344]LogFileHelpers: Saving Map: /Game/Levels/_Lvl2
+[2026.11.05-09.37.21:617][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.11.05-09.37.21:617][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.11.05-09.37.21:656][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.11.05-09.37.21:891][344]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl2
+[2026.11.05-09.37.21:892][344]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl2118CC74044A2AC4CA126C4ABEB82276A.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap'
+[2026.11.05-09.37.21:914][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 324.246 ms (total: 20.5 sec)
+[2026.11.05-09.37.21:942][344]LogContentValidation: Enabled validators:
+[2026.11.05-09.37.21:942][344]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-09.37.21:942][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-09.37.21:942][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-09.37.21:942][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-09.37.21:942][344]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-09.37.21:942][344]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-09.37.21:942][344]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-09.37.21:942][344]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-09.37.21:942][344]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-09.37.21:942][344]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-09.37.21:942][344]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-09.37.21:942][344]AssetCheck: /Game/Levels/_Lvl2 Validating asset
+[2026.11.05-09.37.21:942][344]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-09.37.21:942][344]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-09.37.21:942][344]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-09.37.21:942][344]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-09.37.21:942][344]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-09.37.21:942][344]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-09.37.21:942][344]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-09.37.21:942][344]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-09.37.21:942][344]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-09.37.21:942][344]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-09.37.22:820][430]Cmd: TRANSACTION UNDO
+[2026.11.05-09.37.22:820][430]LogEditorTransaction: Undo Transform
+[2026.11.05-09.37.23:853][505]Cmd: DELETE
+[2026.11.05-09.37.23:853][505]Cmd: ACTOR DELETE
+[2026.11.05-09.37.23:862][505]LogEditorActor: Deleted Actor: BP_RaceManager_C
+[2026.11.05-09.37.23:887][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.11.05-09.37.23:889][505]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.11.05-09.37.36:298][628]Cmd: TRANSACTION UNDO
+[2026.11.05-09.37.36:298][628]LogEditorTransaction: Undo Transform
+[2026.11.05-09.37.53:492][ 87]Cmd: TRANSACTION UNDO
+[2026.11.05-09.37.53:492][ 87]LogEditorTransaction: Undo Clicking on Elements
+[2026.11.05-09.38.55:862][136]Cmd: DUPLICATE
+[2026.11.05-09.38.55:862][136]Cmd: ACTOR DUPLICATE
+[2026.11.05-09.38.55:884][136]LogScript: Error: Script Msg: Element handle data type is '5', but '4' (FActorElementData) was requested!
+[2026.11.05-09.38.55:885][136]LogScript: Error: Script call stack:
+	[Empty] (FFrame::GetScriptCallstack() called from native code)
+[2026.11.05-09.38.57:969][358]Cmd: TRANSACTION UNDO
+[2026.11.05-09.38.57:969][358]LogEditorTransaction: Undo Duplicate Elements
+[2026.11.05-09.39.00:050][544]Cmd: DUPLICATE
+[2026.11.05-09.39.00:050][544]Cmd: ACTOR DUPLICATE
+[2026.11.05-09.39.00:072][544]LogScript: Error: Script Msg: Element handle data type is '5', but '4' (FActorElementData) was requested!
+[2026.11.05-09.39.00:072][544]LogScript: Error: Script call stack:
+	[Empty] (FFrame::GetScriptCallstack() called from native code)
+[2026.11.05-09.39.00:544][591]Cmd: TRANSACTION UNDO
+[2026.11.05-09.39.00:544][591]LogEditorTransaction: Undo Duplicate Elements
+[2026.11.05-09.39.02:341][767]LogScript: Error: Script Msg: Element handle data type is '5', but '4' (FActorElementData) was requested!
+[2026.11.05-09.39.02:341][767]LogScript: Error: Script call stack:
+	[Empty] (FFrame::GetScriptCallstack() called from native code)
+[2026.11.05-09.39.19:790][505]Cmd: TRANSACTION UNDO
+[2026.11.05-09.39.19:790][505]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2026.11.05-09.39.20:050][510]Cmd: TRANSACTION UNDO
+[2026.11.05-09.39.20:050][510]LogEditorTransaction: Undo Transform
+[2026.11.05-09.39.20:386][519]Cmd: TRANSACTION UNDO
+[2026.11.05-09.39.20:386][519]LogEditorTransaction: Undo Transform
+[2026.11.05-09.39.20:753][533]Cmd: TRANSACTION UNDO
+[2026.11.05-09.39.20:753][533]LogEditorTransaction: Undo Transform
+[2026.11.05-09.39.22:187][655]Cmd: TRANSACTION UNDO
+[2026.11.05-09.39.22:187][655]LogEditorTransaction: Undo Transform
+[2026.11.05-09.39.23:784][761]Cmd: TRANSACTION UNDO
+[2026.11.05-09.39.23:784][761]LogEditorTransaction: Undo Transform
+[2026.11.05-09.39.24:291][781]Cmd: TRANSACTION UNDO
+[2026.11.05-09.39.24:291][781]LogEditorTransaction: Undo Duplicate and Transform
+[2026.11.05-09.39.26:176][965]Cmd: TRANSACTION UNDO
+[2026.11.05-09.39.26:176][965]LogEditorTransaction: Undo Transform
+[2026.11.05-09.39.27:257][ 50]Cmd: TRANSACTION UNDO
+[2026.11.05-09.39.27:257][ 50]LogEditorTransaction: Undo Transform
+[2026.11.05-09.39.27:682][ 66]Cmd: TRANSACTION UNDO
+[2026.11.05-09.39.27:682][ 66]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2026.11.05-09.39.28:613][ 99]Cmd: TRANSACTION REDO
+[2026.11.05-09.39.28:613][ 99]LogEditorTransaction: Redo Clicking on Component (tree view)
+[2026.11.05-09.39.28:792][110]Cmd: TRANSACTION REDO
+[2026.11.05-09.39.28:792][110]LogEditorTransaction: Redo Transform
+[2026.11.05-09.39.29:062][130]Cmd: TRANSACTION REDO
+[2026.11.05-09.39.29:062][130]LogEditorTransaction: Redo Transform
+[2026.11.05-09.39.30:968][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-09.39.30:994][330]LogFileHelpers: Saving Map: /Game/Levels/_Lvl2
+[2026.11.05-09.39.30:994][330]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.11.05-09.39.30:994][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.11.05-09.39.31:042][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.11.05-09.39.31:275][330]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl2
+[2026.11.05-09.39.31:275][330]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl2E485CFBE4084A2CF7A94B2889C12DE18.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap'
+[2026.11.05-09.39.31:307][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 339.751 ms (total: 20.8 sec)
+[2026.11.05-09.39.31:332][330]LogContentValidation: Enabled validators:
+[2026.11.05-09.39.31:332][330]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-09.39.31:332][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-09.39.31:332][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-09.39.31:332][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-09.39.31:332][330]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-09.39.31:332][330]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-09.39.31:332][330]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-09.39.31:332][330]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-09.39.31:332][330]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-09.39.31:332][330]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-09.39.31:332][330]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-09.39.31:332][330]AssetCheck: /Game/Levels/_Lvl2 Validating asset
+[2026.11.05-09.39.31:332][330]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-09.39.31:332][330]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-09.39.31:333][330]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-09.39.31:333][330]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-09.39.31:333][330]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-09.39.31:333][330]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-09.39.31:333][330]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-09.39.31:333][330]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-09.39.31:333][330]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-09.39.31:333][330]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-09.39.35:190][746]Cmd: TRANSACTION UNDO
+[2026.11.05-09.39.35:190][746]LogEditorTransaction: Undo Transform
+[2026.11.05-09.39.36:065][803]LogScript: Error: Script Msg: Element handle data type is '5', but '4' (FActorElementData) was requested!
+[2026.11.05-09.39.36:065][803]LogScript: Error: Script call stack:
+	[Empty] (FFrame::GetScriptCallstack() called from native code)
+[2026.11.05-09.39.36:597][854]Cmd: TRANSACTION UNDO
+[2026.11.05-09.39.36:597][854]LogEditorTransaction: Undo Duplicate and Transform
+[2026.11.05-09.40.07:080][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-09.40.07:102][705]LogFileHelpers: Saving Map: /Game/Levels/_Lvl2
+[2026.11.05-09.40.07:103][705]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.11.05-09.40.07:103][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.11.05-09.40.07:148][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.11.05-09.40.07:381][705]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl2
+[2026.11.05-09.40.07:381][705]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl235A70E4142D03343928E02B66A9D94DF.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap'
+[2026.11.05-09.40.07:410][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 330.107 ms (total: 21.1 sec)
+[2026.11.05-09.40.07:442][705]LogContentValidation: Enabled validators:
+[2026.11.05-09.40.07:442][705]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-09.40.07:442][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-09.40.07:442][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-09.40.07:442][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-09.40.07:442][705]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-09.40.07:442][705]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-09.40.07:442][705]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-09.40.07:442][705]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-09.40.07:442][705]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-09.40.07:442][705]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-09.40.07:442][705]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-09.40.07:442][705]AssetCheck: /Game/Levels/_Lvl2 Validating asset
+[2026.11.05-09.40.07:442][705]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-09.40.07:443][705]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-09.40.07:443][705]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-09.40.07:443][705]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-09.40.07:443][705]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-09.40.07:443][705]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-09.40.07:443][705]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-09.40.07:443][705]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-09.40.07:443][705]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-09.40.07:443][705]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-09.40.41:635][ 39]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5049.920410
+[2026.11.05-09.40.41:771][ 54]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-09.40.41:771][ 54]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5050.047363, Update Interval: 357.299103
+[2026.11.05-09.41.36:512][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-09.41.36:533][416]LogFileHelpers: Saving Map: /Game/Levels/_Lvl2
+[2026.11.05-09.41.36:534][416]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.11.05-09.41.36:534][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.11.05-09.41.36:582][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.11.05-09.41.36:835][416]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl2
+[2026.11.05-09.41.36:835][416]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl2D41E9F4B459D7F5EDA0C5ABD9724302C.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap'
+[2026.11.05-09.41.36:862][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 349.990 ms (total: 21.5 sec)
+[2026.11.05-09.41.36:889][416]LogContentValidation: Enabled validators:
+[2026.11.05-09.41.36:889][416]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-09.41.36:889][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-09.41.36:889][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-09.41.36:889][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-09.41.36:889][416]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-09.41.36:889][416]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-09.41.36:889][416]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-09.41.36:889][416]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-09.41.36:889][416]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-09.41.36:889][416]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-09.41.36:889][416]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-09.41.36:889][416]AssetCheck: /Game/Levels/_Lvl2 Validating asset
+[2026.11.05-09.41.36:890][416]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-09.41.36:890][416]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-09.41.36:890][416]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-09.41.36:890][416]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-09.41.36:890][416]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-09.41.36:890][416]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-09.41.36:890][416]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-09.41.36:890][416]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-09.41.36:890][416]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-09.41.36:890][416]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-09.45.11:163][386]LogEditorModes: Warning: ITF Gizmos and Controls have been disabled. The "Foliage" Editor Mode requires the legacy systems.
+[2026.11.05-09.45.22:299][593]Cmd: TRANSACTION UNDO
+[2026.11.05-09.45.22:299][593]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.45.27:748][124]Cmd: TRANSACTION UNDO
+[2026.11.05-09.45.27:749][124]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.45.32:087][572]Cmd: TRANSACTION UNDO
+[2026.11.05-09.45.32:087][572]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.45.37:059][ 97]Cmd: TRANSACTION UNDO
+[2026.11.05-09.45.37:059][ 97]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.45.46:432][866]Cmd: TRANSACTION UNDO
+[2026.11.05-09.45.46:432][866]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.45.46:993][881]Cmd: TRANSACTION UNDO
+[2026.11.05-09.45.46:993][881]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.45.58:392][898]Cmd: TRANSACTION UNDO
+[2026.11.05-09.45.58:392][898]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.46.14:913][405]Cmd: TRANSACTION UNDO
+[2026.11.05-09.46.14:913][405]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.46.17:852][699]Cmd: TRANSACTION UNDO
+[2026.11.05-09.46.17:852][699]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.46.18:743][795]Cmd: TRANSACTION UNDO
+[2026.11.05-09.46.18:743][795]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.46.30:014][786]Cmd: TRANSACTION UNDO
+[2026.11.05-09.46.30:014][786]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.46.30:283][796]Cmd: TRANSACTION UNDO
+[2026.11.05-09.46.30:283][796]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.47.13:400][592]Cmd: TRANSACTION UNDO
+[2026.11.05-09.47.13:400][592]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.47.17:674][995]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5445.958496
+[2026.11.05-09.47.17:806][  5]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-09.47.17:806][  5]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5446.076660, Update Interval: 318.100525
+[2026.11.05-09.47.23:458][540]Cmd: TRANSACTION UNDO
+[2026.11.05-09.47.23:458][540]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.11.05-09.47.23:580][540]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.47.23:580][540]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-09.48.16:268][308]Cmd: TRANSACTION UNDO
+[2026.11.05-09.48.16:268][308]LogEditorTransaction: Undo Landscape Editing: Noise
+[2026.11.05-09.48.16:389][308]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.48.16:390][308]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.48.28:227][326]LogEditorModes: Warning: ITF Gizmos and Controls have been disabled. The "Foliage" Editor Mode requires the legacy systems.
+[2026.11.05-09.48.38:922][326]Cmd: TRANSACTION UNDO
+[2026.11.05-09.48.38:922][326]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.48.39:102][331]Cmd: TRANSACTION UNDO
+[2026.11.05-09.48.39:102][331]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.48.50:609][368]Cmd: TRANSACTION UNDO
+[2026.11.05-09.48.50:609][368]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.48.52:107][446]Cmd: TRANSACTION UNDO
+[2026.11.05-09.48.52:107][446]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.48.58:846][ 10]Cmd: TRANSACTION UNDO
+[2026.11.05-09.48.58:846][ 10]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.48.59:126][ 17]Cmd: TRANSACTION UNDO
+[2026.11.05-09.48.59:126][ 17]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.49.13:221][471]Cmd: TRANSACTION UNDO
+[2026.11.05-09.49.13:221][471]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.49.13:562][486]Cmd: TRANSACTION UNDO
+[2026.11.05-09.49.13:563][486]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.50.19:749][940]LogMaterial: Display: Material /Game/_Diegos_Work/_assets/_materials/m_house.m_house needed to set usage flag InstancedStaticMeshes
+[2026.11.05-09.50.20:903][ 50]Cmd: TRANSACTION UNDO
+[2026.11.05-09.50.20:903][ 50]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.50.26:852][542]LogViewportSelectionUtilities: Clicking on Actor (context menu): Landscape (Landscape)
+[2026.11.05-09.50.27:014][557]Cmd: TRANSACTION UNDO
+[2026.11.05-09.50.27:014][557]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.50.27:206][563]Cmd: TRANSACTION UNDO
+[2026.11.05-09.50.27:206][563]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.50.35:374][270]Cmd: TRANSACTION UNDO
+[2026.11.05-09.50.35:374][270]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.50.45:375][ 41]Cmd: TRANSACTION UNDO
+[2026.11.05-09.50.45:375][ 41]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.50.46:071][ 66]Cmd: TRANSACTION UNDO
+[2026.11.05-09.50.46:071][ 66]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.50.46:312][ 84]Cmd: TRANSACTION UNDO
+[2026.11.05-09.50.46:312][ 84]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.50.51:599][497]LogViewportSelectionUtilities: Clicking on Actor (context menu): Landscape (Landscape)
+[2026.11.05-09.51.03:677][621]Cmd: TRANSACTION UNDO
+[2026.11.05-09.51.03:677][621]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.51.03:847][625]Cmd: TRANSACTION UNDO
+[2026.11.05-09.51.03:847][625]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.51.12:687][262]Cmd: TRANSACTION UNDO
+[2026.11.05-09.51.12:687][262]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.51.13:060][274]Cmd: TRANSACTION UNDO
+[2026.11.05-09.51.13:060][274]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.51.13:613][317]Cmd: TRANSACTION UNDO
+[2026.11.05-09.51.13:613][317]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.51.31:432][676]Cmd: TRANSACTION UNDO
+[2026.11.05-09.51.31:432][676]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.51.41:653][523]Cmd: TRANSACTION UNDO
+[2026.11.05-09.51.41:653][523]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.51.41:831][528]Cmd: TRANSACTION UNDO
+[2026.11.05-09.51.41:831][528]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.51.42:797][602]Cmd: TRANSACTION UNDO
+[2026.11.05-09.51.42:797][602]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.51.45:871][861]Cmd: TRANSACTION UNDO
+[2026.11.05-09.51.45:871][861]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.51.56:153][594]Cmd: TRANSACTION UNDO
+[2026.11.05-09.51.56:153][594]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.51.59:275][856]Cmd: TRANSACTION UNDO
+[2026.11.05-09.51.59:275][856]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.52.07:390][505]Cmd: TRANSACTION UNDO
+[2026.11.05-09.52.07:390][505]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.52.11:379][761]Cmd: TRANSACTION UNDO
+[2026.11.05-09.52.11:379][761]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.52.15:846][130]Cmd: TRANSACTION UNDO
+[2026.11.05-09.52.15:846][130]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.52.16:387][153]Cmd: TRANSACTION UNDO
+[2026.11.05-09.52.16:387][153]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.52.20:352][449]Cmd: TRANSACTION UNDO
+[2026.11.05-09.52.20:352][449]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.52.21:388][518]Cmd: TRANSACTION UNDO
+[2026.11.05-09.52.21:388][518]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.52.22:442][611]Cmd: TRANSACTION UNDO
+[2026.11.05-09.52.22:442][611]LogEditorTransaction: Undo Foliage Editing
+[2026.11.05-09.52.25:625][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-09.52.25:648][916]LogFileHelpers: Saving Map: /Game/Levels/_Lvl2
+[2026.11.05-09.52.25:649][916]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.11.05-09.52.25:649][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.11.05-09.52.25:724][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.11.05-09.52.25:786][916]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.52.25:789][916]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.11.05-09.52.25:791][916]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-09.52.25:795][916]LogTexture: Display: Building texture TwoD: /Game/Levels/_Lvl2._Lvl2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.11.05-09.52.25:970][916]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl2
+[2026.11.05-09.52.25:970][916]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl298B556B94DD8A2657761F5AD74A812D1.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap'
+[2026.11.05-09.52.26:005][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 381.211 ms (total: 21.9 sec)
+[2026.11.05-09.52.26:037][916]LogContentValidation: Enabled validators:
+[2026.11.05-09.52.26:037][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-09.52.26:037][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-09.52.26:037][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-09.52.26:037][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-09.52.26:037][916]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-09.52.26:037][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-09.52.26:037][916]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-09.52.26:037][916]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-09.52.26:037][916]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-09.52.26:037][916]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-09.52.26:037][916]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-09.52.26:037][916]AssetCheck: /Game/Levels/_Lvl2 Validating asset
+[2026.11.05-09.52.26:037][916]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-09.52.26:037][916]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-09.52.26:037][916]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-09.52.26:037][916]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-09.52.26:037][916]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-09.52.26:037][916]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-09.52.26:037][916]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-09.52.26:037][916]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-09.52.26:037][916]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-09.52.26:037][916]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-09.52.45:202][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.11.05-09.52.45:202][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.11.05-09.52.45:202][860]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/_Lvl2._Lvl2:PersistentLevel.StaticMeshActor_2
+[2026.11.05-09.52.45:203][860]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/_Lvl2._Lvl2:PersistentLevel.StaticMeshActor_2
+[2026.11.05-09.52.45:802][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.11.05-09.52.45:804][914]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.11.05-09.52.45:809][914]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.11.05-09.52.45:809][914]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.11.05-09.52.45:811][914]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/_Lvl2._Lvl2:PersistentLevel.StaticMeshActor_5
+[2026.11.05-09.52.45:812][914]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/_Lvl2._Lvl2:PersistentLevel.StaticMeshActor_5
+[2026.11.05-09.53.20:607][407]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5808.878418
+[2026.11.05-09.53.20:896][437]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-09.53.20:896][437]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5809.159180, Update Interval: 318.322083
+[2026.11.05-09.54.15:762][995]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.11.05-09.54.15:762][995]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.11.05-09.54.15:762][995]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/_Lvl2._Lvl2:PersistentLevel.StaticMeshActor_6
+[2026.11.05-09.54.15:763][995]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/_Lvl2._Lvl2:PersistentLevel.StaticMeshActor_6
+[2026.11.05-09.54.16:542][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.11.05-09.54.16:546][ 71]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.11.05-09.54.16:554][ 71]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.11.05-09.54.16:554][ 71]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.11.05-09.54.16:555][ 71]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/_Lvl2._Lvl2:PersistentLevel.StaticMeshActor_7
+[2026.11.05-09.54.16:555][ 71]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/_Lvl2._Lvl2:PersistentLevel.StaticMeshActor_7
+[2026.11.05-09.54.53:946][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-09.54.53:971][961]LogFileHelpers: Saving Map: /Game/Levels/_Lvl2
+[2026.11.05-09.54.53:973][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.11.05-09.54.53:973][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.11.05-09.54.54:013][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.11.05-09.54.54:262][961]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl2
+[2026.11.05-09.54.54:264][961]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl2612F679D495A74D909E90DBA1AD0B8EE.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap'
+[2026.11.05-09.54.54:288][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 341.911 ms (total: 22.2 sec)
+[2026.11.05-09.54.54:323][961]LogContentValidation: Enabled validators:
+[2026.11.05-09.54.54:323][961]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-09.54.54:323][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-09.54.54:323][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-09.54.54:323][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-09.54.54:323][961]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-09.54.54:323][961]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-09.54.54:323][961]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-09.54.54:323][961]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-09.54.54:323][961]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-09.54.54:323][961]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-09.54.54:323][961]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-09.54.54:323][961]AssetCheck: /Game/Levels/_Lvl2 Validating asset
+[2026.11.05-09.54.54:323][961]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-09.54.54:323][961]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-09.54.54:323][961]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-09.54.54:323][961]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-09.54.54:323][961]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-09.54.54:323][961]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-09.54.54:323][961]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-09.54.54:323][961]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-09.54.54:323][961]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-09.54.54:323][961]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-09.55.27:654][325]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike_C
+[2026.11.05-09.55.27:654][325]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike_C
+[2026.11.05-09.55.27:655][325]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike as actor: BP_Bike_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_Bike_C_0
+[2026.11.05-09.55.27:657][325]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike as actor: BP_Bike_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_Bike_C_0
+[2026.11.05-09.55.28:494][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.11.05-09.55.28:498][409]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.11.05-09.55.28:505][409]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike_C
+[2026.11.05-09.55.28:505][409]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike_C
+[2026.11.05-09.55.28:508][409]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike as actor: BP_Bike_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_Bike_C_2
+[2026.11.05-09.55.28:510][409]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike as actor: BP_Bike_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_Bike_C_2
+[2026.11.05-09.55.28:843][431]Cmd: TRANSACTION UNDO
+[2026.11.05-09.55.28:843][431]LogEditorTransaction: Undo Place Objects
