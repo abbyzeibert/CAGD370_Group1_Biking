@@ -8437,3 +8437,130 @@ FPackageName: Skipped package /Game/_Diegos_Work/_assets/_materials/m_Obstacles 
 [2026.11.05-10.55.08:775][822]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.11.05-10.55.08:775][822]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.11.05-10.55.08:775][822]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-10.55.58:300][ 27]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9566.600586
+[2026.11.05-10.55.59:300][ 30]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.05-10.55.59:300][ 30]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9567.267578, Update Interval: 330.878021
+[2026.11.05-10.56.23:239][559]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint_C
+[2026.11.05-10.56.23:239][559]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint_C
+[2026.11.05-10.56.23:240][559]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_Checkpoint_C_0
+[2026.11.05-10.56.23:241][559]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_Checkpoint_C_0
+[2026.11.05-10.56.23:916][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.11.05-10.56.23:921][600]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.11.05-10.56.23:926][600]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint_C
+[2026.11.05-10.56.23:926][600]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint_C
+[2026.11.05-10.56.23:928][600]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_Checkpoint_C_1
+[2026.11.05-10.56.23:928][600]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_Checkpoint_C_1
+[2026.11.05-10.57.30:686][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-10.57.30:709][  9]LogFileHelpers: Saving Map: /Game/Levels/_Lvl1
+[2026.11.05-10.57.30:710][  9]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl1] ([1] browsable assets)...
+[2026.11.05-10.57.30:710][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl1]
+[2026.11.05-10.57.30:754][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.11.05-10.57.30:953][  9]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl1
+[2026.11.05-10.57.30:954][  9]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl153AD61434BDC5E8341BC13B6DF869E5E.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl1.umap'
+[2026.11.05-10.57.30:982][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 296.273 ms (total: 30.2 sec)
+[2026.11.05-10.57.31:011][  9]LogContentValidation: Enabled validators:
+[2026.11.05-10.57.31:011][  9]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-10.57.31:011][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-10.57.31:011][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-10.57.31:011][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-10.57.31:011][  9]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-10.57.31:011][  9]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-10.57.31:011][  9]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-10.57.31:011][  9]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-10.57.31:011][  9]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-10.57.31:011][  9]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-10.57.31:011][  9]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-10.57.31:011][  9]AssetCheck: /Game/Levels/_Lvl1 Validating asset
+[2026.11.05-10.57.31:011][  9]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-10.57.31:012][  9]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-10.57.31:012][  9]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-10.57.31:012][  9]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-10.57.31:012][  9]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-10.57.31:012][  9]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-10.57.31:012][  9]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-10.57.31:012][  9]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-10.57.31:012][  9]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-10.57.31:012][  9]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-10.58.40:969][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-10.58.40:997][723]LogFileHelpers: Saving Map: /Game/Levels/_Lvl1
+[2026.11.05-10.58.40:997][723]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl1] ([1] browsable assets)...
+[2026.11.05-10.58.40:997][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl1]
+[2026.11.05-10.58.41:040][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.11.05-10.58.41:245][723]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl1
+[2026.11.05-10.58.41:245][723]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl1F7AAF3B64F85D53CCEE7F8B59AE387FE.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl1.umap'
+[2026.11.05-10.58.41:274][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 304.388 ms (total: 30.5 sec)
+[2026.11.05-10.58.41:302][723]LogContentValidation: Enabled validators:
+[2026.11.05-10.58.41:302][723]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-10.58.41:302][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-10.58.41:302][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-10.58.41:302][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-10.58.41:302][723]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-10.58.41:302][723]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-10.58.41:302][723]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-10.58.41:302][723]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-10.58.41:302][723]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-10.58.41:302][723]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-10.58.41:302][723]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-10.58.41:302][723]AssetCheck: /Game/Levels/_Lvl1 Validating asset
+[2026.11.05-10.58.41:302][723]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-10.58.41:302][723]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-10.58.41:302][723]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-10.58.41:302][723]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-10.58.41:302][723]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-10.58.41:302][723]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-10.58.41:302][723]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-10.58.41:302][723]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-10.58.41:302][723]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-10.58.41:302][723]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.05-10.58.50:720][141]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane_C
+[2026.11.05-10.58.50:720][141]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane_C
+[2026.11.05-10.58.50:721][141]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane as actor: BP_DeathPlane_C /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_DeathPlane_C_0
+[2026.11.05-10.58.50:722][141]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane as actor: BP_DeathPlane_C /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_DeathPlane_C_0
+[2026.11.05-10.58.51:313][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.11.05-10.58.51:316][183]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.11.05-10.58.51:322][183]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane_C
+[2026.11.05-10.58.51:323][183]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane_C
+[2026.11.05-10.58.51:324][183]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane as actor: BP_DeathPlane_C /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_DeathPlane_C_1
+[2026.11.05-10.58.51:325][183]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/BP_DeathPlane.BP_DeathPlane as actor: BP_DeathPlane_C /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_DeathPlane_C_1
+[2026.11.05-10.58.58:120][628]LogPhysics: Warning: Scale for /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_DeathPlane_C_1.Hitbox has a component set to zero, which will result in a bad body instance. Scale:X=2207.461 Y=2207.461 Z=0.000 Package:/Game/Levels/_Lvl1
+[2026.11.05-10.59.16:329][869]LogPhysics: Warning: Scale for /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_DeathPlane_C_1.Hitbox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000 Package:/Game/Levels/_Lvl1
+[2026.11.05-10.59.16:329][869]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_DeathPlane_C_1 /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_DeathPlane_C_1.Hitbox 
+[2026.11.05-10.59.31:686][851]Cmd: TRANSACTION UNDO
+[2026.11.05-10.59.31:687][851]LogEditorTransaction: Undo Transform
+[2026.11.05-10.59.33:385][955]LogPhysics: Warning: Scale for /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_DeathPlane_C_1.Hitbox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000 Package:/Game/Levels/_Lvl1
+[2026.11.05-10.59.33:385][955]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_DeathPlane_C_1 /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_DeathPlane_C_1.Hitbox 
+[2026.11.05-10.59.33:845][988]LogPhysics: Warning: Scale for /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_DeathPlane_C_1.Hitbox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000 Package:/Game/Levels/_Lvl1
+[2026.11.05-10.59.33:845][988]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_DeathPlane_C_1 /Game/Levels/_Lvl1._Lvl1:PersistentLevel.BP_DeathPlane_C_1.Hitbox 
+[2026.11.05-10.59.35:442][104]Cmd: TRANSACTION UNDO
+[2026.11.05-10.59.35:442][104]LogEditorTransaction: Undo Transform
+[2026.11.05-10.59.51:631][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.05-10.59.51:657][209]LogFileHelpers: Saving Map: /Game/Levels/_Lvl1
+[2026.11.05-10.59.51:657][209]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl1] ([1] browsable assets)...
+[2026.11.05-10.59.51:657][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl1]
+[2026.11.05-10.59.51:701][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.11.05-10.59.51:899][209]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl1
+[2026.11.05-10.59.51:899][209]LogSavePackage: Moving '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/_Lvl1337DF66345D973FAB5522DAB60676412.tmp' to '../../../../../Users/dagalvez-gomez/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/Levels/_Lvl1.umap'
+[2026.11.05-10.59.51:928][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 297.689 ms (total: 30.8 sec)
+[2026.11.05-10.59.51:959][209]LogContentValidation: Enabled validators:
+[2026.11.05-10.59.51:959][209]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.05-10.59.51:959][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.05-10.59.51:959][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.05-10.59.51:959][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.05-10.59.51:959][209]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.05-10.59.51:959][209]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.05-10.59.51:959][209]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.05-10.59.51:959][209]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.05-10.59.51:959][209]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.05-10.59.51:959][209]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.05-10.59.51:959][209]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.05-10.59.51:959][209]AssetCheck: /Game/Levels/_Lvl1 Validating asset
+[2026.11.05-10.59.51:959][209]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.05-10.59.51:959][209]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.05-10.59.51:959][209]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.05-10.59.51:959][209]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.05-10.59.51:959][209]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.05-10.59.51:959][209]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.05-10.59.51:959][209]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.05-10.59.51:959][209]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.05-10.59.51:959][209]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.05-10.59.51:959][209]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
