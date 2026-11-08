@@ -38,6 +38,8 @@
 				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/SaveObjects/BP_SaveGame.uasset",
 				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/Input/IA_LeftSpin.uasset",
 				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/Input/IA_RightSpin.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/Input/IA_Backflip.uasset",
+				"D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/Input/IA_Frontflip.uasset",
 				"C:/Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset",
 				"C:/Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_DeathPlane.uasset",
 				"C:/Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_Bike.uasset",
