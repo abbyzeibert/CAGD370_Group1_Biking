@@ -620,7 +620,7 @@
 					},
 					{
 						"Name": "RigLogicLibTest",
-						"Type": "Runtime",
+						"Type": "UncookedOnly",
 						"LoadingPhase": "PreDefault",
 						"PlatformAllowList": [
 							"Win64"
@@ -3930,50 +3930,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Experimental/ToolsetRegistry/ToolsetRegistry.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Toolset Registry",
-				"Description": "",
-				"Category": "Other",
-				"CreatedBy": "",
-				"CreatedByURL": "",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": false,
-				"CanContainContent": true,
-				"IsExperimentalVersion": true,
-				"Modules": [
-					{
-						"Name": "ToolsetRegistry",
-						"Type": "Editor",
-						"LoadingPhase": "Default",
-						"TargetAllowList": [
-							"Editor"
-						]
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "PythonScriptPlugin",
-						"Enabled": true
-					},
-					{
-						"Name": "EditorScriptingUtilities",
-						"Enabled": true
-					},
-					{
-						"Name": "FileSandbox",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Experimental/Water/Water.uplugin",
 			"Descriptor": 
 			{
@@ -4111,10 +4067,6 @@
 				"Plugins": [
 					{
 						"Name": "PythonScriptPlugin",
-						"Enabled": true
-					},
-					{
-						"Name": "ToolsetRegistry",
 						"Enabled": true
 					}
 				]

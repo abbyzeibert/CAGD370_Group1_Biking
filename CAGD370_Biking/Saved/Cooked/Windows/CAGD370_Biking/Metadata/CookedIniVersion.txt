@@ -28,13 +28,6 @@ ConfigSystem.Linux.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStr
 ConfigSystem.Linux.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
 ConfigSystem.Linux.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
 ConfigSystem.Linux.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("VistaLOD","Vista"))
-ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:Deco:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("DecoLOD","Deco"))
-ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:Foliage:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("FoliageLOD","Foliage"))
-ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:HighDetail:0=(NumLODs=6,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=6,Name=LOCTEXT("HighDetailLOD","High Detail"))
-ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("LargePropLOD","Large Prop"))
-ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
-ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
-ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("VistaLOD","Vista"))
 ConfigSystem.Mac.Engine:/Script/MacTargetPlatform.MacTargetSettings:RayTracingMode:0=Full
 ConfigSystem.Mac.Engine:StaticMeshLODSettings:Deco:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("DecoLOD","Deco"))
 ConfigSystem.Mac.Engine:StaticMeshLODSettings:Foliage:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("FoliageLOD","Foliage"))
@@ -45,152 +38,152 @@ ConfigSystem.Mac.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStrea
 ConfigSystem.Mac.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("VistaLOD","Vista"))
 ConfigSystem.Mac.Input:InputPlatformSettings_Mac InputPlatformSettings:input.DeviceMappingPolicy:0=1
 ConfigSystem.Mac.Input:InputPlatformSettings_Mac InputPlatformSettings:MaxPlatformUserCount:0=8
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:DefaultProfile:0=StarterProfile
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:0=(NodeName="/Script/BlueprintGraph.K2Node_Event", FieldName="/Script/Engine.ActorReceiveBeginPlay")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:1=(NodeName="/Script/BlueprintGraph.K2Node_Event", FieldName="/Script/Engine.ActorReceiveTick")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:2=(NodeName="/Script/BlueprintGraph.K2Node_CallFunction", FieldName="/Script/Engine.GameplayStaticsGetPlayerPawn")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:3=(NodeName="/Script/BlueprintGraph.K2Node_IfThenElse")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:4=(NodeName="/Script/BlueprintGraph.K2Node_CallFunction", FieldName="/Script/Engine.ActorGetTransform")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:5=(NodeName="/Script/BlueprintGraph.K2Node_CallFunction", FieldName="/Script/Engine.ActorK2_DestroyActor")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:6=(NodeName="/Script/BlueprintGraph.K2Node_CallFunction", FieldName="/Script/Engine.GameplayStaticsGetAllActorsOfClass")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:7=(NodeName="/Script/BlueprintGraph.K2Node_SpawnActorFromClass")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:8=(NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:9=(FieldName="/Script/TimeManagement.TimeManagementBlueprintLibraryAdd_FrameNumberInteger",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:10=(FieldName="/Script/TimeManagement.TimeManagementBlueprintLibrarySubtract_FrameNumberInteger",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:11=(FieldName="/Script/GameplayTags.BlueprintGameplayTagLibraryEqualEqual_GameplayTagContainer",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:12=(FieldName="/Script/TimeManagement.TimeManagementBlueprintLibraryDivide_FrameNumberInteger",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:13=(FieldName="/Script/Engine.KismetMathLibraryGreater_TimespanTimespan",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:14=(FieldName="/Script/Engine.KismetMathLibraryGreaterEqual_TimespanTimespan",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:15=(FieldName="/Script/Engine.KismetMathLibraryLess_TimespanTimespan",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:16=(FieldName="/Script/Engine.KismetMathLibraryLessEqual_TimespanTimespan",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:17=(FieldName="/Script/GameplayTags.BlueprintGameplayTagLibraryNotEqual_GameplayTagContainer",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:18=(FieldName="/Script/TimeManagement.TimeManagementBlueprintLibraryMultiply_SecondsFrameRate",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:ConsoleVariables:SplineComponent.OnlyUpdateActiveSpline:0=0
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:BulkDataRegistryEnabled:0=true
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:bUseSoftGC:0=true
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:CookerIdleWarningSeverity:0=Warning
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:CookIncrementalDefaultIncremental:0=false
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:CookProcessCount:0=1
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:CookProcessCountFromEditor:0=-1
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:IdleTimeToGC:0=20
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:IncrementalClassDenyList:0=/Script/CustomizableObject.CustomizableObject		; UE-224744
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:IncrementalClassDenyList:1=/Script/CoreUObject.VerseClass						; Not yet documented
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:IncrementalClassScriptPackageAllowList:0=Allow,<EngineRoot>
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:LegacyIterative:0=false
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:LegacyIterativeIgnoreExe:0=true
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:LegacyIterativeIgnoreIni:0=false
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:MaxConcurrentShaderJobs:0=65536
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:MemoryMaxUsedPhysical:0=0
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:MemoryMaxUsedVirtual:0=0
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:MemoryMinFreePhysical:0=2048
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:MemoryMinFreeVirtual:0=2048
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:MemoryTriggerGCAtPressureLevel:0=None
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:MPCookGeneratorSplit:0=AnyWorker
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:PackagesPerGC:0=0
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:ProjectCookIncrementalVersion:0=00000000-0000-0000-0000-000000000000
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:SkipOnlyEditorOnly:0=true
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:SoftGCDenominator:0=10
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:SoftGCMinimumPeriodSeconds:0=30
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:SoftGCStartNumerator:0=0
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:SoftGCTimeFractionBudget:0=0.05
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:UnexpectedLoadWarningSeverity:0=Display
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CustomBlueprintFunctionLibrary:bCanCreateNew:0=true
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:ClassBlockList:0=/Script/Engine.StaticMesh
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:ClassBlockList:1=/Script/Engine.Blueprint
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:ClassBlockList:2=/Script/Engine.UserDefinedStruct
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:ClassBlockList:3=/Script/CommonUI.CommonGenericInputActionDataTable
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:ClassBlockList:4=/Script/Engine.DataTable
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:EditorDomainEnabled:0=false
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:GlobalCanConstructClasses:0=/Script/CoreUObject.MetaData
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:GlobalCanConstructClasses:1=/Script/Engine.AssetImportData
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:PackageBlockList:0=/Niagara/Functions/RandomRangeFloat
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:PackageBlockList:1=/Niagara/Modules/Update/Color/ScaleColor
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:SaveUnversioned:0=true
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:Internationalization:LocalizationPaths:0=../../../Engine/Content/Localization/Editor
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:Internationalization:LocalizationPaths:1=../../../Engine/Content/Localization/Keywords
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:Internationalization:LocalizationPaths:2=../../../Engine/Content/Localization/Category
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:Internationalization:PropertyNameLocalizationPaths:0=../../../Engine/Content/Localization/PropertyNames
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:Internationalization:ToolTipLocalizationPaths:0=../../../Engine/Content/Localization/ToolTips
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:PythonScriptPlugin:DisablePythonForCommandlet:0=CookShaders
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:PythonScriptPlugin:DisablePythonForCommandlet:1=Cook
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:PythonScriptPlugin:DisablePythonForCommandlet:2=GatherText
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:PythonScriptPlugin:DisablePythonForCommandlet:3=GatherTextFromAssetsWorker
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:StructSerialization:SkipByteCodeSerialization:0=true
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:TextureBuild:NewTextureBuilds:0=false
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:UserDefinedStructure:bUseUserDefinedStructure:0=true
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowAllCpuSamplingTracks:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowAllCpuTracks:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowAllGpuTracks:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowAllVerseTracks:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowContextSwitches:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowContextSwitchExtendedLines:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowContextSwitchOverlays:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowCpuCoreTracks:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowGpuFencesExtendedLines:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowGpuFencesRelations:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowGpuFencesTracks:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowGpuWorkExtendedLines:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowGpuWorkOverlays:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowGpuWorkTracks:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowNonTargetProcessEvents:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.PersistentTimingView:Name:0=TimingProfiler
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.PersistentTimingView:Name:1=MemoryProfiler
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:AutoScrollFrameAlignment:0=game
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:AutoScrollMinDelay:0=0.3
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:AutoScrollViewportOffsetPercent:0=0.1
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:bAllowPanningOnScreenEdges:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:bAutoHideEmptyTracks:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:bAutoScroll:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:bShowFormatInTimerNames:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:DefaultZoomLevel:0=5.0
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:ThreadsToUseRatio:0=0.75
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:TimingTrackDepthLimit.Max:0=1000
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:TimingTrackDepthLimit.Min:0=0
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.FramesView:bAutoZoomOnFrameSelection:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.FramesView:bShowLowerThresholdLine:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.FramesView:bShowUpperThresholdLine:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.FramesView:LowerThreshold:0=60 fps
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.FramesView:UpperThreshold:0=30 fps
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowBars:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowConnectedLines:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowEventDuration:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowGameFrames:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowPoints:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowPointsWithBorder:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowPolygons:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowRenderingFrame:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:GameFrameColumns:0=MaxInclTime
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:GameFrameColumns:1=AverageInclTime
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:GameFrameColumns:2=MedianInclTime
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:GameFrameColumns:3=MinInclTime
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:GroupingMode:0=3
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:InstanceColumns:0=Count
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:InstanceColumns:1=TotalInclTime
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:InstanceColumns:2=TotalExclTime
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:RenderingFrameColumns:0=MaxInclTime
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:RenderingFrameColumns:1=AverageInclTime
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:RenderingFrameColumns:2=MedianInclTime
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:RenderingFrameColumns:3=MinInclTime
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:ShowCpuSamplingTimers:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:ShowCpuTimers:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:ShowGpuTimers:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:ShowVerseSamplingTimers:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:ShowZeroCountTimers:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowAllCpuSamplingTracks:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowAllCpuTracks:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowAllGpuTracks:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowAllVerseTracks:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowContextSwitches:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowContextSwitchExtendedLines:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowContextSwitchOverlays:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowCpuCoreTracks:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowGpuFencesExtendedLines:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowGpuFencesRelations:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowGpuFencesTracks:0=False
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowGpuWorkExtendedLines:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowGpuWorkOverlays:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowGpuWorkTracks:0=True
-ConfigSystem.<Editor>.C::::/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowNonTargetProcessEvents:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:DefaultProfile:0=StarterProfile
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:0=(NodeName="/Script/BlueprintGraph.K2Node_Event", FieldName="/Script/Engine.ActorReceiveBeginPlay")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:1=(NodeName="/Script/BlueprintGraph.K2Node_Event", FieldName="/Script/Engine.ActorReceiveTick")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:2=(NodeName="/Script/BlueprintGraph.K2Node_CallFunction", FieldName="/Script/Engine.GameplayStaticsGetPlayerPawn")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:3=(NodeName="/Script/BlueprintGraph.K2Node_IfThenElse")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:4=(NodeName="/Script/BlueprintGraph.K2Node_CallFunction", FieldName="/Script/Engine.ActorGetTransform")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:5=(NodeName="/Script/BlueprintGraph.K2Node_CallFunction", FieldName="/Script/Engine.ActorK2_DestroyActor")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:6=(NodeName="/Script/BlueprintGraph.K2Node_CallFunction", FieldName="/Script/Engine.GameplayStaticsGetAllActorsOfClass")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:7=(NodeName="/Script/BlueprintGraph.K2Node_SpawnActorFromClass")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:8=(NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:9=(FieldName="/Script/TimeManagement.TimeManagementBlueprintLibraryAdd_FrameNumberInteger",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:10=(FieldName="/Script/TimeManagement.TimeManagementBlueprintLibrarySubtract_FrameNumberInteger",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:11=(FieldName="/Script/GameplayTags.BlueprintGameplayTagLibraryEqualEqual_GameplayTagContainer",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:12=(FieldName="/Script/TimeManagement.TimeManagementBlueprintLibraryDivide_FrameNumberInteger",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:13=(FieldName="/Script/Engine.KismetMathLibraryGreater_TimespanTimespan",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:14=(FieldName="/Script/Engine.KismetMathLibraryGreaterEqual_TimespanTimespan",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:15=(FieldName="/Script/Engine.KismetMathLibraryLess_TimespanTimespan",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:16=(FieldName="/Script/Engine.KismetMathLibraryLessEqual_TimespanTimespan",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:17=(FieldName="/Script/GameplayTags.BlueprintGameplayTagLibraryNotEqual_GameplayTagContainer",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:18=(FieldName="/Script/TimeManagement.TimeManagementBlueprintLibraryMultiply_SecondsFrameRate",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:ConsoleVariables:SplineComponent.OnlyUpdateActiveSpline:0=0
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:BulkDataRegistryEnabled:0=true
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:bUseSoftGC:0=true
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:CookerIdleWarningSeverity:0=Warning
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:CookIncrementalDefaultIncremental:0=false
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:CookProcessCount:0=1
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:CookProcessCountFromEditor:0=-1
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:IdleTimeToGC:0=20
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:IncrementalClassDenyList:0=/Script/CustomizableObject.CustomizableObject		; UE-224744
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:IncrementalClassDenyList:1=/Script/CoreUObject.VerseClass						; Not yet documented
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:IncrementalClassScriptPackageAllowList:0=Allow,<EngineRoot>
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:LegacyIterative:0=false
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:LegacyIterativeIgnoreExe:0=true
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:LegacyIterativeIgnoreIni:0=false
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:MaxConcurrentShaderJobs:0=65536
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:MemoryMaxUsedPhysical:0=0
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:MemoryMaxUsedVirtual:0=0
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:MemoryMinFreePhysical:0=2048
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:MemoryMinFreeVirtual:0=2048
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:MemoryTriggerGCAtPressureLevel:0=None
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:MPCookGeneratorSplit:0=AnyWorker
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:PackagesPerGC:0=0
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:ProjectCookIncrementalVersion:0=00000000-0000-0000-0000-000000000000
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:SkipOnlyEditorOnly:0=true
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:SoftGCDenominator:0=10
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:SoftGCMinimumPeriodSeconds:0=30
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:SoftGCStartNumerator:0=0
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:SoftGCTimeFractionBudget:0=0.05
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CookSettings:UnexpectedLoadWarningSeverity:0=Display
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:CustomBlueprintFunctionLibrary:bCanCreateNew:0=true
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:ClassBlockList:0=/Script/Engine.StaticMesh
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:ClassBlockList:1=/Script/Engine.Blueprint
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:ClassBlockList:2=/Script/Engine.UserDefinedStruct
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:ClassBlockList:3=/Script/CommonUI.CommonGenericInputActionDataTable
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:ClassBlockList:4=/Script/Engine.DataTable
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:EditorDomainEnabled:0=false
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:GlobalCanConstructClasses:0=/Script/CoreUObject.MetaData
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:GlobalCanConstructClasses:1=/Script/Engine.AssetImportData
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:PackageBlockList:0=/Niagara/Functions/RandomRangeFloat
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:PackageBlockList:1=/Niagara/Modules/Update/Color/ScaleColor
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:EditorDomain:SaveUnversioned:0=true
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:Internationalization:LocalizationPaths:0=../../../Engine/Content/Localization/Editor
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:Internationalization:LocalizationPaths:1=../../../Engine/Content/Localization/Keywords
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:Internationalization:LocalizationPaths:2=../../../Engine/Content/Localization/Category
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:Internationalization:PropertyNameLocalizationPaths:0=../../../Engine/Content/Localization/PropertyNames
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:Internationalization:ToolTipLocalizationPaths:0=../../../Engine/Content/Localization/ToolTips
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:PythonScriptPlugin:DisablePythonForCommandlet:0=CookShaders
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:PythonScriptPlugin:DisablePythonForCommandlet:1=Cook
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:PythonScriptPlugin:DisablePythonForCommandlet:2=GatherText
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:PythonScriptPlugin:DisablePythonForCommandlet:3=GatherTextFromAssetsWorker
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:StructSerialization:SkipByteCodeSerialization:0=true
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:TextureBuild:NewTextureBuilds:0=false
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/Editor.ini:UserDefinedStructure:bUseUserDefinedStructure:0=true
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowAllCpuSamplingTracks:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowAllCpuTracks:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowAllGpuTracks:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowAllVerseTracks:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowContextSwitches:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowContextSwitchExtendedLines:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowContextSwitchOverlays:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowCpuCoreTracks:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowGpuFencesExtendedLines:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowGpuFencesRelations:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowGpuFencesTracks:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowGpuWorkExtendedLines:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowGpuWorkOverlays:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowGpuWorkTracks:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.MemoryProfiler.TimingView:ShowNonTargetProcessEvents:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.PersistentTimingView:Name:0=TimingProfiler
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.PersistentTimingView:Name:1=MemoryProfiler
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:AutoScrollFrameAlignment:0=game
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:AutoScrollMinDelay:0=0.3
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:AutoScrollViewportOffsetPercent:0=0.1
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:bAllowPanningOnScreenEdges:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:bAutoHideEmptyTracks:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:bAutoScroll:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:bShowFormatInTimerNames:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:DefaultZoomLevel:0=5.0
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:ThreadsToUseRatio:0=0.75
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:TimingTrackDepthLimit.Max:0=1000
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler:TimingTrackDepthLimit.Min:0=0
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.FramesView:bAutoZoomOnFrameSelection:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.FramesView:bShowLowerThresholdLine:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.FramesView:bShowUpperThresholdLine:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.FramesView:LowerThreshold:0=60 fps
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.FramesView:UpperThreshold:0=30 fps
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowBars:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowConnectedLines:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowEventDuration:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowGameFrames:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowPoints:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowPointsWithBorder:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowPolygons:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.MainGraph:ShowRenderingFrame:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:GameFrameColumns:0=MaxInclTime
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:GameFrameColumns:1=AverageInclTime
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:GameFrameColumns:2=MedianInclTime
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:GameFrameColumns:3=MinInclTime
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:GroupingMode:0=3
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:InstanceColumns:0=Count
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:InstanceColumns:1=TotalInclTime
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:InstanceColumns:2=TotalExclTime
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:RenderingFrameColumns:0=MaxInclTime
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:RenderingFrameColumns:1=AverageInclTime
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:RenderingFrameColumns:2=MedianInclTime
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:RenderingFrameColumns:3=MinInclTime
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:ShowCpuSamplingTimers:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:ShowCpuTimers:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:ShowGpuTimers:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:ShowVerseSamplingTimers:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimersView:ShowZeroCountTimers:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowAllCpuSamplingTracks:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowAllCpuTracks:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowAllGpuTracks:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowAllVerseTracks:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowContextSwitches:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowContextSwitchExtendedLines:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowContextSwitchOverlays:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowCpuCoreTracks:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowGpuFencesExtendedLines:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowGpuFencesRelations:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowGpuFencesTracks:0=False
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowGpuWorkExtendedLines:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowGpuWorkOverlays:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowGpuWorkTracks:0=True
+ConfigSystem.<Editor>.D::::/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Config/WindowsEditor/UnrealInsightsSettings.ini:Insights.TimingProfiler.TimingView:ShowNonTargetProcessEvents:0=True
 ConfigSystem.<Editor>.DeviceProfiles:Windows DeviceProfile:BaseProfileName:0=
 ConfigSystem.<Editor>.DeviceProfiles:Windows DeviceProfile:CVars:0=UI.SlateSDFText.RasterizationMode=Msdf
 ConfigSystem.<Editor>.DeviceProfiles:Windows DeviceProfile:CVars:1=UI.SlateSDFText.ResolutionLevel=2
@@ -593,7 +586,6 @@ ConfigSystem.<Editor>.Engine:DevOptions.Shaders:NumUnusedShaderCompilingThreads:
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:NumUnusedShaderCompilingThreadsDuringGame:0=4
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:ProcessGameThreadTargetTime:0=.01
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:ShaderCompilerCoreCountThreshold:0=12
-ConfigSystem.<Editor>.Engine:DevOptions.Shaders:WorkerProcessPriority:0=-1
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:WorkerTimeToLive:0=20
 ConfigSystem.<Editor>.Engine:Engine.ErrorHandling:bPromptForRemoteDebugging:0=false
 ConfigSystem.<Editor>.Engine:Engine.ErrorHandling:bPromptForRemoteDebugOnEnsure:0=false
@@ -1180,30 +1172,6 @@ LocalSingleIniFile.Linux.../../../Engine/Config/Linux/DataDrivenPlatformInfo.ini
 LocalSingleIniFile.Linux.../../../Engine/Config/Linux/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:Windows::bIsEnabled:0=true
 LocalSingleIniFile.Linux.../../../Engine/Config/Linux/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:Windows::bUsesHostCompiler:0=false
 LocalSingleIniFile.Linux.../../../Engine/Config/Linux/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:XLargeIconPath:0=
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:AutoSDKPath:0=Linux_x64
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bCanChangeGamepadType:0=true
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bDefaultInputStandardKeyboard:0=true
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bHasDedicatedGamepad:0=false
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bInputSupportConfigurable:0=true
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bIsConfidential:0=false
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bSupportsGamepad:0=true
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bSupportsMouseAndKeyboard:0=true
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bSupportsTouch:0=false
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bUATClosesAfterLaunch:0=true
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:DefaultInputType:0=MouseAndKeyboard
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:GlobalIdentifier:0=C0B45A339DE340C7BCE24C4715C3BABF
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:ICUDataVersion:0=icudt64l
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:IniParent:0=Unix
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:LargeIconPath:0=Launcher/Linux/Platform_Linux_128x
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:NormalIconPath:0=Launcher/Linux/Platform_Linux_24x
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:OverrideCookPlatformName:0=Linux
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:PlatformGroupName:0=Mobile
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:PlatformSubMenu:0=Linux
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:TargetSettingsIniSectionName:0=/Script/LinuxTargetPlatform.LinuxTargetSettings
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:TutorialPath:0=SharingAndReleasing/Linux
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:Windows::bIsEnabled:0=true
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:Windows::bUsesHostCompiler:0=false
-LocalSingleIniFile.LinuxArm64.../../../Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:XLargeIconPath:0=
 LocalSingleIniFile.Mac.../../../Engine/Config/Mac/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:AutoSDKPath:0=
 LocalSingleIniFile.Mac.../../../Engine/Config/Mac/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bCanChangeGamepadType:0=true
 LocalSingleIniFile.Mac.../../../Engine/Config/Mac/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bDefaultInputStandardKeyboard:0=false
@@ -1335,7 +1303,7 @@ LocalSingleIniFile.<Editor>.../../../Engine/Plugins/Runtime/IOSDeviceProfileSele
 LocalSingleIniFile.<Editor>.../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/Config/DeviceModelsInfo.ini:DeviceModelToDeviceSpec:Entry:8=(Devices="iPhone171,2|iPhone181,2", ResX="2622", ResY="1206")
 LocalSingleIniFile.<Editor>.../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/Config/DeviceModelsInfo.ini:DeviceModelToDeviceSpec:Entry:9=(Devices="iPhone173|iPhone183", ResX="2868", ResY="1320")
 LocalSingleIniFile.<Editor>.../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/Config/DeviceModelsInfo.ini:DeviceModelToDeviceSpec:Entry:10=(Devices="iPhone184", ResX="2736", ResY="1260")
-LocalSingleIniFile.<Editor>.C::::/Users/tophe/AppData/Local/UnrealEngine/5.8/Saved/Config/WindowsEditor/Manifest.ini:Manifest:Version:0=2
+LocalSingleIniFile.<Editor>.C::::/Users/Abbyz/AppData/Local/UnrealEngine/5.8/Saved/Config/WindowsEditor/Manifest.ini:Manifest:Version:0=2
 LocalSingleIniFile.TVOS.../../../Engine/Config/TVOS/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:AutoSDKPath:0=
 LocalSingleIniFile.TVOS.../../../Engine/Config/TVOS/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bIsConfidential:0=false
 LocalSingleIniFile.TVOS.../../../Engine/Config/TVOS/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bUATClosesAfterLaunch:0=true

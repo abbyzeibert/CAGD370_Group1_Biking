@@ -4,17 +4,17 @@
 		"islocalhost": true,
 		"hostname": "[::1]",
 		"remotehostnames": [
-			"100.64.5.90",
-			"hostname://MSI"
+			"100.64.4.158",
+			"hostname://DESKTOP-4FA0AFC"
 		],
 		"hostport": 8558,
 		"hostauth":
 		{
 			"type": "password",
 			"username": "ue",
-			"password": "C8EDF1D54E88804BEBB50E9A174F34ED"
+			"password": "99608E7F4A3354A5E9ECADB57BD19847"
 		},
-		"projectid": "CAGD370_Biking.95dd3ebe",
+		"projectid": "CAGD370_Biking.c106c540",
 		"oplogid": "Windows"
 	}
 }

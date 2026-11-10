@@ -1,4 +1,4 @@
-;ServerRoot=C:/Unreal/Unreal Programs, Platform=Windows, CookDirectory=C:/Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/
+;ServerRoot=D:/Epic Games/UE_5.8, Platform=Windows, CookDirectory=D:/Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/
 FileId, ServerPath, ClientPath
 df3238689709b0c0fe8da807, Engine/Config/Android/AndroidEngine.ini, /{engine}/Config/Android/AndroidEngine.ini
 a0fea3b591f2791f059f1b07, Engine/Config/Android/AndroidScalability.ini, /{engine}/Config/Android/AndroidScalability.ini
@@ -44,9 +44,6 @@ ede93c9c3b949eada76a7507, Engine/Config/Linux/LinuxEditorGameAgnostic.ini, /{eng
 782ffc18b4a27e68d2b27507, Engine/Config/Linux/LinuxEditorPerProjectUserSettings.ini, /{engine}/Config/Linux/LinuxEditorPerProjectUserSettings.ini
 d553b8bfdede1b76cfa55e07, Engine/Config/Linux/LinuxEngine.ini, /{engine}/Config/Linux/LinuxEngine.ini
 440406b425f8eab4649efd07, Engine/Config/Linux/LinuxGame.ini, /{engine}/Config/Linux/LinuxGame.ini
-c0b1381f25d8fed44d089f07, Engine/Config/LinuxArm64/BaseLinuxArm64Engine.ini, /{engine}/Config/LinuxArm64/BaseLinuxArm64Engine.ini
-e613003044044efe024e1807, Engine/Config/LinuxArm64/DataDrivenPlatformInfo.ini, /{engine}/Config/LinuxArm64/DataDrivenPlatformInfo.ini
-09314449244ed09192a8d407, Engine/Config/LinuxArm64/LinuxArm64Engine.ini, /{engine}/Config/LinuxArm64/LinuxArm64Engine.ini
 8ab49a705f2f64173fc5ae07, Engine/Config/Localization/Category.ini, /{engine}/Config/Localization/Category.ini
 7a35c5f14ee9578dd0c97107, Engine/Config/Localization/Editor.ini, /{engine}/Config/Localization/Editor.ini
 02b9f9d8bf09e5a4ba566a07, Engine/Config/Localization/Engine.ini, /{engine}/Config/Localization/Engine.ini
@@ -76,12 +73,12 @@ a1406542a36fa875831c7d07, Engine/Config/Windows/DataDrivenPlatformInfo.ini, /{en
 a0335c1b868fb04237242c07, Engine/Config/Windows/WindowsEditorSettings.ini, /{engine}/Config/Windows/WindowsEditorSettings.ini
 c8e865380178db39d3f69007, Engine/Config/Windows/WindowsGame.ini, /{engine}/Config/Windows/WindowsGame.ini
 91760f73c4faed7ce514c307, Engine/Config/Windows/WindowsInput.ini, /{engine}/Config/Windows/WindowsInput.ini
-9be1a984bfa6b08fcfb1cd07, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont, /{engine}/Content/EngineFonts/Faces/DroidSansFallback.ufont
-e72df0eda04c23ce14c66207, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/Content/EngineFonts/Faces/RobotoBold.ufont, /{engine}/Content/EngineFonts/Faces/RobotoBold.ufont
-4c8dfe08ec42306437e9af07, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont, /{engine}/Content/EngineFonts/Faces/RobotoBoldItalic.ufont
-8b6b566597100de2f80daf07, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/Content/EngineFonts/Faces/RobotoItalic.ufont, /{engine}/Content/EngineFonts/Faces/RobotoItalic.ufont
-6837e9d406c085c41089c307, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/Content/EngineFonts/Faces/RobotoLight.ufont, /{engine}/Content/EngineFonts/Faces/RobotoLight.ufont
-eb40063c90cbb99c25cf7807, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/Content/EngineFonts/Faces/RobotoRegular.ufont, /{engine}/Content/EngineFonts/Faces/RobotoRegular.ufont
+9be1a984bfa6b08fcfb1cd07, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont, /{engine}/Content/EngineFonts/Faces/DroidSansFallback.ufont
+e72df0eda04c23ce14c66207, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/Content/EngineFonts/Faces/RobotoBold.ufont, /{engine}/Content/EngineFonts/Faces/RobotoBold.ufont
+4c8dfe08ec42306437e9af07, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont, /{engine}/Content/EngineFonts/Faces/RobotoBoldItalic.ufont
+8b6b566597100de2f80daf07, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/Content/EngineFonts/Faces/RobotoItalic.ufont, /{engine}/Content/EngineFonts/Faces/RobotoItalic.ufont
+6837e9d406c085c41089c307, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/Content/EngineFonts/Faces/RobotoLight.ufont, /{engine}/Content/EngineFonts/Faces/RobotoLight.ufont
+eb40063c90cbb99c25cf7807, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/Content/EngineFonts/Faces/RobotoRegular.ufont, /{engine}/Content/EngineFonts/Faces/RobotoRegular.ufont
 ddbb0bc2c48f3ff427747e07, Engine/Content/Internationalization/English/icudt64l/brkitr/char.brk, /{engine}/Content/Internationalization/icudt64l/brkitr/char.brk
 89c01e2407c909e0424fc107, Engine/Content/Internationalization/English/icudt64l/brkitr/en.res, /{engine}/Content/Internationalization/icudt64l/brkitr/en.res
 aebc22a9c6bc6bdfca63ea07, Engine/Content/Internationalization/English/icudt64l/brkitr/en_US.res, /{engine}/Content/Internationalization/icudt64l/brkitr/en_US.res
@@ -1635,8 +1632,8 @@ d463bc7bcbbb8b08ab97ad07, Engine/Content/Slate/Testing/Lit.png, /{engine}/Conten
 4e825161cdbc17666d689207, Engine/Content/Slate/Testing/Wireframe.png, /{engine}/Content/Slate/Testing/Wireframe.png
 a86368499b8c3bd3b7c89d07, Engine/Content/Slate/Tutorials/TutorialBorder.png, /{engine}/Content/Slate/Tutorials/TutorialBorder.png
 289b7230bfe9d08bc8e48e07, Engine/Content/Slate/Tutorials/TutorialShadow.png, /{engine}/Content/Slate/Tutorials/TutorialShadow.png
-17fa1624e5f837df62f23307, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/GlobalShaderCache-PCD3D_SM5.bin, /{engine}/GlobalShaderCache-PCD3D_SM5.bin
-f2656e987b92dd57280d2d07, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/GlobalShaderCache-PCD3D_SM6.bin, /{engine}/GlobalShaderCache-PCD3D_SM6.bin
+17fa1624e5f837df62f23307, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/GlobalShaderCache-PCD3D_SM5.bin, /{engine}/GlobalShaderCache-PCD3D_SM5.bin
+f2656e987b92dd57280d2d07, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/Engine/GlobalShaderCache-PCD3D_SM6.bin, /{engine}/GlobalShaderCache-PCD3D_SM6.bin
 8c419eff9b385fc3d46a5107, Engine/Plugins/2D/Paper2D/Config/DefaultPaper2D.ini, /{engine}/Plugins/2D/Paper2D/Config/DefaultPaper2D.ini
 311c264f7413431a53a0ae07, Engine/Plugins/2D/Paper2D/Paper2D.uplugin, /{engine}/Plugins/2D/Paper2D/Paper2D.uplugin
 3c26155a8559d752ba936507, Engine/Plugins/AI/AISupport/AISupport.uplugin, /{engine}/Plugins/AI/AISupport/AISupport.uplugin
@@ -1707,6 +1704,7 @@ e12c7f34229a405b28fa5a07, Engine/Plugins/Animation/TweeningUtils/TweeningUtils.u
 dc1cd65aedb6ca31bdb9fa07, Engine/Plugins/AutomationControllerRpc/AutomationControllerRpc.uplugin, /{engine}/Plugins/AutomationControllerRpc/AutomationControllerRpc.uplugin
 25fe21a0076d25956844a407, Engine/Plugins/BaseMaterial/BaseMaterial.uplugin, /{engine}/Plugins/BaseMaterial/BaseMaterial.uplugin
 712d82d9cf31b73b4e37c607, Engine/Plugins/BlueprintFileUtils/BlueprintFileUtils.uplugin, /{engine}/Plugins/BlueprintFileUtils/BlueprintFileUtils.uplugin
+74e7e8ece5dec121741cf907, Engine/Plugins/Bridge/Bridge.uplugin, /{engine}/Plugins/Bridge/Bridge.uplugin
 14aa51b9ae2055dddf3b9e07, Engine/Plugins/Cameras/CameraShakePreviewer/CameraShakePreviewer.uplugin, /{engine}/Plugins/Cameras/CameraShakePreviewer/CameraShakePreviewer.uplugin
 a7b9c6bfe1238b346d014f07, Engine/Plugins/Cameras/EngineCameras/EngineCameras.uplugin, /{engine}/Plugins/Cameras/EngineCameras/EngineCameras.uplugin
 b156e42758bf7666bcaab407, Engine/Plugins/Cameras/GameplayCameras/Config/DefaultGameplayCameras.ini, /{engine}/Plugins/Cameras/GameplayCameras/Config/DefaultGameplayCameras.ini
@@ -2055,7 +2053,6 @@ eaeb3088323a9fe0ad105507, Engine/Plugins/Experimental/NeuralRendering/NeuralRend
 8631e916cc394266f566ac07, Engine/Plugins/Experimental/NNERuntimeBasicCpu/NNERuntimeBasicCpu.uplugin, /{engine}/Plugins/Experimental/NNERuntimeBasicCpu/NNERuntimeBasicCpu.uplugin
 937bc139a1c0c67561d3c607, Engine/Plugins/Experimental/NNERuntimeCoreML/NNERuntimeCoreML.uplugin, /{engine}/Plugins/Experimental/NNERuntimeCoreML/NNERuntimeCoreML.uplugin
 5a073c90c76a8aa6a75fa807, Engine/Plugins/Experimental/NNERuntimeIREE/Config/Linux/LinuxGame.ini, /{engine}/Plugins/Experimental/NNERuntimeIREE/Config/Linux/LinuxGame.ini
-280f2a1c570037508fa43507, Engine/Plugins/Experimental/NNERuntimeIREE/Config/LinuxArm64/LinuxArm64Game.ini, /{engine}/Plugins/Experimental/NNERuntimeIREE/Config/LinuxArm64/LinuxArm64Game.ini
 d4f08c7d0ece6e12f64e2a07, Engine/Plugins/Experimental/NNERuntimeIREE/Config/Mac/MacGame.ini, /{engine}/Plugins/Experimental/NNERuntimeIREE/Config/Mac/MacGame.ini
 f43ab5ab5ed0a44f2f3f0107, Engine/Plugins/Experimental/NNERuntimeIREE/Config/Windows/WindowsGame.ini, /{engine}/Plugins/Experimental/NNERuntimeIREE/Config/Windows/WindowsGame.ini
 676895813e8fa86bff8a2b07, Engine/Plugins/Experimental/NNERuntimeIREE/NNERuntimeIREE.uplugin, /{engine}/Plugins/Experimental/NNERuntimeIREE/NNERuntimeIREE.uplugin
@@ -2180,6 +2177,7 @@ bf1387e90212ec68c8715307, Engine/Plugins/Experimental/UAF/UAFTestSuites/UAFTestS
 8a6f6ae853505e18bc3e4f07, Engine/Plugins/Experimental/UAF/UAFWarping/Config/DefaultUAFWarping.ini, /{engine}/Plugins/Experimental/UAF/UAFWarping/Config/DefaultUAFWarping.ini
 e06dd2a7e7b46f888e0e8807, Engine/Plugins/Experimental/UAF/UAFWarping/UAFWarping.uplugin, /{engine}/Plugins/Experimental/UAF/UAFWarping/UAFWarping.uplugin
 f58ee126181f851f1e956607, Engine/Plugins/Experimental/UIFramework/UIFramework.uplugin, /{engine}/Plugins/Experimental/UIFramework/UIFramework.uplugin
+8f02a674b3ffefa48a006507, Engine/Plugins/Experimental/USDPregen/Config/DefaultUSDPregen.ini, /{engine}/Plugins/Experimental/USDPregen/Config/DefaultUSDPregen.ini
 8094d9bdef264daab5325207, Engine/Plugins/Experimental/USDPregen/USDPregen.uplugin, /{engine}/Plugins/Experimental/USDPregen/USDPregen.uplugin
 c528b9ca6bc3ffb523b00b07, Engine/Plugins/Experimental/UserToolBoxBasicCommand/Config/FilterPlugin.ini, /{engine}/Plugins/Experimental/UserToolBoxBasicCommand/Config/FilterPlugin.ini
 70d00ddd287320940e28d607, Engine/Plugins/Experimental/UserToolBoxBasicCommand/UserToolBoxBasicCommand.uplugin, /{engine}/Plugins/Experimental/UserToolBoxBasicCommand/UserToolBoxBasicCommand.uplugin
@@ -2840,28 +2838,28 @@ fcb48be006b148ec0ba76e07, Engine/Plugins/Web/HttpBlueprint/HttpBlueprint.uplugin
 29a4be06c158662925ee0307, Engine/Plugins/WorldMetrics/WorldMetrics.uplugin, /{engine}/Plugins/WorldMetrics/WorldMetrics.uplugin
 28c0841880d03fcf40dd4d07, Engine/Plugins/WorldStreamingInsights/WorldStreamingInsights.uplugin, /{engine}/Plugins/WorldStreamingInsights/WorldStreamingInsights.uplugin
 3c09648d2940b60936d95a07, Engine/Plugins/XGEController/XGEController.uplugin, /{engine}/Plugins/XGEController/XGEController.uplugin
-8b90233bc0c6082b1cba2a07, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/AssetRegistry.bin, /{project}/AssetRegistry.bin
-dac5037e292b48cb127d6e07, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/CAGD370_Biking.uproject, /{project}/CAGD370_Biking.uproject
-5d42978e1e7b59a36aaaca07, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Config/DefaultEditor.ini, /{project}/Config/DefaultEditor.ini
-239c8048e19d1c5d01e16907, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Config/DefaultEngine.ini, /{project}/Config/DefaultEngine.ini
-eee6c0c9c37ec30a22e9b207, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Config/DefaultGame.ini, /{project}/Config/DefaultGame.ini
-98583038ac4c85c950d98d07, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Config/DefaultInput.ini, /{project}/Config/DefaultInput.ini
-0a14ce1bc4b393802ed25507, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderArchive-CAGD370_Biking-PCD3D_SM5-PCD3D_SM5.ushaderbytecode, /{project}/Content/ShaderArchive-CAGD370_Biking-PCD3D_SM5-PCD3D_SM5.ushaderbytecode
-4cf2f735f4767ca3dbcd0a07, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderArchive-CAGD370_Biking-PCD3D_SM6-PCD3D_SM6.ushaderbytecode, /{project}/Content/ShaderArchive-CAGD370_Biking-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
-206af179aad76ab97fc44907, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderArchive-Global-PCD3D_SM5-PCD3D_SM5.ushaderbytecode, /{project}/Content/ShaderArchive-Global-PCD3D_SM5-PCD3D_SM5.ushaderbytecode
-f77c781846caead318084607, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode, /{project}/Content/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
-7f9d581a32008ab295b19c07, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderAssetInfo-CAGD370_Biking-PCD3D_SM5-PCD3D_SM5.assetinfo.json, /{project}/Content/ShaderAssetInfo-CAGD370_Biking-PCD3D_SM5-PCD3D_SM5.assetinfo.json
-7bdeb2bf9530a3f1fcecbb07, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderAssetInfo-CAGD370_Biking-PCD3D_SM6-PCD3D_SM6.assetinfo.json, /{project}/Content/ShaderAssetInfo-CAGD370_Biking-PCD3D_SM6-PCD3D_SM6.assetinfo.json
-f8224692b6f59407c21ae707, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderAssetInfo-Global-PCD3D_SM5-PCD3D_SM5.assetinfo.json, /{project}/Content/ShaderAssetInfo-Global-PCD3D_SM5-PCD3D_SM5.assetinfo.json
-5248b9bdadfd6667a122d207, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderAssetInfo-Global-PCD3D_SM6-PCD3D_SM6.assetinfo.json, /{project}/Content/ShaderAssetInfo-Global-PCD3D_SM6-PCD3D_SM6.assetinfo.json
-519e545fde2ee02871029007, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderTypeInfo-CAGD370_Biking-PCD3D_SM5-PCD3D_SM5.stinfo, /{project}/Content/ShaderTypeInfo-CAGD370_Biking-PCD3D_SM5-PCD3D_SM5.stinfo
-9478dd66ebe4305e788b2407, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderTypeInfo-CAGD370_Biking-PCD3D_SM6-PCD3D_SM6.stinfo, /{project}/Content/ShaderTypeInfo-CAGD370_Biking-PCD3D_SM6-PCD3D_SM6.stinfo
-c05c0f0593fa902ade3c0507, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderTypeInfo-Global-PCD3D_SM5-PCD3D_SM5.stinfo, /{project}/Content/ShaderTypeInfo-Global-PCD3D_SM5-PCD3D_SM5.stinfo
-a6365202f97b7942a9590407, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderTypeInfo-Global-PCD3D_SM6-PCD3D_SM6.stinfo, /{project}/Content/ShaderTypeInfo-Global-PCD3D_SM6-PCD3D_SM6.stinfo
-e5cbf5fa496a26082ddbdf07, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Metadata/CookedIniVersion.txt, /{project}/Metadata/CookedIniVersion.txt
-f8cb9c728aa1028ffc6bf907, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Metadata/CookedSettings.txt, /{project}/Metadata/CookedSettings.txt
-e668430ebbc487a14314b907, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Metadata/CookMetadata.ucookmeta, /{project}/Metadata/CookMetadata.ucookmeta
-753ef57d67f39550cd917707, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Metadata/DevelopmentAssetRegistry.bin, /{project}/Metadata/DevelopmentAssetRegistry.bin
-bb80d18c861bb457ec4a8907, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Metadata/ShaderTypeStats-PCD3D_SM5.csv, /{project}/Metadata/ShaderTypeStats-PCD3D_SM5.csv
-932f0e6b3e0d2f979e541307, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Metadata/ShaderTypeStats-PCD3D_SM6.csv, /{project}/Metadata/ShaderTypeStats-PCD3D_SM6.csv
-0396fee4ea1fb4a0966db007, ../../Documents(Not Onedrive)/GitHub/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Metadata/ValidationCookArtifact.json, /{project}/Metadata/ValidationCookArtifact.json
+8b90233bc0c6082b1cba2a07, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/AssetRegistry.bin, /{project}/AssetRegistry.bin
+dac5037e292b48cb127d6e07, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/CAGD370_Biking.uproject, /{project}/CAGD370_Biking.uproject
+5d42978e1e7b59a36aaaca07, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Config/DefaultEditor.ini, /{project}/Config/DefaultEditor.ini
+239c8048e19d1c5d01e16907, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Config/DefaultEngine.ini, /{project}/Config/DefaultEngine.ini
+eee6c0c9c37ec30a22e9b207, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Config/DefaultGame.ini, /{project}/Config/DefaultGame.ini
+98583038ac4c85c950d98d07, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Config/DefaultInput.ini, /{project}/Config/DefaultInput.ini
+0a14ce1bc4b393802ed25507, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderArchive-CAGD370_Biking-PCD3D_SM5-PCD3D_SM5.ushaderbytecode, /{project}/Content/ShaderArchive-CAGD370_Biking-PCD3D_SM5-PCD3D_SM5.ushaderbytecode
+4cf2f735f4767ca3dbcd0a07, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderArchive-CAGD370_Biking-PCD3D_SM6-PCD3D_SM6.ushaderbytecode, /{project}/Content/ShaderArchive-CAGD370_Biking-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+206af179aad76ab97fc44907, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderArchive-Global-PCD3D_SM5-PCD3D_SM5.ushaderbytecode, /{project}/Content/ShaderArchive-Global-PCD3D_SM5-PCD3D_SM5.ushaderbytecode
+f77c781846caead318084607, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode, /{project}/Content/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+7f9d581a32008ab295b19c07, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderAssetInfo-CAGD370_Biking-PCD3D_SM5-PCD3D_SM5.assetinfo.json, /{project}/Content/ShaderAssetInfo-CAGD370_Biking-PCD3D_SM5-PCD3D_SM5.assetinfo.json
+7bdeb2bf9530a3f1fcecbb07, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderAssetInfo-CAGD370_Biking-PCD3D_SM6-PCD3D_SM6.assetinfo.json, /{project}/Content/ShaderAssetInfo-CAGD370_Biking-PCD3D_SM6-PCD3D_SM6.assetinfo.json
+f8224692b6f59407c21ae707, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderAssetInfo-Global-PCD3D_SM5-PCD3D_SM5.assetinfo.json, /{project}/Content/ShaderAssetInfo-Global-PCD3D_SM5-PCD3D_SM5.assetinfo.json
+5248b9bdadfd6667a122d207, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderAssetInfo-Global-PCD3D_SM6-PCD3D_SM6.assetinfo.json, /{project}/Content/ShaderAssetInfo-Global-PCD3D_SM6-PCD3D_SM6.assetinfo.json
+519e545fde2ee02871029007, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderTypeInfo-CAGD370_Biking-PCD3D_SM5-PCD3D_SM5.stinfo, /{project}/Content/ShaderTypeInfo-CAGD370_Biking-PCD3D_SM5-PCD3D_SM5.stinfo
+9478dd66ebe4305e788b2407, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderTypeInfo-CAGD370_Biking-PCD3D_SM6-PCD3D_SM6.stinfo, /{project}/Content/ShaderTypeInfo-CAGD370_Biking-PCD3D_SM6-PCD3D_SM6.stinfo
+c05c0f0593fa902ade3c0507, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderTypeInfo-Global-PCD3D_SM5-PCD3D_SM5.stinfo, /{project}/Content/ShaderTypeInfo-Global-PCD3D_SM5-PCD3D_SM5.stinfo
+a6365202f97b7942a9590407, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Content/ShaderTypeInfo-Global-PCD3D_SM6-PCD3D_SM6.stinfo, /{project}/Content/ShaderTypeInfo-Global-PCD3D_SM6-PCD3D_SM6.stinfo
+e5cbf5fa496a26082ddbdf07, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Metadata/CookedIniVersion.txt, /{project}/Metadata/CookedIniVersion.txt
+f8cb9c728aa1028ffc6bf907, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Metadata/CookedSettings.txt, /{project}/Metadata/CookedSettings.txt
+e668430ebbc487a14314b907, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Metadata/CookMetadata.ucookmeta, /{project}/Metadata/CookMetadata.ucookmeta
+753ef57d67f39550cd917707, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Metadata/DevelopmentAssetRegistry.bin, /{project}/Metadata/DevelopmentAssetRegistry.bin
+bb80d18c861bb457ec4a8907, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Metadata/ShaderTypeStats-PCD3D_SM5.csv, /{project}/Metadata/ShaderTypeStats-PCD3D_SM5.csv
+932f0e6b3e0d2f979e541307, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Metadata/ShaderTypeStats-PCD3D_SM6.csv, /{project}/Metadata/ShaderTypeStats-PCD3D_SM6.csv
+0396fee4ea1fb4a0966db007, ../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/Cooked/Windows/CAGD370_Biking/Metadata/ValidationCookArtifact.json, /{project}/Metadata/ValidationCookArtifact.json

@@ -619,7 +619,9 @@
 		{
 			"ShaderMapHash": "C2E595B2F5125572",
 			"Assets": [
-				"/Game/_Abbys_Work/Levels/MovementTestMap"
+				"/Game/_Abbys_Work/Levels/MovementTestMap",
+				"/Game/Levels/_Lvl1",
+				"/Game/Levels/_Lvl2"
 			]
 		},
 		{
