@@ -5774,3 +5774,672 @@ Stack:
 [2026.11.10-01.49.32:680][685]LogSlate: Window 'Message Log' being destroyed
 [2026.11.10-01.49.32:778][685]LogSlate: Window 'Message Log' being destroyed
 [2026.11.10-01.49.34:915][771]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager
+[2026.11.10-01.51.52:266][962]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.10-01.51.52:266][962]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.10-01.51.52:266][962]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.10-01.51.52:266][962]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.10-01.51.52:266][962]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.10-01.51.55:265][158]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.11.10-01.51.55:265][158]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.11.10-01.51.57:741][328]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.10-01.51.57:754][328]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.10-01.51.57:755][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.10-01.51.57:755][328]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0__Lvl1
+[2026.11.10-01.51.57:777][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021701s)
+[2026.11.10-01.51.57:777][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/_Lvl1._Lvl1 to /Game/Levels/UEDPIE_0__Lvl1._Lvl1 (0.021771s)
+[2026.11.10-01.51.57:839][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.11.10-01.51.57:840][328]LogStreaming: Warning: Failed to read file '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/SaveGames/LV2Scores.sav' error.
+[2026.11.10-01.51.57:841][328]LogBlueprintUserMessages: [BP_GameInstance_C_12] Set lv3 times
+[2026.11.10-01.51.57:841][328]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl1
+[2026.11.10-01.51.57:843][328]LogPlayLevel: PIE: World Init took: (0.002567s)
+[2026.11.10-01.51.57:843][328]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.11.10-01.51.57:843][328]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.10-01.51.57:843][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.10-01.51.57:843][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.10-01.51.57:843][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.10-01.51.57:843][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.10-01.51.57:843][328]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.10-01.51.57:844][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.10-01.51.57:844][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.10-01.51.57:844][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.10-01.51.57:844][328]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.10-01.51.57:844][328]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.10-01.51.57:844][328]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.10-01.51.57:844][328]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.10-01.51.57:850][328]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.11.10-01.51.57:850][328]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (JOUNIVO JV610)'
+[2026.11.10-01.51.57:852][328]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.11.10-01.51.57:853][328]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (JOUNIVO JV610)'
+[2026.11.10-01.51.57:854][328]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Oculus Virtual Audio Device)'
+[2026.11.10-01.51.57:855][328]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (JOUNIVO JV610)'
+[2026.11.10-01.51.57:860][328]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.10-01.51.57:860][328]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.10-01.51.57:860][328]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.10-01.51.57:861][328]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.10-01.51.57:864][328]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.10-01.51.57:864][328]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.10-01.51.57:864][328]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.10-01.51.57:864][328]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.11.10-01.51.57:864][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.10-01.51.57:864][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.10-01.51.57:864][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.10-01.51.57:865][328]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.11.10-01.51.57:867][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.11.10-01.51.57:870][328]LogInit: FAudioDevice initialized with ID 14.
+[2026.11.10-01.51.57:870][328]LogAudio: Display: Audio Device (ID: 14) registered with world '_Lvl1'.
+[2026.11.10-01.51.57:870][328]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.11.10-01.51.57:870][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.10-01.51.57:875][328]LogLoad: Game class is 'BP_GameMode_C'
+[2026.11.10-01.51.57:881][328]LogWorld: Bringing World /Game/Levels/UEDPIE_0__Lvl1._Lvl1 up for play (max tick rate 0) at 2026.11.09-17.51.57
+[2026.11.10-01.51.57:881][328]LogWorld: Bringing up level for play took: 0.006380
+[2026.11.10-01.51.57:884][328]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.11.10-01.51.57:885][328]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.10-01.51.57:886][328]PIE: Server logged in
+[2026.11.10-01.51.57:888][328]PIE: Play in editor total start time 0.134 seconds.
+[2026.11.10-01.51.57:929][329]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.11.10-01.51.57:929][329]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.11.10-01.51.58:944][369]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.11.10-01.51.59:945][420]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.11.10-01.52.00:946][473]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.11.10-01.52.00:946][473]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.11.10-01.52.00:946][473]LogBlueprintUserMessages: [BP_Bike_C_1] Shaking cam
+[2026.11.10-01.52.03:301][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.10-01.52.03:301][589]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0__Lvl1
+[2026.11.10-01.52.03:302][589]LogWorld: UWorld::CleanupWorld for _Lvl1, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.52.03:303][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.52.03:313][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.10-01.52.03:320][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.52.03:372][589]LogAudio: Display: Audio Device unregistered from world '_Lvl1'.
+[2026.11.10-01.52.03:373][589]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.11.10-01.52.03:373][589]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=14, StreamState=4
+[2026.11.10-01.52.03:382][589]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.10-01.52.03:385][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.10-01.52.03:390][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2026.11.10-01.52.03:447][590]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.11.10-01.52.30:899][246]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2026.11.10-01.52.48:638][ 27]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1724.113037
+[2026.11.10-01.52.48:800][ 36]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.10-01.52.48:800][ 36]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1724.257324, Update Interval: 356.755280
+[2026.11.10-01.52.58:891][557]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_RaceManager.BP_RaceManager'
+[2026.11.10-01.52.59:012][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.11.10-01.52.59:705][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.10-01.52.59:762][584]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.11.10-01.52.59:762][584]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_RaceManager] ([2] browsable assets)...
+[2026.11.10-01.52.59:762][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_RaceManager]
+[2026.11.10-01.52.59:801][584]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_RaceManager
+[2026.11.10-01.52.59:802][584]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/BP_RaceManager690E5BFE48ADC7B727C22390F9A88797.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_RaceManager.uasset'
+[2026.11.10-01.52.59:813][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.964 ms (total: 3.71 sec)
+[2026.11.10-01.52.59:878][584]LogContentValidation: Enabled validators:
+[2026.11.10-01.52.59:878][584]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.10-01.52.59:878][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.10-01.52.59:878][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.10-01.52.59:878][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.10-01.52.59:878][584]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.10-01.52.59:878][584]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.10-01.52.59:878][584]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.10-01.52.59:878][584]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.10-01.52.59:878][584]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.10-01.52.59:879][584]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.10-01.52.59:879][584]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.10-01.52.59:879][584]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_RaceManager Validating asset
+[2026.11.10-01.52.59:879][584]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.10-01.52.59:879][584]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.10-01.52.59:879][584]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.10-01.52.59:879][584]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.10-01.52.59:879][584]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.10-01.52.59:879][584]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.10-01.52.59:879][584]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.10-01.52.59:879][584]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.10-01.52.59:879][584]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.10-01.52.59:879][584]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.10-01.53.10:343][993]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike'
+[2026.11.10-01.53.10:498][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2026.11.10-01.53.10:973][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.10-01.53.11:028][999]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/BP_Bike
+[2026.11.10-01.53.11:028][999]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/BP_Bike] ([2] browsable assets)...
+[2026.11.10-01.53.11:080][999]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Abbys_Work/Blueprints/BP_Bike.BP_Bike]
+[2026.11.10-01.53.11:080][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/BP_Bike]
+[2026.11.10-01.53.11:080][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Abbys_Work/Blueprints/BP_Bike" FILE="../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_Bike.uasset" SILENT=true
+[2026.11.10-01.53.11:146][999]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/BP_Bike
+[2026.11.10-01.53.11:147][999]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/BP_Bike52F6F80748D69BA0B63A0BB7E1021A37.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/BP_Bike.uasset'
+[2026.11.10-01.53.11:159][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.911 ms (total: 3.89 sec)
+[2026.11.10-01.53.11:244][999]LogContentValidation: Enabled validators:
+[2026.11.10-01.53.11:244][999]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.10-01.53.11:245][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.10-01.53.11:245][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.10-01.53.11:245][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.10-01.53.11:245][999]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.10-01.53.11:245][999]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.10-01.53.11:245][999]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.10-01.53.11:245][999]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.10-01.53.11:245][999]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.10-01.53.11:245][999]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.10-01.53.11:245][999]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.10-01.53.11:245][999]AssetCheck: /Game/_Abbys_Work/Blueprints/BP_Bike Validating asset
+[2026.11.10-01.53.11:245][999]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.10-01.53.11:245][999]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.10-01.53.11:245][999]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.10-01.53.11:245][999]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.10-01.53.11:245][999]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.10-01.53.11:245][999]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.10-01.53.11:245][999]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.10-01.53.11:245][999]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.10-01.53.11:245][999]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.10-01.53.11:245][999]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.10-01.53.16:028][225]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.10-01.53.16:040][225]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.10-01.53.16:040][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.10-01.53.16:040][225]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0__Lvl1
+[2026.11.10-01.53.16:066][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026055s)
+[2026.11.10-01.53.16:066][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/_Lvl1._Lvl1 to /Game/Levels/UEDPIE_0__Lvl1._Lvl1 (0.026111s)
+[2026.11.10-01.53.16:111][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.11.10-01.53.16:114][225]LogStreaming: Warning: Failed to read file '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/SaveGames/LV2Scores.sav' error.
+[2026.11.10-01.53.16:114][225]LogBlueprintUserMessages: [BP_GameInstance_C_13] Set lv3 times
+[2026.11.10-01.53.16:114][225]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl1
+[2026.11.10-01.53.16:117][225]LogPlayLevel: PIE: World Init took: (0.002698s)
+[2026.11.10-01.53.16:117][225]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.11.10-01.53.16:117][225]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.10-01.53.16:117][225]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.10-01.53.16:117][225]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.10-01.53.16:117][225]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.10-01.53.16:117][225]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.10-01.53.16:117][225]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.10-01.53.16:117][225]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.10-01.53.16:117][225]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.10-01.53.16:117][225]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.10-01.53.16:117][225]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.10-01.53.16:117][225]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.10-01.53.16:117][225]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.10-01.53.16:117][225]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.10-01.53.16:125][225]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.11.10-01.53.16:126][225]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (JOUNIVO JV610)'
+[2026.11.10-01.53.16:128][225]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.11.10-01.53.16:129][225]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (JOUNIVO JV610)'
+[2026.11.10-01.53.16:130][225]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Oculus Virtual Audio Device)'
+[2026.11.10-01.53.16:131][225]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (JOUNIVO JV610)'
+[2026.11.10-01.53.16:137][225]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.10-01.53.16:137][225]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.10-01.53.16:137][225]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.10-01.53.16:139][225]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.10-01.53.16:142][225]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.10-01.53.16:142][225]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.10-01.53.16:142][225]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.10-01.53.16:142][225]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.11.10-01.53.16:142][225]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.10-01.53.16:142][225]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.10-01.53.16:142][225]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.10-01.53.16:142][225]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.11.10-01.53.16:145][225]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.11.10-01.53.16:148][225]LogInit: FAudioDevice initialized with ID 15.
+[2026.11.10-01.53.16:148][225]LogAudio: Display: Audio Device (ID: 15) registered with world '_Lvl1'.
+[2026.11.10-01.53.16:148][225]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.11.10-01.53.16:149][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.10-01.53.16:153][225]LogLoad: Game class is 'BP_GameMode_C'
+[2026.11.10-01.53.16:161][225]LogWorld: Bringing World /Game/Levels/UEDPIE_0__Lvl1._Lvl1 up for play (max tick rate 0) at 2026.11.09-17.53.16
+[2026.11.10-01.53.16:161][225]LogWorld: Bringing up level for play took: 0.008153
+[2026.11.10-01.53.16:164][225]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.11.10-01.53.16:165][225]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.10-01.53.16:166][225]PIE: Server logged in
+[2026.11.10-01.53.16:169][225]PIE: Play in editor total start time 0.129 seconds.
+[2026.11.10-01.53.16:206][226]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.11.10-01.53.19:237][373]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.11.10-01.53.19:237][373]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.11.10-01.53.20:302][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.10-01.53.20:302][425]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0__Lvl1
+[2026.11.10-01.53.20:302][425]LogWorld: UWorld::CleanupWorld for _Lvl1, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.53.20:303][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.53.20:336][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.10-01.53.20:345][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.53.20:389][425]LogAudio: Display: Audio Device unregistered from world '_Lvl1'.
+[2026.11.10-01.53.20:389][425]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.11.10-01.53.20:389][425]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=15, StreamState=4
+[2026.11.10-01.53.20:396][425]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.10-01.53.20:398][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.10-01.53.20:403][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2026.11.10-01.53.20:474][426]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.11.10-01.53.26:316][647]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/BP_GameInstance.BP_GameInstance'
+[2026.11.10-01.53.26:373][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2026.11.10-01.53.26:908][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.10-01.53.26:963][669]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/BP_GameInstance
+[2026.11.10-01.53.26:964][669]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/BP_GameInstance] ([2] browsable assets)...
+[2026.11.10-01.53.26:964][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/BP_GameInstance]
+[2026.11.10-01.53.26:974][669]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/BP_GameInstance
+[2026.11.10-01.53.26:975][669]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/BP_GameInstanceDF7DB85F45A16CDCA17A84BB22840C8E.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/BP_GameInstance.uasset'
+[2026.11.10-01.53.26:984][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.445 ms (total: 3.97 sec)
+[2026.11.10-01.53.27:048][669]LogContentValidation: Enabled validators:
+[2026.11.10-01.53.27:048][669]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.10-01.53.27:048][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.10-01.53.27:048][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.10-01.53.27:048][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.10-01.53.27:048][669]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.10-01.53.27:048][669]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.10-01.53.27:048][669]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.10-01.53.27:048][669]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.10-01.53.27:048][669]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.10-01.53.27:048][669]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.10-01.53.27:048][669]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.10-01.53.27:048][669]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/BP_GameInstance Validating asset
+[2026.11.10-01.53.27:048][669]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.10-01.53.27:048][669]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.10-01.53.27:048][669]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.10-01.53.27:048][669]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.10-01.53.27:048][669]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.10-01.53.27:048][669]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.10-01.53.27:048][669]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.10-01.53.27:048][669]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.10-01.53.27:048][669]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.10-01.53.27:048][669]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.10-01.53.34:122][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2026.11.10-01.53.35:118][135]LogSlate: Window 'Save Content' being destroyed
+[2026.11.10-01.53.35:128][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.10-01.53.35:187][135]LogFileHelpers: Saving Map: /Game/Levels/_Lvl1
+[2026.11.10-01.53.35:188][135]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl1] ([1] browsable assets)...
+[2026.11.10-01.53.35:188][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl1]
+[2026.11.10-01.53.35:188][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/_Lvl1" FILE="../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_Lvl1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.11.10-01.53.35:265][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.11.10-01.53.35:562][135]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl1
+[2026.11.10-01.53.35:563][135]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_Lvl134C4E70D485E9BBB0FD5A1A95A6C690D.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_Lvl1.umap'
+[2026.11.10-01.53.35:677][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 548.064 ms (total: 4.52 sec)
+[2026.11.10-01.53.35:730][135]LogContentValidation: Enabled validators:
+[2026.11.10-01.53.35:730][135]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.10-01.53.35:730][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.10-01.53.35:730][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.10-01.53.35:730][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.10-01.53.35:730][135]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.10-01.53.35:730][135]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.10-01.53.35:730][135]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.10-01.53.35:730][135]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.10-01.53.35:730][135]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.10-01.53.35:730][135]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.10-01.53.35:730][135]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.10-01.53.35:731][135]AssetCheck: /Game/Levels/_Lvl1 Validating asset
+[2026.11.10-01.53.35:731][135]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.10-01.53.35:731][135]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.10-01.53.35:731][135]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.10-01.53.35:731][135]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.10-01.53.35:731][135]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.10-01.53.35:731][135]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.10-01.53.35:731][135]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.10-01.53.35:731][135]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.10-01.53.35:731][135]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.10-01.53.35:731][135]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.10-01.53.36:765][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.11.10-01.53.36:767][199]LogStreaming: Display: FlushAsyncLoading(635): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.10-01.53.37:133][199]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.11.10-01.53.37:211][199]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/_Lvl2._Lvl2
+[2026.11.10-01.53.37:211][199]Cmd: MAP LOAD FILE="../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.10-01.53.37:247][199]LogWorld: UWorld::CleanupWorld for _Lvl1, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.53.37:248][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.53.37:297][199]LogAudio: Display: Audio Device unregistered from world '_Lvl1'.
+[2026.11.10-01.53.37:303][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.11.10-01.53.37:308][199]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.53.37:309][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.53.37:381][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2026.11.10-01.53.37:429][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.11.10-01.53.37:588][199]LogAudio: Display: Audio Device (ID: 1) registered with world '_Lvl2'.
+[2026.11.10-01.53.37:588][199]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.11.10-01.53.37:724][199]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.10-01.53.37:778][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2026.11.10-01.53.37:796][199]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.10-01.53.37:796][199]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2026.11.10-01.53.38:300][219]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.11.10-01.53.40:684][357]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager_C
+[2026.11.10-01.53.40:684][357]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager_C
+[2026.11.10-01.53.40:684][357]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager as actor: BP_GameUIManager_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_GameUIManager_C_0
+[2026.11.10-01.53.40:685][357]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager as actor: BP_GameUIManager_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_GameUIManager_C_0
+[2026.11.10-01.53.41:119][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.11.10-01.53.41:122][380]LogEditorActor: Deleted 0 Actors (0.046 secs)
+[2026.11.10-01.53.41:129][380]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager_C
+[2026.11.10-01.53.41:129][380]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager_C
+[2026.11.10-01.53.41:131][380]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager as actor: BP_GameUIManager_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_GameUIManager_C_1
+[2026.11.10-01.53.41:132][380]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager as actor: BP_GameUIManager_C /Game/Levels/_Lvl2._Lvl2:PersistentLevel.BP_GameUIManager_C_1
+[2026.11.10-01.53.47:693][765]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.10-01.53.47:693][765]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.10-01.53.47:693][765]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.10-01.53.47:694][765]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.10-01.53.47:694][765]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.10-01.53.49:033][845]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.11.10-01.53.49:033][845]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.11.10-01.53.51:645][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.10-01.53.51:712][  1]LogFileHelpers: Saving Map: /Game/Levels/_Lvl2
+[2026.11.10-01.53.51:713][  1]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_Lvl2] ([1] browsable assets)...
+[2026.11.10-01.53.51:713][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_Lvl2]
+[2026.11.10-01.53.51:713][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/_Lvl2" FILE="../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.11.10-01.53.51:791][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.11.10-01.53.52:438][  1]LogSavePackage: Moving output files for package: /Game/Levels/_Lvl2
+[2026.11.10-01.53.52:438][  1]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/_Lvl27AFCCA59433B7B7296022285CF606415.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/Levels/_Lvl2.umap'
+[2026.11.10-01.53.52:562][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 917.006 ms (total: 5.43 sec)
+[2026.11.10-01.53.52:698][  1]LogContentValidation: Enabled validators:
+[2026.11.10-01.53.52:698][  1]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.10-01.53.52:698][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.10-01.53.52:698][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.10-01.53.52:698][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.10-01.53.52:698][  1]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.10-01.53.52:698][  1]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.10-01.53.52:698][  1]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.10-01.53.52:698][  1]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.10-01.53.52:698][  1]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.10-01.53.52:698][  1]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.10-01.53.52:698][  1]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.10-01.53.52:698][  1]AssetCheck: /Game/Levels/_Lvl2 Validating asset
+[2026.11.10-01.53.52:698][  1]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.10-01.53.52:698][  1]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.10-01.53.52:698][  1]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.10-01.53.52:698][  1]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.10-01.53.52:698][  1]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.10-01.53.52:698][  1]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.10-01.53.52:698][  1]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.10-01.53.52:699][  1]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.10-01.53.52:699][  1]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.10-01.53.52:699][  1]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.10-01.53.56:514][138]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.10-01.53.56:530][138]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.10-01.53.56:530][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.10-01.53.56:531][138]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0__Lvl2
+[2026.11.10-01.53.56:577][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047151s)
+[2026.11.10-01.53.56:577][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/_Lvl2._Lvl2 to /Game/Levels/UEDPIE_0__Lvl2._Lvl2 (0.047267s)
+[2026.11.10-01.53.56:619][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2026.11.10-01.53.56:622][138]LogStreaming: Warning: Failed to read file '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/SaveGames/LV2Scores.sav' error.
+[2026.11.10-01.53.56:622][138]LogChaosDD: Creating Chaos Debug Draw Scene for world _Lvl2
+[2026.11.10-01.53.56:625][138]LogPlayLevel: PIE: World Init took: (0.002485s)
+[2026.11.10-01.53.56:625][138]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.11.10-01.53.56:625][138]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.10-01.53.56:625][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.10-01.53.56:625][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.10-01.53.56:625][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.10-01.53.56:625][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.10-01.53.56:625][138]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.10-01.53.56:625][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.10-01.53.56:625][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.10-01.53.56:625][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.10-01.53.56:625][138]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.10-01.53.56:625][138]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.10-01.53.56:625][138]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.10-01.53.56:625][138]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.10-01.53.56:633][138]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.11.10-01.53.56:634][138]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (JOUNIVO JV610)'
+[2026.11.10-01.53.56:635][138]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.11.10-01.53.56:636][138]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (JOUNIVO JV610)'
+[2026.11.10-01.53.56:638][138]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Oculus Virtual Audio Device)'
+[2026.11.10-01.53.56:639][138]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (JOUNIVO JV610)'
+[2026.11.10-01.53.56:644][138]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.10-01.53.56:644][138]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.10-01.53.56:644][138]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.10-01.53.56:645][138]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.10-01.53.56:648][138]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.10-01.53.56:648][138]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.10-01.53.56:648][138]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.10-01.53.56:648][138]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.11.10-01.53.56:648][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.10-01.53.56:648][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.10-01.53.56:648][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.10-01.53.56:649][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.11.10-01.53.56:652][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.11.10-01.53.56:654][138]LogInit: FAudioDevice initialized with ID 16.
+[2026.11.10-01.53.56:654][138]LogAudio: Display: Audio Device (ID: 16) registered with world '_Lvl2'.
+[2026.11.10-01.53.56:655][138]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.11.10-01.53.56:655][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.10-01.53.56:659][138]LogLoad: Game class is 'BP_GameMode_C'
+[2026.11.10-01.53.56:674][138]LogWorld: Bringing World /Game/Levels/UEDPIE_0__Lvl2._Lvl2 up for play (max tick rate 0) at 2026.11.09-17.53.56
+[2026.11.10-01.53.56:674][138]LogWorld: Bringing up level for play took: 0.015269
+[2026.11.10-01.53.56:677][138]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.11.10-01.53.56:678][138]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.10-01.53.56:680][138]PIE: Server logged in
+[2026.11.10-01.53.56:682][138]PIE: Play in editor total start time 0.153 seconds.
+[2026.11.10-01.53.56:729][139]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.11.10-01.53.59:728][265]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.11.10-01.53.59:728][265]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.11.10-01.54.06:912][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.10-01.54.06:912][638]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0__Lvl2
+[2026.11.10-01.54.06:912][638]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.54.06:915][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.54.06:917][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.10-01.54.06:926][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.54.06:974][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.10-01.54.06:976][638]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.11.10-01.54.06:976][638]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=16, StreamState=4
+[2026.11.10-01.54.06:984][638]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.10-01.54.06:991][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.11.10-01.54.07:056][639]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.11.10-01.54.14:575][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.11.10-01.54.14:577][ 64]LogStreaming: Display: FlushAsyncLoading(637): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.10-01.54.14:590][ 64]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.11.10-01.54.14:597][ 64]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap
+[2026.11.10-01.54.14:597][ 64]Cmd: MAP LOAD FILE="../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Levels/MovementTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.10-01.54.14:639][ 64]LogWorld: UWorld::CleanupWorld for _Lvl2, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.54.14:639][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.54.14:687][ 64]LogAudio: Display: Audio Device unregistered from world '_Lvl2'.
+[2026.11.10-01.54.14:696][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.11.10-01.54.14:750][ 64]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.54.14:751][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.54.14:797][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.11.10-01.54.14:843][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.11.10-01.54.14:965][ 64]LogAudio: Display: Audio Device (ID: 1) registered with world 'MovementTestMap'.
+[2026.11.10-01.54.14:965][ 64]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.11.10-01.54.15:037][ 64]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.10-01.54.15:085][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.11.10-01.54.15:100][ 64]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.10-01.54.15:100][ 64]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2026.11.10-01.54.19:518][352]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_UIManager.BP_UIManager_C
+[2026.11.10-01.54.19:518][352]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_UIManager.BP_UIManager_C
+[2026.11.10-01.54.19:518][352]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_UIManager.BP_UIManager as actor: BP_UIManager_C /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap:PersistentLevel.BP_UIManager_C_0
+[2026.11.10-01.54.19:520][352]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_UIManager.BP_UIManager as actor: BP_UIManager_C /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap:PersistentLevel.BP_UIManager_C_0
+[2026.11.10-01.54.19:735][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.11.10-01.54.19:737][362]LogEditorActor: Deleted 0 Actors (0.049 secs)
+[2026.11.10-01.54.19:743][362]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_UIManager.BP_UIManager_C
+[2026.11.10-01.54.19:743][362]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_UIManager.BP_UIManager_C
+[2026.11.10-01.54.19:745][362]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_UIManager.BP_UIManager as actor: BP_UIManager_C /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap:PersistentLevel.BP_UIManager_C_1
+[2026.11.10-01.54.19:747][362]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_UIManager.BP_UIManager as actor: BP_UIManager_C /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap:PersistentLevel.BP_UIManager_C_1
+[2026.11.10-01.54.39:499][656]Cmd: TRANSACTION UNDO
+[2026.11.10-01.54.39:500][656]LogEditorTransaction: Undo Attach actors
+[2026.11.10-01.54.40:062][666]Cmd: TRANSACTION UNDO
+[2026.11.10-01.54.40:062][666]LogEditorTransaction: Undo Set Location
+[2026.11.10-01.54.40:893][722]Cmd: TRANSACTION UNDO
+[2026.11.10-01.54.40:893][722]LogEditorTransaction: Undo Set Location
+[2026.11.10-01.54.41:510][764]Cmd: TRANSACTION UNDO
+[2026.11.10-01.54.41:510][764]LogEditorTransaction: Undo Place Objects
+[2026.11.10-01.54.43:234][849]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager_C
+[2026.11.10-01.54.43:234][849]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager_C
+[2026.11.10-01.54.43:235][849]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager as actor: BP_GameUIManager_C /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap:PersistentLevel.BP_GameUIManager_C_0
+[2026.11.10-01.54.43:235][849]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager as actor: BP_GameUIManager_C /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap:PersistentLevel.BP_GameUIManager_C_0
+[2026.11.10-01.54.43:572][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.11.10-01.54.43:575][866]LogEditorActor: Deleted 0 Actors (0.049 secs)
+[2026.11.10-01.54.43:581][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager_C
+[2026.11.10-01.54.43:581][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager_C
+[2026.11.10-01.54.43:583][866]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager as actor: BP_GameUIManager_C /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap:PersistentLevel.BP_GameUIManager_C_1
+[2026.11.10-01.54.43:583][866]LogActorFactory: Actor Factory spawned Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager as actor: BP_GameUIManager_C /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap:PersistentLevel.BP_GameUIManager_C_1
+[2026.11.10-01.54.50:589][303]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.11.10-01.54.50:589][303]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.11.10-01.54.52:919][457]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.10-01.54.52:934][457]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.10-01.54.52:934][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.10-01.54.52:934][457]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.11.10-01.54.52:946][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011571s)
+[2026.11.10-01.54.52:946][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.011631s)
+[2026.11.10-01.54.52:992][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2026.11.10-01.54.52:994][457]LogStreaming: Warning: Failed to read file '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/SaveGames/LV2Scores.sav' error.
+[2026.11.10-01.54.52:994][457]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.11.10-01.54.52:997][457]LogPlayLevel: PIE: World Init took: (0.002597s)
+[2026.11.10-01.54.52:997][457]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.11.10-01.54.52:997][457]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.10-01.54.52:997][457]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.10-01.54.52:997][457]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.10-01.54.52:997][457]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.10-01.54.52:997][457]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.10-01.54.52:997][457]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.10-01.54.52:997][457]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.10-01.54.52:997][457]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.10-01.54.52:997][457]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.10-01.54.52:997][457]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.10-01.54.52:997][457]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.10-01.54.52:997][457]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.10-01.54.52:997][457]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.10-01.54.53:004][457]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.11.10-01.54.53:005][457]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (JOUNIVO JV610)'
+[2026.11.10-01.54.53:007][457]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.11.10-01.54.53:008][457]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (JOUNIVO JV610)'
+[2026.11.10-01.54.53:010][457]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Oculus Virtual Audio Device)'
+[2026.11.10-01.54.53:011][457]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (JOUNIVO JV610)'
+[2026.11.10-01.54.53:015][457]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.10-01.54.53:016][457]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.10-01.54.53:016][457]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.10-01.54.53:017][457]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.10-01.54.53:032][457]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.10-01.54.53:032][457]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.10-01.54.53:032][457]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.10-01.54.53:032][457]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.11.10-01.54.53:033][457]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.10-01.54.53:033][457]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.10-01.54.53:033][457]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.10-01.54.53:033][457]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.11.10-01.54.53:036][457]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.11.10-01.54.53:038][457]LogInit: FAudioDevice initialized with ID 17.
+[2026.11.10-01.54.53:038][457]LogAudio: Display: Audio Device (ID: 17) registered with world 'MovementTestMap'.
+[2026.11.10-01.54.53:038][457]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.11.10-01.54.53:039][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.10-01.54.53:043][457]LogLoad: Game class is 'BP_GameMode_C'
+[2026.11.10-01.54.53:046][457]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 0) at 2026.11.09-17.54.53
+[2026.11.10-01.54.53:047][457]LogWorld: Bringing up level for play took: 0.003162
+[2026.11.10-01.54.53:050][457]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.11.10-01.54.53:051][457]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.10-01.54.53:052][457]PIE: Server logged in
+[2026.11.10-01.54.53:055][457]PIE: Play in editor total start time 0.121 seconds.
+[2026.11.10-01.54.53:081][458]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.11.10-01.54.56:147][595]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.11.10-01.54.56:147][595]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.11.10-01.55.02:664][894]LogBlueprintUserMessages: [BP_Bike_C_1] Bonk!
+[2026.11.10-01.55.04:554][989]LogBlueprintUserMessages: [BP_Bike_C_1] Bonk!
+[2026.11.10-01.55.08:222][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.10-01.55.08:222][236]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.11.10-01.55.08:223][236]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.55.08:223][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.55.08:225][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.10-01.55.08:232][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.55.08:274][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.10-01.55.08:275][236]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.11.10-01.55.08:275][236]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=17, StreamState=4
+[2026.11.10-01.55.08:282][236]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.10-01.55.08:290][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2026.11.10-01.55.08:355][237]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.11.10-01.55.08:908][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.10-01.55.08:987][254]LogFileHelpers: Saving Map: /Game/_Abbys_Work/Levels/MovementTestMap
+[2026.11.10-01.55.08:987][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Levels/MovementTestMap] ([1] browsable assets)...
+[2026.11.10-01.55.08:987][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Levels/MovementTestMap]
+[2026.11.10-01.55.09:066][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.11.10-01.55.09:133][254]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Levels/MovementTestMap
+[2026.11.10-01.55.09:133][254]LogSavePackage: Moving '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Saved/MovementTestMapC47B6CB045DB0F7809FD4C84B9F844F5.tmp' to '../../../../../Github Repos/CAGD370_Group4_Biking/CAGD370_Biking/Content/_Abbys_Work/Levels/MovementTestMap.umap'
+[2026.11.10-01.55.09:164][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 256.649 ms (total: 5.69 sec)
+[2026.11.10-01.55.09:251][254]LogContentValidation: Enabled validators:
+[2026.11.10-01.55.09:251][254]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.10-01.55.09:251][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.10-01.55.09:251][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.10-01.55.09:251][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.10-01.55.09:251][254]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.10-01.55.09:251][254]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.10-01.55.09:251][254]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.10-01.55.09:251][254]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.10-01.55.09:251][254]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.10-01.55.09:251][254]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.10-01.55.09:251][254]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.10-01.55.09:251][254]AssetCheck: /Game/_Abbys_Work/Levels/MovementTestMap Validating asset
+[2026.11.10-01.55.09:251][254]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.10-01.55.09:251][254]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.10-01.55.09:251][254]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.10-01.55.09:251][254]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.10-01.55.09:252][254]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.10-01.55.09:252][254]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.10-01.55.09:252][254]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.10-01.55.09:252][254]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.10-01.55.09:252][254]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.10-01.55.09:252][254]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.10-01.55.12:316][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.11.10-01.55.12:392][448]LogStall: Shutdown...
+[2026.11.10-01.55.12:397][448]LogStall: Shutdown complete.
+[2026.11.10-01.55.12:501][448]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.55.12:501][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.55.12:941][448]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.55.12:941][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.55.12:952][448]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.55.12:952][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.55.13:009][448]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.11.10-01.55.13:009][448]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.55.13:009][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.55.13:071][448]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.55.13:071][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.55.13:154][448]LogSlate: Window 'BP_GameUIManager' being destroyed
+[2026.11.10-01.55.13:171][448]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.11.10-01.55.13:171][448]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.55.13:171][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.55.13:201][448]LogSlate: Window 'CAGD370_Biking - Unreal Editor' being destroyed
+[2026.11.10-01.55.13:553][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.11.10-01.55.13:574][448]Cmd: QUIT_EDITOR
+[2026.11.10-01.55.13:574][449]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.11.10-01.55.13:585][449]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.11.10-01.55.13:586][449]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.11.10-01.55.13:586][449]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.11.10-01.55.13:604][449]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.55.13:604][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.55.13:605][449]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.11.10-01.55.13:656][449]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.11.10-01.55.13:698][449]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.11.10-01.55.13:706][449]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.55.13:707][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.55.13:713][449]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.55.13:713][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.55.13:718][449]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.11.10-01.55.13:718][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.10-01.55.13:725][449]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.11.10-01.55.13:728][449]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.11.10-01.55.13:777][449]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.11.10-01.55.13:777][449]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.11.10-01.55.13:777][449]LogAudio: Display: Audio Device unregistered from world 'MovementTestMap'.
+[2026.11.10-01.55.13:777][449]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.11.10-01.55.13:777][449]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.11.10-01.55.13:787][449]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.10-01.55.13:794][449]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.11.10-01.55.13:794][449]LogAudio: Display: Audio Device Manager Shutdown
+[2026.11.10-01.55.13:815][449]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.11.10-01.55.13:823][449]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.11.10-01.55.13:825][449]LogExit: Preparing to exit.
+[2026.11.10-01.55.14:089][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2026.11.10-01.55.14:092][449]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.10-01.55.14:412][449]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.11.10-01.55.14:412][449]LogAssetRegistry: Display:   CachedAssetRegistry_0_0DE491FC49D6BA39CFA047BD1FB5676C.bin: delete failed (orphaned but still in use)
+[2026.11.10-01.55.14:413][449]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 2 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 1 orphans locked (kept)
+[2026.11.10-01.55.14:417][449]LogEditorDataStorage: Deinitializing
+[2026.11.10-01.55.14:418][449]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.11.10-01.55.14:418][449]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.11.10-01.55.14:418][449]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.11.10-01.55.14:418][449]LogEditorDataStorage: Resetting TEDS Core.
+[2026.11.10-01.55.14:421][449]LogEditorDataStorage: Reset TEDS Core.
+[2026.11.10-01.55.14:421][449]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.11.10-01.55.14:590][449]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.11.10-01.55.14:625][449]LogExit: Editor shut down
+[2026.11.10-01.55.14:631][449]LogExit: Transaction tracking system shut down
+[2026.11.10-01.55.14:733][449]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.11.10-01.55.14:733][449]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.11.10-01.55.14:761][449]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.11.10-01.55.14:761][449]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.11.10-01.55.14:867][449]LogExit: Object subsystem successfully closed.
+[2026.11.10-01.55.14:941][449]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.11.10-01.55.15:105][449]LogObjectProfiler: Shutdown
+[2026.11.10-01.55.15:106][449]LogMemoryProfiler: Shutdown
+[2026.11.10-01.55.15:106][449]LogNetworkingProfiler: Shutdown
+[2026.11.10-01.55.15:106][449]LogLoadingProfiler: Shutdown
+[2026.11.10-01.55.15:106][449]LogTimingProfiler: Shutdown
+[2026.11.10-01.55.15:106][449]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.11.10-01.55.15:106][449]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.11.10-01.55.15:106][449]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.11.10-01.55.15:106][449]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.11.10-01.55.15:106][449]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.11.10-01.55.15:640][449]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.11.10-01.55.15:648][449]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.11.10-01.55.15:648][449]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE1AE394-4DBE-1CB4-3B69-2AADCF9DA324%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.2-56702186%2B%2B%2BUE5%2BRelease-5.8&UserID=49f47c734de58bc7ae7c11bd19cd12b8%7C9ac574fa64e5442283b3a066b5f03b2e%7C5ba69630-fb93-4c66-bd2e-86746d5da091&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.11.10-01.55.16:191][449]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.11.10-01.55.16:198][449]LogNFORDenoise: NFORDenoise function shutting down
+[2026.11.10-01.55.16:198][449]RenderDocPlugin: plugin has been unloaded.
+[2026.11.10-01.55.16:198][449]LogXGEController: Cleaning working directory: C:/Users/Abbyz/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.11.10-01.55.16:201][449]LogPakFile: Destroying PakPlatformFile
+[2026.11.10-01.55.16:656][449]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.11.10-01.55.16:708][449]LogExit: Exiting.
+[2026.11.10-01.55.16:751][449]Log file closed, 11/09/26 17:55:16
