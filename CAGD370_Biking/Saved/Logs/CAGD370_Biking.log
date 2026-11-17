@@ -3456,3 +3456,1271 @@ Stack:
 [2026.11.17-19.26.59:377][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4563.638184
 [2026.11.17-19.27.00:377][515]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.11.17-19.27.00:377][515]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4564.305176, Update Interval: 337.400421
+[2026.11.17-19.27.46:999][ 27]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Tophers_Work/_Blueprints/WBP_GameUI.WBP_GameUI
+[2026.11.17-19.27.47:002][ 27]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.11.17-19.27.47:103][ 27]LogModuleManager: InternalLoadLibrary: 'SequencerWidgets' ('C:/UnrealEngine/5.8/Engine/Binaries/Win64/UnrealEditor-SequencerWidgets.dll')
+[2026.11.17-19.27.47:136][ 27]LogStreaming: Display: FlushAsyncLoading(602): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.17-19.27.47:413][ 27]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' with subface index 0 in Game thread.
+[2026.11.17-19.27.47:413][ 27]LogSlate: Display: Took 0.007052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K) on Game thread.
+[2026.11.17-19.27.47:413][ 27]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' subface 0 in Game thread.
+[2026.11.17-19.27.47:413][ 27]LogSlate: Display: Font face '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.11.17-19.29.23:944][778]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Tophers_Work/_Blueprints/BP_GameUIManager.BP_GameUIManager
+[2026.11.17-19.30.16:942][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.11.17-19.30.16:946][987]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/BP_GameUIManager.BP_GameUIManager'
+[2026.11.17-19.30.36:656][251]LogContentBrowser: Attempting asset rename: BP_GameUIManager -> BP_TrickScoreUI
+[2026.11.17-19.30.36:703][251]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.11.17-19.30.36:720][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.30.36:720][251]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI
+[2026.11.17-19.30.36:720][251]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI] ([2] browsable assets)...
+[2026.11.17-19.30.36:720][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI]
+[2026.11.17-19.30.36:731][251]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI
+[2026.11.17-19.30.36:731][251]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_TrickScoreUI2D00C33F490DFB4910A550BA82AB0A34.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.uasset'
+[2026.11.17-19.30.36:735][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.092 ms (total: 2.14 sec)
+[2026.11.17-19.30.36:778][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.11.17-19.30.36:806][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.11.17-19.30.36:833][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.11.17-19.30.36:871][251]LogContentValidation: Enabled validators:
+[2026.11.17-19.30.36:871][251]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.30.36:871][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.30.36:871][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.30.36:871][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.30.36:871][251]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.30.36:871][251]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.30.36:871][251]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.30.36:871][251]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.30.36:871][251]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.30.36:871][251]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.30.36:871][251]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.30.36:871][251]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI Validating asset
+[2026.11.17-19.30.36:871][251]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.30.36:871][251]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.30.36:871][251]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.30.36:871][251]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.30.36:871][251]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.30.36:871][251]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.30.36:871][251]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.30.36:871][251]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.17-19.30.36:871][251]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.30.36:871][251]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.30.36:904][251]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.17-19.30.38:241][399]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.BP_TrickScoreUI
+[2026.11.17-19.30.51:052][359]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.30.51:052][359]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.30.51:052][359]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.30.51:052][359]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.30.51:052][359]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.31.14:237][428]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_16.svg'. File could not be found
+[2026.11.17-19.31.14:237][428]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/ToonProfile_16.svg'. File could not be found
+[2026.11.17-19.31.26:060][659]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.11.17-19.31.26:069][659]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.11.17-19.31.26:075][659]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.11.17-19.31.26:096][660]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.11.17-19.31.34:705][659]LogContentBrowser: Attempting asset rename: NewBlueprint -> WBP_TrickScore
+[2026.11.17-19.31.34:712][659]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.11.17-19.31.35:448][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.31.35:470][744]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.31.35:471][744]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.31.35:472][744]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.31.35:472][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.31.35:482][744]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.31.35:482][744]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScore74E047ED48D3959B36610D9925A3FB4F.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.31.35:494][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.982 ms (total: 2.18 sec)
+[2026.11.17-19.31.35:518][744]LogContentValidation: Enabled validators:
+[2026.11.17-19.31.35:518][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.31.35:518][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.31.35:518][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.31.35:518][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.31.35:518][744]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.31.35:518][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.31.35:518][744]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.31.35:518][744]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.31.35:518][744]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.31.35:518][744]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.31.35:518][744]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.31.35:518][744]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.31.35:518][744]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.31.35:518][744]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.31.35:518][744]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.31.35:518][744]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.31.35:518][744]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.31.35:518][744]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.31.35:518][744]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.31.35:518][744]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.31.35:518][744]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.31.35:518][744]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.31.35:544][744]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.17-19.31.40:292][155]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.31.40:292][155]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.31.40:292][155]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.31.40:292][155]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.31.40:292][155]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.31.50:699][898]LogSlate: Window 'Change Variable Type' being destroyed
+[2026.11.17-19.31.50:717][898]LogBlueprint: Warning: Change Variable Type - search skipped as requested by editor settings, consider searching "Nodes(VariableReference(MemberName=+"Class" && MemberGuid(A=721411875 && B=1235122626 && C=-1987071082 && D=1157536618)) || Name="(Class)") || Pins(Binding="Class") || Binding="Class""
+[2026.11.17-19.33.04:232][ 55]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.BP_TrickScoreUI'
+[2026.11.17-19.33.04:232][ 55]LogBlueprint: Error: [AssetLog] C:\Users\azeibert\Documents\GitHub\CAGD370_Group1_Biking\CAGD370_Biking\Content\_Abbys_Work\Blueprints\GameComponents\BP_TrickScoreUI.uasset: [Compiler] Invalid default type 'WBP_GameUI_C' on property 'Class' in  BP_TrickScoreUI
+[2026.11.17-19.33.04:233][ 55]LogBlueprint: Error: [AssetLog] C:\Users\azeibert\Documents\GitHub\CAGD370_Group1_Biking\CAGD370_Biking\Content\_Abbys_Work\Blueprints\GameComponents\BP_TrickScoreUI.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2026.11.17-19.33.04:236][ 55]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.17-19.33.04:306][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.11.17-19.33.21:093][418]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4945.435547
+[2026.11.17-19.33.21:247][430]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-19.33.21:247][430]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4945.576172, Update Interval: 313.030182
+[2026.11.17-19.33.27:763][ 20]LogEditorTransaction: Undo Move Node
+[2026.11.17-19.33.37:140][866]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.BP_TrickScoreUI'
+[2026.11.17-19.33.37:140][866]LogBlueprint: Error: [AssetLog] C:\Users\azeibert\Documents\GitHub\CAGD370_Group1_Biking\CAGD370_Biking\Content\_Abbys_Work\Blueprints\GameComponents\BP_TrickScoreUI.uasset: [Compiler] Invalid default type 'WBP_GameUI_C' on property 'Class' in  BP_TrickScoreUI
+[2026.11.17-19.33.37:180][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.11.17-19.34.32:371][566]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.BP_TrickScoreUI'
+[2026.11.17-19.34.32:371][566]LogBlueprint: Error: [AssetLog] C:\Users\azeibert\Documents\GitHub\CAGD370_Group1_Biking\CAGD370_Biking\Content\_Abbys_Work\Blueprints\GameComponents\BP_TrickScoreUI.uasset: [Compiler] Invalid default type 'WBP_GameUI_C' on property 'Class' in  BP_TrickScoreUI
+[2026.11.17-19.34.32:412][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.11.17-19.34.44:249][638]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.34.44:249][638]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.34.44:249][638]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.34.44:249][638]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.34.44:249][638]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.34.48:735][ 23]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.BP_TrickScoreUI'
+[2026.11.17-19.34.48:779][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.11.17-19.34.49:358][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.34.49:381][ 66]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI
+[2026.11.17-19.34.49:381][ 66]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI] ([2] browsable assets)...
+[2026.11.17-19.34.49:381][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI]
+[2026.11.17-19.34.49:393][ 66]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI
+[2026.11.17-19.34.49:394][ 66]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_TrickScoreUI7463D4AA4798F9BB27B91FB4FBAB2499.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.uasset'
+[2026.11.17-19.34.49:403][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.990 ms (total: 2.23 sec)
+[2026.11.17-19.34.49:430][ 66]LogContentValidation: Enabled validators:
+[2026.11.17-19.34.49:430][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.34.49:430][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.34.49:430][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.34.49:430][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.34.49:430][ 66]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.34.49:430][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.34.49:430][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.34.49:430][ 66]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.34.49:430][ 66]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.34.49:430][ 66]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.34.49:430][ 66]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.34.49:430][ 66]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI Validating asset
+[2026.11.17-19.34.49:430][ 66]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.34.49:430][ 66]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.34.49:430][ 66]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.34.49:430][ 66]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.34.49:430][ 66]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.34.49:430][ 66]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.34.49:430][ 66]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.34.49:430][ 66]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.17-19.34.49:430][ 66]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.34.49:430][ 66]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.35.21:290][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.35.21:322][965]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI
+[2026.11.17-19.35.21:322][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI] ([2] browsable assets)...
+[2026.11.17-19.35.21:322][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI]
+[2026.11.17-19.35.21:335][965]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI
+[2026.11.17-19.35.21:336][965]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/BP_TrickScoreUI329247DB41E81246823B4F83B8B099E0.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.uasset'
+[2026.11.17-19.35.21:345][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.954 ms (total: 2.28 sec)
+[2026.11.17-19.35.21:375][965]LogContentValidation: Enabled validators:
+[2026.11.17-19.35.21:375][965]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.35.21:375][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.35.21:375][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.35.21:375][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.35.21:375][965]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.35.21:375][965]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.35.21:375][965]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.35.21:375][965]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.35.21:375][965]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.35.21:375][965]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.35.21:375][965]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.35.21:375][965]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI Validating asset
+[2026.11.17-19.35.21:375][965]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.35.21:375][965]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.35.21:375][965]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.35.21:375][965]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.35.21:375][965]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.35.21:375][965]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.35.21:375][965]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.35.21:376][965]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.17-19.35.21:376][965]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.35.21:376][965]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.35.24:521][257]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore
+[2026.11.17-19.36.45:228][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.36.45:254][108]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.36.45:255][108]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.36.45:257][108]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.36.45:257][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.36.45:269][108]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.36.45:269][108]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScoreB5866D9241A107DF887659AFB8472115.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.36.45:277][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.720 ms (total: 2.33 sec)
+[2026.11.17-19.36.45:328][108]LogContentValidation: Enabled validators:
+[2026.11.17-19.36.45:328][108]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.36.45:328][108]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.36.45:328][108]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.36.45:328][108]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.36.45:328][108]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.36.45:328][108]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.36.45:328][108]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.36.45:328][108]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.36.45:328][108]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.36.45:328][108]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.36.45:328][108]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.36.45:329][108]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.36.45:329][108]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.36.45:329][108]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.36.45:329][108]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.36.45:329][108]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.36.45:329][108]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.36.45:329][108]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.36.45:329][108]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.36.45:329][108]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.36.45:329][108]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.36.45:329][108]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.36.51:764][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.36.51:787][541]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.36.51:787][541]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.36.51:789][541]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.36.51:789][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.36.51:799][541]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.36.51:800][541]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScoreBE02DCD74A20CB5AA7DC278102E174F0.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.36.51:807][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.516 ms (total: 2.38 sec)
+[2026.11.17-19.36.51:835][541]LogContentValidation: Enabled validators:
+[2026.11.17-19.36.51:835][541]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.36.51:835][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.36.51:835][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.36.51:835][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.36.51:835][541]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.36.51:835][541]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.36.51:835][541]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.36.51:835][541]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.36.51:835][541]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.36.51:835][541]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.36.51:835][541]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.36.51:836][541]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.36.51:836][541]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.36.51:836][541]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.36.51:836][541]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.36.51:836][541]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.36.51:836][541]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.36.51:836][541]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.36.51:836][541]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.36.51:836][541]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.36.51:836][541]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.36.51:836][541]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.37.41:256][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.37.41:281][761]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.37.41:281][761]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.37.41:283][761]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.37.41:284][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.37.41:294][761]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.37.41:294][761]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScore0332200F431D70371FFD05A3CADE6D65.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.37.41:302][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.639 ms (total: 2.42 sec)
+[2026.11.17-19.37.41:326][761]LogContentValidation: Enabled validators:
+[2026.11.17-19.37.41:326][761]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.37.41:326][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.37.41:326][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.37.41:326][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.37.41:326][761]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.37.41:326][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.37.41:326][761]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.37.41:326][761]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.37.41:326][761]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.37.41:326][761]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.37.41:326][761]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.37.41:327][761]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.37.41:327][761]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.37.41:327][761]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.37.41:327][761]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.37.41:327][761]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.37.41:327][761]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.37.41:327][761]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.37.41:327][761]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.37.41:327][761]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.37.41:327][761]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.37.41:327][761]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.39.05:873][538]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5290.231934
+[2026.11.17-19.39.05:997][550]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-19.39.05:998][550]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5290.346191, Update Interval: 349.515076
+[2026.11.17-19.39.29:854][711]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.39.29:854][711]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.39.29:854][711]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.39.29:854][711]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.39.29:854][711]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.39.34:994][189]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore'
+[2026.11.17-19.39.35:086][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.11.17-19.39.35:740][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.39.35:763][247]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.39.35:763][247]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.39.35:767][247]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.39.35:767][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.39.35:779][247]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.39.35:779][247]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScore8ADE0AF94EDE903791D556A0649025AF.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.39.35:786][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.143 ms (total: 2.47 sec)
+[2026.11.17-19.39.35:813][247]LogContentValidation: Enabled validators:
+[2026.11.17-19.39.35:813][247]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.39.35:813][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.39.35:813][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.39.35:813][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.39.35:813][247]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.39.35:813][247]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.39.35:813][247]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.39.35:813][247]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.39.35:813][247]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.39.35:813][247]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.39.35:813][247]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.39.35:814][247]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.39.35:814][247]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.39.35:814][247]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.39.35:814][247]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.39.35:814][247]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.39.35:814][247]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.39.35:814][247]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.39.35:814][247]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.39.35:814][247]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.39.35:814][247]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.39.35:814][247]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.40.37:876][546]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore'
+[2026.11.17-19.40.37:919][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.11.17-19.40.38:511][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.40.38:535][591]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.40.38:535][591]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.40.38:537][591]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.40.38:537][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.40.38:550][591]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.40.38:550][591]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScore7DED363B4CD4D6EE2C9ED584D8864786.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.40.38:558][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.847 ms (total: 2.51 sec)
+[2026.11.17-19.40.38:583][591]LogContentValidation: Enabled validators:
+[2026.11.17-19.40.38:583][591]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.40.38:583][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.40.38:583][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.40.38:583][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.40.38:583][591]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.40.38:583][591]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.40.38:583][591]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.40.38:583][591]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.40.38:583][591]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.40.38:583][591]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.40.38:583][591]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.40.38:584][591]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.40.38:584][591]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.40.38:584][591]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.40.38:584][591]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.40.38:584][591]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.40.38:584][591]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.40.38:584][591]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.40.38:584][591]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.40.38:584][591]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.40.38:584][591]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.40.38:584][591]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.41.24:604][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.41.24:630][ 14]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.41.24:631][ 14]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.41.24:632][ 14]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.41.24:632][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.41.24:646][ 14]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.41.24:646][ 14]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScoreE55A877E4A5D27FD6FE540AD215B2242.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.41.24:654][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.285 ms (total: 2.56 sec)
+[2026.11.17-19.41.24:679][ 14]LogContentValidation: Enabled validators:
+[2026.11.17-19.41.24:679][ 14]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.41.24:679][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.41.24:679][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.41.24:679][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.41.24:679][ 14]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.41.24:679][ 14]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.41.24:679][ 14]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.41.24:679][ 14]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.41.24:679][ 14]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.41.24:679][ 14]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.41.24:679][ 14]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.41.24:679][ 14]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.41.24:679][ 14]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.41.24:679][ 14]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.41.24:680][ 14]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.41.24:680][ 14]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.41.24:680][ 14]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.41.24:680][ 14]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.41.24:680][ 14]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.41.24:680][ 14]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.41.24:680][ 14]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.41.24:680][ 14]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.42.07:205][541]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore'
+[2026.11.17-19.42.07:281][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.11.17-19.42.07:887][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.42.07:911][587]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.42.07:911][587]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.42.07:914][587]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.42.07:914][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.42.07:928][587]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.42.07:928][587]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScore02B93B624D60466D1F50B683A2EBD3FF.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.42.07:937][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.882 ms (total: 2.61 sec)
+[2026.11.17-19.42.07:966][587]LogContentValidation: Enabled validators:
+[2026.11.17-19.42.07:966][587]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.42.07:966][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.42.07:966][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.42.07:966][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.42.07:966][587]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.42.07:966][587]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.42.07:966][587]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.42.07:966][587]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.42.07:966][587]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.42.07:966][587]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.42.07:966][587]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.42.07:966][587]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.42.07:966][587]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.42.07:966][587]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.42.07:966][587]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.42.07:966][587]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.42.07:966][587]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.42.07:966][587]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.42.07:966][587]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.42.07:967][587]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.42.07:967][587]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.42.07:967][587]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.42.12:668][985]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore'
+[2026.11.17-19.42.12:711][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.11.17-19.42.12:994][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.42.13:021][  5]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.42.13:021][  5]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.42.13:023][  5]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.42.13:023][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.42.13:035][  5]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.42.13:036][  5]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScore2C335FFF4969A1404CFBA8A0EB48EAF0.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.42.13:044][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.188 ms (total: 2.66 sec)
+[2026.11.17-19.42.13:068][  5]LogContentValidation: Enabled validators:
+[2026.11.17-19.42.13:068][  5]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.42.13:068][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.42.13:068][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.42.13:068][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.42.13:068][  5]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.42.13:068][  5]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.42.13:068][  5]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.42.13:068][  5]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.42.13:068][  5]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.42.13:068][  5]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.42.13:068][  5]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.42.13:068][  5]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.42.13:069][  5]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.42.13:069][  5]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.42.13:069][  5]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.42.13:069][  5]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.42.13:069][  5]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.42.13:069][  5]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.42.13:069][  5]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.42.13:069][  5]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.42.13:069][  5]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.42.13:069][  5]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.42.20:909][772]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.BP_TrickScoreUI_C
+[2026.11.17-19.42.20:909][772]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.BP_TrickScoreUI_C
+[2026.11.17-19.42.20:910][772]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.BP_TrickScoreUI as actor: BP_TrickScoreUI_C /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap:PersistentLevel.BP_TrickScoreUI_C_0
+[2026.11.17-19.42.20:910][772]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.BP_TrickScoreUI as actor: BP_TrickScoreUI_C /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap:PersistentLevel.BP_TrickScoreUI_C_0
+[2026.11.17-19.42.20:912][772]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.11.17-19.42.21:116][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.11.17-19.42.21:120][787]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2026.11.17-19.42.21:127][787]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.BP_TrickScoreUI_C
+[2026.11.17-19.42.21:127][787]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.BP_TrickScoreUI_C
+[2026.11.17-19.42.21:129][787]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.BP_TrickScoreUI as actor: BP_TrickScoreUI_C /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap:PersistentLevel.BP_TrickScoreUI_C_1
+[2026.11.17-19.42.21:130][787]LogActorFactory: Actor Factory spawned Blueprint /Game/_Abbys_Work/Blueprints/GameComponents/BP_TrickScoreUI.BP_TrickScoreUI as actor: BP_TrickScoreUI_C /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap:PersistentLevel.BP_TrickScoreUI_C_1
+[2026.11.17-19.42.26:539][313]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.17-19.42.26:550][313]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.17-19.42.26:550][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.17-19.42.26:550][313]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.11.17-19.42.26:555][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006071s)
+[2026.11.17-19.42.26:556][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.006114s)
+[2026.11.17-19.42.26:582][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.11.17-19.42.26:590][313]LogStreaming: Warning: Failed to read file '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SaveGames/LV2Scores.sav' error.
+[2026.11.17-19.42.26:595][313]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.11.17-19.42.26:597][313]LogPlayLevel: PIE: World Init took: (0.002073s)
+[2026.11.17-19.42.26:597][313]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.11.17-19.42.26:597][313]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.17-19.42.26:597][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.17-19.42.26:597][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.17-19.42.26:597][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.17-19.42.26:597][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.17-19.42.26:597][313]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.17-19.42.26:597][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.17-19.42.26:597][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.17-19.42.26:597][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.17-19.42.26:597][313]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.17-19.42.26:597][313]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.17-19.42.26:597][313]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.17-19.42.26:597][313]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.17-19.42.26:602][313]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.42.26:603][313]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.42.26:604][313]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.42.26:609][313]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.17-19.42.26:609][313]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.17-19.42.26:609][313]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.17-19.42.26:610][313]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.17-19.42.26:614][313]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.17-19.42.26:614][313]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.17-19.42.26:614][313]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.17-19.42.26:614][313]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.11.17-19.42.26:614][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.17-19.42.26:616][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.17-19.42.26:616][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.17-19.42.26:616][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.11.17-19.42.26:617][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.11.17-19.42.26:618][313]LogInit: FAudioDevice initialized with ID 8.
+[2026.11.17-19.42.26:618][313]LogAudio: Display: Audio Device (ID: 8) registered with world 'MovementTestMap'.
+[2026.11.17-19.42.26:618][313]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.11.17-19.42.26:619][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.42.26:622][313]LogLoad: Game class is 'BP_GameMode_C'
+[2026.11.17-19.42.26:624][313]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 0) at 2026.11.17-11.42.26
+[2026.11.17-19.42.26:624][313]LogWorld: Bringing up level for play took: 0.001665
+[2026.11.17-19.42.26:626][313]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.11.17-19.42.26:626][313]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.17-19.42.26:627][313]PIE: Server logged in
+[2026.11.17-19.42.26:630][313]PIE: Play in editor total start time 0.082 seconds.
+[2026.11.17-19.42.26:650][314]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.11.17-19.42.26:650][314]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.11.17-19.42.26:662][314]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.17-19.42.27:653][425]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.11.17-19.42.28:660][542]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.11.17-19.42.29:667][660]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.11.17-19.42.29:668][660]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.11.17-19.42.29:668][660]LogBlueprintUserMessages: [BP_Bike_C_1] Shaking cam
+[2026.11.17-19.42.29:668][660]LogBlueprintUserMessages: [BP_Bike_C_1] 0
+[2026.11.17-19.42.30:007][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.42.30:007][696]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.11.17-19.42.30:007][696]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.17-19.42.30:008][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.42.30:011][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.17-19.42.30:016][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.42.30:043][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.42.30:044][696]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.11.17-19.42.30:044][696]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=8, StreamState=4
+[2026.11.17-19.42.30:049][696]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.17-19.42.30:055][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.11.17-19.42.30:109][697]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.11.17-19.42.34:452][ 18]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore'
+[2026.11.17-19.42.34:492][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.11.17-19.42.35:222][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.42.35:250][ 67]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.42.35:250][ 67]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.42.35:252][ 67]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.42.35:252][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.42.35:264][ 67]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.42.35:265][ 67]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScore9A31D358459621D1C29B9C90FFB364B5.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.42.35:275][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.863 ms (total: 2.72 sec)
+[2026.11.17-19.42.35:304][ 67]LogContentValidation: Enabled validators:
+[2026.11.17-19.42.35:304][ 67]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.42.35:304][ 67]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.42.35:304][ 67]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.42.35:304][ 67]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.42.35:305][ 67]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.42.35:305][ 67]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.42.35:305][ 67]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.42.35:305][ 67]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.42.35:305][ 67]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.42.35:305][ 67]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.42.35:305][ 67]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.42.35:305][ 67]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.42.35:305][ 67]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.42.35:305][ 67]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.42.35:305][ 67]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.42.35:305][ 67]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.42.35:305][ 67]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.42.35:305][ 67]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.42.35:305][ 67]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.42.35:305][ 67]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.42.35:305][ 67]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.42.35:305][ 67]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.42.37:123][217]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.17-19.42.37:132][217]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.17-19.42.37:132][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.17-19.42.37:132][217]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.11.17-19.42.37:139][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007100s)
+[2026.11.17-19.42.37:139][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.007140s)
+[2026.11.17-19.42.37:167][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.11.17-19.42.37:171][217]LogStreaming: Warning: Failed to read file '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SaveGames/LV2Scores.sav' error.
+[2026.11.17-19.42.37:172][217]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.11.17-19.42.37:174][217]LogPlayLevel: PIE: World Init took: (0.001729s)
+[2026.11.17-19.42.37:174][217]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.11.17-19.42.37:174][217]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.17-19.42.37:174][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.17-19.42.37:174][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.17-19.42.37:174][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.17-19.42.37:174][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.17-19.42.37:174][217]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.17-19.42.37:174][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.17-19.42.37:174][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.17-19.42.37:174][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.17-19.42.37:174][217]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.17-19.42.37:174][217]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.17-19.42.37:174][217]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.17-19.42.37:174][217]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.17-19.42.37:177][217]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.42.37:178][217]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.42.37:179][217]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.42.37:183][217]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.17-19.42.37:183][217]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.17-19.42.37:183][217]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.17-19.42.37:184][217]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.17-19.42.37:188][217]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.17-19.42.37:188][217]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.17-19.42.37:188][217]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.17-19.42.37:188][217]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.11.17-19.42.37:188][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.17-19.42.37:188][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.17-19.42.37:188][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.17-19.42.37:189][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.11.17-19.42.37:190][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.11.17-19.42.37:191][217]LogInit: FAudioDevice initialized with ID 9.
+[2026.11.17-19.42.37:191][217]LogAudio: Display: Audio Device (ID: 9) registered with world 'MovementTestMap'.
+[2026.11.17-19.42.37:191][217]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.11.17-19.42.37:191][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.42.37:194][217]LogLoad: Game class is 'BP_GameMode_C'
+[2026.11.17-19.42.37:196][217]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 0) at 2026.11.17-11.42.37
+[2026.11.17-19.42.37:196][217]LogWorld: Bringing up level for play took: 0.001547
+[2026.11.17-19.42.37:197][217]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.11.17-19.42.37:198][217]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.17-19.42.37:199][217]PIE: Server logged in
+[2026.11.17-19.42.37:201][217]PIE: Play in editor total start time 0.07 seconds.
+[2026.11.17-19.42.37:221][218]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.11.17-19.42.37:221][218]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.11.17-19.42.37:233][218]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.17-19.42.38:219][329]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.11.17-19.42.38:567][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.42.38:567][366]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.11.17-19.42.38:567][366]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.17-19.42.38:568][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.42.38:571][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.17-19.42.38:576][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.42.38:604][366]LogAudio: Display: Audio Device unregistered from world 'MovementTestMap'.
+[2026.11.17-19.42.38:604][366]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.11.17-19.42.38:604][366]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=9, StreamState=4
+[2026.11.17-19.42.38:609][366]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.17-19.42.38:611][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.42.38:614][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.11.17-19.42.38:667][367]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.11.17-19.42.41:835][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.42.41:863][601]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.42.41:863][601]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.42.41:865][601]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.42.41:865][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.42.41:877][601]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.42.41:877][601]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScore8755357B4EC3540469BC1AB13CF5FCDB.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.42.41:885][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.477 ms (total: 2.77 sec)
+[2026.11.17-19.42.41:910][601]LogContentValidation: Enabled validators:
+[2026.11.17-19.42.41:910][601]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.42.41:911][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.42.41:911][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.42.41:911][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.42.41:911][601]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.42.41:911][601]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.42.41:911][601]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.42.41:911][601]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.42.41:911][601]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.42.41:911][601]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.42.41:911][601]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.42.41:911][601]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.42.41:911][601]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.42.41:911][601]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.42.41:911][601]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.42.41:911][601]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.42.41:911][601]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.42.41:911][601]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.42.41:911][601]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.42.41:911][601]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.42.41:911][601]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.42.41:911][601]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.43.56:102][823]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore'
+[2026.11.17-19.43.56:146][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.11.17-19.43.56:684][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.43.56:717][855]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.43.56:717][855]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.43.56:719][855]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.43.56:719][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.43.56:732][855]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.43.56:732][855]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScoreDF0F45AC4EDD00374EBCC8BC5A31C6BA.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.43.56:741][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.025 ms (total: 2.82 sec)
+[2026.11.17-19.43.56:765][855]LogContentValidation: Enabled validators:
+[2026.11.17-19.43.56:765][855]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.43.56:765][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.43.56:765][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.43.56:765][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.43.56:765][855]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.43.56:765][855]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.43.56:765][855]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.43.56:765][855]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.43.56:765][855]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.43.56:765][855]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.43.56:765][855]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.43.56:765][855]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.43.56:765][855]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.43.56:765][855]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.43.56:765][855]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.43.56:765][855]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.43.56:765][855]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.43.56:765][855]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.43.56:765][855]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.43.56:765][855]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.43.56:765][855]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.43.56:765][855]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.45.27:751][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5672.121094
+[2026.11.17-19.45.27:912][686]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-19.45.27:912][686]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5672.266113, Update Interval: 319.739380
+[2026.11.17-19.46.26:935][404]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore'
+[2026.11.17-19.46.26:983][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.11.17-19.46.27:468][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.46.27:493][427]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.46.27:494][427]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.46.27:496][427]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.46.27:496][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.46.27:509][427]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.46.27:510][427]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScore97E959904E69522AEDBF98A2F5B0DE99.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.46.27:518][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.910 ms (total: 2.87 sec)
+[2026.11.17-19.46.27:548][427]LogContentValidation: Enabled validators:
+[2026.11.17-19.46.27:548][427]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.46.27:548][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.46.27:548][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.46.27:548][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.46.27:548][427]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.46.27:548][427]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.46.27:548][427]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.46.27:548][427]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.46.27:548][427]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.46.27:548][427]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.46.27:548][427]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.46.27:549][427]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.46.27:549][427]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.46.27:549][427]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.46.27:549][427]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.46.27:549][427]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.46.27:549][427]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.46.27:549][427]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.46.27:549][427]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.46.27:549][427]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.46.27:549][427]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.46.27:549][427]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.46.40:529][223]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore'
+[2026.11.17-19.46.40:572][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.11.17-19.46.41:049][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.46.41:076][249]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.46.41:076][249]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.46.41:077][249]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.46.41:077][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.46.41:091][249]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.46.41:092][249]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScoreAF14339F4BFC946EA974A39374E54599.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.46.41:100][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.926 ms (total: 2.92 sec)
+[2026.11.17-19.46.41:171][249]LogContentValidation: Enabled validators:
+[2026.11.17-19.46.41:171][249]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.46.41:171][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.46.41:171][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.46.41:171][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.46.41:171][249]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.46.41:171][249]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.46.41:171][249]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.46.41:171][249]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.46.41:171][249]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.46.41:171][249]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.46.41:171][249]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.46.41:171][249]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.46.41:171][249]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.46.41:171][249]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.46.41:171][249]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.46.41:171][249]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.46.41:171][249]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.46.41:171][249]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.46.41:171][249]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.46.41:171][249]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.46.41:171][249]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.46.41:171][249]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.46.52:609][996]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore'
+[2026.11.17-19.46.52:654][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.11.17-19.46.53:248][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.46.53:275][ 28]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.46.53:275][ 28]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.46.53:277][ 28]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.46.53:277][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.46.53:291][ 28]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.46.53:292][ 28]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScoreBDCCE841401A4CB9E22A14BDE61081AA.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.46.53:300][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.244 ms (total: 2.98 sec)
+[2026.11.17-19.46.53:330][ 28]LogContentValidation: Enabled validators:
+[2026.11.17-19.46.53:331][ 28]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.46.53:331][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.46.53:331][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.46.53:331][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.46.53:331][ 28]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.46.53:331][ 28]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.46.53:331][ 28]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.46.53:331][ 28]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.46.53:331][ 28]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.46.53:331][ 28]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.46.53:331][ 28]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.46.53:331][ 28]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.46.53:331][ 28]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.46.53:331][ 28]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.46.53:331][ 28]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.46.53:331][ 28]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.46.53:331][ 28]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.46.53:331][ 28]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.46.53:331][ 28]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.46.53:331][ 28]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.46.53:331][ 28]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.46.53:331][ 28]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.46.55:340][195]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.17-19.46.55:349][195]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.17-19.46.55:349][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.17-19.46.55:350][195]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.11.17-19.46.55:355][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006166s)
+[2026.11.17-19.46.55:355][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.006211s)
+[2026.11.17-19.46.55:383][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.11.17-19.46.55:395][195]LogStreaming: Warning: Failed to read file '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SaveGames/LV2Scores.sav' error.
+[2026.11.17-19.46.55:400][195]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.11.17-19.46.55:402][195]LogPlayLevel: PIE: World Init took: (0.002052s)
+[2026.11.17-19.46.55:402][195]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.11.17-19.46.55:402][195]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.17-19.46.55:402][195]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.17-19.46.55:402][195]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.17-19.46.55:402][195]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.17-19.46.55:402][195]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.17-19.46.55:402][195]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.17-19.46.55:402][195]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.17-19.46.55:402][195]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.17-19.46.55:402][195]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.17-19.46.55:402][195]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.17-19.46.55:402][195]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.17-19.46.55:402][195]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.17-19.46.55:402][195]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.17-19.46.55:405][195]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.46.55:407][195]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.46.55:408][195]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.46.55:412][195]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.17-19.46.55:412][195]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.17-19.46.55:412][195]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.17-19.46.55:413][195]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.17-19.46.55:417][195]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.17-19.46.55:417][195]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.17-19.46.55:417][195]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.17-19.46.55:417][195]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.11.17-19.46.55:417][195]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.17-19.46.55:417][195]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.17-19.46.55:417][195]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.17-19.46.55:418][195]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.11.17-19.46.55:419][195]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.11.17-19.46.55:420][195]LogInit: FAudioDevice initialized with ID 10.
+[2026.11.17-19.46.55:420][195]LogAudio: Display: Audio Device (ID: 10) registered with world 'MovementTestMap'.
+[2026.11.17-19.46.55:420][195]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.11.17-19.46.55:420][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.46.55:424][195]LogLoad: Game class is 'BP_GameMode_C'
+[2026.11.17-19.46.55:426][195]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 0) at 2026.11.17-11.46.55
+[2026.11.17-19.46.55:426][195]LogWorld: Bringing up level for play took: 0.001644
+[2026.11.17-19.46.55:428][195]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.11.17-19.46.55:429][195]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.17-19.46.55:430][195]PIE: Server logged in
+[2026.11.17-19.46.55:432][195]PIE: Play in editor total start time 0.082 seconds.
+[2026.11.17-19.46.55:451][196]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.11.17-19.46.55:452][196]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.11.17-19.46.55:464][196]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.17-19.46.56:452][306]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.11.17-19.46.57:454][423]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.11.17-19.46.58:458][540]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.11.17-19.46.58:458][540]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.11.17-19.46.58:458][540]LogBlueprintUserMessages: [BP_Bike_C_1] Shaking cam
+[2026.11.17-19.46.58:458][540]LogBlueprintUserMessages: [BP_Bike_C_1] 0
+[2026.11.17-19.47.00:743][805]LogBlueprintUserMessages: [BP_Bike_C_1] Shaking cam
+[2026.11.17-19.47.00:743][805]LogBlueprintUserMessages: [BP_Bike_C_1] Right Spin
+[2026.11.17-19.47.00:743][805]LogBlueprintUserMessages: [BP_Bike_C_1] 250
+[2026.11.17-19.47.03:118][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.47.03:118][ 75]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.11.17-19.47.03:118][ 75]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.17-19.47.03:118][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.47.03:121][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.17-19.47.03:126][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.47.03:155][ 75]LogAudio: Display: Audio Device unregistered from world 'MovementTestMap'.
+[2026.11.17-19.47.03:156][ 75]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.11.17-19.47.03:156][ 75]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=10, StreamState=4
+[2026.11.17-19.47.03:160][ 75]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.17-19.47.03:162][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.47.03:165][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.11.17-19.47.03:220][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.11.17-19.47.12:450][734]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.17-19.47.12:459][734]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.17-19.47.12:459][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.17-19.47.12:459][734]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.11.17-19.47.12:465][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006103s)
+[2026.11.17-19.47.12:465][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.006144s)
+[2026.11.17-19.47.12:492][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.11.17-19.47.12:496][734]LogStreaming: Warning: Failed to read file '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SaveGames/LV2Scores.sav' error.
+[2026.11.17-19.47.12:496][734]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.11.17-19.47.12:498][734]LogPlayLevel: PIE: World Init took: (0.001706s)
+[2026.11.17-19.47.12:498][734]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.11.17-19.47.12:498][734]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.17-19.47.12:498][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.17-19.47.12:498][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.17-19.47.12:498][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.17-19.47.12:498][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.17-19.47.12:498][734]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.17-19.47.12:498][734]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.17-19.47.12:498][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.17-19.47.12:498][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.17-19.47.12:498][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.17-19.47.12:498][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.17-19.47.12:498][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.17-19.47.12:498][734]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.17-19.47.12:502][734]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.47.12:503][734]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.47.12:504][734]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.47.12:509][734]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.17-19.47.12:509][734]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.17-19.47.12:509][734]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.17-19.47.12:510][734]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.17-19.47.12:513][734]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.17-19.47.12:513][734]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.17-19.47.12:513][734]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.17-19.47.12:513][734]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.11.17-19.47.12:513][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.17-19.47.12:513][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.17-19.47.12:513][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.17-19.47.12:513][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.11.17-19.47.12:515][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.11.17-19.47.12:515][734]LogInit: FAudioDevice initialized with ID 11.
+[2026.11.17-19.47.12:516][734]LogAudio: Display: Audio Device (ID: 11) registered with world 'MovementTestMap'.
+[2026.11.17-19.47.12:516][734]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.11.17-19.47.12:517][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.47.12:520][734]LogLoad: Game class is 'BP_GameMode_C'
+[2026.11.17-19.47.12:522][734]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 0) at 2026.11.17-11.47.12
+[2026.11.17-19.47.12:522][734]LogWorld: Bringing up level for play took: 0.001581
+[2026.11.17-19.47.12:524][734]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.11.17-19.47.12:525][734]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.17-19.47.12:525][734]PIE: Server logged in
+[2026.11.17-19.47.12:527][734]PIE: Play in editor total start time 0.069 seconds.
+[2026.11.17-19.47.12:544][735]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.11.17-19.47.12:544][735]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.11.17-19.47.12:559][735]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.17-19.47.13:542][847]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.11.17-19.47.14:545][963]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.11.17-19.47.15:549][ 81]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.11.17-19.47.15:549][ 81]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.11.17-19.47.15:549][ 81]LogBlueprintUserMessages: [BP_Bike_C_1] Shaking cam
+[2026.11.17-19.47.15:549][ 81]LogBlueprintUserMessages: [BP_Bike_C_1] 0
+[2026.11.17-19.47.16:844][227]LogBlueprintUserMessages: [BP_Bike_C_1] Shaking cam
+[2026.11.17-19.47.16:844][227]LogBlueprintUserMessages: [BP_Bike_C_1] Right Spin
+[2026.11.17-19.47.16:844][227]LogBlueprintUserMessages: [BP_Bike_C_1] 250
+[2026.11.17-19.47.18:028][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.47.18:028][360]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.11.17-19.47.18:028][360]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.17-19.47.18:029][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.47.18:032][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.17-19.47.18:037][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.47.18:064][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.47.18:064][360]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.11.17-19.47.18:064][360]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=11, StreamState=4
+[2026.11.17-19.47.18:069][360]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.17-19.47.18:074][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.11.17-19.47.18:119][361]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.11.17-19.47.48:819][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.11.17-19.47.48:830][797]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Levels/MovementTestMap] ([1] browsable assets)...
+[2026.11.17-19.47.48:830][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Levels/MovementTestMap]
+[2026.11.17-19.47.48:863][797]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Abbys_Work/Levels/MovementTestMap_Auto1
+[2026.11.17-19.47.48:863][797]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/MovementTestMap_Auto1975B03E344C45DF2E83546B919EC4A89.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/Autosaves/Game/_Abbys_Work/Levels/MovementTestMap_Auto1.umap'
+[2026.11.17-19.47.48:865][797]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Abbys_Work/Levels/MovementTestMap' took 0.074
+[2026.11.17-19.47.48:865][797]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
+[2026.11.17-19.47.57:896][253]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore'
+[2026.11.17-19.47.57:940][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.11.17-19.47.58:493][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.47.58:520][283]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.47.58:520][283]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.47.58:521][283]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.47.58:521][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.47.58:535][283]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.47.58:536][283]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScoreAFBC49C54F562BF2D35CD2ADDBE1BE5E.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.47.58:545][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.541 ms (total: 3.03 sec)
+[2026.11.17-19.47.58:574][283]LogContentValidation: Enabled validators:
+[2026.11.17-19.47.58:574][283]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.47.58:574][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.47.58:574][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.47.58:574][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.47.58:574][283]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.47.58:574][283]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.47.58:574][283]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.47.58:574][283]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.47.58:574][283]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.47.58:574][283]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.47.58:574][283]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.47.58:574][283]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.47.58:574][283]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.47.58:574][283]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.47.58:574][283]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.47.58:574][283]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.47.58:574][283]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.47.58:574][283]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.47.58:574][283]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.47.58:574][283]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.47.58:574][283]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.47.58:574][283]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.48.54:996][325]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.48.54:996][325]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.48.54:996][325]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.48.54:996][325]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.48.54:996][325]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.17-19.49.15:373][862]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore'
+[2026.11.17-19.49.15:450][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.11.17-19.49.16:031][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.49.16:067][904]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.49.16:068][904]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.49.16:069][904]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.49.16:069][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.49.16:084][904]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.49.16:085][904]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScoreCACE098042FA8BE01642B488CAC4DCE9.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.49.16:094][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.469 ms (total: 3.09 sec)
+[2026.11.17-19.49.16:119][904]LogContentValidation: Enabled validators:
+[2026.11.17-19.49.16:119][904]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.49.16:119][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.49.16:119][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.49.16:119][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.49.16:120][904]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.49.16:120][904]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.49.16:120][904]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.49.16:120][904]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.49.16:120][904]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.49.16:120][904]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.49.16:120][904]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.49.16:120][904]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.49.16:120][904]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.49.16:120][904]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.49.16:120][904]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.49.16:120][904]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.49.16:120][904]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.49.16:120][904]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.49.16:120][904]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.49.16:120][904]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.49.16:120][904]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.49.16:120][904]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.49.21:060][326]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.17-19.49.21:068][326]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.17-19.49.21:068][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.17-19.49.21:068][326]LogPlayLevel: Creating play world package: /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.11.17-19.49.21:074][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006014s)
+[2026.11.17-19.49.21:074][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Abbys_Work/Levels/MovementTestMap.MovementTestMap to /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap (0.006056s)
+[2026.11.17-19.49.21:101][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.11.17-19.49.21:105][326]LogStreaming: Warning: Failed to read file '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/SaveGames/LV2Scores.sav' error.
+[2026.11.17-19.49.21:105][326]LogChaosDD: Creating Chaos Debug Draw Scene for world MovementTestMap
+[2026.11.17-19.49.21:107][326]LogPlayLevel: PIE: World Init took: (0.001697s)
+[2026.11.17-19.49.21:107][326]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.11.17-19.49.21:107][326]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.17-19.49.21:107][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.17-19.49.21:107][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.17-19.49.21:107][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.17-19.49.21:107][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.17-19.49.21:107][326]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.17-19.49.21:107][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.17-19.49.21:107][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.17-19.49.21:107][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.17-19.49.21:107][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.17-19.49.21:107][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.17-19.49.21:107][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.17-19.49.21:107][326]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.17-19.49.21:111][326]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.49.21:112][326]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.49.21:113][326]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='ASUS VG34V (NVIDIA High Definition Audio)'
+[2026.11.17-19.49.21:117][326]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.17-19.49.21:117][326]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.17-19.49.21:117][326]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.17-19.49.21:118][326]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.17-19.49.21:122][326]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.17-19.49.21:122][326]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.17-19.49.21:122][326]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.17-19.49.21:122][326]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.11.17-19.49.21:122][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.17-19.49.21:122][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.17-19.49.21:122][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.17-19.49.21:123][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.11.17-19.49.21:124][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.11.17-19.49.21:125][326]LogInit: FAudioDevice initialized with ID 12.
+[2026.11.17-19.49.21:125][326]LogAudio: Display: Audio Device (ID: 12) registered with world 'MovementTestMap'.
+[2026.11.17-19.49.21:125][326]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.11.17-19.49.21:125][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.49.21:129][326]LogLoad: Game class is 'BP_GameMode_C'
+[2026.11.17-19.49.21:131][326]LogWorld: Bringing World /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap.MovementTestMap up for play (max tick rate 0) at 2026.11.17-11.49.21
+[2026.11.17-19.49.21:131][326]LogWorld: Bringing up level for play took: 0.001581
+[2026.11.17-19.49.21:133][326]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.11.17-19.49.21:133][326]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.17-19.49.21:134][326]PIE: Server logged in
+[2026.11.17-19.49.21:136][326]PIE: Play in editor total start time 0.069 seconds.
+[2026.11.17-19.49.21:169][327]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.17-19.49.21:181][328]LogBlueprintUserMessages: [BP_RaceManager_C_1] 3
+[2026.11.17-19.49.21:181][328]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.11.17-19.49.22:185][443]LogBlueprintUserMessages: [BP_RaceManager_C_1] 2
+[2026.11.17-19.49.23:191][561]LogBlueprintUserMessages: [BP_RaceManager_C_1] 1
+[2026.11.17-19.49.24:192][678]LogBlueprintUserMessages: [BP_RaceManager_C_1] GO!
+[2026.11.17-19.49.24:192][678]LogBlueprintUserMessages: [BP_Bike_C_1] Race Started!
+[2026.11.17-19.49.24:192][678]LogBlueprintUserMessages: [BP_Bike_C_1] Shaking cam
+[2026.11.17-19.49.24:192][678]LogBlueprintUserMessages: [BP_Bike_C_1] 0
+[2026.11.17-19.49.25:746][855]LogBlueprintUserMessages: [BP_Bike_C_1] Shaking cam
+[2026.11.17-19.49.25:746][855]LogBlueprintUserMessages: [BP_Bike_C_1] Right Spin
+[2026.11.17-19.49.25:746][855]LogBlueprintUserMessages: [BP_Bike_C_1] 250
+[2026.11.17-19.49.27:109][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.49.27:109][  7]LogWorld: BeginTearingDown for /Game/_Abbys_Work/Levels/UEDPIE_0_MovementTestMap
+[2026.11.17-19.49.27:110][  7]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.17-19.49.27:110][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.49.27:113][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.17-19.49.27:118][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.49.27:145][  7]LogAudio: Display: Audio Device unregistered from world 'MovementTestMap'.
+[2026.11.17-19.49.27:145][  7]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.11.17-19.49.27:145][  7]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=12, StreamState=4
+[2026.11.17-19.49.27:150][  7]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.17-19.49.27:152][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.17-19.49.27:154][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.11.17-19.49.27:210][  8]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.11.17-19.50.00:720][466]LogBlueprint: Compiling Blueprint '/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore'
+[2026.11.17-19.50.00:795][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.11.17-19.50.01:401][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.50.01:432][501]LogFileHelpers: Saving Package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.50.01:432][501]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore] ([2] browsable assets)...
+[2026.11.17-19.50.01:433][501]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.WBP_TrickScore]
+[2026.11.17-19.50.01:433][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore]
+[2026.11.17-19.50.01:449][501]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore
+[2026.11.17-19.50.01:449][501]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/WBP_TrickScoreA9661E5149FB64E5BA4D56B7E2A97F1E.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore.uasset'
+[2026.11.17-19.50.01:457][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.518 ms (total: 3.15 sec)
+[2026.11.17-19.50.01:483][501]LogContentValidation: Enabled validators:
+[2026.11.17-19.50.01:483][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.50.01:483][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.50.01:483][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.50.01:483][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.50.01:483][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.50.01:483][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.50.01:483][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.50.01:483][501]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.50.01:483][501]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.50.01:483][501]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.50.01:483][501]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.50.01:484][501]AssetCheck: /Game/_Abbys_Work/Blueprints/GameComponents/WBP_TrickScore Validating asset
+[2026.11.17-19.50.01:484][501]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.50.01:484][501]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.50.01:484][501]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.50.01:484][501]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.50.01:484][501]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.50.01:484][501]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.50.01:484][501]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.50.01:484][501]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.11.17-19.50.01:484][501]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.50.01:484][501]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.50.04:569][701]LogSlate: Window 'WBP_TrickScore' being destroyed
+[2026.11.17-19.50.04:580][701]LogSlate: Window 'WBP_TrickScore' being destroyed
+[2026.11.17-19.50.04:585][701]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.11.17-19.50.04:585][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.50.04:657][701]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.11.17-19.50.04:657][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.50.04:666][701]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.11.17-19.50.04:666][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.50.04:702][701]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.11.17-19.50.04:702][701]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.11.17-19.50.04:702][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.50.04:753][701]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.11.17-19.50.04:753][701]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.11.17-19.50.04:753][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.50.04:800][701]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.11.17-19.50.04:800][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.50.04:809][701]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.11.17-19.50.04:809][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.50.05:040][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.11.17-19.50.06:989][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.11.17-19.50.08:099][928]LogSlate: Window 'Save Content' being destroyed
+[2026.11.17-19.50.08:122][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-19.50.08:146][928]LogFileHelpers: Saving Map: /Game/_Abbys_Work/Levels/MovementTestMap
+[2026.11.17-19.50.08:146][928]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Abbys_Work/Levels/MovementTestMap] ([1] browsable assets)...
+[2026.11.17-19.50.08:146][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Abbys_Work/Levels/MovementTestMap]
+[2026.11.17-19.50.08:189][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.11.17-19.50.08:246][928]LogSavePackage: Moving output files for package: /Game/_Abbys_Work/Levels/MovementTestMap
+[2026.11.17-19.50.08:247][928]LogSavePackage: Moving '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Saved/MovementTestMap96AFED814288FF15BC09CA976FD7C56A.tmp' to '../../../../../Users/azeibert/Documents/GitHub/CAGD370_Group1_Biking/CAGD370_Biking/Content/_Abbys_Work/Levels/MovementTestMap.umap'
+[2026.11.17-19.50.08:270][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.830 ms (total: 3.30 sec)
+[2026.11.17-19.50.08:299][928]LogContentValidation: Enabled validators:
+[2026.11.17-19.50.08:299][928]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-19.50.08:299][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.17-19.50.08:299][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-19.50.08:299][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-19.50.08:299][928]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-19.50.08:299][928]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-19.50.08:299][928]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-19.50.08:299][928]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.17-19.50.08:299][928]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.17-19.50.08:299][928]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.17-19.50.08:299][928]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.17-19.50.08:299][928]AssetCheck: /Game/_Abbys_Work/Levels/MovementTestMap Validating asset
+[2026.11.17-19.50.08:299][928]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.17-19.50.08:299][928]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.17-19.50.08:299][928]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.17-19.50.08:299][928]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.17-19.50.08:299][928]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.17-19.50.08:299][928]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.17-19.50.08:299][928]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.17-19.50.08:299][928]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.17-19.50.08:299][928]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.17-19.50.08:299][928]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.17-19.50.09:813][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.11.17-19.50.09:854][ 98]LogStall: Shutdown...
+[2026.11.17-19.50.09:862][ 98]LogStall: Shutdown complete.
+[2026.11.17-19.50.09:875][ 98]LogSlate: Window 'CAGD370_Biking - Unreal Editor' being destroyed
+[2026.11.17-19.50.10:069][ 98]Cmd: QUIT_EDITOR
+[2026.11.17-19.50.10:069][ 99]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.11.17-19.50.10:075][ 99]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.11.17-19.50.10:076][ 99]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.11.17-19.50.10:076][ 99]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.11.17-19.50.10:084][ 99]LogWorld: UWorld::CleanupWorld for MovementTestMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.17-19.50.10:084][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.50.10:084][ 99]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.11.17-19.50.10:097][ 99]LogToolsetRegistry: Display: Unregistering Toolset ToolsetRegistry.AgentSkillToolset
+[2026.11.17-19.50.10:097][ 99]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.11.17-19.50.10:120][ 99]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.11.17-19.50.10:130][ 99]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.17-19.50.10:130][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-19.50.10:136][ 99]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.11.17-19.50.10:142][ 99]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.11.17-19.50.10:546][ 99]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.11.17-19.50.10:546][ 99]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.11.17-19.50.10:546][ 99]LogAudio: Display: Audio Device unregistered from world 'MovementTestMap'.
+[2026.11.17-19.50.10:546][ 99]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.11.17-19.50.10:546][ 99]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.11.17-19.50.10:552][ 99]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.17-19.50.10:561][ 99]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.11.17-19.50.10:561][ 99]LogAudio: Display: Audio Device Manager Shutdown
+[2026.11.17-19.50.10:567][ 99]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.11.17-19.50.10:571][ 99]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.11.17-19.50.10:573][ 99]LogExit: Preparing to exit.
+[2026.11.17-19.50.10:776][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.11.17-19.50.10:822][ 99]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.17-19.50.11:178][ 99]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.11.17-19.50.11:178][ 99]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.11.17-19.50.11:181][ 99]LogEditorDataStorage: Deinitializing
+[2026.11.17-19.50.11:182][ 99]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.11.17-19.50.11:182][ 99]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.11.17-19.50.11:182][ 99]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.11.17-19.50.11:182][ 99]LogEditorDataStorage: Resetting TEDS Core.
+[2026.11.17-19.50.11:186][ 99]LogEditorDataStorage: Reset TEDS Core.
+[2026.11.17-19.50.11:186][ 99]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.11.17-19.50.11:341][ 99]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.11.17-19.50.11:376][ 99]LogExit: Editor shut down
+[2026.11.17-19.50.11:382][ 99]LogExit: Transaction tracking system shut down
+[2026.11.17-19.50.11:478][ 99]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.11.17-19.50.11:478][ 99]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.11.17-19.50.11:487][ 99]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.11.17-19.50.11:487][ 99]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.11.17-19.50.11:613][ 99]LogExit: Object subsystem successfully closed.
+[2026.11.17-19.50.11:718][ 99]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.11.17-19.50.11:821][ 99]LogObjectProfiler: Shutdown
+[2026.11.17-19.50.11:821][ 99]LogMemoryProfiler: Shutdown
+[2026.11.17-19.50.11:821][ 99]LogNetworkingProfiler: Shutdown
+[2026.11.17-19.50.11:821][ 99]LogLoadingProfiler: Shutdown
+[2026.11.17-19.50.11:821][ 99]LogTimingProfiler: Shutdown
+[2026.11.17-19.50.11:822][ 99]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.11.17-19.50.11:822][ 99]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.11.17-19.50.11:822][ 99]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.11.17-19.50.11:822][ 99]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.11.17-19.50.11:822][ 99]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.11.17-19.50.12:198][ 99]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.11.17-19.50.12:204][ 99]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.11.17-19.50.12:204][ 99]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF14532CA-4860-BF61-3EC2-EE98E7AB0586%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=8db36592425500a690872bad005c9c1f%7C%7C2e3a6201-782c-4670-bc54-fa8f01f8e6b9&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.11.17-19.50.12:745][ 99]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.11.17-19.50.12:753][ 99]LogNFORDenoise: NFORDenoise function shutting down
+[2026.11.17-19.50.12:753][ 99]RenderDocPlugin: plugin has been unloaded.
+[2026.11.17-19.50.12:753][ 99]LogXGEController: Cleaning working directory: C:/Users/azeibert/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.11.17-19.50.12:755][ 99]LogPakFile: Destroying PakPlatformFile
+[2026.11.17-19.50.13:009][ 99]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.11.17-19.50.13:081][ 99]LogExit: Exiting.
+[2026.11.17-19.50.13:106][ 99]Log file closed, 11/17/26 11:50:13
